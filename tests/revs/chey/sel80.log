@@ -1,0 +1,1318 @@
+ seedlen = 0 lowscore = 0
+Mutation Data Matrix (120 PAMs)
+ARNDCQEGHILKMFPSTWYVBZX
+matrix constant = 8
+Residue identity scores 10
+ARNDCQEGHILKMFPSTWYVBZX
+matrix constant = 0
+
+92680 sequences to be read in length range 100 -> 150
+
+Calculating peptide table based on length 4
+Reading user file of seq.s: final.seq
+ user_in = 1
+End of user sequences
+588 sequences read into 588 blocks, (588 are keyed)
+
+
+ ****** CYCLE 0 ******
+Minimum score held = 9
+Top 3 scores held per sequence
+Sequences in the range 0<Dij<148 scored
+Adjacent sequences scored with bonus of 10
+179 pairs found this pass, 0 previously collected
+
+
+ ****** CYCLE 1 ******
+Minimum score held = 9
+Top 3 scores held per sequence
+Sequences in the range 147<Dij<295 scored
+Adjacent sequences scored with bonus of 10
+190 pairs found this pass, 56 previously collected
+
+
+ ****** CYCLE 2 ******
+Minimum score held = 9
+Top 3 scores held per sequence
+Sequences in the range 294<Dij<442 scored
+Adjacent sequences scored with bonus of 10
+179 pairs found this pass, 127 previously collected
+
+
+ ****** CYCLE 3 ******
+Minimum score held = 9
+Top 3 scores held per sequence
+Sequences in the range 441<Dij<589 scored
+Adjacent sequences scored with bonus of 10
+191 pairs found this pass, 183 previously collected
+pre_order  malloc OK
+reorder  malloc OK done
+ new block malloc OK
+cluster_pairs total list_alloc = 80
+pack_lists 222/588 blocks moved
+
+New sequence order is:
+* Block 0 <=== 1	USER>>SEQ1	  110   [+0+] U5Q8G6_9BACT/3-112         
+* Block 1 <=== 100	USER>>SEQ91	  116   [+0+] R5ZTG7_9CLOT/3-118         
+* Block 2 <--- 2	USER>>SEQ2	  110   [+0+] Q9WZU6_THEMA/5-114         
+* Block 3 <--- 3	USER>>SEQ3	  110   [+0+] E4T821_PALPW/3-112         
+* Block 4 <--- 4	USER>>SEQ4	  116   [+0+] Q8A9F9_BACTN/10-125        
+* Block 5 <=== 18	USER>>SEQ32	  107   [+0+] Q7NY93_CHRVO/1-107         
+* Block 6 <=== 131	USER>>SEQ128	  113   [+0+] D2QJW9_SPILD/5-117         
+* Block 7 <=== 19	USER>>SEQ46	  113   [+0+] D2QLW5_SPILD/4-116         
+* Block 8 <=== 96	USER>>SEQ88	  111   [+0+] I0HZX9_CALAS/20-130        
+* Block 9 <=== 97	USER>>SEQ112	  111   [+0+] F4H010_CELFA/7-117         
+* Block 10 <=== 109	USER>>SEQ102	  111   [+0+] PHOP_ECOLI/3-113           
+* Block 11 <=== 110	USER>>SEQ123	  113   [+0+] A0LUD7_ACIC1/1-113         
+* Block 12 <=== 111	USER>>SEQ113	  110   [+0+] D2SFJ3_GEOOG/18-127        
+* Block 13 <=== 112	USER>>SEQ119	  113   [+0+] D8PBL5_9BACT/11-123        
+* Block 14 <=== 17	USER>>SEQ76	  111   [+0+] I0HBK7_ACTM4/3-113         
+* Block 15 <=== 147	USER>>SEQ209	  111   [+0+] Q6MHZ0_BDEBA/3-113         
+* Block 16 <=== 16	USER>>SEQ58	  111   [+0+] G2KPC6_MICAA/3-113         
+* Block 17 <=== 15	USER>>SEQ8	  111   [+0+] D8PA26_9BACT/3-113         
+* Block 18 <=== 37	USER>>SEQ27	  111   [+0+] Q01RV3_SOLUE/15-125        
+* Block 19 <=== 11	USER>>SEQ52	  113   [+0+] C7PE59_CHIPD/479-591       
+* Block 20 <=== 12	USER>>SEQ61	  111   [+0+] Q9A4S3_CAUCR/3-113         
+* Block 21 <=== 13	USER>>SEQ34	  111   [+0+] R6NEI9_9CLOT/3-113         
+* Block 22 <=== 14	USER>>SEQ25	  112   [+0+] Q6FBT1_ACIAD/6-117         
+* Block 23 <=== 76	USER>>SEQ146	  109   [+0+] K1W7Q9_TRIAC/1008-1116     
+* Block 24 <=== 77	USER>>SEQ144	  111   [+0+] D7CUM4_TRURR/5-115         
+* Block 25 <=== 78	USER>>SEQ99	  113   [+0+] Q9ABD5_CAUCR/5-117         
+* Block 26 <=== 79	USER>>SEQ110	  110   [+0+] E8N4Q3_ANATU/6-115         
+* Block 27 <=== 80	USER>>SEQ79	  114   [+0+] Q00ZH3_OSTTA/32-145        
+* Block 28 <=== 8	USER>>SEQ39	  111   [+0+] D9RA39_CLOSW/6-116         
+* Block 29 <=== 7	USER>>SEQ5	  109   [+0+] F5WRI8_ERYRF/4-112         
+* Block 30 <=== 6	USER>>SEQ72	  116   [+0+] D2PQR9_KRIFD/18-133        
+* Block 31 <=== 5	USER>>SEQ42	  111   [+0+] W0RF04_9BACT/6-116         
+* Block 32 <=== 83	USER>>SEQ149	  111   [+0+] H8GPW8_METAL/7-117         
+* Block 33 <=== 81	USER>>SEQ134	  113   [+0+] B1HZJ7_LYSSC/684-796       
+* Block 34 <=== 82	USER>>SEQ124	  114   [+0+] I0H538_ACTM4/1374-1487     
+* Block 35 <--- 9	USER>>SEQ6	  113   [+0+] Q7NP36_GLOVI/113-225       
+* Block 36 <--- 10	USER>>SEQ7	  111   [+0+] R5PHG5_9BURK/14-124        
+* Block 37 <--- 20	USER>>SEQ9	  113   [+0+] G8AW64_AZOBR/575-687       
+* Block 38 <--- 21	USER>>SEQ10	  113   [+0+] Q01U09_SOLUE/6-118         
+* Block 39 <--- 22	USER>>SEQ11	  113   [+0+] A0LLL5_SYNFM/700-812       
+* Block 40 <--- 23	USER>>SEQ12	  110   [+0+] A0LFZ4_SYNFM/7-116         
+* Block 41 <--- 24	USER>>SEQ13	  111   [+0+] R5PZG3_9BURK/14-124        
+* Block 42 <=== 25	USER>>SEQ14	  111   [+0+] D2VLN9_NAEGR/75-185        
+* Block 43 <=== 26	USER>>SEQ75	  112   [+0+] Q72BP1_DESVH/5-116         
+* Block 44 <--- 27	USER>>SEQ15	  111   [+0+] I4C843_DESTA/10-120        
+* Block 45 <--- 28	USER>>SEQ16	  112   [+0+] B2IJ88_BEII9/155-266       
+* Block 46 <--- 29	USER>>SEQ17	  113   [+0+] E1Z400_CHLVA/13-125        
+* Block 47 <--- 30	USER>>SEQ18	  114   [+0+] A9FB45_SORC5/10-123        
+* Block 48 <--- 31	USER>>SEQ19	  113   [+0+] B1ZVR4_OPITP/8-120         
+* Block 49 <--- 32	USER>>SEQ20	  111   [+0+] Q2J535_FRASC/65-175        
+* Block 50 <--- 33	USER>>SEQ21	  114   [+0+] Q2S9K6_HAHCH/128-241       
+* Block 51 <--- 34	USER>>SEQ23	  114   [+0+] F5XMA7_MICPN/24-137        
+* Block 52 <--- 35	USER>>SEQ24	  112   [+0+] A0L6G0_MAGSM/271-382       
+* Block 53 <--- 36	USER>>SEQ26	  116   [+0+] B3PFU4_CELJU/10-125        
+* Block 54 <--- 38	USER>>SEQ28	  112   [+0+] B1ZR53_OPITP/12-123        
+* Block 55 <--- 39	USER>>SEQ29	  113   [+0+] G8PHZ0_PSEUV/5-117         
+* Block 56 <=== 40	USER>>SEQ30	  111   [+0+] A0LK23_SYNFM/8-118         
+* Block 57 <=== 41	USER>>SEQ40	  111   [+0+] Q6AJN0_DESPS/4-114         
+* Block 58 <--- 42	USER>>SEQ33	  112   [+0+] A9AZ67_HERA2/5-116         
+* Block 59 <--- 43	USER>>SEQ35	  113   [+0+] D0LYZ3_HALO1/4-116         
+* Block 60 <=== 44	USER>>SEQ36	  115   [+0+] Q9HTJ6_PSEAE/6-120         
+* Block 61 <=== 125	USER>>SEQ120	  117   [+0+] A6W3L8_MARMS/5-121         
+* Block 62 <--- 45	USER>>SEQ37	  113   [+0+] Q3J2E3_RHOS4/619-731       
+* Block 63 <--- 46	USER>>SEQ38	  100   [+0+] C9RAC1_AMMDK/4-103         
+* Block 64 <--- 47	USER>>SEQ41	  114   [+0+] B1ZVL9_OPITP/7-120         
+* Block 65 <=== 134	USER>>SEQ131	  113   [+0+] Q2G3N0_NOVAD/7-119         
+* Block 66 <=== 48	USER>>SEQ43	  113   [+0+] Q7CZK0_AGRT5/5-117         
+* Block 67 <=== 146	USER>>SEQ150	  113   [+0+] B0TG83_HELMI/445-557       
+* Block 68 <--- 49	USER>>SEQ44	  114   [+0+] Q63J41_BURPS/20-133        
+* Block 69 <--- 50	USER>>SEQ45	  125   [+0+] Q72DD7_DESVH/187-311       
+* Block 70 <--- 51	USER>>SEQ47	  114   [+0+] A6TM13_ALKMQ/6-119         
+* Block 71 <--- 52	USER>>SEQ48	  114   [+0+] B3PLM0_CELJU/14-127        
+* Block 72 <=== 53	USER>>SEQ49	  116   [+0+] A0LBV3_MAGSM/494-609       
+* Block 73 <=== 120	USER>>SEQ114	  111   [+0+] V5WHM3_9SPIO/527-637       
+* Block 74 <--- 54	USER>>SEQ50	  112   [+0+] M7WM33_RHOT1/1298-1409     
+* Block 75 <--- 55	USER>>SEQ51	  111   [+0+] D5BPH7_PUNMI/8-118         
+* Block 76 <--- 56	USER>>SEQ53	  116   [+0+] D8PC48_9BACT/1109-1224     
+* Block 77 <--- 57	USER>>SEQ54	  116   [+0+] CHEB3_LEPIN/4-119          
+* Block 78 <--- 58	USER>>SEQ56	  113   [+0+] B1HY70_LYSSC/3-115         
+* Block 79 <=== 84	USER>>SEQ94	  111   [+0+] H9UJU1_SPIAZ/542-652       
+* Block 80 <=== 85	USER>>SEQ80	  114   [+0+] G8ATG5_AZOBR/630-743       
+* Block 81 <=== 86	USER>>SEQ143	  114   [+0+] H1XXL8_9BACT/689-802       
+* Block 82 <=== 87	USER>>SEQ111	  118   [+0+] R6B9C3_9FIRM/469-586       
+* Block 83 <=== 59	USER>>SEQ57	  113   [+0+] I4CDU6_DESTA/1777-1889     
+* Block 84 <=== 88	USER>>SEQ103	  120   [+0+] C7FZY8_DICDI/1552-1671     
+* Block 85 <--- 60	USER>>SEQ59	  110   [+0+] Q7UJC9_RHOBA/16-125        
+* Block 86 <--- 61	USER>>SEQ60	  112   [+0+] D8SVS7_SELML/1086-1197     
+* Block 87 <--- 62	USER>>SEQ62	  115   [+0+] A9GV07_SORC5/1025-1139     
+* Block 88 <--- 63	USER>>SEQ63	  115   [+0+] B8F953_DESAA/43-157        
+* Block 89 <--- 64	USER>>SEQ64	  113   [+0+] D0L1Q4_HALNC/4-116         
+* Block 90 <--- 65	USER>>SEQ65	  125   [+0+] C7PLE4_CHIPD/12-136        
+* Block 91 <--- 66	USER>>SEQ66	  112   [+0+] Q01TC4_SOLUE/7-118         
+* Block 92 <--- 67	USER>>SEQ67	  113   [+0+] E6W348_DESIS/261-373       
+* Block 93 <--- 68	USER>>SEQ68	  112   [+0+] I4AK04_FLELS/1233-1344     
+* Block 94 <--- 69	USER>>SEQ69	  110   [+0+] R5QY52_9FIRM/5-114         
+* Block 95 <--- 70	USER>>SEQ70	  114   [+0+] I0I1B7_CALAS/12-125        
+* Block 96 <--- 71	USER>>SEQ71	  111   [+0+] I6ZQG0_MELRP/6-116         
+* Block 97 <--- 72	USER>>SEQ73	  113   [+0+] G4KY81_OSCVS/6-118         
+* Block 98 <--- 73	USER>>SEQ74	  110   [+0+] C6XY39_PEDHD/7-116         
+* Block 99 <--- 74	USER>>SEQ77	  109   [+0+] D4H5W9_DENA2/5-113         
+* Block 100 <--- 75	USER>>SEQ78	  112   [+0+] E1QDA6_DESB2/7-118         
+* Block 101 <--- 89	USER>>SEQ81	  118   [+0+] Q7NVE2_CHRVO/14-131        
+* Block 102 <--- 90	USER>>SEQ82	  110   [+0+] Q180B1_PEPD6/4-113         
+* Block 103 <--- 91	USER>>SEQ83	  109   [+0+] C7M2R6_ACIFD/3-111         
+* Block 104 <--- 92	USER>>SEQ84	  112   [+0+] A5EYB4_DICNV/4-115         
+* Block 105 <--- 93	USER>>SEQ85	  114   [+0+] Q2SIJ1_HAHCH/5-118         
+* Block 106 <--- 94	USER>>SEQ86	  111   [+0+] L0DIJ9_SINAD/1249-1359     
+* Block 107 <--- 95	USER>>SEQ87	  113   [+0+] C7QEC6_CATAD/4-116         
+* Block 108 <--- 98	USER>>SEQ89	  110   [+0+] F2GCW7_ALTMD/425-534       
+* Block 109 <--- 99	USER>>SEQ90	  110   [+0+] R6UZH4_9FIRM/3-112         
+* Block 110 <--- 101	USER>>SEQ92	  114   [+0+] G8ARI6_AZOBR/831-944       
+* Block 111 <--- 102	USER>>SEQ93	  116   [+0+] F2G6S0_ALTMD/11-126        
+* Block 112 <--- 103	USER>>SEQ95	  113   [+0+] Q2IKI5_ANADE/5-117         
+* Block 113 <--- 104	USER>>SEQ96	  114   [+0+] K1VMH1_TRIAC/642-755       
+* Block 114 <--- 105	USER>>SEQ97	  112   [+0+] CHEB1_KORVE/6-117          
+* Block 115 <--- 106	USER>>SEQ98	  119   [+0+] F8GCV5_NITSI/9-127         
+* Block 116 <--- 107	USER>>SEQ100	  114   [+0+] H6LJ85_ACEWD/3-116         
+* Block 117 <--- 108	USER>>SEQ101	  114   [+0+] Q4PEH1_USTMA/3763-3876     
+* Block 118 <--- 113	USER>>SEQ104	  109   [+0+] R6ICP9_9FIRM/4-112         
+* Block 119 <--- 114	USER>>SEQ105	  117   [+0+] B1ZXN3_OPITP/1049-1165     
+* Block 120 <=== 115	USER>>SEQ106	  113   [+0+] B2IF41_BEII9/731-843       
+* Block 121 <=== 116	USER>>SEQ145	  113   [+0+] E0TEI3_PARBH/879-991       
+* Block 122 <--- 117	USER>>SEQ107	  115   [+0+] F4KYE8_HALH1/4-118         
+* Block 123 <--- 118	USER>>SEQ108	  110   [+0+] G8AZC0_AZOBR/5-114         
+* Block 124 <--- 119	USER>>SEQ109	  112   [+0+] D1CC36_THET1/15-126        
+* Block 125 <--- 121	USER>>SEQ115	  112   [+0+] A8DW75_NEMVE/1-112         
+* Block 126 <--- 122	USER>>SEQ116	  108   [+0+] C7PS97_CHIPD/5-112         
+* Block 127 <--- 123	USER>>SEQ117	  114   [+0+] Q1CWZ2_MYXXD/134-247       
+* Block 128 <--- 124	USER>>SEQ118	  112   [+1+] A9TX58_PHYPA/2-113         
+* Block 129 <=== 126	USER>>SEQ121	  113   [+0+] D7CUI7_TRURR/10-122        
+* Block 130 <=== 127	USER>>SEQ126	  115   [+0+] C8X791_NAKMY/5-119         
+* Block 131 <--- 128	USER>>SEQ122	  111   [+0+] H8GH39_METAL/6-116         
+* Block 132 <--- 129	USER>>SEQ125	  115   [+0+] G8AIF6_AZOBR/730-844       
+* Block 133 <--- 130	USER>>SEQ127	  112   [+0+] B8FAK2_DESAA/561-672       
+* Block 134 <--- 132	USER>>SEQ129	  114   [+0+] A9KI49_CLOPH/4-117         
+* Block 135 <--- 133	USER>>SEQ130	  121   [+0+] Q9HWR8_PSEAE/1011-1131     
+* Block 136 <--- 135	USER>>SEQ132	  113   [+0+] L0DFQ7_SINAD/806-918       
+* Block 137 <--- 136	USER>>SEQ133	  119   [+0+] B8FJD5_DESAA/700-818       
+* Block 138 <--- 137	USER>>SEQ135	  114   [+0+] C5ASP3_METEA/22-135        
+* Block 139 <--- 138	USER>>SEQ137	  113   [+0+] A0LKN4_SYNFM/642-754       
+* Block 140 <--- 139	USER>>SEQ138	  113   [+0+] I7A3V5_MELRP/9-121         
+* Block 141 <--- 140	USER>>SEQ139	  112   [+0+] B5YG95_THEYD/7-118         
+* Block 142 <--- 141	USER>>SEQ140	  111   [+0+] E1QEI8_DESB2/5-115         
+* Block 143 <--- 142	USER>>SEQ141	  114   [+0+] Q2S7P6_HAHCH/477-590       
+* Block 144 <--- 143	USER>>SEQ142	  111   [+0+] C5ASU0_METEA/8-118         
+* Block 145 <--- 144	USER>>SEQ147	  120   [+0+] A0DEN4_PARTE/705-824       
+* Block 146 <--- 145	USER>>SEQ148	  115   [+0+] A9FBN1_SORC5/5-119         
+* Block 147 <=== 282	USER>>SEQ284	  111   [+0+] B5YJN2_THEYD/3-113         
+* Block 148 <=== 253	USER>>SEQ249	  113   [+0+] E8N4G2_ANATU/5-117         
+* Block 149 <=== 172	USER>>SEQ173	  111   [+0+] D4JD84_9FIRM/4-114         
+* Block 150 <=== 173	USER>>SEQ188	  112   [+0+] R5P5C1_9BACT/1176-1287     
+* Block 151 <=== 278	USER>>SEQ279	  110   [+0+] C6D8D8_PAESJ/4-113         
+* Block 152 <=== 174	USER>>SEQ215	  110   [+0+] Q182M4_PEPD6/4-113         
+* Block 153 <=== 175	USER>>SEQ213	  110   [+0+] C0Z911_BREBN/32-141        
+* Block 154 <=== 176	USER>>SEQ177	  110   [+0+] D4J046_BUTFI/4-113         
+* Block 155 <=== 177	USER>>SEQ217	  113   [+0+] Q2LSJ4_SYNAS/17-129        
+* Block 156 <=== 178	USER>>SEQ218	  113   [+0+] Q2SNV6_HAHCH/6-118         
+* Block 157 <=== 240	USER>>SEQ278	  110   [+0+] H6LGY8_ACEWD/6-115         
+* Block 158 <=== 239	USER>>SEQ290	  111   [+0+] F8I986_SULAT/15-125        
+* Block 159 <=== 170	USER>>SEQ171	  113   [+0+] Q835W2_ENTFA/3-115         
+* Block 160 <=== 238	USER>>SEQ237	  110   [+0+] A6TND2_ALKMQ/6-115         
+* Block 161 <=== 237	USER>>SEQ256	  110   [+0+] Q7DDM6_NEIMB/4-113         
+* Block 162 <=== 236	USER>>SEQ252	  110   [+0+] D4H5D9_DENA2/7-116         
+* Block 163 <=== 235	USER>>SEQ273	  111   [+0+] A0LPD3_SYNFM/12-122        
+* Block 164 <=== 234	USER>>SEQ292	  110   [+0+] R6AEX4_9FIRM/4-113         
+* Block 165 <=== 233	USER>>SEQ250	  111   [+0+] Q55733_SYNY3/5-115         
+* Block 166 <=== 241	USER>>SEQ248	  110   [+0+] F8I4X5_SULAT/7-116         
+* Block 167 <=== 148	USER>>SEQ169	  110   [+0+] R6NDU8_9CLOT/5-114         
+* Block 168 <=== 248	USER>>SEQ243	  111   [+0+] R6NP32_9CLOT/3-113         
+* Block 169 <=== 149	USER>>SEQ185	  111   [+0+] V4LH06_9GAMM/3-113         
+* Block 170 <=== 150	USER>>SEQ151	  110   [+0+] W0RFK7_9BACT/11-120        
+* Block 171 <=== 151	USER>>SEQ192	  111   [+0+] R6WP48_9CLOT/3-113         
+* Block 172 <=== 152	USER>>SEQ153	  111   [+0+] D0KYW1_HALNC/3-113         
+* Block 173 <=== 153	USER>>SEQ189	  112   [+0+] C1F2N1_ACIC5/3-114         
+* Block 174 <--- 154	USER>>SEQ152	  119   [+0+] A0LD52_MAGSM/2088-2206     
+* Block 175 <--- 155	USER>>SEQ154	  113   [+0+] F2IAQ0_FLUTR/3-115         
+* Block 176 <--- 156	USER>>SEQ155	  112   [+0+] A4J6F9_DESRM/1048-1159     
+* Block 177 <--- 157	USER>>SEQ156	  117   [+0+] K0SQA0_THAOC/602-718       
+* Block 178 <--- 158	USER>>SEQ158	  110   [+0+] D5HFI5_9FIRM/11-120        
+* Block 179 <--- 159	USER>>SEQ159	  116   [+0+] Q728I7_DESVH/874-989       
+* Block 180 <--- 160	USER>>SEQ160	  111   [+0+] A6W0X4_MARMS/6-116         
+* Block 181 <--- 161	USER>>SEQ161	  127   [+0+] F0YAP2_AURAN/295-421       
+* Block 182 <--- 162	USER>>SEQ162	  116   [+0+] A9AXD3_HERA2/5-120         
+* Block 183 <--- 163	USER>>SEQ163	  114   [+0+] Q7D1D6_AGRT5/6-119         
+* Block 184 <--- 164	USER>>SEQ164	  112   [+0+] A9AVZ7_HERA2/5-116         
+* Block 185 <=== 229	USER>>SEQ234	  111   [+0+] Q1INE5_KORVE/8-118         
+* Block 186 <=== 230	USER>>SEQ241	  111   [+0+] C0QR97_PERMH/3-113         
+* Block 187 <=== 165	USER>>SEQ165	  111   [+0+] Q729F7_DESVH/7-117         
+* Block 188 <--- 166	USER>>SEQ166	  111   [+0+] Q82TX8_NITEU/7-117         
+* Block 189 <--- 167	USER>>SEQ167	  115   [+0+] D9RA73_CLOSW/3-117         
+* Block 190 <=== 168	USER>>SEQ168	  115   [+0+] C7PAN6_CHIPD/1079-1193     
+* Block 191 <=== 246	USER>>SEQ240	  118   [+0+] C8WGN8_EGGLE/803-920       
+* Block 192 <--- 169	USER>>SEQ170	  115   [+0+] W8TFA1_EUBAC/10-124        
+* Block 193 <--- 171	USER>>SEQ172	  111   [+0+] R6QY70_9FIRM/3-113         
+* Block 194 <--- 179	USER>>SEQ174	  110   [+0+] B2ID34_BEII9/104-213       
+* Block 195 <--- 180	USER>>SEQ175	  113   [+0+] Q7VE20_PROMA/17-129        
+* Block 196 <--- 181	USER>>SEQ176	  114   [+0+] G8AFS1_AZOBR/364-477       
+* Block 197 <=== 182	USER>>SEQ178	  133   [+0+] I7LZU6_TETTS/1554-1686     
+* Block 198 <=== 249	USER>>SEQ244	  112   [+0+] I7M8X5_TETTS/1011-1122     
+* Block 199 <=== 183	USER>>SEQ179	  114   [+0+] Q7NDM2_GLOVI/4-117         
+* Block 200 <=== 257	USER>>SEQ255	  112   [+0+] C7PK83_CHIPD/607-718       
+* Block 201 <=== 258	USER>>SEQ257	  113   [+0+] Q2GDQ0_NEOSM/5-117         
+* Block 202 <=== 259	USER>>SEQ268	  113   [+0+] E8N3C9_ANATU/5-117         
+* Block 203 <--- 184	USER>>SEQ180	  111   [+0+] D5ML70_9BACT/6-116         
+* Block 204 <--- 185	USER>>SEQ181	  119   [+0+] F2JH34_CELLD/4-122         
+* Block 205 <--- 186	USER>>SEQ182	  116   [+0+] Q4PAX4_USTMA/1228-1343     
+* Block 206 <--- 187	USER>>SEQ183	  117   [+0+] R5F8K5_9CLOT/809-925       
+* Block 207 <=== 219	USER>>SEQ225	  113   [+0+] G4RGB9_PELHB/3-115         
+* Block 208 <=== 263	USER>>SEQ261	  118   [+0+] D4MUE5_9FIRM/599-716       
+* Block 209 <=== 193	USER>>SEQ200	  118   [+0+] R5FJM1_9CLOT/1158-1275     
+* Block 210 <=== 188	USER>>SEQ210	  115   [+0+] Q47RW2_THEFY/4-118         
+* Block 211 <=== 189	USER>>SEQ220	  115   [+0+] D2PQY4_KRIFD/4-118         
+* Block 212 <=== 190	USER>>SEQ184	  113   [+0+] D2BC48_STRRD/5-117         
+* Block 213 <=== 191	USER>>SEQ201	  113   [+0+] I0H923_ACTM4/12-124        
+* Block 214 <=== 192	USER>>SEQ223	  113   [+0+] D2SC76_GEOOG/11-123        
+* Block 215 <=== 274	USER>>SEQ274	  118   [+0+] C7QEX8_CATAD/8-125         
+* Block 216 <=== 194	USER>>SEQ186	  121   [+0+] A0E8Z0_PARTE/589-709       
+* Block 217 <=== 195	USER>>SEQ198	  117   [+0+] A0DXX3_PARTE/686-802       
+* Block 218 <--- 196	USER>>SEQ187	  115   [+0+] Q24W46_DESHY/4-118         
+* Block 219 <--- 197	USER>>SEQ190	  112   [+0+] C6XYG2_PEDHD/4-115         
+* Block 220 <--- 198	USER>>SEQ191	  123   [+0+] Q22D61_TETTS/1265-1387     
+* Block 221 <--- 199	USER>>SEQ193	  111   [+0+] R5PKI6_9BURK/10-120        
+* Block 222 <--- 200	USER>>SEQ194	  119   [+0+] I0H4D5_ACTM4/14-132        
+* Block 223 <--- 201	USER>>SEQ195	  112   [+0+] Q0W3L8_UNCMA/11-122        
+* Block 224 <--- 202	USER>>SEQ196	  111   [+0+] W8TKI6_EUBAC/10-120        
+* Block 225 <--- 203	USER>>SEQ197	  108   [+0+] A0LC09_MAGSM/5-112         
+* Block 226 <--- 204	USER>>SEQ199	  108   [+0+] E4T1M0_PALPW/5-112         
+* Block 227 <--- 205	USER>>SEQ202	  113   [+0+] F2ND58_DESAR/788-900       
+* Block 228 <--- 206	USER>>SEQ203	  116   [+0+] I4AKS6_FLELS/5-120         
+* Block 229 <--- 207	USER>>SEQ204	  113   [+0+] P73686_SYNY3/19-131        
+* Block 230 <--- 208	USER>>SEQ205	  123   [+0+] I0GMN6_SELRL/3-125         
+* Block 231 <=== 243	USER>>SEQ287	  108   [+0+] X5DE43_9BACT/7-114         
+* Block 232 <=== 244	USER>>SEQ239	  111   [+0+] Q3AEC1_CARHZ/5-115         
+* Block 233 <=== 245	USER>>SEQ251	  111   [+0+] Q2GBY4_NOVAD/3-113         
+* Block 234 <=== 209	USER>>SEQ206	  110   [+0+] Q8A0Q5_BACTN/3-112         
+* Block 235 <=== 210	USER>>SEQ207	  112   [+0+] E6W5X7_DESIS/6-117         
+* Block 236 <=== 221	USER>>SEQ227	  112   [+0+] D8PIL3_9BACT/6-117         
+* Block 237 <=== 222	USER>>SEQ253	  112   [+0+] F8GKG9_NITSI/7-118         
+* Block 238 <--- 211	USER>>SEQ208	  113   [+0+] A9ESH0_SORC5/1-113         
+* Block 239 <--- 212	USER>>SEQ211	  110   [+0+] C7PLT2_CHIPD/10-119        
+* Block 240 <--- 213	USER>>SEQ212	  110   [+0+] Q028Z2_SOLUE/4-113         
+* Block 241 <--- 214	USER>>SEQ214	  107   [+0+] F0S3N6_DESTD/4-110         
+* Block 242 <--- 215	USER>>SEQ216	  112   [+0+] D4IVL2_BUTFI/5-116         
+* Block 243 <--- 216	USER>>SEQ219	  113   [+0+] A9CFM2_AGRT5/5-117         
+* Block 244 <--- 217	USER>>SEQ221	  114   [+0+] C6D078_PAESJ/4-117         
+* Block 245 <--- 218	USER>>SEQ222	  114   [+0+] Q8EJC2_SHEON/3-116         
+* Block 246 <--- 220	USER>>SEQ226	  113   [+0+] Q8EF60_SHEON/256-368       
+* Block 247 <--- 223	USER>>SEQ228	  110   [+0+] M5A1X3_9ACTN/4-113         
+* Block 248 <--- 224	USER>>SEQ229	  110   [+0+] Q1IR41_KORVE/3-112         
+* Block 249 <--- 225	USER>>SEQ230	  132   [+0+] K1VTK5_TRIAC/1760-1891     
+* Block 250 <--- 226	USER>>SEQ231	  110   [+0+] F2I5Q9_AERUA/7-116         
+* Block 251 <--- 227	USER>>SEQ232	  113   [+0+] D8LPK5_ECTSI/555-667       
+* Block 252 <--- 228	USER>>SEQ233	  113   [+0+] Q5ZU95_LEGPH/678-790       
+* Block 253 <--- 231	USER>>SEQ235	  113   [+0+] D0LHX6_HALO1/23-135        
+* Block 254 <--- 232	USER>>SEQ236	  111   [+0+] W5X9V5_9BACT/19-129        
+* Block 255 <--- 242	USER>>SEQ238	  111   [+0+] E6W583_DESIS/5-115         
+* Block 256 <--- 247	USER>>SEQ242	  111   [+0+] H8GL74_METAL/3-113         
+* Block 257 <--- 250	USER>>SEQ245	  111   [+0+] C0ZCS6_BREBN/7-117         
+* Block 258 <--- 251	USER>>SEQ246	  118   [+0+] D5EKL0_CORAD/486-603       
+* Block 259 <--- 252	USER>>SEQ247	  111   [+0+] K0IZM2_AMPXN/655-765       
+* Block 260 <=== 254	USER>>SEQ254	  117   [+0+] A4FKM5_SACEN/4-120         
+* Block 261 <=== 255	USER>>SEQ294	  111   [+0+] E6SJU7_THEM7/24-134        
+* Block 262 <=== 256	USER>>SEQ283	  108   [+0+] A0LVV1_ACIC1/1-108         
+* Block 263 <--- 260	USER>>SEQ258	  124   [+0+] D8LP35_ECTSI/455-578       
+* Block 264 <--- 261	USER>>SEQ259	  111   [+0+] C0QAU9_DESAH/6-116         
+* Block 265 <--- 262	USER>>SEQ260	  113   [+0+] F2NEX4_DESAR/855-967       
+* Block 266 <--- 264	USER>>SEQ262	  113   [+0+] UVRY_ECOLI/4-116           
+* Block 267 <--- 265	USER>>SEQ263	  125   [+0+] Q74ET0_GEOSL/184-308       
+* Block 268 <--- 266	USER>>SEQ264	  113   [+0+] E1WZJ6_BACMS/3-115         
+* Block 269 <--- 267	USER>>SEQ265	  109   [+0+] E9C3Z3_CAPO3/139-247       
+* Block 270 <--- 268	USER>>SEQ266	  111   [+0+] A9CLL8_AGRT5/3-113         
+* Block 271 <--- 269	USER>>SEQ267	  108   [+0+] R6B9B0_9CLOT/3-110         
+* Block 272 <--- 270	USER>>SEQ269	  113   [+0+] F2NGX0_DESAR/6-118         
+* Block 273 <--- 271	USER>>SEQ270	  109   [+0+] G2LKC8_CHLTF/5-113         
+* Block 274 <--- 272	USER>>SEQ271	  111   [+0+] B5YK35_THEYD/118-228       
+* Block 275 <--- 273	USER>>SEQ272	  114   [+0+] B8FLU3_DESAA/127-240       
+* Block 276 <--- 275	USER>>SEQ275	  121   [+0+] C6XU79_PEDHD/8-128         
+* Block 277 <--- 276	USER>>SEQ276	  113   [+0+] Q9A5X3_CAUCR/470-582       
+* Block 278 <--- 277	USER>>SEQ277	  112   [+0+] A9CH48_AGRT5/8-119         
+* Block 279 <--- 279	USER>>SEQ280	  111   [+0+] E6W1B5_DESIS/10-120        
+* Block 280 <--- 280	USER>>SEQ281	  114   [+0+] R5F2Q4_9CLOT/4-117         
+* Block 281 <--- 281	USER>>SEQ282	  112   [+0+] B1ZRJ6_OPITP/5-116         
+* Block 282 <--- 283	USER>>SEQ285	  127   [+0+] Q5B5R7_EMENI/1077-1203     
+* Block 283 <--- 284	USER>>SEQ286	  115   [+0+] Q22TX5_TETTS/11-125        
+* Block 284 <--- 285	USER>>SEQ288	  111   [+0+] Q7P1Y9_CHRVO/7-117         
+* Block 285 <--- 286	USER>>SEQ289	  110   [+0+] Q028U9_SOLUE/8-117         
+* Block 286 <--- 287	USER>>SEQ291	  116   [+0+] C8WL86_EGGLE/4-119         
+* Block 287 <--- 288	USER>>SEQ293	  114   [+0+] E1R885_SPISS/4-117         
+* Block 288 <--- 289	USER>>SEQ295	  126   [+0+] A0C6Q4_PARTE/795-920       
+* Block 289 <--- 290	USER>>SEQ296	  119   [+0+] D0LKP0_HALO1/466-584       
+* Block 290 <--- 291	USER>>SEQ297	  114   [+0+] C7PF21_CHIPD/1045-1158     
+* Block 291 <--- 292	USER>>SEQ298	  113   [+0+] Q2SPH3_HAHCH/10-122        
+* Block 292 <--- 293	USER>>SEQ299	  122   [+0+] D0LSQ9_HALO1/10-131        
+* Block 293 <--- 294	USER>>SEQ300	  111   [+0+] G8QUK9_SPHPG/631-741       
+* Block 294 <=== 295	USER>>REV1	  110   [+0+] U5Q8G6_9BACT/3-112         
+* Block 295 <=== 397	USER>>REV91	  116   [+0+] R5ZTG7_9CLOT/3-118         
+* Block 296 <--- 296	USER>>REV2	  110   [+0+] Q9WZU6_THEMA/5-114         
+* Block 297 <--- 297	USER>>REV3	  110   [+0+] E4T821_PALPW/3-112         
+* Block 298 <--- 298	USER>>REV4	  116   [+0+] Q8A9F9_BACTN/10-125        
+* Block 299 <=== 424	USER>>REV128	  113   [+0+] D2QJW9_SPILD/5-117         
+* Block 300 <=== 312	USER>>REV46	  113   [+0+] D2QLW5_SPILD/4-116         
+* Block 301 <=== 439	USER>>REV173	  111   [+0+] D4JD84_9FIRM/4-114         
+* Block 302 <=== 311	USER>>REV32	  107   [+0+] Q7NY93_CHRVO/1-107         
+* Block 303 <=== 367	USER>>REV102	  111   [+0+] PHOP_ECOLI/3-113           
+* Block 304 <=== 368	USER>>REV123	  113   [+0+] A0LUD7_ACIC1/1-113         
+* Block 305 <=== 369	USER>>REV113	  110   [+0+] D2SFJ3_GEOOG/18-127        
+* Block 306 <=== 370	USER>>REV119	  113   [+0+] D8PBL5_9BACT/11-123        
+* Block 307 <=== 371	USER>>REV76	  111   [+0+] I0HBK7_ACTM4/3-113         
+* Block 308 <=== 329	USER>>REV27	  111   [+0+] Q01RV3_SOLUE/15-125        
+* Block 309 <=== 310	USER>>REV58	  111   [+0+] G2KPC6_MICAA/3-113         
+* Block 310 <=== 309	USER>>REV8	  111   [+0+] D8PA26_9BACT/3-113         
+* Block 311 <=== 305	USER>>REV52	  113   [+0+] C7PE59_CHIPD/479-591       
+* Block 312 <=== 306	USER>>REV61	  111   [+0+] Q9A4S3_CAUCR/3-113         
+* Block 313 <=== 307	USER>>REV34	  111   [+0+] R6NEI9_9CLOT/3-113         
+* Block 314 <=== 308	USER>>REV25	  112   [+0+] Q6FBT1_ACIAD/6-117         
+* Block 315 <=== 374	USER>>REV146	  109   [+0+] K1W7Q9_TRIAC/1008-1116     
+* Block 316 <=== 375	USER>>REV144	  111   [+0+] D7CUM4_TRURR/5-115         
+* Block 317 <=== 376	USER>>REV99	  113   [+0+] Q9ABD5_CAUCR/5-117         
+* Block 318 <=== 377	USER>>REV110	  110   [+0+] E8N4Q3_ANATU/6-115         
+* Block 319 <=== 378	USER>>REV134	  113   [+0+] B1HZJ7_LYSSC/684-796       
+* Block 320 <=== 379	USER>>REV124	  114   [+0+] I0H538_ACTM4/1374-1487     
+* Block 321 <=== 302	USER>>REV39	  111   [+0+] D9RA39_CLOSW/6-116         
+* Block 322 <=== 301	USER>>REV5	  109   [+0+] F5WRI8_ERYRF/4-112         
+* Block 323 <=== 300	USER>>REV72	  116   [+0+] D2PQR9_KRIFD/18-133        
+* Block 324 <=== 299	USER>>REV42	  111   [+0+] W0RF04_9BACT/6-116         
+* Block 325 <=== 441	USER>>REV149	  111   [+0+] H8GPW8_METAL/7-117         
+* Block 326 <=== 393	USER>>REV88	  111   [+0+] I0HZX9_CALAS/20-130        
+* Block 327 <=== 394	USER>>REV112	  111   [+0+] F4H010_CELFA/7-117         
+* Block 328 <=== 380	USER>>REV79	  114   [+0+] Q00ZH3_OSTTA/32-145        
+* Block 329 <--- 303	USER>>REV6	  113   [+0+] Q7NP36_GLOVI/113-225       
+* Block 330 <--- 304	USER>>REV7	  111   [+0+] R5PHG5_9BURK/14-124        
+* Block 331 <--- 313	USER>>REV9	  113   [+0+] G8AW64_AZOBR/575-687       
+* Block 332 <--- 314	USER>>REV10	  113   [+0+] Q01U09_SOLUE/6-118         
+* Block 333 <--- 315	USER>>REV11	  113   [+0+] A0LLL5_SYNFM/700-812       
+* Block 334 <--- 316	USER>>REV12	  110   [+0+] A0LFZ4_SYNFM/7-116         
+* Block 335 <--- 317	USER>>REV13	  111   [+0+] R5PZG3_9BURK/14-124        
+* Block 336 <=== 318	USER>>REV14	  111   [+0+] D2VLN9_NAEGR/75-185        
+* Block 337 <=== 366	USER>>REV75	  112   [+0+] Q72BP1_DESVH/5-116         
+* Block 338 <--- 319	USER>>REV15	  111   [+0+] I4C843_DESTA/10-120        
+* Block 339 <--- 320	USER>>REV16	  112   [+0+] B2IJ88_BEII9/155-266       
+* Block 340 <--- 321	USER>>REV17	  113   [+0+] E1Z400_CHLVA/13-125        
+* Block 341 <--- 322	USER>>REV18	  114   [+0+] A9FB45_SORC5/10-123        
+* Block 342 <--- 323	USER>>REV19	  113   [+0+] B1ZVR4_OPITP/8-120         
+* Block 343 <--- 324	USER>>REV20	  111   [+0+] Q2J535_FRASC/65-175        
+* Block 344 <--- 325	USER>>REV21	  114   [+0+] Q2S9K6_HAHCH/128-241       
+* Block 345 <--- 326	USER>>REV23	  114   [+0+] F5XMA7_MICPN/24-137        
+* Block 346 <--- 327	USER>>REV24	  112   [+0+] A0L6G0_MAGSM/271-382       
+* Block 347 <--- 328	USER>>REV26	  116   [+0+] B3PFU4_CELJU/10-125        
+* Block 348 <--- 330	USER>>REV28	  112   [+0+] B1ZR53_OPITP/12-123        
+* Block 349 <--- 331	USER>>REV29	  113   [+0+] G8PHZ0_PSEUV/5-117         
+* Block 350 <=== 332	USER>>REV30	  111   [+0+] A0LK23_SYNFM/8-118         
+* Block 351 <=== 333	USER>>REV40	  111   [+0+] Q6AJN0_DESPS/4-114         
+* Block 352 <--- 334	USER>>REV33	  112   [+0+] A9AZ67_HERA2/5-116         
+* Block 353 <--- 335	USER>>REV35	  113   [+0+] D0LYZ3_HALO1/4-116         
+* Block 354 <=== 336	USER>>REV36	  115   [+0+] Q9HTJ6_PSEAE/6-120         
+* Block 355 <=== 418	USER>>REV120	  117   [+0+] A6W3L8_MARMS/5-121         
+* Block 356 <--- 337	USER>>REV37	  113   [+0+] Q3J2E3_RHOS4/619-731       
+* Block 357 <--- 338	USER>>REV38	  100   [+0+] C9RAC1_AMMDK/4-103         
+* Block 358 <--- 339	USER>>REV41	  114   [+0+] B1ZVL9_OPITP/7-120         
+* Block 359 <=== 340	USER>>REV43	  113   [+0+] Q7CZK0_AGRT5/5-117         
+* Block 360 <=== 427	USER>>REV131	  113   [+0+] Q2G3N0_NOVAD/7-119         
+* Block 361 <--- 341	USER>>REV44	  114   [+0+] Q63J41_BURPS/20-133        
+* Block 362 <--- 342	USER>>REV45	  125   [+0+] Q72DD7_DESVH/187-311       
+* Block 363 <--- 343	USER>>REV47	  114   [+0+] A6TM13_ALKMQ/6-119         
+* Block 364 <--- 344	USER>>REV48	  114   [+0+] B3PLM0_CELJU/14-127        
+* Block 365 <=== 345	USER>>REV49	  116   [+0+] A0LBV3_MAGSM/494-609       
+* Block 366 <=== 413	USER>>REV114	  111   [+0+] V5WHM3_9SPIO/527-637       
+* Block 367 <--- 346	USER>>REV50	  112   [+0+] M7WM33_RHOT1/1298-1409     
+* Block 368 <--- 347	USER>>REV51	  111   [+0+] D5BPH7_PUNMI/8-118         
+* Block 369 <--- 348	USER>>REV53	  116   [+0+] D8PC48_9BACT/1109-1224     
+* Block 370 <--- 349	USER>>REV54	  116   [+0+] CHEB3_LEPIN/4-119          
+* Block 371 <--- 350	USER>>REV56	  113   [+0+] B1HY70_LYSSC/3-115         
+* Block 372 <=== 381	USER>>REV94	  111   [+0+] H9UJU1_SPIAZ/542-652       
+* Block 373 <=== 382	USER>>REV80	  114   [+0+] G8ATG5_AZOBR/630-743       
+* Block 374 <=== 383	USER>>REV143	  114   [+0+] H1XXL8_9BACT/689-802       
+* Block 375 <=== 384	USER>>REV111	  118   [+0+] R6B9C3_9FIRM/469-586       
+* Block 376 <=== 351	USER>>REV57	  113   [+0+] I4CDU6_DESTA/1777-1889     
+* Block 377 <=== 385	USER>>REV103	  120   [+0+] C7FZY8_DICDI/1552-1671     
+* Block 378 <--- 352	USER>>REV59	  110   [+0+] Q7UJC9_RHOBA/16-125        
+* Block 379 <--- 353	USER>>REV60	  112   [+0+] D8SVS7_SELML/1086-1197     
+* Block 380 <--- 354	USER>>REV62	  115   [+0+] A9GV07_SORC5/1025-1139     
+* Block 381 <--- 355	USER>>REV63	  115   [+0+] B8F953_DESAA/43-157        
+* Block 382 <--- 356	USER>>REV64	  113   [+0+] D0L1Q4_HALNC/4-116         
+* Block 383 <--- 357	USER>>REV65	  125   [+0+] C7PLE4_CHIPD/12-136        
+* Block 384 <--- 358	USER>>REV66	  112   [+0+] Q01TC4_SOLUE/7-118         
+* Block 385 <--- 359	USER>>REV67	  113   [+0+] E6W348_DESIS/261-373       
+* Block 386 <--- 360	USER>>REV68	  112   [+0+] I4AK04_FLELS/1233-1344     
+* Block 387 <--- 361	USER>>REV69	  110   [+0+] R5QY52_9FIRM/5-114         
+* Block 388 <--- 362	USER>>REV70	  114   [+0+] I0I1B7_CALAS/12-125        
+* Block 389 <--- 363	USER>>REV71	  111   [+0+] I6ZQG0_MELRP/6-116         
+* Block 390 <--- 364	USER>>REV73	  113   [+0+] G4KY81_OSCVS/6-118         
+* Block 391 <--- 365	USER>>REV74	  110   [+0+] C6XY39_PEDHD/7-116         
+* Block 392 <--- 372	USER>>REV77	  109   [+0+] D4H5W9_DENA2/5-113         
+* Block 393 <--- 373	USER>>REV78	  112   [+0+] E1QDA6_DESB2/7-118         
+* Block 394 <--- 386	USER>>REV81	  118   [+0+] Q7NVE2_CHRVO/14-131        
+* Block 395 <--- 387	USER>>REV82	  110   [+0+] Q180B1_PEPD6/4-113         
+* Block 396 <--- 388	USER>>REV83	  109   [+0+] C7M2R6_ACIFD/3-111         
+* Block 397 <--- 389	USER>>REV84	  112   [+0+] A5EYB4_DICNV/4-115         
+* Block 398 <--- 390	USER>>REV85	  114   [+0+] Q2SIJ1_HAHCH/5-118         
+* Block 399 <--- 391	USER>>REV86	  111   [+0+] L0DIJ9_SINAD/1249-1359     
+* Block 400 <--- 392	USER>>REV87	  113   [+0+] C7QEC6_CATAD/4-116         
+* Block 401 <--- 395	USER>>REV89	  110   [+0+] F2GCW7_ALTMD/425-534       
+* Block 402 <--- 396	USER>>REV90	  110   [+0+] R6UZH4_9FIRM/3-112         
+* Block 403 <--- 398	USER>>REV92	  114   [+0+] G8ARI6_AZOBR/831-944       
+* Block 404 <--- 399	USER>>REV93	  116   [+0+] F2G6S0_ALTMD/11-126        
+* Block 405 <--- 400	USER>>REV95	  113   [+0+] Q2IKI5_ANADE/5-117         
+* Block 406 <--- 401	USER>>REV96	  114   [+0+] K1VMH1_TRIAC/642-755       
+* Block 407 <--- 402	USER>>REV97	  112   [+0+] CHEB1_KORVE/6-117          
+* Block 408 <--- 403	USER>>REV98	  119   [+0+] F8GCV5_NITSI/9-127         
+* Block 409 <--- 404	USER>>REV100	  114   [+0+] H6LJ85_ACEWD/3-116         
+* Block 410 <--- 405	USER>>REV101	  114   [+0+] Q4PEH1_USTMA/3763-3876     
+* Block 411 <--- 406	USER>>REV104	  109   [+0+] R6ICP9_9FIRM/4-112         
+* Block 412 <--- 407	USER>>REV105	  117   [+0+] B1ZXN3_OPITP/1049-1165     
+* Block 413 <=== 408	USER>>REV106	  113   [+0+] B2IF41_BEII9/731-843       
+* Block 414 <=== 409	USER>>REV145	  113   [+0+] E0TEI3_PARBH/879-991       
+* Block 415 <--- 410	USER>>REV107	  115   [+0+] F4KYE8_HALH1/4-118         
+* Block 416 <--- 411	USER>>REV108	  110   [+0+] G8AZC0_AZOBR/5-114         
+* Block 417 <--- 412	USER>>REV109	  112   [+0+] D1CC36_THET1/15-126        
+* Block 418 <--- 414	USER>>REV115	  112   [+0+] A8DW75_NEMVE/1-112         
+* Block 419 <--- 415	USER>>REV116	  108   [+0+] C7PS97_CHIPD/5-112         
+* Block 420 <--- 416	USER>>REV117	  114   [+0+] Q1CWZ2_MYXXD/134-247       
+* Block 421 <--- 417	USER>>REV118	  112   [+1+] A9TX58_PHYPA/2-113         
+* Block 422 <=== 419	USER>>REV121	  113   [+0+] D7CUI7_TRURR/10-122        
+* Block 423 <=== 420	USER>>REV126	  115   [+0+] C8X791_NAKMY/5-119         
+* Block 424 <--- 421	USER>>REV122	  111   [+0+] H8GH39_METAL/6-116         
+* Block 425 <--- 422	USER>>REV125	  115   [+0+] G8AIF6_AZOBR/730-844       
+* Block 426 <--- 423	USER>>REV127	  112   [+0+] B8FAK2_DESAA/561-672       
+* Block 427 <--- 425	USER>>REV129	  114   [+0+] A9KI49_CLOPH/4-117         
+* Block 428 <--- 426	USER>>REV130	  121   [+0+] Q9HWR8_PSEAE/1011-1131     
+* Block 429 <--- 428	USER>>REV132	  113   [+0+] L0DFQ7_SINAD/806-918       
+* Block 430 <--- 429	USER>>REV133	  119   [+0+] B8FJD5_DESAA/700-818       
+* Block 431 <--- 430	USER>>REV135	  114   [+0+] C5ASP3_METEA/22-135        
+* Block 432 <--- 431	USER>>REV137	  113   [+0+] A0LKN4_SYNFM/642-754       
+* Block 433 <--- 432	USER>>REV138	  113   [+0+] I7A3V5_MELRP/9-121         
+* Block 434 <--- 433	USER>>REV139	  112   [+0+] B5YG95_THEYD/7-118         
+* Block 435 <--- 434	USER>>REV140	  111   [+0+] E1QEI8_DESB2/5-115         
+* Block 436 <--- 435	USER>>REV141	  114   [+0+] Q2S7P6_HAHCH/477-590       
+* Block 437 <--- 436	USER>>REV142	  111   [+0+] C5ASU0_METEA/8-118         
+* Block 438 <--- 437	USER>>REV147	  120   [+0+] A0DEN4_PARTE/705-824       
+* Block 439 <--- 438	USER>>REV148	  115   [+0+] A9FBN1_SORC5/5-119         
+* Block 440 <--- 440	USER>>REV188	  112   [+0+] R5P5C1_9BACT/1176-1287     
+* Block 441 <=== 572	USER>>REV279	  110   [+0+] C6D8D8_PAESJ/4-113         
+* Block 442 <=== 442	USER>>REV215	  110   [+0+] Q182M4_PEPD6/4-113         
+* Block 443 <=== 443	USER>>REV213	  110   [+0+] C0Z911_BREBN/32-141        
+* Block 444 <=== 444	USER>>REV177	  110   [+0+] D4J046_BUTFI/4-113         
+* Block 445 <=== 445	USER>>REV217	  113   [+0+] Q2LSJ4_SYNAS/17-129        
+* Block 446 <=== 446	USER>>REV218	  113   [+0+] Q2SNV6_HAHCH/6-118         
+* Block 447 <=== 533	USER>>REV290	  111   [+0+] F8I986_SULAT/15-125        
+* Block 448 <=== 534	USER>>REV278	  110   [+0+] H6LGY8_ACEWD/6-115         
+* Block 449 <=== 471	USER>>REV171	  113   [+0+] Q835W2_ENTFA/3-115         
+* Block 450 <=== 532	USER>>REV237	  110   [+0+] A6TND2_ALKMQ/6-115         
+* Block 451 <=== 531	USER>>REV256	  110   [+0+] Q7DDM6_NEIMB/4-113         
+* Block 452 <=== 530	USER>>REV252	  110   [+0+] D4H5D9_DENA2/7-116         
+* Block 453 <=== 529	USER>>REV273	  111   [+0+] A0LPD3_SYNFM/12-122        
+* Block 454 <=== 528	USER>>REV292	  110   [+0+] R6AEX4_9FIRM/4-113         
+* Block 455 <=== 527	USER>>REV250	  111   [+0+] Q55733_SYNY3/5-115         
+* Block 456 <=== 535	USER>>REV248	  110   [+0+] F8I4X5_SULAT/7-116         
+* Block 457 <=== 448	USER>>REV169	  110   [+0+] R6NDU8_9CLOT/5-114         
+* Block 458 <=== 547	USER>>REV249	  113   [+0+] E8N4G2_ANATU/5-117         
+* Block 459 <--- 447	USER>>REV150	  113   [+0+] B0TG83_HELMI/445-557       
+* Block 460 <=== 576	USER>>REV284	  111   [+0+] B5YJN2_THEYD/3-113         
+* Block 461 <=== 449	USER>>REV209	  111   [+0+] Q6MHZ0_BDEBA/3-113         
+* Block 462 <=== 542	USER>>REV243	  111   [+0+] R6NP32_9CLOT/3-113         
+* Block 463 <=== 450	USER>>REV185	  111   [+0+] V4LH06_9GAMM/3-113         
+* Block 464 <=== 451	USER>>REV151	  110   [+0+] W0RFK7_9BACT/11-120        
+* Block 465 <=== 452	USER>>REV192	  111   [+0+] R6WP48_9CLOT/3-113         
+* Block 466 <=== 453	USER>>REV153	  111   [+0+] D0KYW1_HALNC/3-113         
+* Block 467 <=== 454	USER>>REV189	  112   [+0+] C1F2N1_ACIC5/3-114         
+* Block 468 <--- 455	USER>>REV152	  119   [+0+] A0LD52_MAGSM/2088-2206     
+* Block 469 <--- 456	USER>>REV154	  113   [+0+] F2IAQ0_FLUTR/3-115         
+* Block 470 <--- 457	USER>>REV155	  112   [+0+] A4J6F9_DESRM/1048-1159     
+* Block 471 <--- 458	USER>>REV156	  117   [+0+] K0SQA0_THAOC/602-718       
+* Block 472 <--- 459	USER>>REV158	  110   [+0+] D5HFI5_9FIRM/11-120        
+* Block 473 <--- 460	USER>>REV159	  116   [+0+] Q728I7_DESVH/874-989       
+* Block 474 <--- 461	USER>>REV160	  111   [+0+] A6W0X4_MARMS/6-116         
+* Block 475 <--- 462	USER>>REV161	  127   [+0+] F0YAP2_AURAN/295-421       
+* Block 476 <--- 463	USER>>REV162	  116   [+0+] A9AXD3_HERA2/5-120         
+* Block 477 <--- 464	USER>>REV163	  114   [+0+] Q7D1D6_AGRT5/6-119         
+* Block 478 <--- 465	USER>>REV164	  112   [+0+] A9AVZ7_HERA2/5-116         
+* Block 479 <=== 523	USER>>REV234	  111   [+0+] Q1INE5_KORVE/8-118         
+* Block 480 <=== 524	USER>>REV241	  111   [+0+] C0QR97_PERMH/3-113         
+* Block 481 <=== 466	USER>>REV165	  111   [+0+] Q729F7_DESVH/7-117         
+* Block 482 <--- 467	USER>>REV166	  111   [+0+] Q82TX8_NITEU/7-117         
+* Block 483 <--- 468	USER>>REV167	  115   [+0+] D9RA73_CLOSW/3-117         
+* Block 484 <=== 469	USER>>REV168	  115   [+0+] C7PAN6_CHIPD/1079-1193     
+* Block 485 <=== 540	USER>>REV240	  118   [+0+] C8WGN8_EGGLE/803-920       
+* Block 486 <--- 470	USER>>REV170	  115   [+0+] W8TFA1_EUBAC/10-124        
+* Block 487 <--- 472	USER>>REV172	  111   [+0+] R6QY70_9FIRM/3-113         
+* Block 488 <--- 473	USER>>REV174	  110   [+0+] B2ID34_BEII9/104-213       
+* Block 489 <--- 474	USER>>REV175	  113   [+0+] Q7VE20_PROMA/17-129        
+* Block 490 <--- 475	USER>>REV176	  114   [+0+] G8AFS1_AZOBR/364-477       
+* Block 491 <=== 476	USER>>REV178	  133   [+0+] I7LZU6_TETTS/1554-1686     
+* Block 492 <=== 543	USER>>REV244	  112   [+0+] I7M8X5_TETTS/1011-1122     
+* Block 493 <=== 551	USER>>REV255	  112   [+0+] C7PK83_CHIPD/607-718       
+* Block 494 <=== 552	USER>>REV257	  113   [+0+] Q2GDQ0_NEOSM/5-117         
+* Block 495 <=== 553	USER>>REV268	  113   [+0+] E8N3C9_ANATU/5-117         
+* Block 496 <=== 477	USER>>REV179	  114   [+0+] Q7NDM2_GLOVI/4-117         
+* Block 497 <--- 478	USER>>REV180	  111   [+0+] D5ML70_9BACT/6-116         
+* Block 498 <--- 479	USER>>REV181	  119   [+0+] F2JH34_CELLD/4-122         
+* Block 499 <--- 480	USER>>REV182	  116   [+0+] Q4PAX4_USTMA/1228-1343     
+* Block 500 <--- 481	USER>>REV183	  117   [+0+] R5F8K5_9CLOT/809-925       
+* Block 501 <=== 513	USER>>REV225	  113   [+0+] G4RGB9_PELHB/3-115         
+* Block 502 <=== 557	USER>>REV261	  118   [+0+] D4MUE5_9FIRM/599-716       
+* Block 503 <=== 486	USER>>REV200	  118   [+0+] R5FJM1_9CLOT/1158-1275     
+* Block 504 <=== 512	USER>>REV223	  113   [+0+] D2SC76_GEOOG/11-123        
+* Block 505 <=== 568	USER>>REV274	  118   [+0+] C7QEX8_CATAD/8-125         
+* Block 506 <=== 482	USER>>REV201	  113   [+0+] I0H923_ACTM4/12-124        
+* Block 507 <=== 483	USER>>REV184	  113   [+0+] D2BC48_STRRD/5-117         
+* Block 508 <=== 484	USER>>REV220	  115   [+0+] D2PQY4_KRIFD/4-118         
+* Block 509 <=== 485	USER>>REV210	  115   [+0+] Q47RW2_THEFY/4-118         
+* Block 510 <=== 487	USER>>REV186	  121   [+0+] A0E8Z0_PARTE/589-709       
+* Block 511 <=== 488	USER>>REV198	  117   [+0+] A0DXX3_PARTE/686-802       
+* Block 512 <--- 489	USER>>REV187	  115   [+0+] Q24W46_DESHY/4-118         
+* Block 513 <--- 490	USER>>REV190	  112   [+0+] C6XYG2_PEDHD/4-115         
+* Block 514 <--- 491	USER>>REV191	  123   [+0+] Q22D61_TETTS/1265-1387     
+* Block 515 <--- 492	USER>>REV193	  111   [+0+] R5PKI6_9BURK/10-120        
+* Block 516 <--- 493	USER>>REV194	  119   [+0+] I0H4D5_ACTM4/14-132        
+* Block 517 <--- 494	USER>>REV195	  112   [+0+] Q0W3L8_UNCMA/11-122        
+* Block 518 <--- 495	USER>>REV196	  111   [+0+] W8TKI6_EUBAC/10-120        
+* Block 519 <--- 496	USER>>REV197	  108   [+0+] A0LC09_MAGSM/5-112         
+* Block 520 <--- 497	USER>>REV199	  108   [+0+] E4T1M0_PALPW/5-112         
+* Block 521 <--- 498	USER>>REV202	  113   [+0+] F2ND58_DESAR/788-900       
+* Block 522 <--- 499	USER>>REV203	  116   [+0+] I4AKS6_FLELS/5-120         
+* Block 523 <--- 500	USER>>REV204	  113   [+0+] P73686_SYNY3/19-131        
+* Block 524 <--- 501	USER>>REV205	  123   [+0+] I0GMN6_SELRL/3-125         
+* Block 525 <=== 502	USER>>REV206	  110   [+0+] Q8A0Q5_BACTN/3-112         
+* Block 526 <=== 537	USER>>REV287	  108   [+0+] X5DE43_9BACT/7-114         
+* Block 527 <=== 538	USER>>REV239	  111   [+0+] Q3AEC1_CARHZ/5-115         
+* Block 528 <=== 539	USER>>REV251	  111   [+0+] Q2GBY4_NOVAD/3-113         
+* Block 529 <=== 503	USER>>REV207	  112   [+0+] E6W5X7_DESIS/6-117         
+* Block 530 <=== 515	USER>>REV227	  112   [+0+] D8PIL3_9BACT/6-117         
+* Block 531 <=== 516	USER>>REV253	  112   [+0+] F8GKG9_NITSI/7-118         
+* Block 532 <--- 504	USER>>REV208	  113   [+0+] A9ESH0_SORC5/1-113         
+* Block 533 <--- 505	USER>>REV211	  110   [+0+] C7PLT2_CHIPD/10-119        
+* Block 534 <--- 506	USER>>REV212	  110   [+0+] Q028Z2_SOLUE/4-113         
+* Block 535 <--- 507	USER>>REV214	  107   [+0+] F0S3N6_DESTD/4-110         
+* Block 536 <--- 508	USER>>REV216	  112   [+0+] D4IVL2_BUTFI/5-116         
+* Block 537 <--- 509	USER>>REV219	  113   [+0+] A9CFM2_AGRT5/5-117         
+* Block 538 <--- 510	USER>>REV221	  114   [+0+] C6D078_PAESJ/4-117         
+* Block 539 <--- 511	USER>>REV222	  114   [+0+] Q8EJC2_SHEON/3-116         
+* Block 540 <--- 514	USER>>REV226	  113   [+0+] Q8EF60_SHEON/256-368       
+* Block 541 <--- 517	USER>>REV228	  110   [+0+] M5A1X3_9ACTN/4-113         
+* Block 542 <--- 518	USER>>REV229	  110   [+0+] Q1IR41_KORVE/3-112         
+* Block 543 <--- 519	USER>>REV230	  132   [+0+] K1VTK5_TRIAC/1760-1891     
+* Block 544 <--- 520	USER>>REV231	  110   [+0+] F2I5Q9_AERUA/7-116         
+* Block 545 <--- 521	USER>>REV232	  113   [+0+] D8LPK5_ECTSI/555-667       
+* Block 546 <--- 522	USER>>REV233	  113   [+0+] Q5ZU95_LEGPH/678-790       
+* Block 547 <--- 525	USER>>REV235	  113   [+0+] D0LHX6_HALO1/23-135        
+* Block 548 <--- 526	USER>>REV236	  111   [+0+] W5X9V5_9BACT/19-129        
+* Block 549 <--- 536	USER>>REV238	  111   [+0+] E6W583_DESIS/5-115         
+* Block 550 <--- 541	USER>>REV242	  111   [+0+] H8GL74_METAL/3-113         
+* Block 551 <--- 544	USER>>REV245	  111   [+0+] C0ZCS6_BREBN/7-117         
+* Block 552 <--- 545	USER>>REV246	  118   [+0+] D5EKL0_CORAD/486-603       
+* Block 553 <--- 546	USER>>REV247	  111   [+0+] K0IZM2_AMPXN/655-765       
+* Block 554 <=== 548	USER>>REV254	  117   [+0+] A4FKM5_SACEN/4-120         
+* Block 555 <=== 549	USER>>REV294	  111   [+0+] E6SJU7_THEM7/24-134        
+* Block 556 <=== 550	USER>>REV283	  108   [+0+] A0LVV1_ACIC1/1-108         
+* Block 557 <--- 554	USER>>REV258	  124   [+0+] D8LP35_ECTSI/455-578       
+* Block 558 <--- 555	USER>>REV259	  111   [+0+] C0QAU9_DESAH/6-116         
+* Block 559 <--- 556	USER>>REV260	  113   [+0+] F2NEX4_DESAR/855-967       
+* Block 560 <--- 558	USER>>REV262	  113   [+0+] UVRY_ECOLI/4-116           
+* Block 561 <--- 559	USER>>REV263	  125   [+0+] Q74ET0_GEOSL/184-308       
+* Block 562 <--- 560	USER>>REV264	  113   [+0+] E1WZJ6_BACMS/3-115         
+* Block 563 <--- 561	USER>>REV265	  109   [+0+] E9C3Z3_CAPO3/139-247       
+* Block 564 <--- 562	USER>>REV266	  111   [+0+] A9CLL8_AGRT5/3-113         
+* Block 565 <--- 563	USER>>REV267	  108   [+0+] R6B9B0_9CLOT/3-110         
+* Block 566 <--- 564	USER>>REV269	  113   [+0+] F2NGX0_DESAR/6-118         
+* Block 567 <--- 565	USER>>REV270	  109   [+0+] G2LKC8_CHLTF/5-113         
+* Block 568 <--- 566	USER>>REV271	  111   [+0+] B5YK35_THEYD/118-228       
+* Block 569 <--- 567	USER>>REV272	  114   [+0+] B8FLU3_DESAA/127-240       
+* Block 570 <--- 569	USER>>REV275	  121   [+0+] C6XU79_PEDHD/8-128         
+* Block 571 <--- 570	USER>>REV276	  113   [+0+] Q9A5X3_CAUCR/470-582       
+* Block 572 <--- 571	USER>>REV277	  112   [+0+] A9CH48_AGRT5/8-119         
+* Block 573 <--- 573	USER>>REV280	  111   [+0+] E6W1B5_DESIS/10-120        
+* Block 574 <--- 574	USER>>REV281	  114   [+0+] R5F2Q4_9CLOT/4-117         
+* Block 575 <--- 575	USER>>REV282	  112   [+0+] B1ZRJ6_OPITP/5-116         
+* Block 576 <--- 577	USER>>REV285	  127   [+0+] Q5B5R7_EMENI/1077-1203     
+* Block 577 <--- 578	USER>>REV286	  115   [+0+] Q22TX5_TETTS/11-125        
+* Block 578 <--- 579	USER>>REV288	  111   [+0+] Q7P1Y9_CHRVO/7-117         
+* Block 579 <--- 580	USER>>REV289	  110   [+0+] Q028U9_SOLUE/8-117         
+* Block 580 <--- 581	USER>>REV291	  116   [+0+] C8WL86_EGGLE/4-119         
+* Block 581 <--- 582	USER>>REV293	  114   [+0+] E1R885_SPISS/4-117         
+* Block 582 <--- 583	USER>>REV295	  126   [+0+] A0C6Q4_PARTE/795-920       
+* Block 583 <--- 584	USER>>REV296	  119   [+0+] D0LKP0_HALO1/466-584       
+* Block 584 <--- 585	USER>>REV297	  114   [+0+] C7PF21_CHIPD/1045-1158     
+* Block 585 <--- 586	USER>>REV298	  113   [+0+] Q2SPH3_HAHCH/10-122        
+* Block 586 <--- 587	USER>>REV299	  122   [+0+] D0LSQ9_HALO1/10-131        
+* Block 587 <--- 588	USER>>REV300	  111   [+0+] G8QUK9_SPHPG/631-741       
+
+('*' = keyed block)
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 5
+ gap_pen = 20 span = 6 window = 8
+ minscore = 880 pepscore = 0 list_limit = 8
+ circles = 0 output = 999 outline = 80
+score_pairs 
+
+No pairs over cutoff
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 5
+ gap_pen = 20 span = 8 window = 12
+ minscore = 840 pepscore = 0 list_limit = 4
+ circles = 0 output = 999 outline = 80
+score_pairs 
+
+average score over cutoff = 848
+
+(6 pairs) cluster_pairs total list_alloc = 20
+pack_lists 
+update_blocks
+      USER>>SEQ279
+852
+      USER>>SEQ177
+
+
+      USER>>REV279
+852
+      USER>>REV177
+
+
+      USER>>SEQ128
+846
+      USER>>SEQ46
+
+
+      USER>>SEQ36
+846
+      USER>>SEQ120
+
+
+      USER>>REV128
+846
+      USER>>REV46
+
+
+      USER>>REV36
+846
+      USER>>REV120
+
+
+582 groups ( 6 aligned )
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 5
+ gap_pen = 20 span = 10 window = 16
+ minscore = 800 pepscore = 0 list_limit = 2
+ circles = 0 output = 999 outline = 80
+score_pairs 
+
+average score over cutoff = 810
+
+(4 pairs) cluster_pairs total list_alloc = 20
+pack_lists 
+update_blocks
+     -- USER>>SEQ210
+820
+     -- USER>>SEQ220
+
+
+     -- USER>>REV220
+820
+     -- USER>>REV210
+
+
+     -- USER>>SEQ256
+801
+     -- USER>>SEQ252
+
+
+     -- USER>>REV256
+801
+     -- USER>>REV252
+
+
+578 groups ( 10 aligned )
+
+ nblocks = 588 seedblk = 0 seedseq = 13
+picked USER>>SEQ1 (-4.672829)
+picked USER>>SEQ91 (-4.718499)
+picked USER>>SEQ2 (-4.672829)
+picked USER>>SEQ3 (-4.672829)
+picked USER>>SEQ4 (-4.727388)
+picked USER>>SEQ32 (-4.644391)
+picked USER>>SEQ128 (-4.700480)
+picked USER>>SEQ88 (-4.682131)
+picked USER>>SEQ112 (-4.682131)
+picked USER>>SEQ102 (-4.682131)
+picked USER>>SEQ123 (-4.700480)
+picked USER>>SEQ113 (-4.672829)
+picked USER>>SEQ119 (-4.700480)
+picked USER>>SEQ76 (-4.682131)
+picked USER>>SEQ209 (-4.682131)
+picked USER>>SEQ58 (-4.672829)
+picked USER>>SEQ8 (-4.682131)
+picked USER>>SEQ27 (-4.682131)
+picked USER>>SEQ52 (-4.691348)
+picked USER>>SEQ61 (-4.682131)
+picked USER>>SEQ34 (-4.682131)
+picked USER>>SEQ25 (-4.691348)
+picked USER>>SEQ146 (-4.663439)
+picked USER>>SEQ144 (-4.672829)
+picked USER>>SEQ99 (-4.691348)
+picked USER>>SEQ110 (-4.672829)
+picked USER>>SEQ79 (-4.700480)
+picked USER>>SEQ39 (-4.682131)
+picked USER>>SEQ5 (-4.663439)
+picked USER>>SEQ72 (-4.718499)
+picked USER>>SEQ42 (-4.682131)
+picked USER>>SEQ149 (-4.682131)
+picked USER>>SEQ134 (-4.700480)
+picked USER>>SEQ124 (-4.709530)
+picked USER>>SEQ6 (-4.700480)
+picked USER>>SEQ7 (-4.672829)
+picked USER>>SEQ9 (-4.700480)
+picked USER>>SEQ10 (-4.700480)
+picked USER>>SEQ11 (-4.700480)
+picked USER>>SEQ12 (-4.663439)
+picked USER>>SEQ13 (-4.682131)
+picked USER>>SEQ14 (-4.682131)
+picked USER>>SEQ75 (-4.691348)
+picked USER>>SEQ15 (-4.682131)
+picked USER>>SEQ16 (-4.691348)
+picked USER>>SEQ17 (-4.700480)
+picked USER>>SEQ18 (-4.709530)
+picked USER>>SEQ19 (-4.700480)
+picked USER>>SEQ20 (-4.682131)
+picked USER>>SEQ21 (-4.709530)
+picked USER>>SEQ23 (-4.709530)
+picked USER>>SEQ24 (-4.691348)
+picked USER>>SEQ26 (-4.727388)
+picked USER>>SEQ28 (-4.691348)
+picked USER>>SEQ29 (-4.700480)
+picked USER>>SEQ30 (-4.682131)
+picked USER>>SEQ40 (-4.682131)
+picked USER>>SEQ33 (-4.691348)
+picked USER>>SEQ35 (-4.700480)
+picked USER>>SEQ120 (-4.043051)
+picked USER>>SEQ37 (-4.700480)
+picked USER>>SEQ38 (-4.564348)
+picked USER>>SEQ41 (-4.709530)
+picked USER>>SEQ131 (-4.700480)
+picked USER>>SEQ43 (-4.700480)
+picked USER>>SEQ150 (-4.700480)
+picked USER>>SEQ44 (-4.709530)
+picked USER>>SEQ45 (-4.804021)
+picked USER>>SEQ47 (-4.709530)
+picked USER>>SEQ48 (-4.709530)
+picked USER>>SEQ49 (-4.727388)
+picked USER>>SEQ114 (-4.682131)
+picked USER>>SEQ50 (-4.691348)
+picked USER>>SEQ51 (-4.682131)
+picked USER>>SEQ53 (-4.727388)
+picked USER>>SEQ54 (-4.727388)
+picked USER>>SEQ56 (-4.700480)
+picked USER>>SEQ94 (-4.682131)
+picked USER>>SEQ80 (-4.709530)
+picked USER>>SEQ143 (-4.709530)
+picked USER>>SEQ111 (-4.744932)
+picked USER>>SEQ57 (-4.700480)
+picked USER>>SEQ103 (-4.762174)
+picked USER>>SEQ59 (-4.672829)
+picked USER>>SEQ60 (-4.691348)
+picked USER>>SEQ62 (-4.718499)
+picked USER>>SEQ63 (-4.718499)
+picked USER>>SEQ64 (-4.691348)
+picked USER>>SEQ65 (-4.804021)
+picked USER>>SEQ66 (-4.691348)
+picked USER>>SEQ67 (-4.700480)
+picked USER>>SEQ68 (-4.691348)
+picked USER>>SEQ69 (-4.672829)
+picked USER>>SEQ70 (-4.709530)
+picked USER>>SEQ71 (-4.682131)
+picked USER>>SEQ73 (-4.700480)
+picked USER>>SEQ74 (-4.672829)
+picked USER>>SEQ77 (-4.663439)
+picked USER>>SEQ78 (-4.691348)
+picked USER>>SEQ81 (-4.744932)
+picked USER>>SEQ82 (-4.672829)
+picked USER>>SEQ83 (-4.663439)
+picked USER>>SEQ84 (-4.691348)
+picked USER>>SEQ85 (-4.709530)
+picked USER>>SEQ86 (-4.682131)
+picked USER>>SEQ87 (-4.700480)
+picked USER>>SEQ89 (-4.672829)
+picked USER>>SEQ90 (-4.672829)
+picked USER>>SEQ92 (-4.709530)
+picked USER>>SEQ93 (-4.718499)
+picked USER>>SEQ95 (-4.691348)
+picked USER>>SEQ96 (-4.709530)
+picked USER>>SEQ97 (-4.691348)
+picked USER>>SEQ98 (-4.753590)
+picked USER>>SEQ100 (-4.709530)
+picked USER>>SEQ101 (-4.709530)
+picked USER>>SEQ104 (-4.663439)
+picked USER>>SEQ105 (-4.736198)
+picked USER>>SEQ106 (-4.700480)
+picked USER>>SEQ145 (-4.700480)
+picked USER>>SEQ107 (-4.718499)
+picked USER>>SEQ108 (-4.672829)
+picked USER>>SEQ109 (-4.682131)
+picked USER>>SEQ115 (-4.691348)
+picked USER>>SEQ116 (-4.653960)
+picked USER>>SEQ117 (-4.700480)
+picked USER>>SEQ118 (-4.691348)
+picked USER>>SEQ121 (-4.700480)
+picked USER>>SEQ126 (-4.718499)
+picked USER>>SEQ122 (-4.682131)
+picked USER>>SEQ125 (-4.718499)
+picked USER>>SEQ127 (-4.691348)
+picked USER>>SEQ129 (-4.709530)
+picked USER>>SEQ130 (-4.770685)
+picked USER>>SEQ132 (-4.700480)
+picked USER>>SEQ133 (-4.753590)
+picked USER>>SEQ135 (-4.709530)
+picked USER>>SEQ137 (-4.700480)
+picked USER>>SEQ138 (-4.700480)
+picked USER>>SEQ139 (-4.691348)
+picked USER>>SEQ140 (-4.682131)
+picked USER>>SEQ141 (-4.709530)
+picked USER>>SEQ142 (-4.682131)
+picked USER>>SEQ147 (-4.762174)
+picked USER>>SEQ148 (-4.718499)
+picked USER>>SEQ284 (-4.682131)
+picked USER>>SEQ249 (-4.700480)
+picked USER>>SEQ173 (-4.682131)
+picked USER>>SEQ188 (-4.691348)
+picked USER>>SEQ177 (-4.672829)
+picked USER>>SEQ215 (-4.672829)
+picked USER>>SEQ213 (-4.672829)
+picked USER>>SEQ217 (-4.700480)
+picked USER>>SEQ218 (-4.700480)
+picked USER>>SEQ278 (-4.663439)
+picked USER>>SEQ290 (-4.682131)
+picked USER>>SEQ171 (-4.700480)
+picked USER>>SEQ237 (-4.672829)
+picked USER>>SEQ252 (-4.672829)
+picked USER>>SEQ273 (-4.672829)
+picked USER>>SEQ292 (-4.672829)
+picked USER>>SEQ250 (-4.682131)
+picked USER>>SEQ248 (-4.672829)
+picked USER>>SEQ169 (-4.672829)
+picked USER>>SEQ243 (-4.682131)
+picked USER>>SEQ185 (-4.682131)
+picked USER>>SEQ151 (-4.672829)
+picked USER>>SEQ192 (-4.682131)
+picked USER>>SEQ153 (-4.682131)
+picked USER>>SEQ189 (-4.691348)
+picked USER>>SEQ152 (-4.744932)
+picked USER>>SEQ154 (-4.700480)
+picked USER>>SEQ155 (-4.691348)
+picked USER>>SEQ156 (-4.736198)
+picked USER>>SEQ158 (-4.672829)
+picked USER>>SEQ159 (-4.727388)
+picked USER>>SEQ160 (-4.682131)
+picked USER>>SEQ161 (-4.812184)
+picked USER>>SEQ162 (-4.727388)
+picked USER>>SEQ163 (-4.709530)
+picked USER>>SEQ164 (-4.691348)
+picked USER>>SEQ234 (-4.682131)
+picked USER>>SEQ241 (-4.672829)
+picked USER>>SEQ165 (-4.672829)
+picked USER>>SEQ166 (-4.682131)
+picked USER>>SEQ167 (-4.700480)
+picked USER>>SEQ168 (-4.718499)
+picked USER>>SEQ240 (-4.727388)
+picked USER>>SEQ170 (-4.718499)
+picked USER>>SEQ172 (-4.672829)
+picked USER>>SEQ174 (-4.663439)
+picked USER>>SEQ175 (-4.700480)
+picked USER>>SEQ176 (-4.709530)
+picked USER>>SEQ178 (-4.867535)
+picked USER>>SEQ244 (-4.691348)
+picked USER>>SEQ179 (-4.709530)
+picked USER>>SEQ255 (-4.691348)
+picked USER>>SEQ257 (-4.700480)
+picked USER>>SEQ268 (-4.700480)
+picked USER>>SEQ180 (-4.682131)
+picked USER>>SEQ181 (-4.753590)
+picked USER>>SEQ182 (-4.727388)
+picked USER>>SEQ183 (-4.736198)
+picked USER>>SEQ225 (-4.700480)
+picked USER>>SEQ261 (-4.744932)
+picked USER>>SEQ200 (-4.744932)
+picked USER>>SEQ220 (-4.718499)
+picked USER>>SEQ184 (-4.700480)
+picked USER>>SEQ201 (-4.700480)
+picked USER>>SEQ223 (-4.700480)
+picked USER>>SEQ274 (-4.744932)
+picked USER>>SEQ186 (-4.753590)
+picked USER>>SEQ198 (-4.727388)
+picked USER>>SEQ187 (-4.718499)
+picked USER>>SEQ190 (-4.691348)
+picked USER>>SEQ191 (-4.787492)
+picked USER>>SEQ193 (-4.682131)
+picked USER>>SEQ194 (-4.753590)
+picked USER>>SEQ195 (-4.691348)
+picked USER>>SEQ196 (-4.682131)
+picked USER>>SEQ197 (-4.653960)
+picked USER>>SEQ199 (-4.653960)
+picked USER>>SEQ202 (-4.700480)
+picked USER>>SEQ203 (-4.727388)
+picked USER>>SEQ204 (-4.700480)
+picked USER>>SEQ205 (-4.787492)
+picked USER>>SEQ287 (-4.653960)
+picked USER>>SEQ239 (-4.672829)
+picked USER>>SEQ251 (-4.682131)
+picked USER>>SEQ206 (-4.672829)
+picked USER>>SEQ207 (-4.691348)
+picked USER>>SEQ227 (-4.691348)
+picked USER>>SEQ253 (-4.691348)
+picked USER>>SEQ208 (-4.700480)
+picked USER>>SEQ211 (-4.672829)
+picked USER>>SEQ212 (-4.672829)
+picked USER>>SEQ214 (-4.644391)
+picked USER>>SEQ216 (-4.691348)
+picked USER>>SEQ219 (-4.700480)
+picked USER>>SEQ221 (-4.709530)
+picked USER>>SEQ222 (-4.709530)
+picked USER>>SEQ226 (-4.700480)
+picked USER>>SEQ228 (-4.672829)
+picked USER>>SEQ229 (-4.672829)
+picked USER>>SEQ230 (-4.844187)
+picked USER>>SEQ231 (-4.672829)
+picked USER>>SEQ232 (-4.700480)
+picked USER>>SEQ233 (-4.700480)
+picked USER>>SEQ235 (-4.691348)
+picked USER>>SEQ236 (-4.682131)
+picked USER>>SEQ238 (-4.672829)
+picked USER>>SEQ242 (-4.682131)
+picked USER>>SEQ245 (-4.682131)
+picked USER>>SEQ246 (-4.744932)
+picked USER>>SEQ247 (-4.682131)
+picked USER>>SEQ254 (-4.736198)
+picked USER>>SEQ294 (-4.682131)
+picked USER>>SEQ283 (-4.653960)
+picked USER>>SEQ258 (-4.795791)
+picked USER>>SEQ259 (-4.682131)
+picked USER>>SEQ260 (-4.700480)
+picked USER>>SEQ262 (-4.700480)
+picked USER>>SEQ263 (-4.804021)
+picked USER>>SEQ264 (-4.700480)
+picked USER>>SEQ265 (-4.663439)
+picked USER>>SEQ266 (-4.682131)
+picked USER>>SEQ267 (-4.653960)
+picked USER>>SEQ269 (-4.700480)
+picked USER>>SEQ270 (-4.663439)
+picked USER>>SEQ271 (-4.682131)
+picked USER>>SEQ272 (-4.709530)
+picked USER>>SEQ275 (-4.770685)
+picked USER>>SEQ276 (-4.700480)
+picked USER>>SEQ277 (-4.691348)
+picked USER>>SEQ280 (-4.682131)
+picked USER>>SEQ281 (-4.709530)
+picked USER>>SEQ282 (-4.682131)
+picked USER>>SEQ285 (-4.820282)
+picked USER>>SEQ286 (-4.718499)
+picked USER>>SEQ288 (-4.682131)
+picked USER>>SEQ289 (-4.672829)
+picked USER>>SEQ291 (-4.727388)
+picked USER>>SEQ293 (-4.709530)
+picked USER>>SEQ295 (-4.812184)
+picked USER>>SEQ296 (-4.753590)
+picked USER>>SEQ297 (-4.709530)
+picked USER>>SEQ298 (-4.700480)
+picked USER>>SEQ299 (-4.779123)
+picked USER>>SEQ300 (-4.682131)
+picked USER>>REV1 (-4.672829)
+picked USER>>REV91 (-4.718499)
+picked USER>>REV2 (-4.672829)
+picked USER>>REV3 (-4.672829)
+picked USER>>REV4 (-4.727388)
+picked USER>>REV128 (-4.700480)
+picked USER>>REV173 (-4.682131)
+picked USER>>REV32 (-4.644391)
+picked USER>>REV102 (-4.682131)
+picked USER>>REV123 (-4.700480)
+picked USER>>REV113 (-4.672829)
+picked USER>>REV119 (-4.700480)
+picked USER>>REV76 (-4.682131)
+picked USER>>REV27 (-4.682131)
+picked USER>>REV58 (-4.672829)
+picked USER>>REV8 (-4.682131)
+picked USER>>REV52 (-4.691348)
+picked USER>>REV61 (-4.682131)
+picked USER>>REV34 (-4.682131)
+picked USER>>REV25 (-4.691348)
+picked USER>>REV146 (-4.663439)
+picked USER>>REV144 (-4.672829)
+picked USER>>REV99 (-4.691348)
+picked USER>>REV110 (-4.672829)
+picked USER>>REV134 (-4.700480)
+picked USER>>REV124 (-4.709530)
+picked USER>>REV39 (-4.682131)
+picked USER>>REV5 (-4.663439)
+picked USER>>REV72 (-4.718499)
+picked USER>>REV42 (-4.682131)
+picked USER>>REV149 (-4.682131)
+picked USER>>REV88 (-4.682131)
+picked USER>>REV112 (-4.682131)
+picked USER>>REV79 (-4.700480)
+picked USER>>REV6 (-4.700480)
+picked USER>>REV7 (-4.672829)
+picked USER>>REV9 (-4.700480)
+picked USER>>REV10 (-4.700480)
+picked USER>>REV11 (-4.700480)
+picked USER>>REV12 (-4.663439)
+picked USER>>REV13 (-4.682131)
+picked USER>>REV14 (-4.682131)
+picked USER>>REV75 (-4.691348)
+picked USER>>REV15 (-4.682131)
+picked USER>>REV16 (-4.691348)
+picked USER>>REV17 (-4.700480)
+picked USER>>REV18 (-4.709530)
+picked USER>>REV19 (-4.700480)
+picked USER>>REV20 (-4.682131)
+picked USER>>REV21 (-4.709530)
+picked USER>>REV23 (-4.709530)
+picked USER>>REV24 (-4.691348)
+picked USER>>REV26 (-4.727388)
+picked USER>>REV28 (-4.691348)
+picked USER>>REV29 (-4.700480)
+picked USER>>REV30 (-4.682131)
+picked USER>>REV40 (-4.682131)
+picked USER>>REV33 (-4.691348)
+picked USER>>REV35 (-4.700480)
+picked USER>>REV120 (-4.043051)
+picked USER>>REV37 (-4.700480)
+picked USER>>REV38 (-4.564348)
+picked USER>>REV41 (-4.709530)
+picked USER>>REV43 (-4.700480)
+picked USER>>REV131 (-4.700480)
+picked USER>>REV44 (-4.709530)
+picked USER>>REV45 (-4.804021)
+picked USER>>REV47 (-4.709530)
+picked USER>>REV48 (-4.709530)
+picked USER>>REV49 (-4.727388)
+picked USER>>REV114 (-4.682131)
+picked USER>>REV50 (-4.691348)
+picked USER>>REV51 (-4.682131)
+picked USER>>REV53 (-4.727388)
+picked USER>>REV54 (-4.727388)
+picked USER>>REV56 (-4.700480)
+picked USER>>REV94 (-4.682131)
+picked USER>>REV80 (-4.709530)
+picked USER>>REV143 (-4.709530)
+picked USER>>REV111 (-4.744932)
+picked USER>>REV57 (-4.700480)
+picked USER>>REV103 (-4.762174)
+picked USER>>REV59 (-4.672829)
+picked USER>>REV60 (-4.691348)
+picked USER>>REV62 (-4.718499)
+picked USER>>REV63 (-4.718499)
+picked USER>>REV64 (-4.691348)
+picked USER>>REV65 (-4.804021)
+picked USER>>REV66 (-4.691348)
+picked USER>>REV67 (-4.700480)
+picked USER>>REV68 (-4.691348)
+picked USER>>REV69 (-4.672829)
+picked USER>>REV70 (-4.709530)
+picked USER>>REV71 (-4.682131)
+picked USER>>REV73 (-4.700480)
+picked USER>>REV74 (-4.672829)
+picked USER>>REV77 (-4.663439)
+picked USER>>REV78 (-4.691348)
+picked USER>>REV81 (-4.744932)
+picked USER>>REV82 (-4.672829)
+picked USER>>REV83 (-4.663439)
+picked USER>>REV84 (-4.691348)
+picked USER>>REV85 (-4.709530)
+picked USER>>REV86 (-4.682131)
+picked USER>>REV87 (-4.700480)
+picked USER>>REV89 (-4.672829)
+picked USER>>REV90 (-4.672829)
+picked USER>>REV92 (-4.709530)
+picked USER>>REV93 (-4.718499)
+picked USER>>REV95 (-4.691348)
+picked USER>>REV96 (-4.709530)
+picked USER>>REV97 (-4.691348)
+picked USER>>REV98 (-4.753590)
+picked USER>>REV100 (-4.709530)
+picked USER>>REV101 (-4.709530)
+picked USER>>REV104 (-4.663439)
+picked USER>>REV105 (-4.736198)
+picked USER>>REV106 (-4.700480)
+picked USER>>REV145 (-4.700480)
+picked USER>>REV107 (-4.718499)
+picked USER>>REV108 (-4.672829)
+picked USER>>REV109 (-4.682131)
+picked USER>>REV115 (-4.691348)
+picked USER>>REV116 (-4.653960)
+picked USER>>REV117 (-4.700480)
+picked USER>>REV118 (-4.691348)
+picked USER>>REV121 (-4.700480)
+picked USER>>REV126 (-4.718499)
+picked USER>>REV122 (-4.682131)
+picked USER>>REV125 (-4.718499)
+picked USER>>REV127 (-4.691348)
+picked USER>>REV129 (-4.709530)
+picked USER>>REV130 (-4.770685)
+picked USER>>REV132 (-4.700480)
+picked USER>>REV133 (-4.753590)
+picked USER>>REV135 (-4.709530)
+picked USER>>REV137 (-4.700480)
+picked USER>>REV138 (-4.700480)
+picked USER>>REV139 (-4.691348)
+picked USER>>REV140 (-4.682131)
+picked USER>>REV141 (-4.709530)
+picked USER>>REV142 (-4.682131)
+picked USER>>REV147 (-4.762174)
+picked USER>>REV148 (-4.718499)
+picked USER>>REV188 (-4.691348)
+picked USER>>REV177 (-4.672829)
+picked USER>>REV215 (-4.672829)
+picked USER>>REV213 (-4.672829)
+picked USER>>REV217 (-4.700480)
+picked USER>>REV218 (-4.700480)
+picked USER>>REV290 (-4.682131)
+picked USER>>REV278 (-4.663439)
+picked USER>>REV171 (-4.700480)
+picked USER>>REV237 (-4.672829)
+picked USER>>REV252 (-4.672829)
+picked USER>>REV273 (-4.672829)
+picked USER>>REV292 (-4.672829)
+picked USER>>REV250 (-4.682131)
+picked USER>>REV248 (-4.672829)
+picked USER>>REV169 (-4.672829)
+picked USER>>REV249 (-4.700480)
+picked USER>>REV150 (-4.700480)
+picked USER>>REV284 (-4.682131)
+picked USER>>REV209 (-4.682131)
+picked USER>>REV243 (-4.682131)
+picked USER>>REV185 (-4.682131)
+picked USER>>REV151 (-4.672829)
+picked USER>>REV192 (-4.682131)
+picked USER>>REV153 (-4.682131)
+picked USER>>REV189 (-4.691348)
+picked USER>>REV152 (-4.744932)
+picked USER>>REV154 (-4.700480)
+picked USER>>REV155 (-4.691348)
+picked USER>>REV156 (-4.736198)
+picked USER>>REV158 (-4.672829)
+picked USER>>REV159 (-4.727388)
+picked USER>>REV160 (-4.682131)
+picked USER>>REV161 (-4.812184)
+picked USER>>REV162 (-4.727388)
+picked USER>>REV163 (-4.709530)
+picked USER>>REV164 (-4.691348)
+picked USER>>REV234 (-4.682131)
+picked USER>>REV241 (-4.672829)
+picked USER>>REV165 (-4.672829)
+picked USER>>REV166 (-4.682131)
+picked USER>>REV167 (-4.700480)
+picked USER>>REV168 (-4.718499)
+picked USER>>REV240 (-4.727388)
+picked USER>>REV170 (-4.718499)
+picked USER>>REV172 (-4.672829)
+picked USER>>REV174 (-4.663439)
+picked USER>>REV175 (-4.700480)
+picked USER>>REV176 (-4.709530)
+picked USER>>REV178 (-4.867535)
+picked USER>>REV244 (-4.691348)
+picked USER>>REV255 (-4.691348)
+picked USER>>REV257 (-4.700480)
+picked USER>>REV268 (-4.700480)
+picked USER>>REV179 (-4.709530)
+picked USER>>REV180 (-4.682131)
+picked USER>>REV181 (-4.753590)
+picked USER>>REV182 (-4.727388)
+picked USER>>REV183 (-4.736198)
+picked USER>>REV225 (-4.700480)
+picked USER>>REV261 (-4.744932)
+picked USER>>REV200 (-4.744932)
+picked USER>>REV223 (-4.700480)
+picked USER>>REV274 (-4.744932)
+picked USER>>REV201 (-4.700480)
+picked USER>>REV184 (-4.700480)
+picked USER>>REV220 (-4.718499)
+picked USER>>REV186 (-4.753590)
+picked USER>>REV198 (-4.727388)
+picked USER>>REV187 (-4.718499)
+picked USER>>REV190 (-4.691348)
+picked USER>>REV191 (-4.787492)
+picked USER>>REV193 (-4.682131)
+picked USER>>REV194 (-4.753590)
+picked USER>>REV195 (-4.691348)
+picked USER>>REV196 (-4.682131)
+picked USER>>REV197 (-4.653960)
+picked USER>>REV199 (-4.653960)
+picked USER>>REV202 (-4.700480)
+picked USER>>REV203 (-4.727388)
+picked USER>>REV204 (-4.700480)
+picked USER>>REV205 (-4.787492)
+picked USER>>REV206 (-4.672829)
+picked USER>>REV287 (-4.653960)
+picked USER>>REV239 (-4.672829)
+picked USER>>REV251 (-4.682131)
+picked USER>>REV207 (-4.691348)
+picked USER>>REV227 (-4.691348)
+picked USER>>REV253 (-4.691348)
+picked USER>>REV208 (-4.700480)
+picked USER>>REV211 (-4.672829)
+picked USER>>REV212 (-4.672829)
+picked USER>>REV214 (-4.644391)
+picked USER>>REV216 (-4.691348)
+picked USER>>REV219 (-4.700480)
+picked USER>>REV221 (-4.709530)
+picked USER>>REV222 (-4.709530)
+picked USER>>REV226 (-4.700480)
+picked USER>>REV228 (-4.672829)
+picked USER>>REV229 (-4.672829)
+picked USER>>REV230 (-4.844187)
+picked USER>>REV231 (-4.672829)
+picked USER>>REV232 (-4.700480)
+picked USER>>REV233 (-4.700480)
+picked USER>>REV235 (-4.691348)
+picked USER>>REV236 (-4.682131)
+picked USER>>REV238 (-4.672829)
+picked USER>>REV242 (-4.682131)
+picked USER>>REV245 (-4.682131)
+picked USER>>REV246 (-4.744932)
+picked USER>>REV247 (-4.682131)
+picked USER>>REV254 (-4.736198)
+picked USER>>REV294 (-4.682131)
+picked USER>>REV283 (-4.653960)
+picked USER>>REV258 (-4.795791)
+picked USER>>REV259 (-4.682131)
+picked USER>>REV260 (-4.700480)
+picked USER>>REV262 (-4.700480)
+picked USER>>REV263 (-4.804021)
+picked USER>>REV264 (-4.700480)
+picked USER>>REV265 (-4.663439)
+picked USER>>REV266 (-4.682131)
+picked USER>>REV267 (-4.653960)
+picked USER>>REV269 (-4.700480)
+picked USER>>REV270 (-4.663439)
+picked USER>>REV271 (-4.682131)
+picked USER>>REV272 (-4.709530)
+picked USER>>REV275 (-4.770685)
+picked USER>>REV276 (-4.700480)
+picked USER>>REV277 (-4.691348)
+picked USER>>REV280 (-4.682131)
+picked USER>>REV281 (-4.709530)
+picked USER>>REV282 (-4.682131)
+picked USER>>REV285 (-4.820282)
+picked USER>>REV286 (-4.718499)
+picked USER>>REV288 (-4.682131)
+picked USER>>REV289 (-4.672829)
+picked USER>>REV291 (-4.727388)
+picked USER>>REV293 (-4.709530)
+picked USER>>REV295 (-4.812184)
+picked USER>>REV296 (-4.753590)
+picked USER>>REV297 (-4.709530)
+picked USER>>REV298 (-4.700480)
+picked USER>>REV299 (-4.779123)
+picked USER>>REV300 (-4.682131)
+ kept = 578

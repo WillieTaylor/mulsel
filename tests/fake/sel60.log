@@ -1,0 +1,1124 @@
+ seedlen = 0 lowscore = 0
+Mutation Data Matrix (120 PAMs)
+ARNDCQEGHILKMFPSTWYVBZX
+matrix constant = 8
+Residue identity scores 10
+ARNDCQEGHILKMFPSTWYVBZX
+matrix constant = 0
+
+92680 sequences to be read in length range 20 -> 2000
+
+Calculating peptide table based on length 3
+Reading user file of seq.s: final.seq
+ user_in = 1
+End of user sequences
+282 sequences read into 282 blocks, (282 are keyed)
+
+
+ ****** CYCLE 0 ******
+Minimum score held = 1
+Top 1 scores held per sequence
+Sequences in the range 1<Dij<283 scored
+Adjacent sequences scored with bonus of 0
+1486 pairs found this pass, 0 previously collected
+pre_order  malloc OK
+reorder  malloc OK done
+ new block malloc OK
+cluster_pairs total list_alloc = 120
+pack_lists 281/282 blocks moved
+
+New sequence order is:
+* Block 0 <--- 1	USER>>seqR248	   73   [+124+] R family seq 248  0.249431 54 R
+* Block 1 <=== 282	USER>>seqM4	   74   [+5+] M family seq 4  0.841193 74 M
+* Block 2 <=== 191	USER>>seqM142	   74   [+28+] M family seq 142  0.939346 67 M
+* Block 3 <=== 60	USER>>seqM183	   74   [+91+] M family seq 183  0.475497 62 M
+* Block 4 <=== 58	USER>>seqM319	   77   [+32+] M family seq 319  0.377089 36 M
+* Block 5 <=== 192	USER>>seqM320	   77   [+129+] M family seq 320  0.672845 36 M
+* Block 6 <=== 59	USER>>seqM295	   75   [+69+] M family seq 295  0.215645 41 M
+* Block 7 <=== 193	USER>>seqM371	   78   [+11+] M family seq 371  0.985035 34 M
+* Block 8 <=== 57	USER>>seqM403	   76   [+33+] M family seq 403  0.137588 34 M
+* Block 9 <=== 196	USER>>seqM425	   76   [+15+] M family seq 425  0.923735 34 M
+* Block 10 <=== 197	USER>>seqM444	   79   [+18+] M family seq 444  0.867246 34 M
+* Block 11 <=== 54	USER>>seqM586	   75   [+9+] M family seq 586  0.464339 35 M
+* Block 12 <=== 194	USER>>seqM592	   74   [+8+] M family seq 592  0.507629 34 M
+* Block 13 <=== 55	USER>>seqM560	   75   [+13+] M family seq 560  0.067152 34 M
+* Block 14 <=== 56	USER>>seqM501	   80   [+17+] M family seq 501  0.326235 34 M
+* Block 15 <=== 195	USER>>seqM496	   82   [+29+] M family seq 496  0.739964 34 M
+* Block 16 <=== 169	USER>>seqR249	   73   [+145+] R family seq 249  0.807487 53 R
+* Block 17 <=== 7	USER>>seqR584	   82   [+8+] R family seq 584  0.331488 34 R
+* Block 18 <=== 170	USER>>seqR550	   80   [+28+] R family seq 550  0.518432 34 R
+* Block 19 <=== 6	USER>>seqR533	   77   [+6+] R family seq 533  0.248142 34 R
+* Block 20 <=== 171	USER>>seqR521	   76   [+9+] R family seq 521  0.976760 34 R
+* Block 21 <=== 5	USER>>seqR478	   77   [+15+] R family seq 478  0.339911 34 R
+* Block 22 <=== 4	USER>>seqR456	   80   [+13+] R family seq 456  0.058337 36 R
+* Block 23 <=== 174	USER>>seqR449	   78   [+17+] R family seq 449  0.832346 34 R
+* Block 24 <=== 175	USER>>seqR432	   78   [+16+] R family seq 432  0.712630 34 R
+* Block 25 <=== 3	USER>>seqR405	   78   [+30+] R family seq 405  0.134610 34 R
+* Block 26 <=== 173	USER>>seqR385	   80   [+12+] R family seq 385  0.584731 34 R
+* Block 27 <=== 2	USER>>seqR310	   76   [+45+] R family seq 310  0.407382 37 R
+* Block 28 <=== 172	USER>>seqR302	   76   [+20+] R family seq 302  0.843335 37 R
+* Block 29 <=== 69	USER>>seqQ293	   77   [+58+] Q family seq 293  0.031794 39 Q
+* Block 30 <=== 161	USER>>seqQ288	   77   [+105+] Q family seq 288  0.672419 40 Q
+* Block 31 <=== 68	USER>>seqQ252	   77   [+25+] Q family seq 252  0.355187 45 Q
+* Block 32 <=== 160	USER>>seqQ361	   75   [+7+] Q family seq 361  0.546553 34 Q
+* Block 33 <=== 70	USER>>seqQ385	   72   [+8+] Q family seq 385  0.492381 34 Q
+* Block 34 <=== 72	USER>>seqQ425	   71   [+18+] Q family seq 425  0.147808 34 Q
+* Block 35 <=== 159	USER>>seqQ424	   71   [+22+] Q family seq 424  0.922540 34 Q
+* Block 36 <=== 71	USER>>seqQ496	   74   [+26+] Q family seq 496  0.341157 35 Q
+* Block 37 <=== 158	USER>>seqQ523	   76   [+33+] Q family seq 523  0.995063 34 Q
+* Block 38 <=== 157	USER>>seqQ566	   74   [+14+] Q family seq 566  0.596655 34 Q
+* Block 39 <=== 73	USER>>seqQ568	   74   [+13+] Q family seq 568  0.260604 34 Q
+* Block 40 <=== 53	USER>>seqQ146	   74   [+68+] Q family seq 146  0.150465 62 Q
+* Block 41 <=== 162	USER>>seqQ141	   74   [+93+] Q family seq 141  0.541058 63 Q
+* Block 42 <=== 16	USER>>seqH6	   71   [+4+] H family seq 6  0.104161 71 H
+* Block 43 <=== 190	USER>>seqY146	   74   [+116+] Y family seq 146  0.678498 64 Y
+* Block 44 <=== 8	USER>>seqY182	   75   [+99+] Y family seq 182  0.259102 60 Y
+* Block 45 <=== 203	USER>>seqY300	   69   [+61+] Y family seq 300  0.824651 40 Y
+* Block 46 <=== 9	USER>>seqY294	   72   [+72+] Y family seq 294  0.386949 41 Y
+* Block 47 <=== 10	USER>>seqY359	   67   [+19+] Y family seq 359  0.257232 34 Y
+* Block 48 <=== 202	USER>>seqY398	   64   [+18+] Y family seq 398  0.882268 34 Y
+* Block 49 <=== 11	USER>>seqY435	   61   [+19+] Y family seq 435  0.022311 34 Y
+* Block 50 <=== 201	USER>>seqY445	   63   [+15+] Y family seq 445  0.917127 34 Y
+* Block 51 <=== 200	USER>>seqY478	   66   [+5+] Y family seq 478  0.733114 34 Y
+* Block 52 <=== 12	USER>>seqY511	   71   [+15+] Y family seq 511  0.195760 34 Y
+* Block 53 <=== 199	USER>>seqY526	   74   [+28+] Y family seq 526  0.926420 34 Y
+* Block 54 <=== 13	USER>>seqY549	   75   [+11+] Y family seq 549  0.122171 34 Y
+* Block 55 <=== 14	USER>>seqY559	   74   [+3+] Y family seq 559  0.011808 34 Y
+* Block 56 <=== 198	USER>>seqY565	   76   [+12+] Y family seq 565  0.879514 34 Y
+* Block 57 <=== 15	USER>>seqY579	   76   [+9+] Y family seq 579  0.350136 34 Y
+* Block 58 <=== 155	USER>>seqG573	   64   [+16+] G family seq 573  0.598646 34 G
+* Block 59 <=== 156	USER>>seqG594	   65   [+2+] G family seq 594  0.824516 34 G
+* Block 60 <=== 138	USER>>seqG596	   66   [+24+] G family seq 596  0.488609 34 G
+* Block 61 <=== 154	USER>>seqG494	   69   [+21+] G family seq 494  0.588689 34 G
+* Block 62 <=== 139	USER>>seqG468	   66   [+27+] G family seq 468  0.229454 35 G
+* Block 63 <=== 140	USER>>seqG445	   69   [+30+] G family seq 445  0.922953 35 G
+* Block 64 <=== 141	USER>>seqG334	   76   [+34+] G family seq 334  0.523057 34 G
+* Block 65 <=== 142	USER>>seqG324	   75   [+26+] G family seq 324  0.233077 34 G
+* Block 66 <=== 153	USER>>seqG302	   72   [+27+] G family seq 302  0.590829 36 G
+* Block 67 <=== 143	USER>>seqG260	   71   [+78+] G family seq 260  0.721197 44 G
+* Block 68 <=== 144	USER>>seqG186	   73   [+200+] G family seq 186  0.352432 53 G
+* Block 69 <=== 242	USER>>seqL111	   75   [+101+] L family seq 111  0.599722 68 L
+* Block 70 <=== 17	USER>>seqL103	   75   [+103+] L family seq 103  0.184408 68 L
+* Block 71 <=== 18	USER>>seqL220	   77   [+6+] L family seq 220  0.472085 49 L
+* Block 72 <=== 240	USER>>seqL222	   77   [+45+] L family seq 222  0.928954 48 L
+* Block 73 <=== 19	USER>>seqL286	   75   [+72+] L family seq 286  0.100620 39 L
+* Block 74 <=== 235	USER>>seqL331	   74   [+29+] L family seq 331  0.960314 34 L
+* Block 75 <=== 20	USER>>seqL387	   72   [+15+] L family seq 387  0.219154 34 L
+* Block 76 <=== 234	USER>>seqL395	   69   [+25+] L family seq 395  0.575494 35 L
+* Block 77 <=== 21	USER>>seqL436	   70   [+22+] L family seq 436  0.043046 35 L
+* Block 78 <=== 236	USER>>seqL473	   69   [+12+] L family seq 473  0.774191 34 L
+* Block 79 <=== 237	USER>>seqL502	   72   [+7+] L family seq 502  0.828904 34 L
+* Block 80 <=== 22	USER>>seqL516	   68   [+10+] L family seq 516  0.280255 34 L
+* Block 81 <=== 238	USER>>seqL527	   70   [+5+] L family seq 527  0.800939 34 L
+* Block 82 <=== 23	USER>>seqL547	   68   [+3+] L family seq 547  0.168878 34 L
+* Block 83 <=== 239	USER>>seqL549	   67   [+10+] L family seq 549  0.650211 34 L
+* Block 84 <=== 24	USER>>seqL587	   72   [+6+] L family seq 587  0.030079 34 L
+* Block 85 <=== 241	USER>>seqL584	   70   [+16+] L family seq 584  0.776074 34 L
+* Block 86 <=== 122	USER>>seqG15	   71   [+3+] G family seq 15  0.197040 71 G
+* Block 87 <=== 225	USER>>seqE569	   79   [+7+] E family seq 569  0.762539 34 E
+* Block 88 <=== 44	USER>>seqE567	   78   [+15+] E family seq 567  0.220260 34 E
+* Block 89 <=== 226	USER>>seqE546	   73   [+42+] E family seq 546  0.736352 35 E
+* Block 90 <=== 45	USER>>seqE535	   72   [+12+] E family seq 535  0.243456 35 E
+* Block 91 <=== 43	USER>>seqE495	   76   [+8+] E family seq 495  0.025371 34 E
+* Block 92 <=== 42	USER>>seqE458	   75   [+19+] E family seq 458  0.441394 34 E
+* Block 93 <=== 227	USER>>seqE436	   76   [+22+] E family seq 436  0.829862 35 E
+* Block 94 <=== 41	USER>>seqE396	   76   [+24+] E family seq 396  0.223897 34 E
+* Block 95 <=== 40	USER>>seqE356	   77   [+12+] E family seq 356  0.093601 35 E
+* Block 96 <=== 228	USER>>seqE352	   77   [+36+] E family seq 352  0.645884 35 E
+* Block 97 <=== 39	USER>>seqE319	   78   [+19+] E family seq 319  0.442222 34 E
+* Block 98 <=== 38	USER>>seqE198	   75   [+139+] E family seq 198  0.262989 51 E
+* Block 99 <=== 224	USER>>seqE188	   76   [+142+] E family seq 188  0.606392 53 E
+* Block 100 <=== 216	USER>>seqV185	   73   [+109+] V family seq 185  0.756888 49 V
+* Block 101 <=== 25	USER>>seqV186	   73   [+104+] V family seq 186  0.312785 49 V
+* Block 102 <=== 223	USER>>seqV238	   69   [+38+] V family seq 238  0.956182 39 V
+* Block 103 <=== 28	USER>>seqV284	   68   [+35+] V family seq 284  0.208706 34 V
+* Block 104 <=== 222	USER>>seqV336	   72   [+10+] V family seq 336  0.612700 35 V
+* Block 105 <=== 221	USER>>seqV363	   70   [+16+] V family seq 363  0.637840 34 V
+* Block 106 <=== 29	USER>>seqV364	   70   [+21+] V family seq 364  0.098976 34 V
+* Block 107 <=== 31	USER>>seqV455	   71   [+56+] V family seq 455  0.174843 34 V
+* Block 108 <=== 220	USER>>seqV453	   71   [+21+] V family seq 453  0.613046 34 V
+* Block 109 <=== 219	USER>>seqV510	   71   [+7+] V family seq 510  0.599430 35 V
+* Block 110 <=== 30	USER>>seqV553	   68   [+10+] V family seq 553  0.228013 34 V
+* Block 111 <=== 218	USER>>seqV571	   69   [+22+] V family seq 571  0.592349 35 V
+* Block 112 <=== 27	USER>>seqV582	   68   [+4+] V family seq 582  0.398476 34 V
+* Block 113 <=== 217	USER>>seqV593	   71   [+0+] V family seq 593  0.941969 36 V
+* Block 114 <=== 26	USER>>seqV599	   73   [+2+] V family seq 599  0.379219 35 V
+* Block 115 <=== 123	USER>>seqS174	   77   [+90+] S family seq 174  0.464162 62 S
+* Block 116 <=== 209	USER>>seqS275	   76   [+177+] S family seq 275  0.542830 38 S
+* Block 117 <=== 125	USER>>seqS277	   77   [+48+] S family seq 277  0.473452 38 S
+* Block 118 <=== 208	USER>>seqS320	   75   [+4+] S family seq 320  0.810463 34 S
+* Block 119 <=== 130	USER>>seqS337	   78   [+24+] S family seq 337  0.117325 34 S
+* Block 120 <=== 207	USER>>seqS597	   71   [+2+] S family seq 597  0.641004 34 S
+* Block 121 <=== 124	USER>>seqS596	   71   [+5+] S family seq 596  0.208141 34 S
+* Block 122 <=== 129	USER>>seqS400	   80   [+2+] S family seq 400  0.419730 34 S
+* Block 123 <=== 205	USER>>seqS428	   80   [+31+] S family seq 428  0.699461 34 S
+* Block 124 <=== 126	USER>>seqS572	   73   [+10+] S family seq 572  0.480208 35 S
+* Block 125 <=== 206	USER>>seqS533	   72   [+12+] S family seq 533  0.578854 34 S
+* Block 126 <=== 127	USER>>seqS521	   74   [+6+] S family seq 521  0.398704 34 S
+* Block 127 <=== 128	USER>>seqS488	   77   [+22+] S family seq 488  0.072931 34 S
+* Block 128 <=== 204	USER>>seqS487	   78   [+21+] S family seq 487  0.654762 34 S
+* Block 129 <=== 184	USER>>seqK126	   76   [+101+] K family seq 126  0.972713 66 K
+* Block 130 <=== 121	USER>>seqK160	   72   [+111+] K family seq 160  0.340330 58 K
+* Block 131 <=== 120	USER>>seqK250	   64   [+66+] K family seq 250  0.346427 38 K
+* Block 132 <=== 188	USER>>seqK279	   66   [+53+] K family seq 279  0.500459 37 K
+* Block 133 <=== 185	USER>>seqK598	   80   [+2+] K family seq 598  0.558101 34 K
+* Block 134 <=== 115	USER>>seqK588	   81   [+3+] K family seq 588  0.328365 34 K
+* Block 135 <=== 186	USER>>seqK569	   77   [+25+] K family seq 569  0.590048 34 K
+* Block 136 <=== 116	USER>>seqK560	   76   [+11+] K family seq 560  0.265303 34 K
+* Block 137 <=== 117	USER>>seqK508	   73   [+17+] K family seq 508  0.065991 34 K
+* Block 138 <=== 118	USER>>seqK467	   75   [+12+] K family seq 467  0.303712 35 K
+* Block 139 <=== 187	USER>>seqK465	   75   [+21+] K family seq 465  0.732462 35 K
+* Block 140 <=== 119	USER>>seqK406	   77   [+35+] K family seq 406  0.255981 34 K
+* Block 141 <=== 189	USER>>seqK407	   77   [+40+] K family seq 407  0.941133 34 K
+* Block 142 <=== 35	USER>>seqI421	   73   [+10+] I family seq 421  0.380058 34 I
+* Block 143 <=== 177	USER>>seqI422	   73   [+11+] I family seq 422  0.704871 34 I
+* Block 144 <=== 178	USER>>seqI439	   73   [+4+] I family seq 439  0.880769 34 I
+* Block 145 <=== 179	USER>>seqI485	   76   [+35+] I family seq 485  0.810852 34 I
+* Block 146 <=== 36	USER>>seqI491	   76   [+40+] I family seq 491  0.302640 34 I
+* Block 147 <=== 33	USER>>seqI374	   71   [+20+] I family seq 374  0.487640 35 I
+* Block 148 <=== 176	USER>>seqI373	   71   [+11+] I family seq 373  0.740137 35 I
+* Block 149 <=== 180	USER>>seqI333	   69   [+5+] I family seq 333  0.623021 34 I
+* Block 150 <=== 34	USER>>seqI307	   71   [+33+] I family seq 307  0.458374 34 I
+* Block 151 <=== 182	USER>>seqI300	   69   [+12+] I family seq 300  0.504948 35 I
+* Block 152 <=== 32	USER>>seqI253	   70   [+130+] I family seq 253  0.055322 45 I
+* Block 153 <=== 181	USER>>seqI579	   76   [+17+] I family seq 579  0.691927 35 I
+* Block 154 <=== 37	USER>>seqI596	   77   [+18+] I family seq 596  0.334514 34 I
+* Block 155 <=== 183	USER>>seqI206	   71   [+139+] I family seq 206  0.907738 56 I
+* Block 156 <=== 97	USER>>seqA558	   81   [+18+] A family seq 558  0.436705 34 A
+* Block 157 <=== 273	USER>>seqA542	   81   [+32+] A family seq 542  0.959593 34 A
+* Block 158 <=== 96	USER>>seqA583	   78   [+4+] A family seq 583  0.008073 34 A
+* Block 159 <=== 272	USER>>seqA488	   77   [+9+] A family seq 488  0.988199 34 A
+* Block 160 <=== 98	USER>>seqA485	   76   [+20+] A family seq 485  0.323515 35 A
+* Block 161 <=== 271	USER>>seqA468	   72   [+8+] A family seq 468  0.503081 34 A
+* Block 162 <=== 99	USER>>seqA446	   70   [+21+] A family seq 446  0.431111 34 A
+* Block 163 <=== 270	USER>>seqA425	   76   [+6+] A family seq 425  0.828691 34 A
+* Block 164 <=== 269	USER>>seqA394	   74   [+20+] A family seq 394  0.966637 34 A
+* Block 165 <=== 100	USER>>seqA395	   74   [+14+] A family seq 395  0.374828 34 A
+* Block 166 <=== 268	USER>>seqA342	   68   [+8+] A family seq 342  0.625822 34 A
+* Block 167 <=== 101	USER>>seqA307	   68   [+67+] A family seq 307  0.014872 36 A
+* Block 168 <=== 267	USER>>seqA296	   70   [+47+] A family seq 296  0.917514 36 A
+* Block 169 <=== 266	USER>>seqA213	   71   [+26+] A family seq 213  0.534337 46 A
+* Block 170 <=== 95	USER>>seqA206	   72   [+115+] A family seq 206  0.477643 49 A
+* Block 171 <=== 265	USER>>seqA148	   72   [+70+] A family seq 148  0.720010 61 A
+* Block 172 <=== 210	USER>>seqF594	   77   [+23+] F family seq 594  0.994668 34 F
+* Block 173 <=== 46	USER>>seqF582	   76   [+8+] F family seq 582  0.420513 34 F
+* Block 174 <=== 211	USER>>seqF543	   75   [+3+] F family seq 543  0.678324 34 F
+* Block 175 <=== 47	USER>>seqF523	   71   [+23+] F family seq 523  0.354857 34 F
+* Block 176 <=== 212	USER>>seqF511	   69   [+21+] F family seq 511  0.662136 34 F
+* Block 177 <=== 48	USER>>seqF481	   68   [+15+] F family seq 481  0.281754 34 F
+* Block 178 <=== 213	USER>>seqF476	   70   [+7+] F family seq 476  0.529971 34 F
+* Block 179 <=== 49	USER>>seqF456	   74   [+18+] F family seq 456  0.420086 34 F
+* Block 180 <=== 50	USER>>seqF385	   80   [+19+] F family seq 385  0.285432 34 F
+* Block 181 <=== 214	USER>>seqF351	   79   [+70+] F family seq 351  0.790562 34 F
+* Block 182 <=== 51	USER>>seqF291	   75   [+73+] F family seq 291  0.106796 44 F
+* Block 183 <=== 215	USER>>seqF277	   74   [+151+] F family seq 277  0.553832 50 F
+* Block 184 <=== 52	USER>>seqF144	   74   [+76+] F family seq 144  0.119383 66 F
+* Block 185 <=== 105	USER>>seqC504	   65   [+13+] C family seq 504  0.254651 34 C
+* Block 186 <=== 256	USER>>seqC503	   65   [+18+] C family seq 503  0.590339 34 C
+* Block 187 <=== 104	USER>>seqC529	   65   [+17+] C family seq 529  0.099586 34 C
+* Block 188 <=== 257	USER>>seqC552	   66   [+8+] C family seq 552  0.563624 35 C
+* Block 189 <=== 258	USER>>seqC587	   62   [+4+] C family seq 587  0.635462 34 C
+* Block 190 <=== 103	USER>>seqC597	   64   [+10+] C family seq 597  0.324047 34 C
+* Block 191 <=== 106	USER>>seqC458	   67   [+4+] C family seq 458  0.034871 34 C
+* Block 192 <=== 255	USER>>seqC459	   67   [+9+] C family seq 459  0.604425 34 C
+* Block 193 <=== 107	USER>>seqC448	   71   [+12+] C family seq 448  0.278246 35 C
+* Block 194 <=== 254	USER>>seqC403	   71   [+22+] C family seq 403  0.867836 34 C
+* Block 195 <=== 108	USER>>seqC397	   72   [+11+] C family seq 397  0.392367 34 C
+* Block 196 <=== 253	USER>>seqC329	   68   [+25+] C family seq 329  0.638895 40 C
+* Block 197 <=== 109	USER>>seqC328	   68   [+86+] C family seq 328  0.314921 40 C
+* Block 198 <=== 252	USER>>seqC293	   66   [+30+] C family seq 293  0.515560 45 C
+* Block 199 <=== 102	USER>>seqC129	   71   [+117+] C family seq 129  0.465855 63 C
+* Block 200 <=== 251	USER>>seqC130	   71   [+101+] C family seq 130  0.654754 63 C
+* Block 201 <=== 65	USER>>seqP523	   76   [+9+] P family seq 523  0.374234 34 P
+* Block 202 <=== 280	USER>>seqP522	   76   [+17+] P family seq 522  0.565307 34 P
+* Block 203 <=== 279	USER>>seqP538	   74   [+11+] P family seq 538  0.715933 35 P
+* Block 204 <=== 62	USER>>seqP573	   72   [+11+] P family seq 573  0.389968 34 P
+* Block 205 <=== 276	USER>>seqP593	   70   [+3+] P family seq 593  0.700561 34 P
+* Block 206 <=== 281	USER>>seqP460	   75   [+12+] P family seq 460  0.540639 34 P
+* Block 207 <=== 64	USER>>seqP444	   75   [+25+] P family seq 444  0.160706 34 P
+* Block 208 <=== 278	USER>>seqP417	   72   [+1+] P family seq 417  0.629880 35 P
+* Block 209 <=== 277	USER>>seqP394	   72   [+38+] P family seq 394  0.884624 34 P
+* Block 210 <=== 66	USER>>seqP389	   72   [+18+] P family seq 389  0.365891 35 P
+* Block 211 <=== 67	USER>>seqP338	   71   [+29+] P family seq 338  0.353133 34 P
+* Block 212 <=== 275	USER>>seqP302	   69   [+30+] P family seq 302  0.911379 35 P
+* Block 213 <=== 63	USER>>seqP262	   68   [+55+] P family seq 262  0.416650 41 P
+* Block 214 <=== 274	USER>>seqP222	   69   [+143+] P family seq 222  0.835917 49 P
+* Block 215 <=== 61	USER>>seqP113	   69   [+75+] P family seq 113  0.286514 64 P
+* Block 216 <=== 86	USER>>seqW419	   76   [+13+] W family seq 419  0.336893 34 W
+* Block 217 <=== 149	USER>>seqW425	   75   [+17+] W family seq 425  0.632156 34 W
+* Block 218 <=== 87	USER>>seqW451	   71   [+10+] W family seq 451  0.236469 34 W
+* Block 219 <=== 85	USER>>seqW382	   74   [+11+] W family seq 382  0.256349 34 W
+* Block 220 <=== 148	USER>>seqW373	   75   [+25+] W family seq 373  0.721766 34 W
+* Block 221 <=== 147	USER>>seqW338	   72   [+10+] W family seq 338  0.927266 34 W
+* Block 222 <=== 84	USER>>seqW322	   71   [+20+] W family seq 322  0.452142 34 W
+* Block 223 <=== 146	USER>>seqW293	   69   [+27+] W family seq 293  0.987395 35 W
+* Block 224 <=== 83	USER>>seqW285	   67   [+16+] W family seq 285  0.467573 35 W
+* Block 225 <=== 82	USER>>seqW225	   72   [+112+] W family seq 225  0.335921 50 W
+* Block 226 <=== 88	USER>>seqW493	   73   [+11+] W family seq 493  0.257220 35 W
+* Block 227 <=== 150	USER>>seqW499	   74   [+23+] W family seq 499  0.878548 35 W
+* Block 228 <=== 151	USER>>seqW555	   74   [+13+] W family seq 555  0.907456 34 W
+* Block 229 <=== 89	USER>>seqW589	   76   [+23+] W family seq 589  0.346761 34 W
+* Block 230 <=== 152	USER>>seqW592	   76   [+9+] W family seq 592  0.707761 34 W
+* Block 231 <=== 145	USER>>seqW152	   74   [+143+] W family seq 152  0.836530 63 W
+* Block 232 <=== 250	USER>>seqT4	   77   [+6+] T family seq 4  0.994503 77 T
+* Block 233 <=== 137	USER>>seqN196	   72   [+90+] N family seq 196  0.166381 58 N
+* Block 234 <=== 259	USER>>seqN233	   72   [+115+] N family seq 233  0.791476 48 N
+* Block 235 <=== 136	USER>>seqN270	   71   [+70+] N family seq 270  0.342983 40 N
+* Block 236 <=== 263	USER>>seqN274	   71   [+38+] N family seq 274  0.704029 39 N
+* Block 237 <=== 135	USER>>seqN344	   68   [+12+] N family seq 344  0.396160 34 N
+* Block 238 <=== 264	USER>>seqN358	   69   [+21+] N family seq 358  0.863096 35 N
+* Block 239 <=== 134	USER>>seqN378	   72   [+18+] N family seq 378  0.443643 35 N
+* Block 240 <=== 262	USER>>seqN398	   76   [+16+] N family seq 398  0.771562 34 N
+* Block 241 <=== 133	USER>>seqN434	   76   [+24+] N family seq 434  0.433294 34 N
+* Block 242 <=== 261	USER>>seqN452	   77   [+28+] N family seq 452  0.715573 34 N
+* Block 243 <=== 131	USER>>seqN525	   78   [+31+] N family seq 525  0.096088 34 N
+* Block 244 <=== 260	USER>>seqN526	   78   [+29+] N family seq 526  0.608232 34 N
+* Block 245 <=== 132	USER>>seqN555	   78   [+20+] N family seq 555  0.407952 34 N
+* Block 246 <=== 164	USER>>seqD285	   72   [+60+] D family seq 285  0.672525 39 D
+* Block 247 <=== 91	USER>>seqD275	   73   [+60+] D family seq 275  0.198321 41 D
+* Block 248 <=== 163	USER>>seqD225	   73   [+118+] D family seq 225  0.893346 48 D
+* Block 249 <=== 168	USER>>seqD366	   72   [+18+] D family seq 366  0.965657 34 D
+* Block 250 <=== 92	USER>>seqD431	   74   [+39+] D family seq 431  0.212434 34 D
+* Block 251 <=== 167	USER>>seqD466	   73   [+22+] D family seq 466  0.502613 34 D
+* Block 252 <=== 166	USER>>seqD504	   71   [+8+] D family seq 504  0.550287 34 D
+* Block 253 <=== 93	USER>>seqD493	   71   [+23+] D family seq 493  0.297813 34 D
+* Block 254 <=== 90	USER>>seqD172	   74   [+87+] D family seq 172  0.284442 61 D
+* Block 255 <=== 165	USER>>seqD585	   73   [+13+] D family seq 585  0.813957 34 D
+* Block 256 <=== 94	USER>>seqD578	   75   [+21+] D family seq 578  0.142201 35 D
+* Block 257 <=== 233	USER>>seqH247	   71   [+141+] H family seq 247  0.975217 52 H
+* Block 258 <=== 74	USER>>seqH250	   71   [+127+] H family seq 250  0.053910 52 H
+* Block 259 <=== 77	USER>>seqH334	   68   [+32+] H family seq 334  0.126720 35 H
+* Block 260 <=== 232	USER>>seqH384	   68   [+69+] H family seq 384  0.727204 34 H
+* Block 261 <=== 78	USER>>seqH387	   69   [+7+] H family seq 387  0.038074 34 H
+* Block 262 <=== 231	USER>>seqH402	   69   [+7+] H family seq 402  0.845159 34 H
+* Block 263 <=== 79	USER>>seqH441	   74   [+5+] H family seq 441  0.143196 35 H
+* Block 264 <=== 230	USER>>seqH456	   75   [+29+] H family seq 456  0.689773 34 H
+* Block 265 <=== 80	USER>>seqH480	   77   [+18+] H family seq 480  0.240267 34 H
+* Block 266 <=== 81	USER>>seqH502	   78   [+7+] H family seq 502  0.377985 35 H
+* Block 267 <=== 76	USER>>seqH535	   74   [+16+] H family seq 535  0.239405 35 H
+* Block 268 <=== 229	USER>>seqH554	   74   [+19+] H family seq 554  0.792376 34 H
+* Block 269 <=== 75	USER>>seqH583	   76   [+4+] H family seq 583  0.245497 34 H
+* Block 270 <=== 249	USER>>seqT256	   77   [+131+] T family seq 256  0.880578 50 T
+* Block 271 <=== 110	USER>>seqT254	   77   [+124+] T family seq 254  0.143078 50 T
+* Block 272 <=== 245	USER>>seqT304	   75   [+11+] T family seq 304  0.657275 38 T
+* Block 273 <=== 244	USER>>seqT383	   78   [+53+] T family seq 383  0.548437 34 T
+* Block 274 <=== 111	USER>>seqT425	   76   [+71+] T family seq 425  0.147254 34 T
+* Block 275 <=== 243	USER>>seqT470	   75   [+12+] T family seq 470  0.502816 35 T
+* Block 276 <=== 112	USER>>seqT481	   78   [+19+] T family seq 481  0.047024 34 T
+* Block 277 <=== 246	USER>>seqT498	   80   [+7+] T family seq 498  0.881762 34 T
+* Block 278 <=== 113	USER>>seqT545	   79   [+14+] T family seq 545  0.030469 34 T
+* Block 279 <=== 247	USER>>seqT549	   79   [+29+] T family seq 549  0.851161 34 T
+* Block 280 <=== 114	USER>>seqT599	   76   [+3+] T family seq 599  0.272691 34 T
+* Block 281 <=== 248	USER>>seqT598	   76   [+4+] T family seq 598  0.577838 34 T
+
+('*' = keyed block)
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 0
+ gap_pen = 20 span = 22 window = 30
+ minscore = 680 pepscore = 0 list_limit = 8
+ circles = 0 output = 999 outline = 80
+score_pairs 
+
+average score over cutoff = 810
+
+(226 pairs) cluster_pairs total list_alloc = 120
+pack_lists 
+update_blocks
+      USER>>seqT599
+1000
+      USER>>seqT598
+
+
+      USER>>seqC458
+1000
+      USER>>seqC459
+686
+      USER>>seqC448
+718
+      USER>>seqC403
+957
+      USER>>seqC397
+
+
+      USER>>seqV185
+1000
+      USER>>seqV186
+724
+      USER>>seqV238
+823
+      USER>>seqV284
+794
+      USER>>seqV336
+700
+      USER>>seqV363
+1000
+      USER>>seqV364
+
+
+      USER>>seqN525
+1000
+      USER>>seqN526
+730
+      USER>>seqN555
+
+
+      USER>>seqM295
+800
+      USER>>seqM319
+1000
+      USER>>seqM320
+701
+      USER>>seqM371
+750
+      USER>>seqM403
+868
+      USER>>seqM425
+763
+      USER>>seqM444
+
+
+      USER>>seqI439
+726
+      USER>>seqI421
+1000
+      USER>>seqI422
+
+
+      USER>>seqC329
+1000
+      USER>>seqC328
+
+
+      USER>>seqQ566
+1000
+      USER>>seqQ568
+
+
+      USER>>seqI374
+1000
+      USER>>seqI373
+
+
+      USER>>seqH247
+1000
+      USER>>seqH250
+
+
+      USER>>seqC504
+1000
+      USER>>seqC503
+707
+      USER>>seqC529
+
+
+      USER>>seqP593
+728
+      USER>>seqP573
+750
+      USER>>seqP538
+743
+      USER>>seqP523
+1000
+      USER>>seqP522
+
+
+      USER>>seqQ361
+763
+      USER>>seqQ385
+746
+      USER>>seqQ425
+1000
+      USER>>seqQ424
+
+
+      USER>>seqC129
+1000
+      USER>>seqC130
+
+
+      USER>>seqL111
+1000
+      USER>>seqL103
+706
+      USER>>seqL220
+987
+      USER>>seqL222
+786
+      USER>>seqL286
+
+
+      USER>>seqT304
+706
+      USER>>seqT256
+1000
+      USER>>seqT254
+
+
+      USER>>seqS597
+1000
+      USER>>seqS596
+
+
+      USER>>seqV455
+1000
+      USER>>seqV453
+
+
+      USER>>seqK406
+987
+      USER>>seqK407
+
+
+      USER>>seqQ293
+987
+      USER>>seqQ288
+766
+      USER>>seqQ252
+
+
+      USER>>seqW555
+729
+      USER>>seqW589
+986
+      USER>>seqW592
+
+
+      USER>>seqS275
+986
+      USER>>seqS277
+693
+      USER>>seqS320
+800
+      USER>>seqS337
+
+
+      USER>>seqA488
+960
+      USER>>seqA485
+736
+      USER>>seqA468
+728
+      USER>>seqA446
+742
+      USER>>seqA425
+716
+      USER>>seqA394
+986
+      USER>>seqA395
+
+
+      USER>>seqR248
+986
+      USER>>seqR249
+
+
+      USER>>seqN196
+805
+      USER>>seqN233
+760
+      USER>>seqN270
+985
+      USER>>seqN274
+
+
+      USER>>seqT545
+974
+      USER>>seqT549
+
+
+      USER>>seqS488
+974
+      USER>>seqS487
+
+
+      USER>>seqR310
+973
+      USER>>seqR302
+
+
+      USER>>seqW373
+864
+      USER>>seqW382
+716
+      USER>>seqW419
+973
+      USER>>seqW425
+718
+      USER>>seqW451
+
+
+      USER>>seqQ146
+972
+      USER>>seqQ141
+
+
+      USER>>seqE569
+948
+      USER>>seqE567
+712
+      USER>>seqE546
+972
+      USER>>seqE535
+
+
+      USER>>seqG573
+703
+      USER>>seqG594
+969
+      USER>>seqG596
+
+
+      USER>>seqE198
+960
+      USER>>seqE188
+
+
+      USER>>seqD285
+958
+      USER>>seqD275
+698
+      USER>>seqD225
+767
+      USER>>seqD172
+
+
+      USER>>seqL547
+955
+      USER>>seqL549
+
+
+      USER>>seqH384
+955
+      USER>>seqH387
+840
+      USER>>seqH402
+695
+      USER>>seqH441
+743
+      USER>>seqH456
+706
+      USER>>seqH480
+740
+      USER>>seqH502
+
+
+      USER>>seqD585
+945
+      USER>>seqD578
+
+
+      USER>>seqP460
+800
+      USER>>seqP444
+722
+      USER>>seqP417
+736
+      USER>>seqP394
+944
+      USER>>seqP389
+
+
+      USER>>seqC587
+935
+      USER>>seqC597
+
+
+      USER>>seqK598
+812
+      USER>>seqK588
+714
+      USER>>seqK569
+934
+      USER>>seqK560
+
+
+      USER>>seqK467
+933
+      USER>>seqK465
+
+
+      USER>>seqW493
+931
+      USER>>seqW499
+
+
+      USER>>seqF543
+788
+      USER>>seqF523
+927
+      USER>>seqF511
+
+
+      USER>>seqE495
+720
+      USER>>seqE458
+746
+      USER>>seqE436
+710
+      USER>>seqE396
+723
+      USER>>seqE356
+922
+      USER>>seqE352
+727
+      USER>>seqE319
+
+
+      USER>>seqY435
+918
+      USER>>seqY445
+
+
+      USER>>seqL587
+914
+      USER>>seqL584
+
+
+      USER>>seqI333
+782
+      USER>>seqI307
+913
+      USER>>seqI300
+
+
+      USER>>seqY398
+703
+      USER>>seqY359
+701
+      USER>>seqY300
+913
+      USER>>seqY294
+
+
+      USER>>seqA583
+705
+      USER>>seqA558
+913
+      USER>>seqA542
+
+
+      USER>>seqF481
+911
+      USER>>seqF476
+728
+      USER>>seqF456
+
+
+      USER>>seqM4
+905
+      USER>>seqM142
+878
+      USER>>seqM183
+
+
+      USER>>seqY478
+772
+      USER>>seqY511
+788
+      USER>>seqY526
+729
+      USER>>seqY549
+770
+      USER>>seqY559
+905
+      USER>>seqY565
+815
+      USER>>seqY579
+
+
+      USER>>seqA213
+901
+      USER>>seqA206
+791
+      USER>>seqA148
+
+
+      USER>>seqM501
+900
+      USER>>seqM496
+
+
+      USER>>seqY146
+891
+      USER>>seqY182
+
+
+      USER>>seqM560
+720
+      USER>>seqM586
+891
+      USER>>seqM592
+
+
+      USER>>seqT470
+773
+      USER>>seqT481
+884
+      USER>>seqT498
+
+
+      USER>>seqR478
+779
+      USER>>seqR456
+884
+      USER>>seqR449
+769
+      USER>>seqR432
+782
+      USER>>seqR405
+794
+      USER>>seqR385
+
+
+      USER>>seqL387
+884
+      USER>>seqL395
+
+
+      USER>>seqV553
+779
+      USER>>seqV571
+882
+      USER>>seqV582
+779
+      USER>>seqV593
+873
+      USER>>seqV599
+
+
+      USER>>seqI485
+881
+      USER>>seqI491
+
+
+      USER>>seqW338
+830
+      USER>>seqW322
+753
+      USER>>seqW293
+880
+      USER>>seqW285
+
+
+      USER>>seqK250
+875
+      USER>>seqK279
+
+
+      USER>>seqR584
+762
+      USER>>seqR550
+753
+      USER>>seqR533
+868
+      USER>>seqR521
+
+
+      USER>>seqA342
+750
+      USER>>seqA307
+867
+      USER>>seqA296
+
+
+      USER>>seqG334
+866
+      USER>>seqG324
+805
+      USER>>seqG302
+
+
+      USER>>seqK126
+861
+      USER>>seqK160
+
+
+      USER>>seqD504
+859
+      USER>>seqD493
+
+
+      USER>>seqF385
+848
+      USER>>seqF351
+
+
+      USER>>seqN344
+779
+      USER>>seqN358
+840
+      USER>>seqN378
+763
+      USER>>seqN398
+
+
+      USER>>seqF291
+824
+      USER>>seqF277
+
+
+      USER>>seqS572
+736
+      USER>>seqS533
+819
+      USER>>seqS521
+
+
+      USER>>seqF594
+815
+      USER>>seqF582
+
+
+      USER>>seqL436
+710
+      USER>>seqL473
+695
+      USER>>seqL502
+764
+      USER>>seqL516
+794
+      USER>>seqL527
+
+
+      USER>>seqI579
+789
+      USER>>seqI596
+
+
+      USER>>seqP338
+710
+      USER>>seqP302
+750
+      USER>>seqP262
+779
+      USER>>seqP222
+739
+      USER>>seqP113
+
+
+      USER>>seqN434
+763
+      USER>>seqN452
+
+
+      USER>>seqG260
+760
+      USER>>seqG186
+746
+      USER>>seqG15
+
+
+      USER>>seqG494
+681
+      USER>>seqG468
+757
+      USER>>seqG445
+
+
+      USER>>seqH535
+729
+      USER>>seqH554
+
+
+      USER>>seqQ496
+729
+      USER>>seqQ523
+
+
+      USER>>seqI253
+714
+      USER>>seqI206
+
+
+      USER>>seqS400
+712
+      USER>>seqS428
+
+
+      USER>>seqW225
+708
+      USER>>seqW152
+
+
+      USER>>seqT383
+697
+      USER>>seqT425
+
+
+99 groups ( 85 aligned )
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 0
+ gap_pen = 20 span = 26 window = 34
+ minscore = 640 pepscore = 0 list_limit = 4
+ circles = 0 output = 999 outline = 80
+score_pairs 
+
+average score over cutoff = 660
+
+(4 pairs) cluster_pairs total list_alloc = 20
+pack_lists 
+update_blocks
+     p- USER>>seqC329
+     b- USER>>seqC328
+666
+     -- USER>>seqC293
+666
+     p- USER>>seqC129
+     b- USER>>seqC130
+
+
+     -- USER>>seqD366
+666
+     -- USER>>seqD431
+643
+     -- USER>>seqD466
+
+
+95 groups ( 85 aligned )
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 0
+ gap_pen = 20 span = 30 window = 38
+ minscore = 600 pepscore = 0 list_limit = 2
+ circles = 0 output = 999 outline = 80
+score_pairs 
+
+average score over cutoff = 613
+
+(5 pairs) cluster_pairs total list_alloc = 20
+pack_lists 
+update_blocks
+     ..p- USER>>seqQ496
+     ..b- USER>>seqQ523
+621
+     ..p- USER>>seqQ566
+     ..b- USER>>seqQ568
+
+
+     ..p- USER>>seqF291
+     ..b- USER>>seqF277
+621
+     ---- USER>>seqF144
+
+
+     ..p- USER>>seqR248
+     ..b- USER>>seqR249
+616
+     ..p- USER>>seqR310
+     ..b- USER>>seqR302
+
+
+     ---- USER>>seqK508
+609
+     ..p- USER>>seqK467
+     ..b- USER>>seqK465
+
+
+     ..p- USER>>seqH247
+     ..b- USER>>seqH250
+602
+     ---- USER>>seqH334
+
+
+90 groups ( 83 aligned )
+
+ nblocks = 282 seedblk = 4228440 seedseq = 152244672
+picked USER>>seqR310 (-2.864396)
+picked USER>>seqM183 (-3.218876)
+picked USER>>seqM319 (-4.138680)
+picked USER>>seqM560 (-3.955081)
+picked USER>>seqM496 (-3.496508)
+picked USER>>seqR550 (-3.293123)
+picked USER>>seqR432 (-4.039536)
+picked USER>>seqQ293 (-4.060443)
+picked USER>>seqQ385 (-3.982427)
+picked USER>>seqQ566 (-3.951244)
+picked USER>>seqQ146 (-3.178054)
+picked USER>>seqH6 (0.000000)
+picked USER>>seqY182 (-3.109061)
+picked USER>>seqY359 (-3.238678)
+picked USER>>seqY445 (-3.198673)
+picked USER>>seqY559 (-3.638827)
+picked USER>>seqG594 (-3.912023)
+picked USER>>seqG494 (-3.332205)
+picked USER>>seqG324 (-3.759412)
+picked USER>>seqG260 (-3.416467)
+picked USER>>seqL286 (-3.530653)
+picked USER>>seqL331 (-4.127134)
+picked USER>>seqL387 (-2.932219)
+picked USER>>seqL527 (-3.986132)
+picked USER>>seqL547 (-3.728100)
+picked USER>>seqL587 (-3.401197)
+picked USER>>seqE567 (-2.253105)
+picked USER>>seqE396 (-4.005763)
+picked USER>>seqE198 (-3.387774)
+picked USER>>seqV363 (-3.648197)
+picked USER>>seqV455 (-4.060443)
+picked USER>>seqV510 (-4.025352)
+picked USER>>seqV571 (-3.475593)
+picked USER>>seqS174 (-3.295837)
+picked USER>>seqS277 (-3.871201)
+picked USER>>seqS597 (-4.094345)
+picked USER>>seqS400 (-4.219508)
+picked USER>>seqS572 (-4.110874)
+picked USER>>seqS487 (-3.935740)
+picked USER>>seqK160 (-1.791759)
+picked USER>>seqK279 (-3.113515)
+picked USER>>seqK598 (-2.980228)
+picked USER>>seqK467 (-3.775412)
+picked USER>>seqK406 (-4.204693)
+picked USER>>seqI439 (-4.127134)
+picked USER>>seqI485 (-4.189655)
+picked USER>>seqI374 (-4.043051)
+picked USER>>seqI333 (-3.639611)
+picked USER>>seqI253 (-3.387774)
+picked USER>>seqI596 (-3.935740)
+picked USER>>seqA558 (-3.569533)
+picked USER>>seqA394 (-4.040239)
+picked USER>>seqA342 (-3.639611)
+picked USER>>seqA206 (-3.449986)
+picked USER>>seqF594 (-3.981549)
+picked USER>>seqF523 (-3.675329)
+picked USER>>seqF476 (-3.657629)
+picked USER>>seqF385 (-3.966511)
+picked USER>>seqF277 (-3.608210)
+picked USER>>seqC504 (-3.871201)
+picked USER>>seqC552 (-3.891820)
+picked USER>>seqC597 (-3.135494)
+picked USER>>seqC448 (-2.992347)
+picked USER>>seqC329 (-3.355448)
+picked USER>>seqP538 (-3.929116)
+picked USER>>seqP394 (-3.202350)
+picked USER>>seqP302 (-3.852601)
+picked USER>>seqW382 (-4.038318)
+picked USER>>seqW293 (-3.542697)
+picked USER>>seqW225 (-2.862201)
+picked USER>>seqW499 (-3.871201)
+picked USER>>seqW589 (-3.821932)
+picked USER>>seqT4 (0.000000)
+picked USER>>seqN274 (-3.648057)
+picked USER>>seqN378 (-3.561046)
+picked USER>>seqN452 (-3.903991)
+picked USER>>seqN525 (-4.262680)
+picked USER>>seqD275 (-3.912023)
+picked USER>>seqD466 (-4.110874)
+picked USER>>seqD493 (-4.060443)
+picked USER>>seqD578 (-3.401197)
+picked USER>>seqH247 (-2.772589)
+picked USER>>seqH441 (-3.207480)
+picked USER>>seqH554 (-4.127134)
+picked USER>>seqH583 (-4.189655)
+picked USER>>seqT256 (-3.321157)
+picked USER>>seqT383 (-3.496508)
+picked USER>>seqT481 (-4.099330)
+picked USER>>seqT545 (-4.248495)
+picked USER>>seqT599 (-4.143135)
+ kept = 90

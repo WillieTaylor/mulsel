@@ -1,0 +1,125 @@
+BLASTP 2.2.26 [Sep-21-2011]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for compositional score matrix adjustment: Altschul, Stephen F., 
+John C. Wootton, E. Michael Gertz, Richa Agarwala, Aleksandr Morgulis,
+Alejandro A. Schaffer, and Yi-Kuo Yu (2005) "Protein database searches
+using compositionally adjusted substitution matrices", FEBS J. 272:5101-5109.
+
+
+Reference for composition-based statistics starting in round 2:
+Schaffer, Alejandro A., L. Aravind, Thomas L. Madden,
+Sergei Shavirin, John L. Spouge, Yuri I. Wolf,  
+Eugene V. Koonin, and Stephen F. Altschul (2001), 
+"Improving the accuracy of PSI-BLAST protein database searches with 
+composition-based statistics and other refinements",  Nucleic Acids Res. 29:2994-3005.
+
+Query= >seq473 =  (N=IN) [+0+] tr|F1NJY4|F1NJY4_CHICK
+         (268 letters)
+
+Database: full.seq 
+           51 sequences; 8826 total letters
+
+Searching..................................................done
+
+
+Results from round 1
+
+
+                                                                 Score    E
+Sequences producing significant alignments:                      (bits) Value
+
+>seq473 =  (N=IN) [+0+] tr|F1NJY4|F1NJY4_CHICK                        541   e-157
+>seq433 =  (N=IN) [+22+] sp|P47751|BRS4_BOMOR                          94   6e-23
+>seq417 =  (N=IN) [+2+] tr|K1RVG3|K1RVG3_CRAGI                         91   6e-22
+>seq405 =  (N=OUT) [+1+] tr|L0ATA4|L0ATA4_ACRPL                        71   6e-16
+>seq283 =  (N=IN) [+62+] tr|I1W5U5|I1W5U5_SALSA                        67   9e-15
+>seq169 =  (N=OUT) [+1+] tr|H0ZCS0|H0ZCS0_TAEGU                        64   6e-14
+>seq468 =  (N=IN) [+25+] tr|Q3LTL8|Q3LTL8_TAEGU                        64   8e-14
+>seq415 =  (N=OUT) [+1+] tr|C4MF31|C4MF31_9TELE                        63   1e-13
+>seq424 =  (N=IN) [+9+] tr|F6YAW5|F6YAW5_ORNAN                         61   6e-13
+>seq162 =  (N=IN) [+2+] tr|H0VQ44|H0VQ44_CAVPO                         55   4e-11
+>seq264 =  (N=IN) [+4+] tr|A7RSP6|A7RSP6_NEMVE                         54   8e-11
+>seq56 =  (N=OUT) [+2+] tr|A9UMZ3|A9UMZ3_NEMVE                         47   9e-09
+>seq326 =  (N=IN) [+4+] tr|Q9PUZ7|Q9PUZ7_9TELE                         46   2e-08
+>seq47 =  (N=IN) [+3+] tr|Q868G0|Q868G0_BRABE                          44   8e-08
+>seq318 =  (N=OUT) [+13+] tr|E6P6L8|E6P6L8_DANRE                       42   4e-07
+>seq423 =  (N=OUT) [+331+] tr|H9F995|H9F995_MACMU                      41   6e-07
+>seq324 =  (N=IN) [+0+] tr|A9CR63|A9CR63_9CNID                         34   7e-05
+seq193[+0+] gi|559198164|ref|WP_023574660.1|/1914-2025                 17   8.7  
+
+Searching..................................................done
+
+
+Results from round 2
+
+
+                                                                 Score    E
+Sequences producing significant alignments:                      (bits) Value
+Sequences used in model and found again:
+
+>seq473 =  (N=IN) [+0+] tr|F1NJY4|F1NJY4_CHICK                        240   5e-67
+>seq283 =  (N=IN) [+62+] tr|I1W5U5|I1W5U5_SALSA                       190   8e-52
+>seq47 =  (N=IN) [+3+] tr|Q868G0|Q868G0_BRABE                         187   6e-51
+>seq264 =  (N=IN) [+4+] tr|A7RSP6|A7RSP6_NEMVE                        186   1e-50
+>seq56 =  (N=OUT) [+2+] tr|A9UMZ3|A9UMZ3_NEMVE                        179   1e-48
+>seq405 =  (N=OUT) [+1+] tr|L0ATA4|L0ATA4_ACRPL                       179   1e-48
+>seq318 =  (N=OUT) [+13+] tr|E6P6L8|E6P6L8_DANRE                      177   4e-48
+>seq433 =  (N=IN) [+22+] sp|P47751|BRS4_BOMOR                         177   5e-48
+>seq468 =  (N=IN) [+25+] tr|Q3LTL8|Q3LTL8_TAEGU                       172   1e-46
+>seq424 =  (N=IN) [+9+] tr|F6YAW5|F6YAW5_ORNAN                        172   2e-46
+>seq326 =  (N=IN) [+4+] tr|Q9PUZ7|Q9PUZ7_9TELE                        170   9e-46
+>seq415 =  (N=OUT) [+1+] tr|C4MF31|C4MF31_9TELE                       169   1e-45
+>seq417 =  (N=IN) [+2+] tr|K1RVG3|K1RVG3_CRAGI                        169   2e-45
+>seq423 =  (N=OUT) [+331+] tr|H9F995|H9F995_MACMU                     166   9e-45
+>seq169 =  (N=OUT) [+1+] tr|H0ZCS0|H0ZCS0_TAEGU                       141   4e-37
+>seq162 =  (N=IN) [+2+] tr|H0VQ44|H0VQ44_CAVPO                        138   3e-36
+>seq324 =  (N=IN) [+0+] tr|A9CR63|A9CR63_9CNID                        138   4e-36
+
+Sequences not found previously or not previously below threshold:
+
+>seq165 =  (N=IN) [+0+] tr|C3Y9H9|C3Y9H9_BRAFL                         80   1e-18
+
+  Database: full.seq
+    Posted date:  Dec 14, 2015  4:21 PM
+  Number of letters in database: 8826
+  Number of sequences in database:  51
+  
+Lambda     K      H
+   0.322    0.136    0.387 
+
+Lambda     K      H
+   0.267   0.0415    0.140 
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Number of Hits to DB: 12,719
+Number of Sequences: 51
+Number of extensions: 634
+Number of successful extensions: 164
+Number of sequences better than 10.0: 18
+Number of HSP's better than 10.0 without gapping: 37
+Number of HSP's successfully gapped in prelim test: 0
+Number of HSP's that attempted gapping in prelim test: 0
+Number of HSP's gapped (non-prelim): 44
+length of query: 268
+length of database: 8826
+effective HSP length: 47
+effective length of query: 221
+effective length of database: 6429
+effective search space:  1420809
+effective search space used:  1420809
+T: 11
+A: 40
+X1: 16 ( 7.4 bits)
+X2: 38 (14.6 bits)
+X3: 64 (24.7 bits)
+S1: 33 (18.2 bits)
+S2: 33 (17.3 bits)

@@ -1,0 +1,186 @@
+Mutation Data Matrix (120 PAMs)
+ARNDCQEGHILKMFPSTWYVBZX
+matrix constant = 8
+Residue identity scores 10
+ARNDCQEGHILKMFPSTWYVBZX
+matrix constant = 0
+
+99999 sequences to be read in length range 100 -> 200
+Reading user file of seq.s: final.seq
+ user_in = 1
+End of user sequences
+6 sequences read into 6 blocks, (6 are keyed)
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 3
+ gap_pen = 20 span = 9 window = 10
+ minscore = 800 pepscore = 0 list_limit = 2
+ circles = 0 output = 1 outline = 80
+score_pairs 
+
+No pairs over cutoff
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 3
+ gap_pen = 20 span = 9 window = 20
+ minscore = 700 pepscore = 0 list_limit = 2
+ circles = 0 output = 1 outline = 80
+score_pairs 
+
+No pairs over cutoff
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 3
+ gap_pen = 20 span = 9 window = 40
+ minscore = 600 pepscore = 0 list_limit = 2
+ circles = 0 output = 1 outline = 80
+score_pairs 
+
+No pairs over cutoff
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 3
+ gap_pen = 20 span = 9 window = 60
+ minscore = 500 pepscore = 0 list_limit = 2
+ circles = 0 output = 1 outline = 80
+score_pairs 
+
+No pairs over cutoff
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 3
+ gap_pen = 20 span = 9 window = 80
+ minscore = 400 pepscore = 0 list_limit = 2
+ circles = 0 output = 1 outline = 80
+score_pairs 
+
+No pairs over cutoff
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 3
+ gap_pen = 20 span = 9 window = 120
+ minscore = 300 pepscore = 0 list_limit = 2
+ circles = 0 output = 1 outline = 80
+score_pairs 
+
+No pairs over cutoff
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 3
+ gap_pen = 20 span = 9 window = 140
+ minscore = 250 pepscore = 0 list_limit = 2
+ circles = 0 output = 1 outline = 80
+score_pairs 
+
+average score over cutoff = 255
+(7 pairs) cluster_pairs total list_alloc = 23
+pack_lists 
+update_blocks
+      USER>>SEQ220
+272
+      USER>>SEQ2170
+
+
+      USER>>SEQ226
+257
+      USER>>REV641
+
+
+      USER>>REV226
+253
+      USER>>REV1343
+
+
+block 0 = 2 seqs
+*USER>>REV226 :	[+23+] G0PMI0_CAEBE
+*USER>>REV1343 :	[+9+] G0PGY3_CAEBE
+
+            SVKARHMKGVASLRDCASQVDGPKEEVATIVDDFVKLYQAAMAEFGPDSCNMDVTLANVNKLKAYFAK
+LMLFLHHDNRNISIKREATLKAFDFGDLLKQGLYRMLE   IWSEACKPTAETERLFDFVTCVIQACFIRVNEETMHPTI
+
+NEPFDNLYRSFMYTSAEVRKRDVSKWWNKLTFFDRYSDIGVRKDLTRVAEPEPLPLNKDKNKRLKKFVAM
+DPRYHREGYKFVTPAVQAELEDVNKVSIHLIN       TFLRAHRRVPHAEPLNFIDDSESLSFLPRLM
+
+
+block 1 = 2 seqs
+*USER>>SEQ220 :	[+3+] D3SAG5_THISK
+*USER>>SEQ2170 :	[+607+] A3QDN6_SHELP
+
+MSFSDVHQSYGRC      RRAGDFVTRFYEHFLQADPRVKAAFGSTDFSQQKRALGQAISTAISYAEGESFVASTMERM
+MPLTDEQKQLIQKSFAEINRQNSNFASHFYDCLFAMAPLIRPMFQS ERPVFEYHFNELITTAVAKVHQFNEVKPKLEEL
+
+GQVHSREGR      VPVEPDLYPIWLDCMVRTAAEIDPRWEPRLEERWR   GAMQPAIDLFVRLY
+GRKHLDYGVNISQFEVVRAALLLSIQDCLRDASSPAIEQAWSCYYDEIAKVMIAAMQEAAS      
+
+
+block 2 = 2 seqs
+*USER>>SEQ226 :	[+52+] G0PMI0_CAEBE
+*USER>>REV641 :	[+662+] A1SBC4_SHEAM
+
+ MAVFKKLRKNKDKNLPLPEPEAVRTLDKRVGIDSYRDFFTLKNWWKSVDRKRVEASTYMFSRYLNDFPENKAFYAKLKN
+ACGQKKMEAKMVDAVLHLVAIWADKVEKTFKDGLGEALTYLLANGVPSFHHTKVGYQVHR  RALDQLVPVLKDPNNLGK
+
+VNALTVDM             NCSDPGFEAMAAQYLKVFDDVITAVEEKPGDVQSACDRLSAVGKMHRAKVS
+VAADLMAMLKRGQIKLDSKFLSRLSPDIEFLNRYFLAAADDAIPRVLGFSQNILSIQDNTLSM         
+
+
+3 groups ( 3 aligned )
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 3
+ gap_pen = 20 span = 9 window = 160
+ minscore = 200 pepscore = 0 list_limit = 2
+ circles = 0 output = 1 outline = 80
+score_pairs 
+
+No pairs over cutoff
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 3
+ gap_pen = 20 span = 9 window = 180
+ minscore = 200 pepscore = 0 list_limit = 2
+ circles = 0 output = 1 outline = 80
+score_pairs 
+
+No pairs over cutoff
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 3
+ gap_pen = 20 span = 9 window = 200
+ minscore = 200 pepscore = 0 list_limit = 2
+ circles = 0 output = 1 outline = 80
+score_pairs 
+
+No pairs over cutoff
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 3
+ gap_pen = 20 span = 9 window = 200
+ minscore = 200 pepscore = 0 list_limit = 2
+ circles = 0 output = 1 outline = 80
+score_pairs 
+
+No pairs over cutoff
+
+ nblocks = 6

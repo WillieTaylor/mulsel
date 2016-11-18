@@ -1,0 +1,228 @@
+================================================================
+Program: CD-HIT, V4.6 (+OpenMP), Dec 11 2015, 17:28:15
+Command: ./cd-hit -i shuffle30.fasta -o shuffle30.90.out -c
+         0.9
+
+Started: Fri Dec 11 18:04:29 2015
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 30013
+longest and shortest : 90 and 56
+Total letters: 2232323
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 5M
+Buffer          : 1 X 10M = 10M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 82M
+
+Table limit with the given memory limit:
+Max number of representatives: 4000000
+Max number of word counting entries: 89654694
+
+comparing sequences from          0  to      30013
+....................    10000  finished        661  clusters
+....................    20000  finished        963  clusters
+....................    30000  finished       1152  clusters
+
+    30013  finished       1152  clusters
+
+Apprixmated maximum memory consumption: 83M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.68
+================================================================
+Program: CD-HIT, V4.6 (+OpenMP), Dec 11 2015, 17:28:15
+Command: ./cd-hit -i shuffle30.fasta -o shuffle30.80.out -c
+         0.8
+
+Started: Fri Dec 11 18:04:29 2015
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 30013
+longest and shortest : 90 and 56
+Total letters: 2232323
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 5M
+Buffer          : 1 X 10M = 10M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 82M
+
+Table limit with the given memory limit:
+Max number of representatives: 4000000
+Max number of word counting entries: 89654694
+
+comparing sequences from          0  to      30013
+....................    10000  finished        360  clusters
+....................    20000  finished        507  clusters
+....................    30000  finished        588  clusters
+
+    30013  finished        588  clusters
+
+Apprixmated maximum memory consumption: 83M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.74
+================================================================
+Program: CD-HIT, V4.6 (+OpenMP), Dec 11 2015, 17:28:15
+Command: ./cd-hit -i shuffle30.fasta -o shuffle30.70.out -c
+         0.7
+
+Started: Fri Dec 11 18:04:30 2015
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 30013
+longest and shortest : 90 and 56
+Total letters: 2232323
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 5M
+Buffer          : 1 X 10M = 10M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 82M
+
+Table limit with the given memory limit:
+Max number of representatives: 4000000
+Max number of word counting entries: 89654694
+
+comparing sequences from          0  to      30013
+....................    10000  finished        244  clusters
+....................    20000  finished        338  clusters
+....................    30000  finished        377  clusters
+
+    30013  finished        377  clusters
+
+Apprixmated maximum memory consumption: 82M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.74
+================================================================
+Program: CD-HIT, V4.6 (+OpenMP), Dec 11 2015, 17:28:15
+Command: ./cd-hit -i shuffle30.fasta -o shuffle30.60.out -c
+         0.6 -n 4
+
+Started: Fri Dec 11 18:04:31 2015
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 30013
+longest and shortest : 90 and 56
+Total letters: 2232323
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 5M
+Buffer          : 1 X 10M = 10M
+Table           : 1 X 3M = 3M
+Miscellaneous   : 0M
+Total           : 20M
+
+Table limit with the given memory limit:
+Max number of representatives: 4000000
+Max number of word counting entries: 97433934
+
+comparing sequences from          0  to      30013
+....................    10000  finished        172  clusters
+....................    20000  finished        228  clusters
+....................    30000  finished        253  clusters
+
+    30013  finished        253  clusters
+
+Apprixmated maximum memory consumption: 20M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.95
+================================================================
+Program: CD-HIT, V4.6 (+OpenMP), Dec 11 2015, 17:28:15
+Command: ./cd-hit -i shuffle30.fasta -o shuffle30.50.out -c
+         0.5 -n 3
+
+Started: Fri Dec 11 18:04:32 2015
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 30013
+longest and shortest : 90 and 56
+Total letters: 2232323
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 5M
+Buffer          : 1 X 10M = 10M
+Table           : 1 X 0M = 0M
+Miscellaneous   : 0M
+Total           : 17M
+
+Table limit with the given memory limit:
+Max number of representatives: 4000000
+Max number of word counting entries: 97804374
+
+comparing sequences from          0  to      30013
+....................    10000  finished        129  clusters
+....................    20000  finished        164  clusters
+....................    30000  finished        173  clusters
+
+    30013  finished        173  clusters
+
+Apprixmated maximum memory consumption: 17M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 1.19
+================================================================
+Program: CD-HIT, V4.6 (+OpenMP), Dec 11 2015, 17:28:15
+Command: ./cd-hit -i shuffle30.fasta -o shuffle30.40.out -c
+         0.4 -n 2
+
+Started: Fri Dec 11 18:04:33 2015
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 30013
+longest and shortest : 90 and 56
+Total letters: 2232323
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 5M
+Buffer          : 1 X 10M = 10M
+Table           : 1 X 0M = 0M
+Miscellaneous   : 0M
+Total           : 17M
+
+Table limit with the given memory limit:
+Max number of representatives: 4000000
+Max number of word counting entries: 97822014
+
+comparing sequences from          0  to      30013
+....................    10000  finished         90  clusters
+....................    20000  finished        103  clusters
+....................    30000  finished        105  clusters
+
+    30013  finished        105  clusters
+
+Apprixmated maximum memory consumption: 17M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 1.34

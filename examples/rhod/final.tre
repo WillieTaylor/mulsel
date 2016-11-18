@@ -1,0 +1,44 @@
+....p- USER>>seq318 =282= [+1+] tr|E6P6L8|E6P6L8_DANRE Opsin 5 OX=7955 OS=Danio rerio (Zebrafish) (Brachydanio rerio). GN= PE=2 SV=1
+....b- USER>>seq8 =271= [+6+] tr|H2M2R3|H2M2R3_ORYLA Uncharacterized protein OX=8090 OS=Oryzias latipes (Medaka fish) (Japanese ricefish). GN= PE=4 SV=1
+....b- USER>>seq281 =276= [+1+] tr|H2MI54|H2MI54_ORYLA Uncharacterized protein OX=8090 OS=Oryzias latipes (Medaka fish) (Japanese ricefish). GN= PE=4 SV=1
+p----- USER>>seq324 =232= [+0+] tr|A9CR63|A9CR63_9CNID Opsin OX=264074 OS=Cladonema radiatum. GN= PE=3 SV=1
+b----- USER>>seq322 =234= [+0+] tr|K1P324|K1P324_CRAGI Rhodopsin, GQcoupled OX=29159 OS=Crassostrea gigas (Pacific oyster) (Crassostrea angulata). GN= PE=3 SV=1
+....p- USER>>seq417 =274= [+0+] tr|K1RVG3|K1RVG3_CRAGI Neuropeptide FF receptor 2 OX=29159 OS=Crassostrea gigas (Pacific oyster) (Crassostrea angulata). GN= PE=3 SV=1
+....b- USER>>seq418 =272= [+1+] tr|H2TP76|H2TP76_TAKRU Uncharacterized protein OX=31033 OS=Takifugu rubripes (Japanese pufferfish) (Fugu rubripes). GN= PE=3 SV=1
+..p--- USER>>seq419 =281= [+4+] tr|E5RWR7|E5RWR7_CARAU Neuromedin U receptor 2 OX=7957 OS=Carassius auratus (Goldfish). GN= PE=2 SV=1
+..b--- USER>>seq430 =262= [+2+] tr|L7M1W7|L7M1W7_9ACAR Putative g proteincoupled receptor OX=72859 OS=Rhipicephalus pulchellus. GN= PE=2 SV=1
+..b--- USER>>seq432 =265= [+0+] tr|Q6DCG0|Q6DCG0_XENLA LOC779024 protein OX=8355 OS=Xenopus laevis (African clawed frog). GN= PE=2 SV=1
+..b--- USER>>seq287 =280= [+0+] tr|E9FSL5|E9FSL5_DAPPU Putative sNPF receptor OX=6669 OS=Daphnia pulex (Water flea). GN=DAPPUDRAFT_23465 PE=3 SV=1
+p----- USER>>seq326 =239= [+2+] tr|Q9PUZ7|Q9PUZ7_9TELE Rhodopsin OX=27725 OS=Osteoglossum sp. GN= PE=3 SV=1
+b----- USER>>seq282 =274= [+2+] tr|H2SR75|H2SR75_TAKRU Uncharacterized protein OX=31033 OS=Takifugu rubripes (Japanese pufferfish) (Fugu rubripes). GN= PE=4 SV=1
+....p- USER>>seq145 =274= [+271+] tr|G9HXJ5|G9HXJ5_9TELE Rod opsin OX=473299 OS=Bolinichthys indicus (lanternfish). GN= PE=4 SV=1
+....b- USER>>seq397 =283= [+28+] tr|H2TKZ8|H2TKZ8_TAKRU Uncharacterized protein OX=31033 OS=Takifugu rubripes (Japanese pufferfish) (Fugu rubripes). GN= PE=3 SV=1
+....b- USER>>seq77 =284= [+2+] tr|Q5SBP8|Q5SBP8_PLADU Ciliary opsin OX=6359 OS=Platynereis dumerilii (Dumeril's clam worm). GN= PE=2 SV=1
+....b- USER>>seq207 =282= [+25+] tr|H2SFX1|H2SFX1_TAKRU Uncharacterized protein OX=31033 OS=Takifugu rubripes (Japanese pufferfish) (Fugu rubripes). GN= PE=3 SV=1
+....b- USER>>seq47 =282= [+2+] tr|Q868G0|Q868G0_BRABE Opsin OX=7741 OS=Branchiostoma belcheri (Amphioxus). GN= PE=2 SV=1
+....b- USER>>seq392 =270= [+0+] tr|A7RL78|A7RL78_NEMVE Predicted protein OX=45351 OS=Nematostella vectensis (Starlet sea anemone). GN=v1g85309 PE=3 SV=1
+....b- USER>>seq407 =265= [+1+] tr|A9UMX1|A9UMX1_NEMVE Opsin OX=45351 OS=Nematostella vectensis (Starlet sea anemone). GN= PE=4 SV=1
+....p- USER>>seq277 =260= [+1+] tr|E0W2R9|E0W2R9_PEDHC Class A rhodopsinlike Gprotein coupled receptor GPRop3, putative OX=121224 OS=Pediculus humanus subsp. corporis (Body louse). GN=Phum_PHUM596710 PE=3 SV=1
+....b- USER>>seq370 =285= [+14+] tr|E2B887|E2B887_HARSA Opsin, ultravioletsensitive OX=610380 OS=Harpegnathos saltator (Jerdon's jumping ant). GN=EAI_03599 PE=3 SV=1
+....b- USER>>seq329 =286= [+2+] tr|Q9NJC9|Q9NJC9_SCHMA RHO Gprotein coupled receptor OX=6183 OS=Schistosoma mansoni (Blood fluke). GN= PE=2 SV=1
+....b- USER>>seq361 =285= [+36+] tr|B0WAG3|B0WAG3_CULQU Opsin1 OX=7176 OS=Culex quinquefasciatus (Southern house mosquito) (Culex pungens). GN=CpipJ_CPIJ004067 PE=3 SV=1
+....b- USER>>seq359 =284= [+5+] tr|K9MBC8|K9MBC8_CALMI Melanopsin photopigment opn4xshort OX=7868 OS=Callorhynchus milii (Elephant fish) (Australian ghost shark). GN= PE=2 SV=1
+------ USER>>seq415 =228= [+0+] tr|C4MF31|C4MF31_9TELE Melanopsin OX=76798 OS=Coryphaenoides armatus. GN= PE=2 SV=1
+..p--- USER>>seq400 =262= [+0+] tr|L0AUA8|L0AUA8_ACRPL Acropsin 2 OX=6131 OS=Acropora palmata (Elkhorn coral). GN= PE=2 SV=1
+..b--- USER>>seq405 =265= [+0+] tr|L0ATA4|L0ATA4_ACRPL Acropsin 1 OX=6131 OS=Acropora palmata (Elkhorn coral). GN= PE=2 SV=1
+p----- USER>>seq56 =284= [+1+] tr|A9UMZ3|A9UMZ3_NEMVE Opsin OX=45351 OS=Nematostella vectensis (Starlet sea anemone). GN= PE=4 SV=1
+b----- USER>>seq292 =270= [+0+] tr|A7RVG9|A7RVG9_NEMVE Predicted protein OX=45351 OS=Nematostella vectensis (Starlet sea anemone). GN=v1g202741 PE=4 SV=1
+p----- USER>>seq472 =267= [+24+] tr|H2SE17|H2SE17_TAKRU Uncharacterized protein OX=31033 OS=Takifugu rubripes (Japanese pufferfish) (Fugu rubripes). GN= PE=3 SV=1
+b----- USER>>seq416 =222= [+0+] tr|A7RXE1|A7RXE1_NEMVE Predicted protein OX=45351 OS=Nematostella vectensis (Starlet sea anemone). GN=v1g96957 PE=4 SV=1
+------ USER>>seq162 =264= [+2+] tr|H0VQ44|H0VQ44_CAVPO Uncharacterized protein OX=10141 OS=Cavia porcellus (Guinea pig). GN= PE=3 SV=1
+p----- USER>>seq264 =283= [+3+] tr|A7RSP6|A7RSP6_NEMVE Predicted protein OX=45351 OS=Nematostella vectensis (Starlet sea anemone). GN=v1g201540 PE=3 SV=1
+b----- USER>>seq285 =268= [+0+] tr|A7RJA1|A7RJA1_NEMVE Predicted protein OX=45351 OS=Nematostella vectensis (Starlet sea anemone). GN=v1g178677 PE=4 SV=1
+------ USER>>seq169 =246= [+1+] tr|H0ZCS0|H0ZCS0_TAEGU Uncharacterized protein OX=59729 OS=Taeniopygia guttata (Zebra finch) (Poephila guttata). GN= PE=3 SV=1
+------ USER>>seq165 =253= [+0+] tr|C3Y9H9|C3Y9H9_BRAFL Putative uncharacterized protein OX=7739 OS=Branchiostoma floridae (Florida lancelet) (Amphioxus). GN=BRAFLDRAFT_104489 PE=4 SV=1
+------ USER>>seq171 =259= [+0+] tr|C3ZZL5|C3ZZL5_BRAFL Putative uncharacterized protein OX=7739 OS=Branchiostoma floridae (Florida lancelet) (Amphioxus). GN=BRAFLDRAFT_138984 PE=3 SV=1
+------ USER>>seq473 =264= [+0+] tr|F1NJY4|F1NJY4_CHICK Uncharacterized protein OX=9031 OS=Gallus gallus (Chicken). GN= PE=3 SV=1
+....p- USER>>seq433 =267= [+1+] sp|P47751|BRS4_BOMOR Bombesin receptor subtype4 OX=8346 OS=Bombina orientalis (Oriental firebellied toad). GN= PE=2 SV=1
+....b- USER>>seq439 =262= [+0+] tr|H3J7G1|H3J7G1_STRPU Uncharacterized protein OX=7668 OS=Strongylocentrotus purpuratus (Purple sea urchin). GN= PE=3 SV=1
+....b- USER>>seq438 =273= [+15+] tr|B3DH72|B3DH72_DANRE Uncharacterized protein OX=7955 OS=Danio rerio (Zebrafish) (Brachydanio rerio). GN= PE=2 SV=1
+....b- USER>>seq446 =268= [+3+] tr|K4PYS5|K4PYS5_SPHLE Melaninconcentrating hormone receptor 1 OX=7823 OS=Sphyrna lewini (Scalloped hammerhead shark) (Zygaena lewini). GN= PE=2 SV=1
+------ USER>>seq414 =249= [+0+] tr|H2THH8|H2THH8_TAKRU Uncharacterized protein OX=31033 OS=Takifugu rubripes (Japanese pufferfish) (Fugu rubripes). GN= PE=4 SV=1

@@ -1,0 +1,1266 @@
+Mutation Data Matrix (120 PAMs)
+ARNDCQEGHILKMFPSTWYVBZX
+matrix constant = 8
+Membrane mutation matrix (multi helix)
+ARNDCQEGHILKMFPSTWYV
+matrix constant = 15
+
+9999 sequences to be read in length range 20 -> 2000
+More than 50 sequences so no names printed
+Reading user file of seq.s: memsat.seq
+End of user sequences
+30 sequences read into 30 blocks, (30 are keyed)
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 5
+ gap_pen = 20 span = 10 window = 100
+ minscore = 900 pepscore = 0 list_limit = 2
+ circles = 0 output = 2 outline = 80
+score_pairs 
+
+average score over cutoff = 1107
+(245 pairs) cluster_pairs total list_alloc = 35
+pack_lists 
+update_blocks
+      USER>>SEED:seq_1gzmA
+1216
+      USER>>tr|H3IEL0|H3IEL0_STRPU
+
+
+      USER>>tr|H3I5A7|H3I5A7_STRPU
+1194
+      USER>>tr|H3III0|H3III0_STRPU
+
+
+      USER>>tr|H3IP68|H3IP68_STRPU
+1163
+      USER>>tr|I3JJA4|I3JJA4_ORENI
+
+
+      USER>>tr|C3YLV5|C3YLV5_BRAFL
+1162
+      USER>>tr|Q1ZXT2|Q1ZXT2_CAEEL
+
+
+      USER>>tr|B3RL46|B3RL46_TRIAD
+1155
+      USER>>tr|I3KGS9|I3KGS9_ORENI
+
+
+      USER>>tr|H2KRY6|H2KRY6_CLOSI
+1152
+      USER>>tr|Q9XVQ0|Q9XVQ0_CAEEL
+
+
+      USER>>tr|Q2AB52|Q2AB52_XENTR
+1132
+      USER>>tr|H3HHU6|H3HHU6_STRPU
+
+
+      USER>>tr|H2KVV1|H2KVV1_CLOSI
+1123
+      USER>>tr|B3RW58|B3RW58_TRIAD
+
+
+      USER>>tr|H3IMZ0|H3IMZ0_STRPU
+1116
+      USER>>tr|A8XUY4|A8XUY4_CAEBR
+
+
+      USER>>tr|F1L7M2|F1L7M2_ASCSU
+1107
+      USER>>tr|B3S958|B3S958_TRIAD
+
+
+      USER>>tr|H3FWW1|H3FWW1_PRIPA
+1098
+      USER>>tr|F1Q4L9|F1Q4L9_DANRE
+
+
+      USER>>tr|Q9WRM0|Q9WRM0_9GAMA
+1084
+      USER>>tr|B0S6Q0|B0S6Q0_DANRE
+
+
+      USER>>tr|A7SWN7|A7SWN7_NEMVE
+1081
+      USER>>tr|G1MNG2|G1MNG2_AILME
+
+
+      USER>>tr|O45170|O45170_CAEEL
+1076
+      USER>>tr|A8PGJ9|A8PGJ9_BRUMA
+
+
+      USER>>tr|K1R8G3|K1R8G3_CRAGI
+1025
+      USER>>sp|P23820|REIS_TODPA
+
+
+block 0 = 2 seqs
+*USER>>SEED:seq_1gzmA :	 (N=IN) [+3471+] Seq = rhodopsin QUERY sequence
+*USER>>tr|H3IEL0|H3IEL0_STRPU :	 (N=IN) [+491+] Seq = Uncharacterized protein OX=7668 OS=Strongylocentrotus purpuratus (Purple sea 
+
+laepwqFSMLAAYMFLLIMLGFPINFLTLYVtvqhkklrtplnYILLNLAVADLFMVFGGFTTTLYtslhgyfvfgptgc
+      yiisslLYFVIGFVALIGNIFVIVkvyqerrlhkptYYLIASLAVADLLTGTVALpsgaygrvvqnrtcsgeth
+
+nleGFFATLGGEIALWSLVVLAIeryvvvckpmsnfrfgenhAIMGVAFTWVMALACAAPPLVGWsryipegmqcscgid
+LWFFMMAFYLHCVSVMHLIAIAIdryicitrplkyisvtpkrIAGTIAFNWVMSCSFGLVPLYsrnd             
+
+yytpheetnnesFVIYMFVVHFIIPLIVIFFCYgqlvftvkeaaaqqqesattqkaekevtrMVIIMVIAFLICWLPYAG
+  qtishcsaiaynIIMFYTSAILPLLVLSLIY WIIFrvarrqvmrrkpiqihtpqmkatkttLLVLCVFAVCWLP IS
+
+VAFYIFthqgsdfgpIFMTIPAFFAKTSAVYNPVIYImmnkqfrncmvttlccgkn
+IKFLLeihlktt  pstMLYLRTIAYSNAALNPFVFVFrdrnfrgvlkhhr     
+
+
+block 1 = 2 seqs
+*USER>>tr|H3IMZ0|H3IMZ0_STRPU :	 (N=IN) [+71+] Seq = Uncharacterized protein OX=7668 OS=Strongylocentrotus purpuratus (Purple sea u
+*USER>>tr|A8XUY4|A8XUY4_CAEBR :	 (N=IN) [+25+] Seq = Protein CBG19154 OX=6238 OS=Caenorhabditis briggsae. GN=CBG19154, CBG_19154 PE
+
+vpftvlFVLCGMITIFSNVINLIALnhaqqcndntrlcfqAVAIVDFFVGLFCCTFHSLrfsglsisktrtFSIIGVIGC
+slkvflGFCFGILSGTSLILNIFALFTVFrlalrknhVY VIAFFNILSDVMQMTMSTPSIItnsistrkkSPWTLAFGS
+
+STLFNQSIMILA  CVSIdrylavtrplryhtvtkqrMILLIFSGVAIGTLNSSASFthkivagfsdlkfasvdiathpi
+AFMFLWYFetitqmimafdryviiclrkhnLFTFTSTLVMFSLLIPISFVIMYhsqymnpccaflfdqeylsegvpnysd
+
+LVIYFALILASAGVTTFCNVTLITLarkhrrriaaavghqprgnkdlrtIFAVTGAFYITWGAQVSVnftsaaeipiarn
+rfd lplnASSSIISAICYILIFWTVhnssatfstqkvrrrrdirfaiqssLLLVFYIFVWVLFRVLPILLadrhveWFI
+
+VLLIFVISNSFWNALIYLLMnstfrkivfrmf
+LVPIFYTINCTSNAIIYIFFnsevqshltp  
+
+
+block 2 = 2 seqs
+*USER>>tr|C3YLV5|C3YLV5_BRAFL :	 (N=IN) [+620+] Seq = Putative uncharacterized protein OX=7739 OS=Branchiostoma floridae (Florida l
+*USER>>tr|Q1ZXT2|Q1ZXT2_CAEEL :	 (N=IN) [+791+] Seq = Protein ADOR1, isoform a OX=6239 OS=Caenorhabditis elegans. GN= PE=2 SV=1
+
+mvwlaactVLGVCGNMALLITVSCVqelrtpgnALLCALACADIFQLVTKVPMAVVFLhygep   lacdGVFFIIDTMA
+          isfsnllvlwvyvrskhvrtvtntYIFSLALTDFLAGALGIPLTVVSVMtrkprtfygcLFVHLILCILC
+
+QFSINIIAPISIdrywyicspfkystmtsarIALLIGLSFLLAMVTMVhpllgenny fhppyiicky  lgparksrqA
+TISTFHMLAIAIdkyvticcrdrifssrrkraIFLLTTSWILGLLVAILPLFNVFGFafiengemchftmvvdyryLVYV
+
+MINVCILVPMITMVFCYYkiwgelkrrqkrhnksspefrarmrsATMVLLIVAAYVVSWAPYFAAVIrsnlgdevtidgp
+IFFSTILAPTAIIVLLYSSIYsrirteekqqsererrmagrrklirILLILVVSYGICWYPLYIIntidyfwpefsins 
+
+wqrFAVLFSLLSTFSNPIIYAYrnpqlrngffrlv
+LTLWTVIMSHMSCALNPLIYAYgmpgfkkalraff
+
+
+block 3 = 2 seqs
+*USER>>tr|Q2AB52|Q2AB52_XENTR :	 (N=IN) [+511+] Seq = Taste receptor type 2 OX=8364 OS=Xenopus tropicalis (Western clawed frog) (Si
+*USER>>tr|H3HHU6|H3HHU6_STRPU :	 (N=IN) [+310+] Seq = Uncharacterized protein OX=7668 OS=Strongylocentrotus purpuratus (Purple sea 
+
+vysffapILAVTAGAFTNAYITFVILLdykmmsssnkILLALSLSNGYFSFLLFVCSIISFVwphiatnnyikgcILALL
+yihsfyMLISCVFSVVGNVFNILVLLkltnisesrkILFLFLSLSDLMSGLSLIPSIPASFlnrwpfrieICFFCSYMLL
+
+IFGISSTAWITTCLCVFYFVkiinfssgawfklkIVPWLILVSEVVSLGCSFLTLLPVniqepssssmfyslnstsiadF
+TSLGISNALIFFLAVdcylavkypfkypsvtkrrtitqCLLVAFMYLVTTVEFYVVscdlsyrgvgmclmdferrsMVTY
+
+IKVTFIAVCVPLLIMIVTTFPTIrtlylhsrrmknssslaphqsAVFMMAWLLFLYTVFFVVLFTGFIqsftppsfaywm
+VVFVYSIMMFPTLLVLGMqasvahtariqarrfgdrqkrqanelkGVYVCLVVSICFFAGWLptagfqiysrktgnniyp
+
+tynLIYVATLVQSVVQILGNpklkeaiticcc
+FAWLSTAQCWNNTLAYMIIkknyrqtlksll 
+
+
+block 4 = 2 seqs
+*USER>>tr|O45170|O45170_CAEEL :	 (N=IN) [+224+] Seq = Protein SRW4 OX=6239 OS=Caenorhabditis elegans. GN= PE=4 SV=1
+*USER>>tr|A8PGJ9|A8PGJ9_BRUMA :	 (N=IN) [+20+] Seq = Gprotein coupled receptor, putative OX=6279 OS=Brugia malayi (Filarial nematod
+
+    nfvlailqffinlvhfsilsrk hlrnsvyrLMIGICSCDIISHTLTFLAFSPFVrkknqecFLTVIVLDITQRSS
+lwaiylITMKIGIIGNLWVICSVIrnirpqrpsdshIFVLAFVDFIVVCSLALRIVYIWdetltfeiwncrglyfieqls
+
+SWLAVLMALYrtlsvkypmsthkvspkWALWTIIGVLVVNTAWTLVVFGrhkidgrnidydcdgnevhhlhsIITSIYGI
+kMLSMFCIACISIG RYITIrkpfnnqirrhrGFPAVPLCFPIIPIIFTMktidvtsdrwdcrisdnawnrLTGLLVGAC
+
+IKALPSLIDPILTVLLIielrkaskrrknigedgksdnttkLVLFVTISFFILEVPNGFAhvtagafhgnpisYMIQVFA
+FILLVMLIsanyaeivrhvhrkfsrrqsessnskseprmtssivrVAVFHMICWLPFCFIAVIptetcehawvLWILILA
+
+EILPVFNSSSHIFICLAMssqyretsceifeksk
+NWLTYLNSALNWIFYVVLnrdlrelirsn     
+
+
+block 7 = 2 seqs
+*USER>>tr|Q9WRM0|Q9WRM0_9GAMA :	 (N=IN) [+30+] Seq = G protein coupled receptor OX=83534 OS=Macaca mulatta rhadinovirus 17577. GN= 
+*USER>>tr|B0S6Q0|B0S6Q0_DANRE :	 (N=OUT) [+1756+] Seq = Uncharacterized protein OX=7955 OS=Danio rerio (Zebrafish) (Brachydanio rer
+
+ tvyaiicFFIFCITLFGNALVLYIFFkfkalansvdVLMAGLCCNSLFLCASFLFSWLLYVapq  mltsatckveiff
+aailpwLYLSLALLGLPANGLVLVNLWr  sertptVIFTLNIIFSDLLMCCSFFFrtvyhrkntewlsgtpvcnaveLC
+
+FYLYTYFGVYIVVCISLIRCLLVVFsrrpwvkhGAFLCVCVSLIVALALSAnaslyrtarhpetsewicyedagedtvnw
+FYINLYCNMCFLLWTSInryttvvkpshsqvfhtqs CWILCFSTWLVIFIVVGTCMGLklslqingscfdqvgnsyiry
+
+klrirtt SAICGFLVPFGLMVLFYGLTWCMVkstklarkga         vrGVIVTVVVLFLIFCLPYhlcnffdtll
+qnkfqthcLGVSTFFFILCLMLVSYsrlifhlqkvrvgslgagfgpggglkvrrkILASVIMFVLCFLPYHV        
+
+rtcylrsvamhicsllqsMYSAFVPVVYSGLGSLFrrrvrdtw
+qriilitsqhencqerikmgtifiaalscclhpllq       
+
+
+block 10 = 2 seqs
+*USER>>tr|H2KRY6|H2KRY6_CLOSI :	 (N=IN) [+84+] Seq = Rhodopsinlike orphan GPCR OX=79923 OS=Clonorchis sinensis (Chinese liver fluke
+*USER>>tr|Q9XVQ0|Q9XVQ0_CAEEL :	 (N=IN) [+62+] Seq = Protein F16C3.1 OX=6239 OS=Caenorhabditis elegans. GN=F16C3.1 PE=4 SV=1
+
+gyilpfvctFGFLANVWTAVLFLLGFrrqtrqLVYLAFLAIANAAIHVLWGWLWLFpfmtarfsqsqeacrlhrFAYSFG
+  llpifcFIGILGNSMALILIRTNFWlrltsnIYLCTLSVSSCFFLLTVIISWAdtymgplyseselgckFFSFLAHFS
+
+STLSANLLLLAAsdrfmctywptkmlrfqrrhaYYAVIAVTVLSIVMMLPLGICIEWVtig ekvwc widsvytgvdvy
+DFICVWMISLISCdrmivlyrprirkwctkkfsrnMTIGFVLSSVVLYSLFLAGLqiykdgtentfcglsqdgfqvdqhY
+
+hALFSNACVIQPLCTGVLNICFLVkirqllraqlsssssgrr    evaasetLLVITLVTLCTALPQSAAYNAAFVLsr
+FMFTLMDTALCTLLPAILIIIVnsftyrylrapttqqqqsqklrssdlqlsrtLIIVTSTFVLLNVPSYAMrilqsiiss
+
+rplafnisdIMWCVMLTQTACNIIVYLVrmsafrkmfrrrvi
+aplfnFVYYVTLLIYYLHHAVLFYMYIFWspqmkkqlkp   
+
+
+block 13 = 2 seqs
+*USER>>tr|B3RL46|B3RL46_TRIAD :	 (N=IN) [+102+] Seq = Putative uncharacterized protein OX=10228 OS=Trichoplax adhaerens (Trichoplax
+*USER>>tr|I3KGS9|I3KGS9_ORENI :	 (N=IN) [+13528+] Seq = Uncharacterized protein OX=8128 OS=Oreochromis niloticus (Nile tilapia) (Ti
+
+  tlfltfLFNSICLFIIWNINGFKnknhlyvrALLVCDVGAALFMCPSMY  LIdcsfvksqgLCSAIGFITSVFNGMT
+ftlyiliictnstilyliwihknlhepMYIFIAALLLNSVLYSTTVYpklltdflsekqvttysaclfqFFMFYTLGCSE
+
+ALIVALMCIdrylaiikpflyrrvtynkICIILCAVWLSLHMAIPLWgsgkfitypigrycsfdifekkpydrVLSYLVF
+FLLLAAMAYdryvaickplqqtimrkttVSIFLIIAWLVPACHIAVQAIASAecnavytlqc    ersrLITIFGVVAL
+
+GEGIIISFLVIFCSIRIIrslrkqrksiktmkqtsrakarliemtAWIAVCFISCYLPFVLFRLLCMINIelqdtfghyi
+VDLSIPMLFIVFTYtkifivshrsckeirkkaeTC     LPHMLVLIGYSIFFVYdvsidfpkptrIIMTLQ       
+
+tenILYLNPLLNPFLCVTYNkryrtkfhiml
+   IMLYHPLFNPLIYGLkmkeiskhlkkll
+
+
+block 14 = 2 seqs
+*USER>>tr|H3I5A7|H3I5A7_STRPU :	 (N=IN) [+262+] Seq = Uncharacterized protein OX=7668 OS=Strongylocentrotus purpuratus (Purple sea 
+*USER>>tr|H3III0|H3III0_STRPU :	 (N=IN) [+221+] Seq = Uncharacterized protein OX=7668 OS=Strongylocentrotus purpuratus (Purple sea 
+
+ialatiFAILAALGISGNTFLITAVFFsrklrnvtnaFVVILSISDIINSSTLIVQVIALAVrtqafmvmckIVGPVATT
+tfaaviFITIGVVGTIGNALVCIVIASTLAwkgttnLLILNQAFIDSMTSILILSYALpgpipggwsefvcrMWVTLLWM
+
+VLGASSFIMTLIALCrfvlitkqphfkrfskpnMAVMISVSFLFPLSLVLLFVLdlataglnediclfydspefntMCGC
+LFVVSTYNLCMMSLeryfavaypvistrfkkqtsLLMILFCWTIAPLLHYYypiayaggvckkrg    dprVVATIGVL
+
+FLLVLLITVAIIYAKIFLFLrrhfrqlrssernleleskitknMVLVLCVFALC     FIPLSLTLIVSesallgtYCF
+EFFIPFIIMAVVYtrivfllrrqhrrviqvpetvrrnVTVTLLAVFIMYVVCWMpnhltflqfglggplnlsgaWYYITL
+
+AIFNLSSCLNPILFGWkhpvfrqvfrcmfrr 
+ILAYLNMSINPFIYALkyklfregfkrlfcnr
+
+
+block 16 = 2 seqs
+*USER>>tr|A7SWN7|A7SWN7_NEMVE :	 (N=IN) [+42+] Seq = Predicted protein OX=45351 OS=Nematostella vectensis (Starlet sea anemone). GN
+*USER>>tr|G1MNG2|G1MNG2_AILME :	 (N=IN) [+555+] Seq = Uncharacterized protein OX=9646 OS=Ailuropoda melanoleuca (Giant panda). GN= 
+
+      iglfalvlniftlytackkllvqslphmyIASYCIADLLFLSLVMPFSLIALILsewdtpsvtceiqGFAVITL
+gvfivsqIGIGFIGNTLLLVLLINTLhtkkpinLILIHLIFANVMTIVFGIpevmnafgvrnfld digckavlyihrvt
+
+GALTALLMTLTAIdrffamtspgiyarfkakVVMVLLVLVWLMAGAVPLPYFLegklrfhpgyafckadvniknYLTVLQ
+rGLSLCITSFLSIVQAIIItpsnsrawhkptYIFPTFCSFWIVNMLI YIHVIISAFaynstysltycvgkdpdyiqsAV
+
+LALVVLPLLVVMICLCktklrmirrtrqqpgtfelcgnelettrmFAGIILGILVCCLPMFICDLVVAFLgrftlprsaY
+FLGSTFLRDLCVFLMVWTSVYIVkflfthrkrvqylsprpspetkathtILALVSCFVFFYWSNSFLTIYVSYk  rnvk
+
+MFSSFCVASIAWVRPLVVILCdedykheiqallpcc
+glenISIILSHGYPAICPLVLInhnklffl      
+
+
+block 18 = 2 seqs
+*USER>>tr|K1R8G3|K1R8G3_CRAGI :	 (N=OUT) [+65+] Seq = Cholecystokinin receptor OX=29159 OS=Crassostrea gigas (Pacific oyster) (Cras
+*USER>>sp|P23820|REIS_TODPA :	 (N=OUT) [+27+] Seq = Retinal photoisomerase OX=6637 OS=Todarodes pacificus (Japanese flying squid)
+
+     lvivnvcFVVGLVSSSTVIVVFVArlrh srddrYFIPYLSAVDLFGLVMNMLGIWgsyihsvsankdmackgLW
+tmwehyftgsIYLVLGCFSLCGMCIIFLArqspkprrkihvlitamavnggdpahasssivgrwlyg     svgcqLMG
+
+YICSAFGCFSAFLLIGIAIqrylkvc rpcgqqmtlkfrrLWLLIAFIVSMAISIPFVLFYdfetksvtgyickqdqtsv
+FWGFFGGMSHIWMLFAFAMerymavchrefyqqmpsVYYSIIVGLMYTFGTFWATMPLLGWasyglevhgtsctinys  
+
+tgpAAYSIAIASLVFVNIILLVILYCFIgraicqqtdrrrmrdnskrFTCMFLTITAVAMVSYIpkasiliaeslntsye
+vsdesyqsYVFFLAIFSFIFPMVSGWYAIskawsglsaikekdkdilseeqLTALAGAFILISLISWSGFGYVAIYsalt
+
+qtdtfseiiyrlhilhhtsnsfiyayfdsrfrteikntvra
+hgaqlshlrghvppimsktgcalfpllifl           
+
+
+block 19 = 2 seqs
+*USER>>tr|H3FWW1|H3FWW1_PRIPA :	 (N=IN) [+76+] Seq = Uncharacterized protein OX=54126 OS=Pristionchus pacificus. GN= PE=4 SV=1
+*USER>>tr|F1Q4L9|F1Q4L9_DANRE :	 (N=IN) [+142+] Seq = Uncharacterized protein OX=7955 OS=Danio rerio (Zebrafish) (Brachydanio rerio
+
+lypityFFGTIFVVGVVTNAAVAFASYhdsrlrnscnILIAFASIADCLHLSGHIVLIYAFAtgnllmksttcVWIEILP
+       svtmlvnpvlslcvlcfps     lrqetrYLLANVLFADMLFLTVNLSIVscnsvg lhlpaplceFMMVSM
+
+IIGQNSGTAFTVAIGIdrvfacfspvky     grknpIIYICCHLVGISLYLAYFYnlfanlyptdlicmvpanylgka
+VMTYSASVLTVTLMVVdtyvavrwplrykelppsrarkIIMSMWVIAAVCPVSLLMFevvmgkdqsrpvclvlialeekl
+
+kge  wwnVSLGCCILAVIVYAIVGVrikmsnmrghemrlfksLLIILATVICGYVTFATANILVAn   kidfkMGILM
+kvgvpLYFIIAVSLCTALILYCYIHLYIItrtsgiwrsrysrarMTLLAHTLLLIMYFVPALVFAVelkreddlgVWILV
+
+DLIIGIPVNISLATNYLVYYatssdyrrvfkgqiafvt
+NMCVLMLLP RCCTPYLYVLryreiyktvqqasv    
+
+
+block 21 = 2 seqs
+*USER>>tr|F1L7M2|F1L7M2_ASCSU :	 (N=IN) [+574+] Seq = Gonadotropinreleasing hormone II receptor OX=6253 OS=Ascaris suum (Pig roundw
+*USER>>tr|B3S958|B3S958_TRIAD :	 (N=IN) [+917+] Seq = Putative uncharacterized protein OX=10228 OS=Trichoplax adhaerens (Trichoplax
+
+iyqiifFVFGTPLNAVSLVQSTLFrrsrdgadrlvqqLIIAHLLVLCIYCVWRTYWFMnvvwtqgdllckiysvasalpf
+   tllaflgltintiliilmsyrkhtktaadGLVIHLAICDLLTTIPTLI   YCAFnggwpimsrlckGVIFCLTTFY
+
+hlwsnMVAAIGIDMLCCITSPLSSYrtsstrVTWLITISWFAALFCSLPMAIFrgavipgtefeqcypvidrysdevlfl
+SVNVGTLTLMSIeryraiihpmkp risgpkMAVLVIFLWLSVII  VPAIGVsntedlrtry     lcvlhgahqhfl
+
+fnlFHVITTFYVPLTIVVLCYTLIGLSLrrqmaqrktlhdmcatrirfvrasVAIIATFLLTWMPYQVLALLrvlcagst
+nfsYYVVVGYIIPACIMSYCYkmiikklkqtslanknnskrefqknlavkILIAVSIVFILTGIPLVIGLIIHIymdtrn
+
+ceqVVSNWLQAVIIASTCINpfiykfgs        
+IINSCTILFWILLQFAPLYnpmihlakkknfwhtly
+
+
+block 22 = 2 seqs
+*USER>>tr|H2KVV1|H2KVV1_CLOSI :	 (N=IN) [+22+] Seq = Amine GPCR OX=79923 OS=Clonorchis sinensis (Chinese liver fluke). GN=CLF_11330
+*USER>>tr|B3RW58|B3RW58_TRIAD :	 (N=IN) [+149+] Seq = Putative uncharacterized protein OX=10228 OS=Trichoplax adhaerens (Trichoplax
+
+ snlgfvgtilniiqlyvlcqckigsrlttvllrgqsvidAYTCLVVFLSRLVGITTGVPFLdavlcyvwrgMFWLGIAL
+wsilfiIILVPNALLVGVICFKKslwthssVLVGSLCLANILFCFLYILP  VKIMVsihpftniycqlsnVIQFAFVCC
+
+SVQNLTCISFdrfcavcfprqykvrqtLLIIGCYLYEVGIVLFLFIPSFLAtrftsnkcllefaipgvtlffraqAFLLL
+MNFHICSISLekfiaitspfwnqisvyksVMIILLICWILPTFVAFLPLIWWrfcpyyclm    seikanrrawhvFWA
+
+IFNYILPAFIMIGSHVYVIhvirhpapgqqsnqhigntikrLALTTAMMAGLLLVLHPYEIVYILAtsnvihekdsvtrq
+FLMFLLPTIVTIIFYVRIFLVAkdhasrenqssststglkavktVAIVVGVYVFLQTPYNVYqvinvdktlsrrln   k
+
+IGSMFVILGAVLNPFVLIALSYTVrrqvvr   
+yrFYLASWNPVASPIIYGFFnknlrdgvmslfw
+
+
+block 23 = 2 seqs
+*USER>>tr|H3IP68|H3IP68_STRPU :	 (N=IN) [+87+] Seq = Uncharacterized protein OX=7668 OS=Strongylocentrotus purpuratus (Purple sea u
+*USER>>tr|I3JJA4|I3JJA4_ORENI :	 (N=IN) [+1759+] Seq = Uncharacterized protein OX=8128 OS=Oreochromis niloticus (Nile tilapia) (Til
+
+lrifagVLMIFITAFALIGNLGVITGLrhkcfhralytylnnLAITIMCDCLFNAPFIIGAMLsdmwldasFLCPVTSFI
+     tilfaltAVLGITGNSVVIWVAGFk fkkvtnVWLVNLAIADLIFCFTRVFTLteklfqhfsfgl fvcklnaff
+
+GNLIHTQIIMSLMLLVldrmlslkysesyirktgvranLISGYSWIHSMAFTIAIVVTSVesdyfqdrylcsvvyknnla
+kytnMFCSVFLLAVISLDRVLCVWqpvltkrrtlwaarVVAVCIWIAAMLFSIPYFIhhqslgkktcclhpkekgynstk
+
+ynVIYSLLCNIAPWVTVMCCYIYIVALasetnardneapigtatelshakpVGVLIFLWCVLIGPFHILGMIYLYsgvtm
+vafIHFLCGFIFPFIVILVCYILAAVGIqrtrlsgksrpl         rILACLVIAFFLCWAPYHCLLLVkmvdsksa
+
+ipgVLWTI   FTCFRFIFDFFVAVVILVAWpeswreckhfitcrr
+llkiwypvaeGVACFNSCVNPLLYFCMGLkvsegfrqsl       
+
+
+15 groups ( 15 aligned )
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 5
+ gap_pen = 20 span = 15 window = 120
+ minscore = 800 pepscore = 0 list_limit = 2
+ circles = 0 output = 2 outline = 80
+score_pairs 
+
+average score over cutoff = 1011
+(105 pairs) cluster_pairs total list_alloc = 15
+pack_lists 
+update_blocks
+     p- USER>>SEED:seq_1gzmA
+     b- USER>>tr|H3IEL0|H3IEL0_STRPU
+1097
+     p- USER>>tr|H3I5A7|H3I5A7_STRPU
+     b- USER>>tr|H3III0|H3III0_STRPU
+
+
+     p- USER>>tr|Q2AB52|Q2AB52_XENTR
+     b- USER>>tr|H3HHU6|H3HHU6_STRPU
+1063
+     p- USER>>tr|H2KRY6|H2KRY6_CLOSI
+     b- USER>>tr|Q9XVQ0|Q9XVQ0_CAEEL
+
+
+     p- USER>>tr|C3YLV5|C3YLV5_BRAFL
+     b- USER>>tr|Q1ZXT2|Q1ZXT2_CAEEL
+1044
+     p- USER>>tr|H2KVV1|H2KVV1_CLOSI
+     b- USER>>tr|B3RW58|B3RW58_TRIAD
+
+
+     p- USER>>tr|F1L7M2|F1L7M2_ASCSU
+     b- USER>>tr|B3S958|B3S958_TRIAD
+1027
+     p- USER>>tr|H3IP68|H3IP68_STRPU
+     b- USER>>tr|I3JJA4|I3JJA4_ORENI
+
+
+     p- USER>>tr|B3RL46|B3RL46_TRIAD
+     b- USER>>tr|I3KGS9|I3KGS9_ORENI
+1018
+     p- USER>>tr|A7SWN7|A7SWN7_NEMVE
+     b- USER>>tr|G1MNG2|G1MNG2_AILME
+
+
+     p- USER>>tr|H3IMZ0|H3IMZ0_STRPU
+     b- USER>>tr|A8XUY4|A8XUY4_CAEBR
+1005
+     p- USER>>tr|O45170|O45170_CAEEL
+     b- USER>>tr|A8PGJ9|A8PGJ9_BRUMA
+
+
+     p- USER>>tr|Q9WRM0|Q9WRM0_9GAMA
+     b- USER>>tr|B0S6Q0|B0S6Q0_DANRE
+932
+     p- USER>>tr|H3FWW1|H3FWW1_PRIPA
+     b- USER>>tr|F1Q4L9|F1Q4L9_DANRE
+
+
+block 0 = 4 seqs
+*USER>>SEED:seq_1gzmA :	 (N=IN) [+3471+] Seq = rhodopsin QUERY sequence
+*USER>>tr|H3IEL0|H3IEL0_STRPU :	 (N=IN) [+491+] Seq = Uncharacterized protein OX=7668 OS=Strongylocentrotus purpuratus (Purple sea 
+*USER>>tr|H3I5A7|H3I5A7_STRPU :	 (N=IN) [+262+] Seq = Uncharacterized protein OX=7668 OS=Strongylocentrotus purpuratus (Purple sea 
+*USER>>tr|H3III0|H3III0_STRPU :	 (N=IN) [+221+] Seq = Uncharacterized protein OX=7668 OS=Strongylocentrotus purpuratus (Purple sea 
+
+laepwqFSMLAAYMFLLIMLGFPINFLTLYVtvqhkklrtplnYILLNLAVADLFMVFGGFTTTLYtslhgyfvfgptgc
+      yiisslLYFVIGFVALIGNIFVIVkvyqerrlhkptYYLIASLAVADLLTGTVALpsgaygrvvqnrtcsgeth
+       ialatiFAILAALGISGNTFLITAVFFsrklrnvtnaFVVILSISDIINSSTLIVQVIALAVrtqa  fmvmc
+       tfaaviFITIGVVGTIGNALVCIVIASTLAwkgttnLLILNQAFIDSMTSILILSYALpgpipggw  sefvc
+
+nleGFFATLGGEIALWSLVVLAIeryvvvckpmsnfrfgenhAIMGVAFTWVMALACAAPPLVGWsryipegmqcscgid
+LWFFMMAFYLHCVSVMHLIAIAIdryicitrplkyisvtpkrIAGTIAFNWVMSCSFGLVPLYsrnd             
+kIVGPVATTVLGASSFIMTLIALCrfvlitkqphfkrfskpnMAVMISVSFLFPLSLVLLFVLdlatagln         
+rMWVTLLWMLFVVSTYNLCMMSLeryfavaypvistrfkkqtsLLMILFCWTIAPLLHYYypiayaggvck         
+
+yytpheetnnesFVIYMFVVHFIIPLIVIFFCYgqlvftvkeaaaqqqesattqkaekevtrMVIIMVIAFLICWLPYAG
+  qtishcsaiaynIIMFYTSAILPLLVLSLIY WIIFrvarrqvmrrkpiqihtpqmkatkttLLVLCVFAVCWLP IS
+  ediclfydspefntMCGCFLLVLLITVAIIYAKIFLFLrrhfrqlrssernleleskitknMVLVLCVFALC     F
+  krg    dprVVATIGVLEFFIPFIIMAVVYtrivfllrrqhrrviqvpetvrrnVTVTLLAVFIMYVVCWMpnhltf
+
+VAFYIFthqgsdfgpIFMTIPAFFAKTSAVYNPVIYImmnkqfrncmvttlccgkn
+IKFLLeihlktt  pstMLYLRTIAYSNAALNPFVFVFrdrnfrgvlkhhr     
+IPLSLTLIVSes  allgtYCFAIFNLSSCLNPILFGWkhpvfrqvfrcmfrr   
+lqfglggplnls  gaWYYITLILAYLNMSINPFIYALkyklfregfkrlfcnr  
+
+
+block 1 = 4 seqs
+*USER>>tr|H3IMZ0|H3IMZ0_STRPU :	 (N=IN) [+71+] Seq = Uncharacterized protein OX=7668 OS=Strongylocentrotus purpuratus (Purple sea u
+*USER>>tr|A8XUY4|A8XUY4_CAEBR :	 (N=IN) [+25+] Seq = Protein CBG19154 OX=6238 OS=Caenorhabditis briggsae. GN=CBG19154, CBG_19154 PE
+*USER>>tr|O45170|O45170_CAEEL :	 (N=IN) [+224+] Seq = Protein SRW4 OX=6239 OS=Caenorhabditis elegans. GN= PE=4 SV=1
+*USER>>tr|A8PGJ9|A8PGJ9_BRUMA :	 (N=IN) [+20+] Seq = Gprotein coupled receptor, putative OX=6279 OS=Brugia malayi (Filarial nematod
+
+vpftvlFVLCGMITIFSNVINLIALnhaqqcndntrlcfqAVAIVDFFVGLFCCTFHSLrfsglsisktrtFSIIGVIGC
+slkvflGFCFGILSGTSLILNIFALFTVFrlalrknhVY VIAFFNILSDVMQMTMSTPSIItnsistrkkSPWTLAFGS
+      nfvlailqffinlvhfsilsrk hlrnsvyrLMIGICSCDIISHTLTFLAFSPFVrkknqecFLTVIVLDITQR
+  lwaiylITMKIGIIGNLWVICSVIrnirpqrpsdshIFVLAFVDFIVVCSLALRIVYIWdetltfeiwncrglyfieq
+
+STLFNQSIMILA  CVSIdrylavtrplryhtvtkqrMILLIFSGVAIGTLNSSASFthkivagfsdlkfasvdiathpi
+AFMFLWYFetitqmimafdryviiclrkhnLFTFTSTLVMFSLLIPISFVIMYhsqymnpccaflfdqeylsegvpnysd
+SSSWLAVLMALY  rtlsvkypmsthkvspkWALWTIIGVLVVNTAWTLVVFGrhkidgrnidydcd   gnevhhlhsI
+lskMLSMFCIAC  ISIG RYITIrkpfnnqirrhrGFPAVPLCFPIIPIIFTMktidvtsdrwdcr   isdnawnrLT
+
+LVIYFALILASAGVTTFCNVTLITLarkhrrriaaavghqprgnkdlrtIFAVTGAFYITWGAQVSVnftsaa     ei
+rfd lplnASSSIISAICYILIFWTVhnssatfstqkvrrrrdirfaiqssLLLVFYIFVWVLFRVLPILLad     rh
+ITSIYGIIKALPSLIDPILTVLLIielrkaskrrknigedgksdnttkLVLFVTISFFILEVPNGFAhvtagafhgnpis
+GLLVGACFILLVMLIsanyaeivrhvhrkfsrrqsessnskseprmtssivrVAVFHMICWLPFCFIAVIptetcehawv
+
+piarnVLLIFVISNSFWNALIYLLMnstfrkivfrmf    
+veWFILVPIFYTINCTSNAIIYIFFnsevqshltp      
+YMIQVFAEILPVFNSSSHIFICLAMssqyretsceifeksk
+LWILILANWLTYLNSALNWIFYVVLnrdlrelirsn     
+
+
+block 2 = 4 seqs
+*USER>>tr|C3YLV5|C3YLV5_BRAFL :	 (N=IN) [+620+] Seq = Putative uncharacterized protein OX=7739 OS=Branchiostoma floridae (Florida l
+*USER>>tr|Q1ZXT2|Q1ZXT2_CAEEL :	 (N=IN) [+791+] Seq = Protein ADOR1, isoform a OX=6239 OS=Caenorhabditis elegans. GN= PE=2 SV=1
+*USER>>tr|H2KVV1|H2KVV1_CLOSI :	 (N=IN) [+22+] Seq = Amine GPCR OX=79923 OS=Clonorchis sinensis (Chinese liver fluke). GN=CLF_11330
+*USER>>tr|B3RW58|B3RW58_TRIAD :	 (N=IN) [+149+] Seq = Putative uncharacterized protein OX=10228 OS=Trichoplax adhaerens (Trichoplax
+
+mvwlaactVLGVCGNMALLITVSCVqelrtpgnALLCALACADIFQLVTKVPMAVVFLhygep    lacdGVFFIIDTM
+          isfsnllvlwvyvrskhvrtvtntYIFSLALTDFLAGALGIPLTVVSVMtrkpr tfygcLFVHLILCIL
+    snlgfvgtilniiqlyvlcqckigsrlttvllrgqsvidAYTCLVVFLSRLVGITTGVPFLdavlcyvwrgMFWLG
+   wsilfiIILVPNALLVGVICFKKslwthssVLVGSLCLANILFCFLYILP  VKIMVsihpftniycqlsnVIQFAF
+
+AQFSINIIAPISIdrywyicspfkystmtsarIALLIGLSFLLAMVTMVhpllgenny fhppyiicky  lgparksrq
+CTISTFHMLAIAIdkyvticcrdrifssrrkraIFLLTTSWILGLLVAILPLFNVFGFafiengemchftmvvdyryLVY
+IALSVQNLTCISFdrfcavcfprqykvrqtLLIIGCYLYEVGIVLFLFIPSFLAtrftsnkcllefaipgvtlffraqAF
+VCCMNFHICSISLekfiaitspfwnqisvyksVMIILLICWILPTFVAFLPLIWWrfcpyyclm    seikanrrawhv
+
+AMINVCILVPMITMVFCYYkiwgelkrrqkrhnksspefrarmrsATMVLLIVAAYVVSWAPYFAAVIrsnlgdevtidg
+VIFFSTILAPTAIIVLLYSSIYsrirteekqqsererrmagrrklirILLILVVSYGICWYPLYIIntidyfwpefsins
+LLLIFNYILPAFIMIGSHVYVIhvirhpapgq qsnqhigntikrLALTTAMMAGLLLVLHPYEIVYILAtsnvihekds
+FWAFLMFLLPTIVTIIFYVRIFLVAkdhasre nqssststglkavktVAIVVGVYVFLQTPYNVYqvinvdktlsrrln
+
+pwqrFAVLFSLLSTFSNPIIYAYrnpqlrngffrlv 
+ LTLWTVIMSHMSCALNPLIYAYgmpgfkkalraff 
+vtrqIGSMFVILGAVLNPFVLIALSYTVrrqvvr   
+   kyrFYLASWNPVASPIIYGFFnknlrdgvmslfw
+
+
+block 3 = 4 seqs
+*USER>>tr|Q2AB52|Q2AB52_XENTR :	 (N=IN) [+511+] Seq = Taste receptor type 2 OX=8364 OS=Xenopus tropicalis (Western clawed frog) (Si
+*USER>>tr|H3HHU6|H3HHU6_STRPU :	 (N=IN) [+310+] Seq = Uncharacterized protein OX=7668 OS=Strongylocentrotus purpuratus (Purple sea 
+*USER>>tr|H2KRY6|H2KRY6_CLOSI :	 (N=IN) [+84+] Seq = Rhodopsinlike orphan GPCR OX=79923 OS=Clonorchis sinensis (Chinese liver fluke
+*USER>>tr|Q9XVQ0|Q9XVQ0_CAEEL :	 (N=IN) [+62+] Seq = Protein F16C3.1 OX=6239 OS=Caenorhabditis elegans. GN=F16C3.1 PE=4 SV=1
+
+vysffapILAVTAGAFTNAYITFVILLdykmmsssnkILLALSLSNGYFSFLLFVCSIISFVwphiatnnyikgcILALL
+yihsfyMLISCVFSVVGNVFNILVLLkltnisesrkILFLFLSLSDLMSGLSLIPSIPASFlnrwpfrieICFFCSYMLL
+   gyilpfvctFGFLANVWTAVLFLLGFrrqtrqLVYLAFLAIANAAIHVLWGWLWLFpfmtarfsqsqeacrlhrFAY
+     llpifcFIGILGNSMALILIRTNFWlrltsnIYLCTLSVSSCFFLLTVIISWAdtymgplyseselgckFFSFLA
+
+IFGISSTAWITTCLCVFYFVkiinfssgawfklkIVPWLILVSEVVSLGCSFLTLLPVniqepssssmf       ysln
+TSLGISNALIFFLAVdcylavkypfkypsvtkrrtitqCLLVAFMYLVTTVEFYVVscdlsyrgvgmcl       mdfe
+SFGSTLSANLLLLAAsdrfmctywptkmlrfqrrhaYYAVIAVTVLSIVMMLPLGICIEWVtig ekvwc widsvytgv
+HFSDFICVWMISLISCdrmivlyrprirkwctkkfsrnMTIGFVLSSVVLYSLFLAGLqiykdgtentfcglsqdgfqvd
+
+stsiadFIKVTFIAVCVPLLIMIVTTFPTIrtlylhsrrmknssslaphqsAVFMMAWLLFLYTVFFVVLFTGFIqsftp
+rrsMVTYVVFVYSIMMFPTLLVLGMqasvahtariqarrfgdrqkrqanelkGVYVCLVVSICFFAGWLptagfqiysrk
+dvyhALFSNACVIQPLCTGVLNICFLVkirqllraqlsssssgrr    evaasetLLVITLVTLCTALPQSAAYNAAFV
+qhYFMFTLMDTALCTLLPAILIIIVnsftyrylrapttqqqqsqklrssdlqlsrtLIIVTSTFVLLNVPSYAMrilqsi
+
+ps      faywmtynLIYVATLVQSVVQILGNpklkeaiticcc
+tg      nniypFAWLSTAQCWNNTLAYMIIkknyrqtlksll 
+LsrrplafnisdIMWCVMLTQTACNIIVYLVrmsafrkmfrrrvi
+issaplfnFVYYVTLLIYYLHHAVLFYMYIFWspqmkkqlkp   
+
+
+block 7 = 4 seqs
+*USER>>tr|Q9WRM0|Q9WRM0_9GAMA :	 (N=IN) [+30+] Seq = G protein coupled receptor OX=83534 OS=Macaca mulatta rhadinovirus 17577. GN= 
+*USER>>tr|B0S6Q0|B0S6Q0_DANRE :	 (N=OUT) [+1756+] Seq = Uncharacterized protein OX=7955 OS=Danio rerio (Zebrafish) (Brachydanio rer
+*USER>>tr|H3FWW1|H3FWW1_PRIPA :	 (N=IN) [+76+] Seq = Uncharacterized protein OX=54126 OS=Pristionchus pacificus. GN= PE=4 SV=1
+*USER>>tr|F1Q4L9|F1Q4L9_DANRE :	 (N=IN) [+142+] Seq = Uncharacterized protein OX=7955 OS=Danio rerio (Zebrafish) (Brachydanio rerio
+
+ tvyaiicFFIFCITLFGNALVLYIFFkfkalansvdVLMAGLCCNSLFLCASFLFSWLLYVapq  mltsatckveiff
+aailpwLYLSLALLGLPANGLVLVNLWr  sertptVIFTLNIIFSDLLMCCSFFFrtvyhrkntewlsgtpvcnaveLC
+lypityFFGTIFVVGVVTNAAVAFASYhdsrlrnscnILIAFASIADCLHLSGHIV LIYAFAtgnllmksttcVWIEIL
+       svtmlvnpvlslcvlcfps     lrqetrYLLANVLFADMLFLTVNLS IVscnsvg lhlpaplceFMMVS
+
+FYLYTYFGVYIVVCISLIRCLLVVFsrrpwvkhGAFLCVCVSLIVALALSAnaslyrtarhpetsewicyedagedtvnw
+FYINLYCNMCFLLWTSInryttvvkpshsqvfhtqs CWILCFSTWLVIFIVVGTCMGLklslqingscfdqvgnsyiry
+PIIGQNSGTAFTVAIGIdrvfacfspvk   y     grknpIIYICCHLVGISLYLAYFYnlfanlyptdlicmvpany
+MVMTYSASVLTVTLMVVdtyvavrwplr   ykelppsrarkIIMSMWVIAAVCPVSLLMFevvmgkdqsrpvclvlial
+
+klrirtt SAICGFLVPFGLMVLFYGLTWCMVkstklarkga         vrGVIVTVVVLFLIFCLPYhlcnffdtll
+qnkfqthcLGVSTFFFILCLMLVSYsrlifhlqkvrvgslgagfgpggglkvrrkILASVIMFVLCFLPYHV        
+lgkakge  wwnVSLGCCILAVIVYAIVGVrikmsnmrghemrlf     ksLLIILATVICGYVTFATANILVAn   k
+eeklkvgvpLYFIIAVSLCTALILYCYIHLYIItrtsgiwrsrys     rarMTLLAHTLLLIMYFVPALVFAVelkre
+
+rtcylrsvamhicsllqsMYSAFVPVVYSGLGSLFrrrvrdtw    
+qriilitsqhencqerikmgtifiaalscclhpllq           
+idfkMGILMDLIIGIPVNISLATNYLVYYatssdyrrvfkgqiafvt
+ddlgVWILVNMCVLMLLP RCCTPYLYVLryreiyktvqqasv    
+
+
+block 13 = 4 seqs
+*USER>>tr|B3RL46|B3RL46_TRIAD :	 (N=IN) [+102+] Seq = Putative uncharacterized protein OX=10228 OS=Trichoplax adhaerens (Trichoplax
+*USER>>tr|I3KGS9|I3KGS9_ORENI :	 (N=IN) [+13528+] Seq = Uncharacterized protein OX=8128 OS=Oreochromis niloticus (Nile tilapia) (Ti
+*USER>>tr|A7SWN7|A7SWN7_NEMVE :	 (N=IN) [+42+] Seq = Predicted protein OX=45351 OS=Nematostella vectensis (Starlet sea anemone). GN
+*USER>>tr|G1MNG2|G1MNG2_AILME :	 (N=IN) [+555+] Seq = Uncharacterized protein OX=9646 OS=Ailuropoda melanoleuca (Giant panda). GN= 
+
+      tlfltfLFNSICLFIIWNINGFKnknhlyvrALLVCDVGAALFMCPSMY  LIdcsfvksqgLCSAIGFITSVF
+    ftlyiliictnstilyliwihknlhepMYIFIAALLLNSVLYSTTVYpklltdflsekqvttysaclfqFFMFYTL
+      iglfalvlniftlytackkllvqslphmyIASYCIADLLFLSLVMPFSLIALILsewdtpsvtceiqGFAVITL
+gvfivsqIGIGFIGNTLLLVLLINTLhtkkpinLILIHLIFANVMTIVFGIpevmnafgvrnfld digckavlyihrvt
+
+NGMTALIVALMCIdrylaiikpflyrrvtynkICIILCAVWLSLHMA IPLWgsgkfitypigrycsfdifekkpydrVL
+GCSEFLLLAAMAYdryvaickplqqtimrkttVSIFLIIAWLVPACH IAVQAIASAecnavytlqc    ersrLITIF
+GALTALLMTLTAIdrffamtspgiyarfkakVVMVLLVLVWLMAGAVPLPYFLegklrfhpgyafckadvniknYLTVLQ
+rGLSLCITSFLSIVQAIIItpsnsrawhkptYIFPTFCSFWIVNMLI YIHVIISAFaynstysltycvgkdpdyiqsAV
+
+SYLVFGEGIIISFLVIFCSIRIIrslrkqrksiktmkqtsrakarliemtAWIAVCFISCYLPFVLFRLLCMINIelqdt
+GVVALVDLSIPMLFIVFTYtkifivshrsckeirkkaeTC     LPHMLVLIGYSIFFVYdvsidfpkptrIIMTLQ  
+LALVVLPLLVVMICLCktklrmirrtrqqpgtfelcgnelettrmFAGIILGILVCCLPMFICDLVVAFLgrftlprsaY
+FLGSTFLRDLCVFLMVWTSVYIVkflfthrkrvqylsprpspetkathtILALVSCFVFFYWSNSFLTIYVSYk  rnvk
+
+fghyitenILYLNPLLNPFLCVTYNkryrtkfhiml   
+        IMLYHPLFNPLIYGLkmkeiskhlkkll   
+M   FSSFCVASIAWVRPLVVILCdedykheiqallpcc
+g   lenISIILSHGYPAICPLVLInhnklffl      
+
+
+block 21 = 4 seqs
+*USER>>tr|F1L7M2|F1L7M2_ASCSU :	 (N=IN) [+574+] Seq = Gonadotropinreleasing hormone II receptor OX=6253 OS=Ascaris suum (Pig roundw
+*USER>>tr|B3S958|B3S958_TRIAD :	 (N=IN) [+917+] Seq = Putative uncharacterized protein OX=10228 OS=Trichoplax adhaerens (Trichoplax
+*USER>>tr|H3IP68|H3IP68_STRPU :	 (N=IN) [+87+] Seq = Uncharacterized protein OX=7668 OS=Strongylocentrotus purpuratus (Purple sea u
+*USER>>tr|I3JJA4|I3JJA4_ORENI :	 (N=IN) [+1759+] Seq = Uncharacterized protein OX=8128 OS=Oreochromis niloticus (Nile tilapia) (Til
+
+      iyqiifFVFGTPLNAVSLVQSTLFrrsrdgadrlvqqLIIAHLLVLCIYCVWRTYWFMnvvwtqgdllckiysv
+         tllaflgltintiliilmsyrkhtktaadGLVIHLAICDLLTTIPTLI   YCAFnggwpimsrlckGVIF
+lrifagVLMIFITAFALIGNLGVITGLrh kcfhralytylnnLAITIMCDCLFNAPFIIGAMLsdmwldasFLCPVTSF
+     tilfaltAVLGITGNSVVIWVAGF k fkkvtnVWLVNLAIADLIFCFTRVFTLteklfqhfsfgl fvcklnaf
+
+asalpfhlwsnMVAAIGIDMLCCITSPLSSYrtsstrVTWLITISWFAALFCSLPMAIFrgavipgtefeqcypvidrys
+CLTTFYSVNVGTLTLMSIeryraiihpmkp risgpkMAVLVIFLWLSVII  VPAIGVsntedlrtry     lcvlhg
+IGNLIHTQIIMSLMLLVldrmlslkysesyirktgvranLISGYSWIHSMAFTIAIVVTSVesdyfqdr     ylcsvv
+fkytnMFCSVFLLAVISLDRVLCVWqpvltkrrtlwaarVVAVCIWIAAMLFSIPYFIhhqslgkktcc     lhpkek
+
+devlflfnlFHVITTFYVPLTIVVLCYTLIGLSLrrqmaqrktlhdmcatrirfvrasVAIIATFLLTWMPYQVLALLrv
+ahqhflnfsYYVVVGYIIPACIMSYCYkmiikklkqtslanknnskrefqknlavkILIAVSIVFILTGIPLVIGLIIHI
+yknnlaynVIYSLLCNIAPWVTVMCCYIYIVALasetnardneapigtatelshakpVGVLIFLWCVLIGPFHILGMIYL
+gynstkvafIHFLCGFIFPFIVILVCYILAAVGIqrtrlsgksrpl         rILACLVIAFFLCWAPYHCLLLVkm
+
+lcagstceqVVSNWLQAVIIASTCINpfiykfgs                  
+ymdtrnIINSCTILFWILLQFAPLYnpmihlakkknfwhtly          
+YsgvtmipgVLWTI   FTCFRFIFDFFVAVVILVAWpeswreckhfitcrr
+vdsksallkiwypvaeGVACFNSCVNPLLYFCMGLkvsegfrqsl       
+
+
+8 groups ( 8 aligned )
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 5
+ gap_pen = 20 span = 20 window = 140
+ minscore = 700 pepscore = 0 list_limit = 2
+ circles = 0 output = 2 outline = 80
+score_pairs 
+
+average score over cutoff = 961
+(28 pairs) cluster_pairs total list_alloc = 15
+pack_lists 
+update_blocks
+     ..p- USER>>SEED:seq_1gzmA
+     p-b- USER>>tr|H3IEL0|H3IEL0_STRPU
+     b-p- USER>>tr|H3I5A7|H3I5A7_STRPU
+     ..b- USER>>tr|H3III0|H3III0_STRPU
+1045
+     ..p- USER>>tr|C3YLV5|C3YLV5_BRAFL
+     p-b- USER>>tr|Q1ZXT2|Q1ZXT2_CAEEL
+     b-p- USER>>tr|H2KVV1|H2KVV1_CLOSI
+     ..b- USER>>tr|B3RW58|B3RW58_TRIAD
+
+
+     ..p- USER>>tr|Q2AB52|Q2AB52_XENTR
+     p-b- USER>>tr|H3HHU6|H3HHU6_STRPU
+     b-p- USER>>tr|H2KRY6|H2KRY6_CLOSI
+     ..b- USER>>tr|Q9XVQ0|Q9XVQ0_CAEEL
+986
+     ..p- USER>>tr|B3RL46|B3RL46_TRIAD
+     p-b- USER>>tr|I3KGS9|I3KGS9_ORENI
+     b-p- USER>>tr|A7SWN7|A7SWN7_NEMVE
+     ..b- USER>>tr|G1MNG2|G1MNG2_AILME
+
+
+     ..p- USER>>tr|H3IMZ0|H3IMZ0_STRPU
+     p-b- USER>>tr|A8XUY4|A8XUY4_CAEBR
+     b-p- USER>>tr|O45170|O45170_CAEEL
+     ..b- USER>>tr|A8PGJ9|A8PGJ9_BRUMA
+954
+     ..p- USER>>tr|F1L7M2|F1L7M2_ASCSU
+     p-b- USER>>tr|B3S958|B3S958_TRIAD
+     b-p- USER>>tr|H3IP68|H3IP68_STRPU
+     ..b- USER>>tr|I3JJA4|I3JJA4_ORENI
+
+
+     ..p- USER>>tr|Q9WRM0|Q9WRM0_9GAMA
+     p-b- USER>>tr|B0S6Q0|B0S6Q0_DANRE
+     b-p- USER>>tr|H3FWW1|H3FWW1_PRIPA
+     ..b- USER>>tr|F1Q4L9|F1Q4L9_DANRE
+900
+     ..p- USER>>tr|K1R8G3|K1R8G3_CRAGI
+     ..b- USER>>sp|P23820|REIS_TODPA
+
+
+block 0 = 8 seqs
+*USER>>SEED:seq_1gzmA :	 (N=IN) [+3471+] Seq = rhodopsin QUERY sequence
+*USER>>tr|H3IEL0|H3IEL0_STRPU :	 (N=IN) [+491+] Seq = Uncharacterized protein OX=7668 OS=Strongylocentrotus purpuratus (Purple sea 
+*USER>>tr|H3I5A7|H3I5A7_STRPU :	 (N=IN) [+262+] Seq = Uncharacterized protein OX=7668 OS=Strongylocentrotus purpuratus (Purple sea 
+*USER>>tr|H3III0|H3III0_STRPU :	 (N=IN) [+221+] Seq = Uncharacterized protein OX=7668 OS=Strongylocentrotus purpuratus (Purple sea 
+*USER>>tr|C3YLV5|C3YLV5_BRAFL :	 (N=IN) [+620+] Seq = Putative uncharacterized protein OX=7739 OS=Branchiostoma floridae (Florida l
+*USER>>tr|Q1ZXT2|Q1ZXT2_CAEEL :	 (N=IN) [+791+] Seq = Protein ADOR1, isoform a OX=6239 OS=Caenorhabditis elegans. GN= PE=2 SV=1
+*USER>>tr|H2KVV1|H2KVV1_CLOSI :	 (N=IN) [+22+] Seq = Amine GPCR OX=79923 OS=Clonorchis sinensis (Chinese liver fluke). GN=CLF_11330
+*USER>>tr|B3RW58|B3RW58_TRIAD :	 (N=IN) [+149+] Seq = Putative uncharacterized protein OX=10228 OS=Trichoplax adhaerens (Trichoplax
+
+laepwqFSMLAAYMFLLIMLGFPINFLTLYVtvqhkklrtplnYILLNLAVADLFMVFGGFTTTLYtslhgyfvfgptgc
+      yiisslLYFVIGFVALIGNIFVIVkvyqerrlhkptYYLIASLAVADLLTGTVALpsgaygrvvqnrtcsgeth
+       ialatiFAILAALGISGNTFLITAVFFsrklrnvtnaFVVILSISDIINSSTLIVQVIALAVrtqa  fmvmc
+       tfaaviFITIGVVGTIGNALVCIVIASTLAwkgttnLLILNQAFIDSMTSILILSYALpgpipggw  sefvc
+          mvwlaactVLGVCGNMALLITVSCVqelrtpgnALLCALACADIFQLVTKVPMAVVFLhygep    lac
+                    isfsnllvlwvyvrskhvrtvtntYIFSLALTDFLAGALGIPLTVVSVMtrkpr tfygc
+              snlgfvgtilniiqlyvlcqckigsrlttvllrgqsvidAYTCLVVFLSRLVGITTGVPFLdavlc
+             wsilfiIILVPNALLVGVICFKKslwthssVLVGSLCLANILFCFLYILP  VKIMVsihpftniyc
+
+nleGFFATLGGEIALWSLVVLAIeryvvvckpmsnfrfgenhAIMGVAFTWVMALACAAPPLVGWsryipegmqcscgid
+LWFFMMAFYLHCVSVMHLIAIAIdryicitrplkyisvtpkrIAGTIAFNWVMSCSFGLVPLYsrnd             
+kIVGPVATTVLGASSFIMTLIALCrfvlitkqphfkrfskpnMAVMISVSFLFPLSLVLLFVLdlatagln         
+rMWVTLLWMLFVVSTYNLCMMSLeryfavaypvistrfkkqtsLLMILFCWTIAPLLHYYypiayaggvck         
+dGVFFIIDTMAQFSINIIAPISIdrywyicspfkystmtsarIALLIGLSFLLAMVTMVhpllgenny fhppyiic   
+LFVHLILCILCTISTFHMLAIAIdkyvticcrdrifssrrkraIFLLTTSWILGLLVAILPLFNVFGFafiengemc   
+yvwrgMFWLGIALSVQNLTCISFdrfcavcfprqykvrqtLLIIGCYLYEVGIVLFLFIPSFLAtrftsnkcllefa   
+qlsnVIQFAFVCCMNFHICSISLekfiaitspfwnqisvyksVMIILLICWILPTFVAFLPLIWWrfcpyyclm      
+
+yytpheetnnesFVIYMFVVHFIIPLIVIFFCYgqlvftvkeaaaqqqesattqkaekevtrMVIIMVIAFLICWLPYAG
+  qtishcsaiaynIIMFYTSAILPLLVLSLIY WIIFrvarrqvmrrkpiqihtpqmkatkttLLVLCVFAVCWLP IS
+  ediclfydspefntMCGCFLLVLLITVAIIYAKIFLFLrrhfrqlrssernleleskitknMVLVLCVFALC     F
+  krg    dprVVATIGVLEFFIPFIIMAVVYtrivfllrrqhrrviqvpetvrrnVTVTLLAVFIMYVVCWMpnhltf
+  ky  lgparksrqAMINVCILVPMITMVFCYYkiwgelkrrqkrhnksspefrarmrsATMVLLIVAAYVVSWAPYFA
+  hftmvvdyryLVYVIFFSTILAPTAIIVLLYSSIYsrirteekqqsererrmagrrklirILLILVVSYGICWYPLYI
+  ipgvtlffraqAFLLLIFNYILPAFIMIGSHVYVIhvirhpapgq qsnqhigntikrLALTTAMMAGLLLVLHPYEI
+   seikanrrawhvFWAFLMFLLPTIVTIIFYVRIFLVAkdhasre nqssststglkavktVAIVVGVYVFLQTPYNV
+
+VAFYIFthqgsdfgpIFMTIPAFFAKTSAVYNPVIYImmnkqfrncmvttlccgkn
+IKFLLeihlktt  pstMLYLRTIAYSNAALNPFVFVFrdrnfrgvlkhhr     
+IPLSLTLIVSes  allgtYCFAIFNLSSCLNPILFGWkhpvfrqvfrcmfrr   
+lqfglggplnls  gaWYYITLILAYLNMSINPFIYALkyklfregfkrlfcnr  
+AVIrsnlgdevtidgpwqrFAVLFSLLSTFSNPIIYAYrnpqlrngffrlv     
+Intidyfwpefsins LTLWTVIMSHMSCALNPLIYAYgmpgfkkalraff     
+VYILAtsnvihekdsvtrqIGSMFVILGAVLNPFVLIALSYTVrrqvvr       
+Yqvinvdktlsrrln   kyrFYLASWNPVASPIIYGFFnknlrdgvmslfw    
+
+
+block 1 = 8 seqs
+*USER>>tr|H3IMZ0|H3IMZ0_STRPU :	 (N=IN) [+71+] Seq = Uncharacterized protein OX=7668 OS=Strongylocentrotus purpuratus (Purple sea u
+*USER>>tr|A8XUY4|A8XUY4_CAEBR :	 (N=IN) [+25+] Seq = Protein CBG19154 OX=6238 OS=Caenorhabditis briggsae. GN=CBG19154, CBG_19154 PE
+*USER>>tr|O45170|O45170_CAEEL :	 (N=IN) [+224+] Seq = Protein SRW4 OX=6239 OS=Caenorhabditis elegans. GN= PE=4 SV=1
+*USER>>tr|A8PGJ9|A8PGJ9_BRUMA :	 (N=IN) [+20+] Seq = Gprotein coupled receptor, putative OX=6279 OS=Brugia malayi (Filarial nematod
+*USER>>tr|F1L7M2|F1L7M2_ASCSU :	 (N=IN) [+574+] Seq = Gonadotropinreleasing hormone II receptor OX=6253 OS=Ascaris suum (Pig roundw
+*USER>>tr|B3S958|B3S958_TRIAD :	 (N=IN) [+917+] Seq = Putative uncharacterized protein OX=10228 OS=Trichoplax adhaerens (Trichoplax
+*USER>>tr|H3IP68|H3IP68_STRPU :	 (N=IN) [+87+] Seq = Uncharacterized protein OX=7668 OS=Strongylocentrotus purpuratus (Purple sea u
+*USER>>tr|I3JJA4|I3JJA4_ORENI :	 (N=IN) [+1759+] Seq = Uncharacterized protein OX=8128 OS=Oreochromis niloticus (Nile tilapia) (Til
+
+  vpftvlFVLCGMITIFSNVINLIALnhaqqcndntrlcfqAVAIVDFFVGLFCCTFHSLrfsglsisktrtFSIIGVI
+  slkvflGFCFGILSGTSLILNIFALFTVFrlalrknhVY VIAFFNILSDVMQMTMSTPSIItnsistrkkSPWTLAF
+        nfvlailqffinlvhfsilsrk hlrnsvyrLMIGICSCDIISHTLTFLAFSPFVrkknqecFLTVIVLDIT
+    lwaiylITMKIGIIGNLWVICSVIrnirpqrpsdshIFVLAFVDFIVVCSLALRIVYIWdetltfeiwncrglyfi
+      iyqiifFVFGTPLNAVSLVQSTLFrrsrdgadrlvqqLIIAHLLVLCIYCVWRTYWFMnvvwtqgdllckiysv
+         tllaflgltintiliilmsyrkhtktaadGLVIHLAICDLLTTIPTLI   YCAFnggwpimsrlckGVIF
+lrifagVLMIFITAFALIGNLGVITGLrh kcfhralytylnnLAITIMCDCLFNAPFIIGAMLsdmwldasFLCPVTSF
+     tilfaltAVLGITGNSVVIWVAGF k fkkvtnVWLVNLAIADLIFCFTRVFTLteklfqhfsfgl fvcklnaf
+
+GCSTLFNQSIMILA  CVSIdrylavtrplryhtvtkqrMILLIFSGVAIGTLNSSASFthkivagfsd        lkf
+GSAFMFLWYFetitqmimafdryviiclrkhnLFTFTSTLVMFSLLIPISFVIMYhsqymnpccaflfd        qey
+QRSSSWLAVLMALY  rtlsvkypmsthkvspkWALWTIIGVLVVNTAWTLVVFGrhkidgrnidydcd           
+eqlskMLSMFCIAC  ISIG RYITIrkpfnnqirrhrGFPAVPLCFPIIPIIFTMktidvtsdrwdcr           
+asalpfhlwsnMVA  AIGIDMLCCITSPLSSYrtsstrVTWLITISWFAALFCSLPMAIFrgavipgtefeqcypvidr
+CLTTFYSVNVGTLT  LMSIeryraiihpmkp risgpkMAVLVIFLWLSVII  VPAIGVsntedlrtry     lcvl
+IGNLIHTQIIMSLM  LLVldrmlslkysesyirktgvranLISGYSWIHSMAFTIAIVVTSVesdyfqdr     ylcs
+fkytnMFCSVFLLA  VISLDRVLCVWqpvltkrrtlwaarVVAVCIWIAAMLFSIPYFIhhqslgkktcc     lhpk
+
+asvdiathpiLVIYFALILASAGVTTFCNVTLITLarkhrrriaaavghqprgnkdlrtIFAVTGAFYITWGAQVSVnft
+lsegvpnysdrfd lplnASSSIISAICYILIFWTVhnssatfstqkvrrrrdirfaiqssLLLVFYIFVWVLFRVLPIL
+gnevhhlhsIITSIYGIIKALPSLIDPILTVLLIielrkaskrrknigedgksdnttkLVLFVTISFFILEVPNGFAhvt
+isdnawnrLTGLLVGACFILLVMLIsanyaeivrhvhrkfsrrqsessnskseprmtssivrVAVFHMICWLPFCFIAVI
+ysdevlflfnlFHVITTFYVPLTIVVLCYTLIGLSLrrqmaqrktlhdmcatrirfvrasVAIIATFLLTWMPYQVLALL
+hgahqhflnfsYYVVVGYIIPACIMSYCYkmiikklkqtslanknnskrefqknlavkILIAVSIVFILTGIPLVIGLII
+vvyknnlaynVIYSLLCNIAPWVTVMCCYIYIVALasetnardneapigtatelshakpVGVLIFLWCVLIGPFHILGMI
+ekgynstkvafIHFLCGFIFPFIVILVCYILAAVGIqrtrlsgksrpl         rILACLVIAFFLCWAPYHCLLLV
+
+saa     eipiarnVLLIFVISNSFWNALIYLLMnstfrkivfrmf       
+Lad     rhveWFILVPIFYTINCTSNAIIYIFFnsevqshltp         
+agafhgnpisYMIQVFAEILPVFNSSSHIFICLAMssqyretsceifeksk   
+ptetcehawvLWILILANWLTYLNSALNWIFYVVLnrdlrelirsn        
+rvlcagstceqVVSNWLQAVIIASTCINpfiykfgs                  
+HIymdtrnIINSCTILFWILLQFAPLYnpmihlakkknfwhtly          
+YLYsgvtmipgVLWTI   FTCFRFIFDFFVAVVILVAWpeswreckhfitcrr
+kmvdsksallkiwypvaeGVACFNSCVNPLLYFCMGLkvsegfrqsl       
+
+
+block 3 = 8 seqs
+*USER>>tr|Q2AB52|Q2AB52_XENTR :	 (N=IN) [+511+] Seq = Taste receptor type 2 OX=8364 OS=Xenopus tropicalis (Western clawed frog) (Si
+*USER>>tr|H3HHU6|H3HHU6_STRPU :	 (N=IN) [+310+] Seq = Uncharacterized protein OX=7668 OS=Strongylocentrotus purpuratus (Purple sea 
+*USER>>tr|H2KRY6|H2KRY6_CLOSI :	 (N=IN) [+84+] Seq = Rhodopsinlike orphan GPCR OX=79923 OS=Clonorchis sinensis (Chinese liver fluke
+*USER>>tr|Q9XVQ0|Q9XVQ0_CAEEL :	 (N=IN) [+62+] Seq = Protein F16C3.1 OX=6239 OS=Caenorhabditis elegans. GN=F16C3.1 PE=4 SV=1
+*USER>>tr|B3RL46|B3RL46_TRIAD :	 (N=IN) [+102+] Seq = Putative uncharacterized protein OX=10228 OS=Trichoplax adhaerens (Trichoplax
+*USER>>tr|I3KGS9|I3KGS9_ORENI :	 (N=IN) [+13528+] Seq = Uncharacterized protein OX=8128 OS=Oreochromis niloticus (Nile tilapia) (Ti
+*USER>>tr|A7SWN7|A7SWN7_NEMVE :	 (N=IN) [+42+] Seq = Predicted protein OX=45351 OS=Nematostella vectensis (Starlet sea anemone). GN
+*USER>>tr|G1MNG2|G1MNG2_AILME :	 (N=IN) [+555+] Seq = Uncharacterized protein OX=9646 OS=Ailuropoda melanoleuca (Giant panda). GN= 
+
+vysffapILAVTAGAFTNAYITFVILLdykmmsssnkILLALSLSNGYFSFLLFVCSIISFVwphiatnnyikgcILALL
+yihsfyMLISCVFSVVGNVFNILVLLkltnisesrkILFLFLSLSDLMSGLSLIPSIPASFlnrwpfrieICFFCSYMLL
+   gyilpfvctFGFLANVWTAVLFLLGFrrqtrqLVYLAFLAIANAAIHVLWGWLWLFpfmtarfsqsqeacrlhrFAY
+     llpifcFIGILGNSMALILIRTNFWlrltsnIYLCTLSVSSCFFLLTVIISWAdtymgplyseselgckFFSFLA
+         tlfltfLFNSICLFIIWNINGFKnknhlyvrALLVCDVGAALFMCPSMY  LIdcsfvksqgLCSAIGFIT
+       ftlyiliictnstilyliwihknlhepMYIFIAALLLNSVLYSTTVYpklltdflsekqvttysaclfqFFMF
+         iglfalvlniftlytackkllvqslphmyIASYCIADLLFLSLVMPFSLIALILsewdtpsvtceiqGFAV
+   gvfivsqIGIGFIGNTLLLVLLINTLhtkkpinLILIHLIFANVMTIVFGIpevmnafgvrnfld digckavlyih
+
+IFGISSTAWITTCLCVFYFVkiinfssgawfklkIVPWLILVSEVVSLGCSFLTLLPVniqepssssmf       ysln
+TSLGISNALIFFLAVdcylavkypfkypsvtkrrtitqCLLVAFMYLVTTVEFYVVscdlsyrgvgmcl       mdfe
+SFGSTLSANLLLLAAsdrfmctywptkmlrfqrrhaYYAVIAVTVLSIVMMLPLGICIEWVtig ekvwc widsvytgv
+HFSDFICVWMISLISCdrmivlyrprirkwctkkfsrnMTIGFVLSSVVLYSLFLAGLqiykdgtentfcglsqdgfqvd
+SVFNGMTALIVALMCIdrylaiikpflyrrvtynkICIILCAVWLSLHMA IPLWgsgkfitypigrycs    fdifek
+YTLGCSEFLLLAAMAYdryvaickplqqtimrkttVSIFLIIAWLVPACH IAVQAIASAecnavytlqc        er
+ITLGALTALLMTLTAIdrffamtspgiyarfkakVVMVLLVLVWLMAGAVPLPYFLegklrfhpgyafck    advnik
+rvtrGLSLCITSFLSIVQAIIItpsnsrawhkptYIFPTFCSFWIVNMLI YIHVIISAFaynstyslty    cvgkdp
+
+stsiadFIKVTFIAVCVPLLIMIVTTFPTIrtlylhsrrmknssslaphqsAVFMMAWLLFLYTVFFVVLFTGFIqsftp
+rrsMVTYVVFVYSIMMFPTLLVLGMqasvahtariqarrfgdrqkrqanelkGVYVCLVVSICFFAGWLptagfqiysrk
+dvyhALFSNACVIQPLCTGVLNICFLVkirqllraqlsssssgrr    evaasetLLVITLVTLCTALPQSAAYNAAFV
+qhYFMFTLMDTALCTLLPAILIIIVnsftyrylrapttqqqqsqklrssdlqlsrtLIIVTSTFVLLNVPSYAMrilqsi
+kpydrVLSYLVFGEGIIISFLVIFCSIRIIrslrkqrksiktmkqtsrakarliemtAWIAVCFISCYLPFVLFRLLCMI
+srLITIFGVVALVDLSIPMLFIVFTYtkifivshrsckeirkkaeTC     LPHMLVLIGYSIFFVYdvsidfpkptrI
+nYLTVLQLALVVLPLLVVMICLCktklrmirrtrqqpgtfelcgnelettrmFAGIILGILVCCLPMFICDLVVAFLgrf
+dyiqsAVFLGSTFLRDLCVFLMVWTSVYIVkflfthrkrvqylsprpspetkathtILALVSCFVFFYWSNSFLTIYVSY
+
+ps      faywmtynLIYVATLVQSVVQILGNpklkeaiticcc  
+tg      nniypFAWLSTAQCWNNTLAYMIIkknyrqtlksll   
+LsrrplafnisdIMWCVMLTQTACNIIVYLVrmsafrkmfrrrvi  
+issaplfnFVYYVTLLIYYLHHAVLFYMYIFWspqmkkqlkp     
+NIelqdt fghyitenILYLNPLLNPFLCVTYNkryrtkfhiml   
+IMTLQ           IMLYHPLFNPLIYGLkmkeiskhlkkll   
+tlprsaY M   FSSFCVASIAWVRPLVVILCdedykheiqallpcc
+k  rnvk g   lenISIILSHGYPAICPLVLInhnklffl      
+
+
+block 7 = 6 seqs
+*USER>>tr|Q9WRM0|Q9WRM0_9GAMA :	 (N=IN) [+30+] Seq = G protein coupled receptor OX=83534 OS=Macaca mulatta rhadinovirus 17577. GN= 
+*USER>>tr|B0S6Q0|B0S6Q0_DANRE :	 (N=OUT) [+1756+] Seq = Uncharacterized protein OX=7955 OS=Danio rerio (Zebrafish) (Brachydanio rer
+*USER>>tr|H3FWW1|H3FWW1_PRIPA :	 (N=IN) [+76+] Seq = Uncharacterized protein OX=54126 OS=Pristionchus pacificus. GN= PE=4 SV=1
+*USER>>tr|F1Q4L9|F1Q4L9_DANRE :	 (N=IN) [+142+] Seq = Uncharacterized protein OX=7955 OS=Danio rerio (Zebrafish) (Brachydanio rerio
+*USER>>tr|K1R8G3|K1R8G3_CRAGI :	 (N=OUT) [+65+] Seq = Cholecystokinin receptor OX=29159 OS=Crassostrea gigas (Pacific oyster) (Cras
+*USER>>sp|P23820|REIS_TODPA :	 (N=OUT) [+27+] Seq = Retinal photoisomerase OX=6637 OS=Todarodes pacificus (Japanese flying squid)
+
+   tvyaiicFFIFCITLFGNALVLYIFFkfkalansvdVLMAGLCCNSLFLCASFLFSWLLYVapq  mltsatckvei
+  aailpwLYLSLALLGLPANGLVLVNLWr  sertptVIFTLNIIFSDLLMCCSFFFrtvyhrkntewlsgtpvcnave
+  lypityFFGTIFVVGVVTNAAVAFASYhdsrlrnscnILIAFASIADCLHLSGHIV LIYAFAtgnllmksttcVWIE
+         svtmlvnpvlslcvlcfps     lrqetrYLLANVLFADMLFLTVNLS IVscnsvg lhlpaplceFMM
+     lvivnvcFVVGLVSSSTVIVVFVArlrh srddrYFIPYLSAVDLFGLVMNMLGIWgsyihsvsankdmackgLW
+tmwehyftgsIYLVLGCFSLCGMCIIFLArqspkprrkihvlitamavnggdpahasssivgrwlyg     svgcqLMG
+
+ffFYLYTYFGVYIVVCISLIRCLLVVFsrrpwvkhGAFLCVCVSLIVALALSAnaslyrtarhpetsewicyedagedtv
+LCFYINLYCNMCFLLWTSInryttvvkpshsqvfhtqs CWILCFSTWLVIFIVVGTCMGLklslqingscfdqvgnsyi
+ILPIIGQNSGTAFTVAIGIdrvfacfspvk   y     grknpIIYICCHLVGISLYLAYFYnlfanlyptdlicmvpa
+VSMVMTYSASVLTVTLMVVdtyvavrwplr   ykelppsrarkIIMSMWVIAAVCPVSLLMFevvmgkdqsrpvclvli
+YICSAFGCFSAFLLIGIAIqrylkvc rpcgqqmtlkfrrLWLLIAFIVSMAISIPFVLFYdfetksvtgyickqdqtsv
+FWGFFGGMSHIWMLFAFAMerymavchrefyqqmpsVYYSIIVGLMYTFGTFWATMPLLGWasyglevhgtsctinys  
+
+nwklrirtt SAICGFLVPFGLMVLFYGLTWCMVkstklarkga         vrGVIVTVVVLFLIFCLPYhlcnffdt
+ryqnkfqthcLGVSTFFFILCLMLVSYsrlifhlqkvrvgslgagfgpggglkvrrkILASVIMFVLCFLPYHV      
+nylgkakge  wwnVSLGCCILAVIVYAIVGVrikmsnmrghemrlf     ksLLIILATVICGYVTFATANILVAn  
+aleeklkvgvpLYFIIAVSLCTALILYCYIHLYIItrtsgiwrsrys     rarMTLLAHTLLLIMYFVPALVFAVelk
+tgpAAYSIAIASLVFVNIILLVILYCFIgraicqqtdrrrmrdnsk      rFTCMFLTITAVAMVSYIpkasiliaes
+vsdesyqsYVFFLAIFSFIFPMVSGWYAIskawsglsaikekdkdi      lseeqLTALAGAFILISLISWSGFGYVA
+
+llrtcylrsvamhicsllqsMYSAFVPVVYSGLGSLFrrrvrdtw    
+  qriilitsqhencqerikmgtifiaalscclhpllq           
+ kidfkMGILMDLIIGIPVNISLATNYLVYYatssdyrrvfkgqiafvt
+reddlgVWILVNMCVLMLLP RCCTPYLYVLryreiyktvqqasv    
+lntsyeqtdtfseiiyrlhilhhtsnsfiyayfdsrfrteikntvra  
+IYsalthgaqlshlrghvppimsktgcalfpllifl             
+
+
+4 groups ( 4 aligned )
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 5
+ gap_pen = 20 span = 25 window = 180
+ minscore = 600 pepscore = 0 list_limit = 2
+ circles = 0 output = 2 outline = 80
+score_pairs 
+
+average score over cutoff = 927
+(6 pairs) cluster_pairs total list_alloc = 15
+pack_lists 
+update_blocks
+     ....p- USER>>SEED:seq_1gzmA
+     ..p-b- USER>>tr|H3IEL0|H3IEL0_STRPU
+     p-b-p- USER>>tr|H3I5A7|H3I5A7_STRPU
+     |...b- USER>>tr|H3III0|H3III0_STRPU
+     |...p- USER>>tr|C3YLV5|C3YLV5_BRAFL
+     b-p-b- USER>>tr|Q1ZXT2|Q1ZXT2_CAEEL
+     ..b-p- USER>>tr|H2KVV1|H2KVV1_CLOSI
+     ....b- USER>>tr|B3RW58|B3RW58_TRIAD
+978
+     ....p- USER>>tr|Q2AB52|Q2AB52_XENTR
+     ..p-b- USER>>tr|H3HHU6|H3HHU6_STRPU
+     p-b-p- USER>>tr|H2KRY6|H2KRY6_CLOSI
+     |...b- USER>>tr|Q9XVQ0|Q9XVQ0_CAEEL
+     |...p- USER>>tr|B3RL46|B3RL46_TRIAD
+     b-p-b- USER>>tr|I3KGS9|I3KGS9_ORENI
+     ..b-p- USER>>tr|A7SWN7|A7SWN7_NEMVE
+     ....b- USER>>tr|G1MNG2|G1MNG2_AILME
+
+
+     ....p- USER>>tr|H3IMZ0|H3IMZ0_STRPU
+     ..p-b- USER>>tr|A8XUY4|A8XUY4_CAEBR
+     p-b-p- USER>>tr|O45170|O45170_CAEEL
+     |...b- USER>>tr|A8PGJ9|A8PGJ9_BRUMA
+     |...p- USER>>tr|F1L7M2|F1L7M2_ASCSU
+     b-p-b- USER>>tr|B3S958|B3S958_TRIAD
+     ..b-p- USER>>tr|H3IP68|H3IP68_STRPU
+     ....b- USER>>tr|I3JJA4|I3JJA4_ORENI
+887
+     ....p- USER>>tr|Q9WRM0|Q9WRM0_9GAMA
+     ..p-b- USER>>tr|B0S6Q0|B0S6Q0_DANRE
+     p-b-p- USER>>tr|H3FWW1|H3FWW1_PRIPA
+     |...b- USER>>tr|F1Q4L9|F1Q4L9_DANRE
+     b---p- USER>>tr|K1R8G3|K1R8G3_CRAGI
+     ....b- USER>>sp|P23820|REIS_TODPA
+
+
+block 0 = 16 seqs
+*USER>>SEED:seq_1gzmA :	 (N=IN) [+3471+] Seq = rhodopsin QUERY sequence
+*USER>>tr|H3IEL0|H3IEL0_STRPU :	 (N=IN) [+491+] Seq = Uncharacterized protein OX=7668 OS=Strongylocentrotus purpuratus (Purple sea 
+*USER>>tr|H3I5A7|H3I5A7_STRPU :	 (N=IN) [+262+] Seq = Uncharacterized protein OX=7668 OS=Strongylocentrotus purpuratus (Purple sea 
+*USER>>tr|H3III0|H3III0_STRPU :	 (N=IN) [+221+] Seq = Uncharacterized protein OX=7668 OS=Strongylocentrotus purpuratus (Purple sea 
+*USER>>tr|C3YLV5|C3YLV5_BRAFL :	 (N=IN) [+620+] Seq = Putative uncharacterized protein OX=7739 OS=Branchiostoma floridae (Florida l
+*USER>>tr|Q1ZXT2|Q1ZXT2_CAEEL :	 (N=IN) [+791+] Seq = Protein ADOR1, isoform a OX=6239 OS=Caenorhabditis elegans. GN= PE=2 SV=1
+*USER>>tr|H2KVV1|H2KVV1_CLOSI :	 (N=IN) [+22+] Seq = Amine GPCR OX=79923 OS=Clonorchis sinensis (Chinese liver fluke). GN=CLF_11330
+*USER>>tr|B3RW58|B3RW58_TRIAD :	 (N=IN) [+149+] Seq = Putative uncharacterized protein OX=10228 OS=Trichoplax adhaerens (Trichoplax
+*USER>>tr|Q2AB52|Q2AB52_XENTR :	 (N=IN) [+511+] Seq = Taste receptor type 2 OX=8364 OS=Xenopus tropicalis (Western clawed frog) (Si
+*USER>>tr|H3HHU6|H3HHU6_STRPU :	 (N=IN) [+310+] Seq = Uncharacterized protein OX=7668 OS=Strongylocentrotus purpuratus (Purple sea 
+*USER>>tr|H2KRY6|H2KRY6_CLOSI :	 (N=IN) [+84+] Seq = Rhodopsinlike orphan GPCR OX=79923 OS=Clonorchis sinensis (Chinese liver fluke
+*USER>>tr|Q9XVQ0|Q9XVQ0_CAEEL :	 (N=IN) [+62+] Seq = Protein F16C3.1 OX=6239 OS=Caenorhabditis elegans. GN=F16C3.1 PE=4 SV=1
+*USER>>tr|B3RL46|B3RL46_TRIAD :	 (N=IN) [+102+] Seq = Putative uncharacterized protein OX=10228 OS=Trichoplax adhaerens (Trichoplax
+*USER>>tr|I3KGS9|I3KGS9_ORENI :	 (N=IN) [+13528+] Seq = Uncharacterized protein OX=8128 OS=Oreochromis niloticus (Nile tilapia) (Ti
+*USER>>tr|A7SWN7|A7SWN7_NEMVE :	 (N=IN) [+42+] Seq = Predicted protein OX=45351 OS=Nematostella vectensis (Starlet sea anemone). GN
+*USER>>tr|G1MNG2|G1MNG2_AILME :	 (N=IN) [+555+] Seq = Uncharacterized protein OX=9646 OS=Ailuropoda melanoleuca (Giant panda). GN= 
+
+laepwqFSMLAAYMFLLIMLGFPINFLTLYVtvqhkklrtplnYILLNLAVADLFMVFGGFTTTLYtslhgyfvfgptgc
+      yiisslLYFVIGFVALIGNIFVIVkvyqerrlhkptYYLIASLAVADLLTGTVALpsgaygrvvqnrtcsgeth
+       ialatiFAILAALGISGNTFLITAVFFsrklrnvtnaFVVILSISDIINSSTLIVQVIALAVrtqa  fmvmc
+       tfaaviFITIGVVGTIGNALVCIVIASTLAwkgttnLLILNQAFIDSMTSILILSYALpgpipggw  sefvc
+          mvwlaactVLGVCGNMALLITVSCVqelrtpgnALLCALACADIFQLVTKVPMAVVFLhygep    lac
+                    isfsnllvlwvyvrskhvrtvtntYIFSLALTDFLAGALGIPLTVVSVMtrkpr tfygc
+              snlgfvgtilniiqlyvlcqckigsrlttvllrgqsvidAYTCLVVFLSRLVGITTGVPFLdavlc
+             wsilfiIILVPNALLVGVICFKKslwthssVLVGSLCLANILFCFLYILP  VKIMVsihpftniyc
+       vysffapILAVTAGAFTNAYITFVILLdykmmsssnkILLALSLSNGYFSFLLFVCSIISFVwphiatnnyik
+       yihsfyMLISCVFSVVGNVFNILVLLkltnisesrkILFLFLSLSDLMSGLSLIPSIPASFlnrwpfrieICF
+          gyilpfvctFGFLANVWTAVLFLLGFrrqtrqLVYLAFLAIANAAIHVLWGWLWLFpfmtarfsqsqeac
+            llpifcFIGILGNSMALILIRTNFWlrltsnIYLCTLSVSSCFFLLTVIISWAdtymgplyseselgc
+                tlfltfLFNSICLFIIWNINGFKnknhlyvrALLVCDVGAALFMCPSMY  LIdcsfvksqgLC
+              ftlyiliictnstilyliwihknlhepMYIFIAALLLNSVLYSTTVYpklltdflsekqvttysac
+                iglfalvlniftlytackkllvqslphmyIASYCIADLLFLSLVMPFSLIALILsewdtpsvtc
+          gvfivsqIGIGFIGNTLLLVLLINTLhtkkpinLILIHLIFANVMTIVFGIpevmnafgvrnfld digc
+
+nleGFFATLGGEIALWSLVVLAIeryvvvckpmsnfrfgenhAIMGVAFTWVMALACAAPPLVGWsryipegmqcscgid
+LWFFMMAFYLHCVSVMHLIAIAIdryicitrplkyisvtpkrIAGTIAFNWVMSCSFGLVPLYsrnd             
+kIVGPVATTVLGASSFIMTLIALCrfvlitkqphfkrfskpnMAVMISVSFLFPLSLVLLFVLdlatagln         
+rMWVTLLWMLFVVSTYNLCMMSLeryfavaypvistrfkkqtsLLMILFCWTIAPLLHYYypiayaggvck         
+dGVFFIIDTMAQFSINIIAPISIdrywyicspfkystmtsarIALLIGLSFLLAMVTMVhpllgenny fhppyiic   
+LFVHLILCILCTISTFHMLAIAIdkyvticcrdrifssrrkraIFLLTTSWILGLLVAILPLFNVFGFafiengemc   
+yvwrgMFWLGIALSVQNLTCISFdrfcavcfprqykvrqtLLIIGCYLYEVGIVLFLFIPSFLAtrftsnkcllefa   
+qlsnVIQFAFVCCMNFHICSISLekfiaitspfwnqisvyksVMIILLICWILPTFVAFLPLIWWrfcpyyclm      
+gcILALLIFGISSTAWITTCLCVFYFVkiinfssgawfklkIVPWLILVSEVVSLGCSFLTLLPVniqepssssmf    
+FCSYMLLTSLGISNALIFFLAVdcylavkypfkypsvtkrrtitqCLLVAFMYLVTTVEFYVVscdlsyrgvgmcl    
+rlhrFAYSFGSTLSANLLLLAAsdrfmctywptkmlrfqrrhaYYAVIAVTVLSIVMMLPLGICIEWVtig ekvwc wi
+kFFSFLAHFSDFICVWMISLISCdrmivlyrprirkwctkkfsrnMTIGFVLSSVVLYSLFLAGLqiykdgtentfcgls
+SAIGFITSVFNGMTALIVALMCIdrylaiikpflyrrvtynkICIILCAVWLSLHMA IPLWgsgkfitypigrycs   
+lfqFFMFYTLGCSEFLLLAAMAYdryvaickplqqtimrkttVSIFLIIAWLVPACH IAVQAIASAecnavytlqc   
+eiqGFAVITLGALTALLMTLTAIdrffamtspgiyarfkakVVMVLLVLVWLMAGAVPLPYFLegklrfhpgyafck   
+kavlyihrvtrGLSLCITSFLSIVQAIIItpsnsrawhkptYIFPTFCSFWIVNMLI YIHVIISAFaynstyslty   
+
+yytpheetnnesFVIYMFVVHFIIPLIVIFFCYgqlvftvkeaaaqqqesattqkaekevtrMVIIMVIAFLICWLPYAG
+  qtishcsaiaynIIMFYTSAILPLLVLSLIY WIIFrvarrqvmrrkpiqihtpqmkatkttLLVLCVFAVCWLP IS
+  ediclfydspefntMCGCFLLVLLITVAIIYAKIFLFLrrhfrqlrssernleleskitknMVLVLCVFALC     F
+  krg    dprVVATIGVLEFFIPFIIMAVVYtrivfllrrqhrrviqvpetvrrnVTVTLLAVFIMYVVCWMpnhltf
+  ky  lgparksrqAMINVCILVPMITMVFCYYkiwgelkrrqkrhnksspefrarmrsATMVLLIVAAYVVSWAPYFA
+  hftmvvdyryLVYVIFFSTILAPTAIIVLLYSSIYsrirteekqqsererrmagrrklirILLILVVSYGICWYPLYI
+  ipgvtlffraqAFLLLIFNYILPAFIMIGSHVYVIhvirhpapgq qsnqhigntikrLALTTAMMAGLLLVLHPYEI
+   seikanrrawhvFWAFLMFLLPTIVTIIFYVRIFLVAkdhasre nqssststglkavktVAIVVGVYVFLQTPYNV
+   yslnstsiadFIKVTFIAVCVPLLIMIVTTFPTIrtlylhsrrmknssslaphqsAVFMMAWLLFLYTVFFVVLFTG
+   mdferrsMVTYVVFVYSIMMFPTLLVLGMqasvahtariqarrfgdrqkrqanelkGVYVCLVVSICFFAGWLptag
+dsvytgvdvyhALFSNACVIQPLCTGVLNICFLVkirqllraqlsssssgrr    evaasetLLVITLVTLCTALPQSA
+qdgfqvdqhYFMFTLMDTALCTLLPAILIIIVnsftyrylrapttqqqqsqklrssdlqlsrtLIIVTSTFVLLNVPSYA
+ fdifekkpydrVLSYLVFGEGIIISFLVIFCSIRIIrslrkqrksiktmkqtsrakarliemtAWIAVCFISCYLPFVL
+     ersrLITIFGVVALVDLSIPMLFIVFTYtkifivshrsckeirkkaeTC     LPHMLVLIGYSIFFVYdvsid
+ advniknYLTVLQLALVVLPLLVVMICLCktklrmirrtrqqpgtfelcgnelettrmFAGIILGILVCCLPMFICDLV
+ cvgkdpdyiqsAVFLGSTFLRDLCVFLMVWTSVYIVkflfthrkrvqylsprpspetkathtILALVSCFVFFYWSNSF
+
+VAFYIFthqgsdfgpIFMTIPAFFAKTSAVYNPVIYImmnkqfrncmvttlccgkn
+IKFLLeihlktt  pstMLYLRTIAYSNAALNPFVFVFrdrnfrgvlkhhr     
+IPLSLTLIVSes  allgtYCFAIFNLSSCLNPILFGWkhpvfrqvfrcmfrr   
+lqfglggplnls  gaWYYITLILAYLNMSINPFIYALkyklfregfkrlfcnr  
+AVIrsnlgdevtidgpwqrFAVLFSLLSTFSNPIIYAYrnpqlrngffrlv     
+Intidyfwpefsins LTLWTVIMSHMSCALNPLIYAYgmpgfkkalraff     
+VYILAtsnvihekdsvtrqIGSMFVILGAVLNPFVLIALSYTVrrqvvr       
+Yqvinvdktlsrrln   kyrFYLASWNPVASPIIYGFFnknlrdgvmslfw    
+FIqsftpps      faywmtynLIYVATLVQSVVQILGNpklkeaiticcc    
+fqiysrktg      nniypFAWLSTAQCWNNTLAYMIIkknyrqtlksll     
+AYNAAFVLsrrplafnisdIMWCVMLTQTACNIIVYLVrmsafrkmfrrrvi    
+MrilqsiissaplfnFVYYVTLLIYYLHHAVLFYMYIFWspqmkkqlkp       
+FRLLCMINIelqdt fghyitenILYLNPLLNPFLCVTYNkryrtkfhiml     
+fpkptrIIMTLQ           IMLYHPLFNPLIYGLkmkeiskhlkkll     
+VAFLgrftlprsaY M   FSSFCVASIAWVRPLVVILCdedykheiqallpcc  
+LTIYVSYk  rnvk g   lenISIILSHGYPAICPLVLInhnklffl        
+
+
+block 1 = 14 seqs
+*USER>>tr|H3IMZ0|H3IMZ0_STRPU :	 (N=IN) [+71+] Seq = Uncharacterized protein OX=7668 OS=Strongylocentrotus purpuratus (Purple sea u
+*USER>>tr|A8XUY4|A8XUY4_CAEBR :	 (N=IN) [+25+] Seq = Protein CBG19154 OX=6238 OS=Caenorhabditis briggsae. GN=CBG19154, CBG_19154 PE
+*USER>>tr|O45170|O45170_CAEEL :	 (N=IN) [+224+] Seq = Protein SRW4 OX=6239 OS=Caenorhabditis elegans. GN= PE=4 SV=1
+*USER>>tr|A8PGJ9|A8PGJ9_BRUMA :	 (N=IN) [+20+] Seq = Gprotein coupled receptor, putative OX=6279 OS=Brugia malayi (Filarial nematod
+*USER>>tr|F1L7M2|F1L7M2_ASCSU :	 (N=IN) [+574+] Seq = Gonadotropinreleasing hormone II receptor OX=6253 OS=Ascaris suum (Pig roundw
+*USER>>tr|B3S958|B3S958_TRIAD :	 (N=IN) [+917+] Seq = Putative uncharacterized protein OX=10228 OS=Trichoplax adhaerens (Trichoplax
+*USER>>tr|H3IP68|H3IP68_STRPU :	 (N=IN) [+87+] Seq = Uncharacterized protein OX=7668 OS=Strongylocentrotus purpuratus (Purple sea u
+*USER>>tr|I3JJA4|I3JJA4_ORENI :	 (N=IN) [+1759+] Seq = Uncharacterized protein OX=8128 OS=Oreochromis niloticus (Nile tilapia) (Til
+*USER>>tr|Q9WRM0|Q9WRM0_9GAMA :	 (N=IN) [+30+] Seq = G protein coupled receptor OX=83534 OS=Macaca mulatta rhadinovirus 17577. GN= 
+*USER>>tr|B0S6Q0|B0S6Q0_DANRE :	 (N=OUT) [+1756+] Seq = Uncharacterized protein OX=7955 OS=Danio rerio (Zebrafish) (Brachydanio rer
+*USER>>tr|H3FWW1|H3FWW1_PRIPA :	 (N=IN) [+76+] Seq = Uncharacterized protein OX=54126 OS=Pristionchus pacificus. GN= PE=4 SV=1
+*USER>>tr|F1Q4L9|F1Q4L9_DANRE :	 (N=IN) [+142+] Seq = Uncharacterized protein OX=7955 OS=Danio rerio (Zebrafish) (Brachydanio rerio
+*USER>>tr|K1R8G3|K1R8G3_CRAGI :	 (N=OUT) [+65+] Seq = Cholecystokinin receptor OX=29159 OS=Crassostrea gigas (Pacific oyster) (Cras
+*USER>>sp|P23820|REIS_TODPA :	 (N=OUT) [+27+] Seq = Retinal photoisomerase OX=6637 OS=Todarodes pacificus (Japanese flying squid)
+
+   vpftvlFVLCGMITIFSNVINLIALnhaqqcndntrlcfqAVAIVDFFVGLFCCTFHSLrfsglsisktrtFSIIGV
+   slkvflGFCFGILSGTSLILNIFALFTVFrlalrknhVY VIAFFNILSDVMQMTMSTPSIItnsistrkkSPWTLA
+         nfvlailqffinlvhfsilsrk hlrnsvyrLMIGICSCDIISHTLTFLAFSPFVrkknqecFLTVIVLDI
+     lwaiylITMKIGIIGNLWVICSVIrnirpqrpsdshIFVLAFVDFIVVCSLALRIVYIWdetltfeiwncrglyf
+       iyqiifFVFGTPLNAVSLVQSTLFrrsrdgadrlvqqLIIAHLLVLCIYCVWRTYWFMnvvwtqgdllckiys
+          tllaflgltintiliilmsyrkhtktaadGLVIHLAICDLLTTIPTLI   YCAFnggwpimsrlckGVI
+ lrifagVLMIFITAFALIGNLGVITGLrh kcfhralytylnnLAITIMCDCLFNAPFIIGAMLsdmwldasFLCPVTS
+      tilfaltAVLGITGNSVVIWVAGF k fkkvtnVWLVNLAIADLIFCFTRVFTLteklfqhfsfgl fvcklna
+   tvyaiicFFIFCITLFGNALVLYIFFkfkalansvdVLMAGLCCNSLFLCASFLFSWLLYVapq  mltsatckvei
+  aailpwLYLSLALLGLPANGLVLVNLWr  sertptVIFTLNIIFSDLLMCCSFFFrtvyhrkntewlsgtpvcnave
+  lypityFFGTIFVVGVVTNAAVAFASYhdsrlrnscnILIAFASIADCLHLSGHIV LIYAFAtgnllmksttcVWIE
+         svtmlvnpvlslcvlcfps     lrqetrYLLANVLFADMLFLTVNLS IVscnsvg lhlpaplceFMM
+     lvivnvcFVVGLVSSSTVIVVFVArlrh srddrYFIPYLSAVDLFGLVMNMLGIWgsyihsvsankdmackgLW
+tmwehyftgsIYLVLGCFSLCGMCIIFLArqspkprrkihvlitamavnggdpahasssivgrwlyg     svgcqLMG
+
+IGCSTLFNQSIMILA  CVSIdrylavtrplryhtvtkqrMILLIFSGVAIGTLNSSASFthkivagfsd        lk
+FGSAFMFLWYFetitqmimafdryviiclrkhnLFTFTSTLVMFSLLIPISFVIMYhsqymnpccaflfd        qe
+TQRSSSWLAVLMALY  rtlsvkypmsthkvspkWALWTIIGVLVVNTAWTLVVFGrhkidgrnidydcd          
+ieqlskMLSMFCIAC  ISIG RYITIrkpfnnqirrhrGFPAVPLCFPIIPIIFTMktidvtsdrwdcr          
+vasalpfhlwsnMVA  AIGIDMLCCITSPLSSYrtsstrVTWLITISWFAALFCSLPMAIFrgavipgtefeqcypvid
+FCLTTFYSVNVGTLT  LMSIeryraiihpmkp risgpkMAVLVIFLWLSVII  VPAIGVsntedlrtry     lcv
+FIGNLIHTQIIMSLM  LLVldrmlslkysesyirktgvranLISGYSWIHSMAFTIAIVVTSVesdyfqdr     ylc
+ffkytnMFCSVFLLA  VISLDRVLCVWqpvltkrrtlwaarVVAVCIWIAAMLFSIPYFIhhqslgkktcc     lhp
+ffFYLYTYFGVYIVV  CISLIRCLLVVFsrrpwvkhGAFLCVCVSLIVALALSAnaslyrtarhpetsewicyed age
+LCFYINLYCNMCFLL  WTSInryttvvkpshsqvfhtqs CWILCFSTWLVIFIVVGTCMGLklslqingscfdq vgn
+ILPIIGQNSGTAFTV  AIGIdrvfacfspvk   y     grknpIIYICCHLVGISLYLAYFYnlfanlyptdl icm
+VSMVMTYSASVLTVT  LMVVdtyvavrwplr   ykelppsrarkIIMSMWVIAAVCPVSLLMFevvmgkdqsrp vcl
+YICSAFGCFSAFLLI  GIAIqrylkvc rpcgqqmtlkfrrLWLLIAFIVSMAISIPFVLFYdfetksvtgyick qdq
+FWGFFGGMSHIWMLF  AFAMerymavchrefyqqmpsVYYSIIVGLMYTFGTFWATMPLLGWasyglevhgtsct iny
+
+fasvdiathpiLVIYFALILASAGVTTFCNVTLITLarkhrrriaaavghqprgnkdlrtIFAVTGAFYITWGAQVSVnf
+ylsegvpnysdrfd lplnASSSIISAICYILIFWTVhnssatfstqkvrrrrdirfaiqssLLLVFYIFVWVLFRVLPI
+ gnevhhlhsIITSIYGIIKALPSLIDPILTVLLIielrkaskrrknigedgksdnttkLVLFVTISFFILEVPNGFAhv
+ isdnawnrLTGLLVGACFILLVMLIsanyaeivrhvhrkfsrrqsessnskseprmtssivrVAVFHMICWLPFCFIAV
+rysdevlflfnlFHVITTFYVPLTIVVLCYTLIGLSLrrqmaqrktlhdmcatrirfvrasVAIIATFLLTWMPYQVLAL
+lhgahqhflnfsYYVVVGYIIPACIMSYCYkmiikklkqtslanknnskrefqknlavkILIAVSIVFILTGIPLVIGLI
+svvyknnlaynVIYSLLCNIAPWVTVMCCYIYIVALasetnardneapigtatelshakpVGVLIFLWCVLIGPFHILGM
+kekgynstkvafIHFLCGFIFPFIVILVCYILAAVGIqrtrlsgksrpl         rILACLVIAFFLCWAPYHCLLL
+dtvnwklrirtt SAICGFLVPFGLMVLFYGLTWCMVkstklarkga         vrGVIVTVVVLFLIFCLPYhlcnf
+syiryqnkfqthcLGVSTFFFILCLMLVSYsrlifhlqkvrvgslgagfgpggglkvrrkILASVIMFVLCFLPYHV   
+vpanylgkakge  wwnVSLGCCILAVIVYAIVGVrikmsnmrghemrlf     ksLLIILATVICGYVTFATANILVA
+vlialeeklkvgvpLYFIIAVSLCTALILYCYIHLYIItrtsgiwrsrys     rarMTLLAHTLLLIMYFVPALVFAV
+tsvtgpAAYSIAIASLVFVNIILLVILYCFIgraicqqtdrrrmrdnsk      rFTCMFLTITAVAMVSYIpkasili
+s  vsdesyqsYVFFLAIFSFIFPMVSGWYAIskawsglsaikekdkdi      lseeqLTALAGAFILISLISWSGFG
+
+tsaa     eipiarnVLLIFVISNSFWNALIYLLMnstfrkivfrmf       
+LLad     rhveWFILVPIFYTINCTSNAIIYIFFnsevqshltp         
+tagafhgnpisYMIQVFAEILPVFNSSSHIFICLAMssqyretsceifeksk   
+IptetcehawvLWILILANWLTYLNSALNWIFYVVLnrdlrelirsn        
+LrvlcagstceqVVSNWLQAVIIASTCINpfiykfgs                  
+IHIymdtrnIINSCTILFWILLQFAPLYnpmihlakkknfwhtly          
+IYLYsgvtmipgVLWTI   FTCFRFIFDFFVAVVILVAWpeswreckhfitcrr
+VkmvdsksallkiwypvaeGVACFNSCVNPLLYFCMGLkvsegfrqsl       
+fdtllrtcylrsvamhicsllqsMYSAFVPVVYSGLGSLFrrrvrdtw       
+     qriilitsqhencqerikmgtifiaalscclhpllq              
+n   kidfkMGILMDLIIGIPVNISLATNYLVYYatssdyrrvfkgqiafvt   
+elkreddlgVWILVNMCVLMLLP RCCTPYLYVLryreiyktvqqasv       
+aeslntsyeqtdtfseiiyrlhilhhtsnsfiyayfdsrfrteikntvra     
+YVAIYsalthgaqlshlrghvppimsktgcalfpllifl                
+
+
+2 groups ( 2 aligned )
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 5
+ gap_pen = 20 span = 30 window = 200
+ minscore = 500 pepscore = 0 list_limit = 2
+ circles = 0 output = 2 outline = 80
+score_pairs 
+
+average score over cutoff = 904
+(1 pairs) cluster_pairs total list_alloc = 15
+pack_lists 
+update_blocks
+     ......p- USER>>SEED:seq_1gzmA
+     ....p-b- USER>>tr|H3IEL0|H3IEL0_STRPU
+     ..p-b-p- USER>>tr|H3I5A7|H3I5A7_STRPU
+     ..|...b- USER>>tr|H3III0|H3III0_STRPU
+     ..|...p- USER>>tr|C3YLV5|C3YLV5_BRAFL
+     p-b-p-b- USER>>tr|Q1ZXT2|Q1ZXT2_CAEEL
+     |...b-p- USER>>tr|H2KVV1|H2KVV1_CLOSI
+     |.....b- USER>>tr|B3RW58|B3RW58_TRIAD
+     |.....p- USER>>tr|Q2AB52|Q2AB52_XENTR
+     |...p-b- USER>>tr|H3HHU6|H3HHU6_STRPU
+     b-p-b-p- USER>>tr|H2KRY6|H2KRY6_CLOSI
+     ..|...b- USER>>tr|Q9XVQ0|Q9XVQ0_CAEEL
+     ..|...p- USER>>tr|B3RL46|B3RL46_TRIAD
+     ..b-p-b- USER>>tr|I3KGS9|I3KGS9_ORENI
+     ....b-p- USER>>tr|A7SWN7|A7SWN7_NEMVE
+     ......b- USER>>tr|G1MNG2|G1MNG2_AILME
+904
+     ......p- USER>>tr|H3IMZ0|H3IMZ0_STRPU
+     ....p-b- USER>>tr|A8XUY4|A8XUY4_CAEBR
+     ..p-b-p- USER>>tr|O45170|O45170_CAEEL
+     ..|...b- USER>>tr|A8PGJ9|A8PGJ9_BRUMA
+     ..|...p- USER>>tr|F1L7M2|F1L7M2_ASCSU
+     p-b-p-b- USER>>tr|B3S958|B3S958_TRIAD
+     |...b-p- USER>>tr|H3IP68|H3IP68_STRPU
+     |.....b- USER>>tr|I3JJA4|I3JJA4_ORENI
+     |.....p- USER>>tr|Q9WRM0|Q9WRM0_9GAMA
+     |...p-b- USER>>tr|B0S6Q0|B0S6Q0_DANRE
+     b-p-b-p- USER>>tr|H3FWW1|H3FWW1_PRIPA
+     ..|...b- USER>>tr|F1Q4L9|F1Q4L9_DANRE
+     ..b---p- USER>>tr|K1R8G3|K1R8G3_CRAGI
+     ......b- USER>>sp|P23820|REIS_TODPA
+
+
+block 0 = 30 seqs
+*USER>>SEED:seq_1gzmA :	 (N=IN) [+3471+] Seq = rhodopsin QUERY sequence
+*USER>>tr|H3IEL0|H3IEL0_STRPU :	 (N=IN) [+491+] Seq = Uncharacterized protein OX=7668 OS=Strongylocentrotus purpuratus (Purple sea 
+*USER>>tr|H3I5A7|H3I5A7_STRPU :	 (N=IN) [+262+] Seq = Uncharacterized protein OX=7668 OS=Strongylocentrotus purpuratus (Purple sea 
+*USER>>tr|H3III0|H3III0_STRPU :	 (N=IN) [+221+] Seq = Uncharacterized protein OX=7668 OS=Strongylocentrotus purpuratus (Purple sea 
+*USER>>tr|C3YLV5|C3YLV5_BRAFL :	 (N=IN) [+620+] Seq = Putative uncharacterized protein OX=7739 OS=Branchiostoma floridae (Florida l
+*USER>>tr|Q1ZXT2|Q1ZXT2_CAEEL :	 (N=IN) [+791+] Seq = Protein ADOR1, isoform a OX=6239 OS=Caenorhabditis elegans. GN= PE=2 SV=1
+*USER>>tr|H2KVV1|H2KVV1_CLOSI :	 (N=IN) [+22+] Seq = Amine GPCR OX=79923 OS=Clonorchis sinensis (Chinese liver fluke). GN=CLF_11330
+*USER>>tr|B3RW58|B3RW58_TRIAD :	 (N=IN) [+149+] Seq = Putative uncharacterized protein OX=10228 OS=Trichoplax adhaerens (Trichoplax
+*USER>>tr|Q2AB52|Q2AB52_XENTR :	 (N=IN) [+511+] Seq = Taste receptor type 2 OX=8364 OS=Xenopus tropicalis (Western clawed frog) (Si
+*USER>>tr|H3HHU6|H3HHU6_STRPU :	 (N=IN) [+310+] Seq = Uncharacterized protein OX=7668 OS=Strongylocentrotus purpuratus (Purple sea 
+*USER>>tr|H2KRY6|H2KRY6_CLOSI :	 (N=IN) [+84+] Seq = Rhodopsinlike orphan GPCR OX=79923 OS=Clonorchis sinensis (Chinese liver fluke
+*USER>>tr|Q9XVQ0|Q9XVQ0_CAEEL :	 (N=IN) [+62+] Seq = Protein F16C3.1 OX=6239 OS=Caenorhabditis elegans. GN=F16C3.1 PE=4 SV=1
+*USER>>tr|B3RL46|B3RL46_TRIAD :	 (N=IN) [+102+] Seq = Putative uncharacterized protein OX=10228 OS=Trichoplax adhaerens (Trichoplax
+*USER>>tr|I3KGS9|I3KGS9_ORENI :	 (N=IN) [+13528+] Seq = Uncharacterized protein OX=8128 OS=Oreochromis niloticus (Nile tilapia) (Ti
+*USER>>tr|A7SWN7|A7SWN7_NEMVE :	 (N=IN) [+42+] Seq = Predicted protein OX=45351 OS=Nematostella vectensis (Starlet sea anemone). GN
+*USER>>tr|G1MNG2|G1MNG2_AILME :	 (N=IN) [+555+] Seq = Uncharacterized protein OX=9646 OS=Ailuropoda melanoleuca (Giant panda). GN= 
+*USER>>tr|H3IMZ0|H3IMZ0_STRPU :	 (N=IN) [+71+] Seq = Uncharacterized protein OX=7668 OS=Strongylocentrotus purpuratus (Purple sea u
+*USER>>tr|A8XUY4|A8XUY4_CAEBR :	 (N=IN) [+25+] Seq = Protein CBG19154 OX=6238 OS=Caenorhabditis briggsae. GN=CBG19154, CBG_19154 PE
+*USER>>tr|O45170|O45170_CAEEL :	 (N=IN) [+224+] Seq = Protein SRW4 OX=6239 OS=Caenorhabditis elegans. GN= PE=4 SV=1
+*USER>>tr|A8PGJ9|A8PGJ9_BRUMA :	 (N=IN) [+20+] Seq = Gprotein coupled receptor, putative OX=6279 OS=Brugia malayi (Filarial nematod
+*USER>>tr|F1L7M2|F1L7M2_ASCSU :	 (N=IN) [+574+] Seq = Gonadotropinreleasing hormone II receptor OX=6253 OS=Ascaris suum (Pig roundw
+*USER>>tr|B3S958|B3S958_TRIAD :	 (N=IN) [+917+] Seq = Putative uncharacterized protein OX=10228 OS=Trichoplax adhaerens (Trichoplax
+*USER>>tr|H3IP68|H3IP68_STRPU :	 (N=IN) [+87+] Seq = Uncharacterized protein OX=7668 OS=Strongylocentrotus purpuratus (Purple sea u
+*USER>>tr|I3JJA4|I3JJA4_ORENI :	 (N=IN) [+1759+] Seq = Uncharacterized protein OX=8128 OS=Oreochromis niloticus (Nile tilapia) (Til
+*USER>>tr|Q9WRM0|Q9WRM0_9GAMA :	 (N=IN) [+30+] Seq = G protein coupled receptor OX=83534 OS=Macaca mulatta rhadinovirus 17577. GN= 
+*USER>>tr|B0S6Q0|B0S6Q0_DANRE :	 (N=OUT) [+1756+] Seq = Uncharacterized protein OX=7955 OS=Danio rerio (Zebrafish) (Brachydanio rer
+*USER>>tr|H3FWW1|H3FWW1_PRIPA :	 (N=IN) [+76+] Seq = Uncharacterized protein OX=54126 OS=Pristionchus pacificus. GN= PE=4 SV=1
+*USER>>tr|F1Q4L9|F1Q4L9_DANRE :	 (N=IN) [+142+] Seq = Uncharacterized protein OX=7955 OS=Danio rerio (Zebrafish) (Brachydanio rerio
+*USER>>tr|K1R8G3|K1R8G3_CRAGI :	 (N=OUT) [+65+] Seq = Cholecystokinin receptor OX=29159 OS=Crassostrea gigas (Pacific oyster) (Cras
+*USER>>sp|P23820|REIS_TODPA :	 (N=OUT) [+27+] Seq = Retinal photoisomerase OX=6637 OS=Todarodes pacificus (Japanese flying squid)
+
+laepwqFSMLAAYMFLLIMLGFPINFLTLYVtvqhkklrtplnYILLNLAVADLFMVFGGFTTTLYtslhgyfvfgptgc
+      yiisslLYFVIGFVALIGNIFVIVkvyqerrlhkptYYLIASLAVADLLTGTVALpsgaygrvvqnrtcsgeth
+       ialatiFAILAALGISGNTFLITAVFFsrklrnvtnaFVVILSISDIINSSTLIVQVIALAVrtqa  fmvmc
+       tfaaviFITIGVVGTIGNALVCIVIASTLAwkgttnLLILNQAFIDSMTSILILSYALpgpipggw  sefvc
+          mvwlaactVLGVCGNMALLITVSCVqelrtpgnALLCALACADIFQLVTKVPMAVVFLhygep    lac
+                    isfsnllvlwvyvrskhvrtvtntYIFSLALTDFLAGALGIPLTVVSVMtrkpr tfygc
+              snlgfvgtilniiqlyvlcqckigsrlttvllrgqsvidAYTCLVVFLSRLVGITTGVPFLdavlc
+             wsilfiIILVPNALLVGVICFKKslwthssVLVGSLCLANILFCFLYILP  VKIMVsihpftniyc
+       vysffapILAVTAGAFTNAYITFVILLdykmmsssnkILLALSLSNGYFSFLLFVCSIISFVwphiatnnyik
+       yihsfyMLISCVFSVVGNVFNILVLLkltnisesrkILFLFLSLSDLMSGLSLIPSIPASFlnrwpfrieICF
+          gyilpfvctFGFLANVWTAVLFLLGFrrqtrqLVYLAFLAIANAAIHVLWGWLWLFpfmtarfsqsqeac
+            llpifcFIGILGNSMALILIRTNFWlrltsnIYLCTLSVSSCFFLLTVIISWAdtymgplyseselgc
+                tlfltfLFNSICLFIIWNINGFKnknhlyvrALLVCDVGAALFMCPSMY  LIdcsfvksqgLC
+              ftlyiliictnstilyliwihknlhepMYIFIAALLLNSVLYSTTVYpklltdflsekqvttysac
+                iglfalvlniftlytackkllvqslphmyIASYCIADLLFLSLVMPFSLIALILsewdtpsvtc
+          gvfivsqIGIGFIGNTLLLVLLINTLhtkkpinLILIHLIFANVMTIVFGIpevmnafgvrnfld digc
+       vpftvlFVLCGMITIFSNVINLIALnhaqqcndntrlcfqAVAIVDFFVGLFCCTFHSLrfsglsisktrtFS
+       slkvflGFCFGILSGTSLILNIFALFTVFrlalrknhVY VIAFFNILSDVMQMTMSTPSIItnsistrkkSP
+             nfvlailqffinlvhfsilsrk hlrnsvyrLMIGICSCDIISHTLTFLAFSPFVrkknqecFLTVI
+         lwaiylITMKIGIIGNLWVICSVIrnirpqrpsdshIFVLAFVDFIVVCSLALRIVYIWdetltfeiwncr
+           iyqiifFVFGTPLNAVSLVQSTLFrrsrdgadrlvqqLIIAHLLVLCIYCVWRTYWFMnvvwtqgdllc
+              tllaflgltintiliilmsyrkhtktaadGLVIHLAICDLLTTIPTLI   YCAFnggwpimsrlc
+     lrifagVLMIFITAFALIGNLGVITGLrh kcfhralytylnnLAITIMCDCLFNAPFIIGAMLsdmwldasFLC
+          tilfaltAVLGITGNSVVIWVAGF k fkkvtnVWLVNLAIADLIFCFTRVFTLteklfqhfsfgl fvc
+       tvyaiicFFIFCITLFGNALVLYIFFkfkalansvdVLMAGLCCNSLFLCASFLFSWLLYVapq  mltsatc
+      aailpwLYLSLALLGLPANGLVLVNLWr  sertptVIFTLNIIFSDLLMCCSFFFrtvyhrkntewlsgtpvc
+      lypityFFGTIFVVGVVTNAAVAFASYhdsrlrnscnILIAFASIADCLHLSGHIV LIYAFAtgnllmksttc
+             svtmlvnpvlslcvlcfps     lrqetrYLLANVLFADMLFLTVNLS IVscnsvg lhlpaplc
+         lvivnvcFVVGLVSSSTVIVVFVArlrh srddrYFIPYLSAVDLFGLVMNMLGIWgsyihsvsankdmac
+    tmwehyftgsIYLVLGCFSLCGMCIIFLArqspkprrkihvlitamavnggdpahasssivgrwlyg     svgc
+
+nleGFFATLGGEIALWSLV  VLAIeryvvvckpmsnfrfgenhAIMGVAFTWVMALACAAPPLVGWsryipegmqcscg
+LWFFMMAFYLHCVSVMHLI  AIAIdryicitrplkyisvtpkrIAGTIAFNWVMSCSFGLVPLYsrnd           
+kIVGPVATTVLGASSFIMT  LIALCrfvlitkqphfkrfskpnMAVMISVSFLFPLSLVLLFVLdlatagln       
+rMWVTLLWMLFVVSTYNLC  MMSLeryfavaypvistrfkkqtsLLMILFCWTIAPLLHYYypiayaggvck       
+dGVFFIIDTMAQFSINIIA  PISIdrywyicspfkystmtsarIALLIGLSFLLAMVTMVhpllgenny fhppyiic 
+LFVHLILCILCTISTFHML  AIAIdkyvticcrdrifssrrkraIFLLTTSWILGLLVAILPLFNVFGFafiengemc 
+yvwrgMFWLGIALSVQNLT  CISFdrfcavcfprqykvrqtLLIIGCYLYEVGIVLFLFIPSFLAtrftsnkcllefa 
+qlsnVIQFAFVCCMNFHIC  SISLekfiaitspfwnqisvyksVMIILLICWILPTFVAFLPLIWWrfcpyyclm    
+gcILALLIFGISSTAWITT  CLCVFYFVkiinfssgawfklkIVPWLILVSEVVSLGCSFLTLLPVniqepssssmf  
+FCSYMLLTSLGISNALIFF  LAVdcylavkypfkypsvtkrrtitqCLLVAFMYLVTTVEFYVVscdlsyrgvgmcl  
+rlhrFAYSFGSTLSANLLL  LAAsdrfmctywptkmlrfqrrhaYYAVIAVTVLSIVMMLPLGICIEWVtig ekvwc 
+kFFSFLAHFSDFICVWMIS  LISCdrmivlyrprirkwctkkfsrnMTIGFVLSSVVLYSLFLAGLqiykdgtentfcg
+SAIGFITSVFNGMTALIVA  LMCIdrylaiikpflyrrvtynkICIILCAVWLSLHMA IPLWgsgkfitypigrycs 
+lfqFFMFYTLGCSEFLLLA  AMAYdryvaickplqqtimrkttVSIFLIIAWLVPACH IAVQAIASAecnavytlqc 
+eiqGFAVITLGALTALLMT  LTAIdrffamtspgiyarfkakVVMVLLVLVWLMAGAVPLPYFLegklrfhpgyafck 
+kavlyihrvtrGLSLCITS  FLSIVQAIIItpsnsrawhkptYIFPTFCSFWIVNMLI YIHVIISAFaynstyslty 
+IIGVIGCSTLFNQSIMILA  CVSIdrylavtrplryhtvtkqrMILLIFSGVAIGTLNSSASFthkivagfsd      
+WTLAFGSAFMFLWYFetitqmimafdryviiclrkhnLFTFTSTLVMFSLLIPISFVIMYhsqymnpccaflfd      
+VLDITQRSSSWLAVLMALY  rtlsvkypmsthkvspkWALWTIIGVLVVNTAWTLVVFGrhkidgrnidydcd      
+glyfieqlskMLSMFCIAC  ISIG RYITIrkpfnnqirrhrGFPAVPLCFPIIPIIFTMktidvtsdrwdcr      
+kiysvasalpfhlwsnMVA  AIGIDMLCCITSPLSSYrtsstrVTWLITISWFAALFCSLPMAIFrgavipgtefeqcy
+kGVIFCLTTFYSVNVGTLT  LMSIeryraiihpmkp risgpkMAVLVIFLWLSVII  VPAIGVsntedlrtry    
+PVTSFIGNLIHTQIIMSLM  LLVldrmlslkysesyirktgvranLISGYSWIHSMAFTIAIVVTSVesdyfqdr    
+klnaffkytnMFCSVFLLA  VISLDRVLCVWqpvltkrrtlwaarVVAVCIWIAAMLFSIPYFIhhqslgkktcc    
+kveiffFYLYTYFGVYIVV  CISLIRCLLVVFsrrpwvkhGAFLCVCVSLIVALALSAnaslyrtarhpetsewicyed
+naveLCFYINLYCNMCFLL  WTSInryttvvkpshsqvfhtqs CWILCFSTWLVIFIVVGTCMGLklslqingscfdq
+VWIEILPIIGQNSGTAFTV  AIGIdrvfacfspvk   y     grknpIIYICCHLVGISLYLAYFYnlfanlyptdl
+eFMMVSMVMTYSASVLTVT  LMVVdtyvavrwplr   ykelppsrarkIIMSMWVIAAVCPVSLLMFevvmgkdqsrp
+kgLWYICSAFGCFSAFLLI  GIAIqrylkvc rpcgqqmtlkfrrLWLLIAFIVSMAISIPFVLFYdfetksvtgyick
+qLMGFWGFFGGMSHIWMLF  AFAMerymavchrefyqqmpsVYYSIIVGLMYTFGTFWATMPLLGWasyglevhgtsct
+
+idyytpheetnnesFVIYMFVVHFIIPLIVIFFCYgqlvftvkeaaaqqqesattqkaekevtrMVIIMVIAFLICWLPY
+    qtishcsaiaynIIMFYTSAILPLLVLSLIY WIIFrvarrqvmrrkpiqihtpqmkatkttLLVLCVFAVCWLP 
+    ediclfydspefntMCGCFLLVLLITVAIIYAKIFLFLrrhfrqlrssernleleskitknMVLVLCVFALC    
+    krg    dprVVATIGVLEFFIPFIIMAVVYtrivfllrrqhrrviqvpetvrrnVTVTLLAVFIMYVVCWMpnhl
+    ky  lgparksrqAMINVCILVPMITMVFCYYkiwgelkrrqkrhnksspefrarmrsATMVLLIVAAYVVSWAPY
+    hftmvvdyryLVYVIFFSTILAPTAIIVLLYSSIYsrirteekqqsererrmagrrklirILLILVVSYGICWYPL
+    ipgvtlffraqAFLLLIFNYILPAFIMIGSHVYVIhvirhpapgq qsnqhigntikrLALTTAMMAGLLLVLHPY
+     seikanrrawhvFWAFLMFLLPTIVTIIFYVRIFLVAkdhasre nqssststglkavktVAIVVGVYVFLQTPY
+     yslnstsiadFIKVTFIAVCVPLLIMIVTTFPTIrtlylhsrrmknssslaphqsAVFMMAWLLFLYTVFFVVLF
+     mdferrsMVTYVVFVYSIMMFPTLLVLGMqasvahtariqarrfgdrqkrqanelkGVYVCLVVSICFFAGWLpt
+widsvytgvdvyhALFSNACVIQPLCTGVLNICFLVkirqllraqlsssssgrr    evaasetLLVITLVTLCTALPQ
+lsqdgfqvdqhYFMFTLMDTALCTLLPAILIIIVnsftyrylrapttqqqqsqklrssdlqlsrtLIIVTSTFVLLNVPS
+   fdifekkpydrVLSYLVFGEGIIISFLVIFCSIRIIrslrkqrksiktmkqtsrakarliemtAWIAVCFISCYLPF
+       ersrLITIFGVVALVDLSIPMLFIVFTYtkifivshrsckeirkkaeTC     LPHMLVLIGYSIFFVYdvs
+   advniknYLTVLQLALVVLPLLVVMICLCktklrmirrtrqqpgtfelcgnelettrmFAGIILGILVCCLPMFICD
+   cvgkdpdyiqsAVFLGSTFLRDLCVFLMVWTSVYIVkflfthrkrvqylsprpspetkathtILALVSCFVFFYWSN
+   lkfasvdiathpiLVIYFALILASAGVTTFCNVTLITLarkhrrriaaavghqprgnkdlrtIFAVTGAFYITWGAQ
+   qeylsegvpnysdrfd lplnASSSIISAICYILIFWTVhnssatfstqkvrrrrdirfaiqssLLLVFYIFVWVLF
+      gnevhhlhsIITSIYGIIKALPSLIDPILTVLLIielrkaskrrknigedgksdnttkLVLFVTISFFILEVPN
+      isdnawnrLTGLLVGACFILLVMLIsanyaeivrhvhrkfsrrqsessnskseprmtssivrVAVFHMICWLPF
+pv idrysdevlflfnlFHVITTFYVPLTIVVLCYTLIGLSLrrqmaqrktlhdmcatrirfvrasVAIIATFLLTWMPY
+ l cvlhgahqhflnfsYYVVVGYIIPACIMSYCYkmiikklkqtslanknnskrefqknlavkILIAVSIVFILTGIPL
+ y lcsvvyknnlaynVIYSLLCNIAPWVTVMCCYIYIVALasetnardneapigtatelshakpVGVLIFLWCVLIGPF
+ l hpkekgynstkvafIHFLCGFIFPFIVILVCYILAAVGIqrtrlsgksrpl         rILACLVIAFFLCWAPY
+ a gedtvnwklrirtt SAICGFLVPFGLMVLFYGLTWCMVkstklarkga         vrGVIVTVVVLFLIFCLPY
+ v gnsyiryqnkfqthcLGVSTFFFILCLMLVSYsrlifhlqkvrvgslgagfgpggglkvrrkILASVIMFVLCFLPY
+ i cmvpanylgkakge  wwnVSLGCCILAVIVYAIVGVrikmsnmrghemrlf     ksLLIILATVICGYVTFATA
+ v clvlialeeklkvgvpLYFIIAVSLCTALILYCYIHLYIItrtsgiwrsrys     rarMTLLAHTLLLIMYFVPA
+ q dqtsvtgpAAYSIAIASLVFVNIILLVILYCFIgraicqqtdrrrmrdnsk      rFTCMFLTITAVAMVSYIpk
+ i nys  vsdesyqsYVFFLAIFSFIFPMVSGWYAIskawsglsaikekdkdi      lseeqLTALAGAFILISLIS
+
+AGVAFYIFthqgsdfgpIFMTIPAFFAKTSAVYNPVIYImmnkqfrncmvttlccgkn  
+ISIKFLLeihlktt  pstMLYLRTIAYSNAALNPFVFVFrdrnfrgvlkhhr       
+ FIPLSLTLIVSes  allgtYCFAIFNLSSCLNPILFGWkhpvfrqvfrcmfrr     
+tflqfglggplnls  gaWYYITLILAYLNMSINPFIYALkyklfregfkrlfcnr    
+FAAVIrsnlgdevtidgpwqrFAVLFSLLSTFSNPIIYAYrnpqlrngffrlv       
+YIIntidyfwpefsins LTLWTVIMSHMSCALNPLIYAYgmpgfkkalraff       
+EIVYILAtsnvihekdsvtrqIGSMFVILGAVLNPFVLIALSYTVrrqvvr         
+NVYqvinvdktlsrrln   kyrFYLASWNPVASPIIYGFFnknlrdgvmslfw      
+TGFIqsftpps      faywmtynLIYVATLVQSVVQILGNpklkeaiticcc      
+agfqiysrktg      nniypFAWLSTAQCWNNTLAYMIIkknyrqtlksll       
+SAAYNAAFVLsrrplafnisdIMWCVMLTQTACNIIVYLVrmsafrkmfrrrvi      
+YAMrilqsiissaplfnFVYYVTLLIYYLHHAVLFYMYIFWspqmkkqlkp         
+VLFRLLCMINIelqdt fghyitenILYLNPLLNPFLCVTYNkryrtkfhiml       
+idfpkptrIIMTLQ           IMLYHPLFNPLIYGLkmkeiskhlkkll       
+LVVAFLgrftlprsaY M   FSSFCVASIAWVRPLVVILCdedykheiqallpcc    
+SFLTIYVSYk  rnvk g   lenISIILSHGYPAICPLVLInhnklffl          
+VSVnftsaa     eipiarnVLLIFVISNSFWNALIYLLMnstfrkivfrmf       
+RVLPILLad     rhveWFILVPIFYTINCTSNAIIYIFFnsevqshltp         
+GFAhvtagafhgnpisYMIQVFAEILPVFNSSSHIFICLAMssqyretsceifeksk   
+CFIAVIptetcehawvLWILILANWLTYLNSALNWIFYVVLnrdlrelirsn        
+QVLALLrvlcagstceqVVSNWLQAVIIASTCINpfiykfgs                  
+VIGLIIHIymdtrnIINSCTILFWILLQFAPLYnpmihlakkknfwhtly          
+HILGMIYLYsgvtmipgVLWTI   FTCFRFIFDFFVAVVILVAWpeswreckhfitcrr
+HCLLLVkmvdsksallkiwypvaeGVACFNSCVNPLLYFCMGLkvsegfrqsl       
+hlcnffdtllrtcylrsvamhicsllqsMYSAFVPVVYSGLGSLFrrrvrdtw       
+HV        qriilitsqhencqerikmgtifiaalscclhpllq              
+NILVAn   kidfkMGILMDLIIGIPVNISLATNYLVYYatssdyrrvfkgqiafvt   
+LVFAVelkreddlgVWILVNMCVLMLLP RCCTPYLYVLryreiyktvqqasv       
+asiliaeslntsyeqtdtfseiiyrlhilhhtsnsfiyayfdsrfrteikntvra     
+WSGFGYVAIYsalthgaqlshlrghvppimsktgcalfpllifl                
+
+
+1 groups ( 1 aligned )
+
+ nblocks = 30

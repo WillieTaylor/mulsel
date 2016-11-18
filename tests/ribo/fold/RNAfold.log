@@ -1,0 +1,95 @@
+
+r@wt:~/mulsel/tests/ribo/fold$ RNAfold
+
+Input string (upper or lower case); @ to quit
+....,....1....,....2....,....3....,....4....,....5....,....6....,....7....,....8
+CUCUUAUCGAGAGUUGGGCGAGGGAUUGGCCUUUUGACCCCAACAGCAACCGACCGUAAUACCAUUGUGAAAUGGGGCGCACUGCUUUUCGCGCCGAGACUGAUGUCUCAUAAGGCACGGUGCUAAUUCCAUCAGAUUGUGUCUGAGAGAUGAGAG
+AUCUUAUCAAGAGCAGGUGGAGGGACUAGCCCGAUGAUACCCGGCAACCGGCGAUGAAACCCAUCGCAGCGGUGCUAAUUCUUGCAGGACCGUCCGUUUCGAACGCUGGACGGCUUCUGAGAGAUGAGAG
+UCCUUAUCAAGAGUCGGGGGAGGAAUCUGGUCCAUUGAUCCCGCAGCAACCAGUUACAAUGAAGUAACAUGGUGCUCAUUCCAGCAAGCGUAGGCUUGAUAGAUGAGAA
+UUCUUAUCAAGAGAGGCAGAGGGACUGGCCCUGUGAAGCCUCAGCAACCGGUGUAGUAGAAAUCUAUUUUCUAUGACCAAGGUGCUAAAUCCAGCAAGCAACUGCUUGGAAGAUAAGAA
+CGCUCAUCCAGAGGGGCAGAGGGACACGGCCCGUUGAAGCCCCGGCAACCCUCCAGUCGGUUCUCGCGAUCGCCCGCACGGCGACACCAGCGAGGUCCCCGGCUAGGGAAGGUGCCAAUUCCGUCUCAUGGCGAAGUGCGCCAUGGGGAAGAUGAGGA
+AUCUUAUCCGGAGUGGCAGAGGGACUGGCCCUGUGAAGCCACAGCAACCGGCCUGUUCAGAUUACGUCUGAACAUGGUGCAGGUGCUAAUUCCUGUCUCAAGUUUUUGGGAAAAGAUAAGAU
+CUGUCAUCAAGAAAGGUGGAGGGAAAGGCCCUGCGAAACCUUGGCAACCGCUCAAAUAAAAAUGUGAGUUGGUGCUAAUUCCUACCCGGUGUAAACUACCAGCGGGAUAGAUGACGG
+GUGUUAUCACGAGUGGUGGAGGGAAUGGCCCUUUGAAACCACAGCAACCGGUCCUGACGUUCAGGAUGACAGGUGCUAAUUCCACCCCCGCAAGGGGACAGAUGAGAC
+GUCUUAUCCAGAGCAGCGGAGGGAACGGCCCUGUGAAGCUGCGGCAACCUGCGGAGGCCUUCUAAAGCGCCUACUAAGGUGCCAAUUCCGACCCGGUGGCCAUCCGGGAAAGAUAAGGA
+CUAUCAUCGAGAAAGGUGGAGGGACUGGCCCUGAGAAGCCUUGGCAACCGUCAUUGACCGUCAGUGAUUCAAUGGAUUGCAUUGAUUCAUGUAUUGAGGUAAUGAUUGGUGCCAAUUCCAUCCCGGUUGAAGGCCGGGAAAGAUGAAG
+UUCUUAUCAAGAGCGACCGAGGGACUGGCCCGGUGACGUCGCGGCAACCCGCCUGAAAAGGUACGGUGCCAAUUCCAGCAAAGCCGCACAGCGGUUUUGACAGAUAAGGA
+length = 156
+CUCUUAUCGAGAGUUGGGCGAGGGAUUGGCCUUUUGACCCCAACAGCAACCGACCGUAAUACCAUUGUGAAAUGGGGCGCACUGCUUUUCGCGCCGAGACUGAUGUCUCAUAAGGCACGGUGCUAAUUCCAUCAGAUUGUGUCUGAGAGAUGAGAG
+((((((((....((((((((((((......))))))..))))))((((.(((.((......(((((....)))))(((((..........)))))(((((....)))))....))..))))))).......((((((...))))))..))))))))
+ minimum free energy = -55.20 kcal/mol
+
+Input string (upper or lower case); @ to quit
+....,....1....,....2....,....3....,....4....,....5....,....6....,....7....,....8
+length = 130
+AUCUUAUCAAGAGCAGGUGGAGGGACUAGCCCGAUGAUACCCGGCAACCGGCGAUGAAACCCAUCGCAGCGGUGCUAAUUCUUGCAGGACCGUCCGUUUCGAACGCUGGACGGCUUCUGAGAGAUGAGAG
+.(((((((.......((((..(((.....))).....)))).((((.(((((((((.....))))))..)))))))...(((..((((((((((((..........))))))).))))))))))))))).
+ minimum free energy = -45.80 kcal/mol
+
+Input string (upper or lower case); @ to quit
+....,....1....,....2....,....3....,....4....,....5....,....6....,....7....,....8
+length = 109
+UCCUUAUCAAGAGUCGGGGGAGGAAUCUGGUCCAUUGAUCCCGCAGCAACCAGUUACAAUGAAGUAACAUGGUGCUCAUUCCAGCAAGCGUAGGCUUGAUAGAUGAGAA
+..((((((.......(.(((((((......))).....)))).)((((.((((((((......))))).)))))))........(((((....)))))...))))))..
+ minimum free energy = -33.10 kcal/mol
+
+Input string (upper or lower case); @ to quit
+....,....1....,....2....,....3....,....4....,....5....,....6....,....7....,....8
+length = 119
+UUCUUAUCAAGAGAGGCAGAGGGACUGGCCCUGUGAAGCCUCAGCAACCGGUGUAGUAGAAAUCUAUUUUCUAUGACCAAGGUGCUAAAUCCAGCAAGCAACUGCUUGGAAGAUAAGAA
+.(((((((....((((((.((((.....)))).)...)))))((((.((...((.(((((((.....))))))).))...))))))...(((((((......))).)))).))))))).
+ minimum free energy = -40.90 kcal/mol
+
+Input string (upper or lower case); @ to quit
+....,....1....,....2....,....3....,....4....,....5....,....6....,....7....,....8
+length = 158
+CGCUCAUCCAGAGGGGCAGAGGGACACGGCCCGUUGAAGCCCCGGCAACCCUCCAGUCGGUUCUCGCGAUCGCCCGCACGGCGACACCAGCGAGGUCCCCGGCUAGGGAAGGUGCCAAUUCCGUCUCAUGGCGAAGUGCGCCAUGGGGAAGAUGAGGA
+..((((((....(((((((.(((......))).))...)))))((((.((.(((((((((.((((((..(((((.....))))).....))))))...))))))..))).)))))).......((((((((((.....))))))))))..))))))..
+ minimum free energy = -73.60 kcal/mol
+
+Input string (upper or lower case); @ to quit
+....,....1....,....2....,....3....,....4....,....5....,....6....,....7....,....8
+length = 122
+AUCUUAUCCGGAGUGGCAGAGGGACUGGCCCUGUGAAGCCACAGCAACCGGCCUGUUCAGAUUACGUCUGAACAUGGUGCAGGUGCUAAUUCCUGUCUCAAGUUUUUGGGAAAAGAUAAGAU
+(((((((((((.((((((.((((.....)))).)...))))).....)))((((((((((((...))))))))).)))(((((........)))))(((((....)))))....))))))))
+ minimum free energy = -45.30 kcal/mol
+
+Input string (upper or lower case); @ to quit
+....,....1....,....2....,....3....,....4....,....5....,....6....,....7....,....8
+length = 117
+CUGUCAUCAAGAAAGGUGGAGGGAAAGGCCCUGCGAAACCUUGGCAACCGCUCAAAUAAAAAUGUGAGUUGGUGCUAAUUCCUACCCGGUGUAAACUACCAGCGGGAUAGAUGACGG
+((((((((....((((((.((((.....)))).)...)))))((((.(((((((.((....)).)))).)))))))........((((.((........)).))))...))))))))
+ minimum free energy = -40.10 kcal/mol
+
+Input string (upper or lower case); @ to quit
+....,....1....,....2....,....3....,....4....,....5....,....6....,....7....,....8
+length = 108
+GUGUUAUCACGAGUGGUGGAGGGAAUGGCCCUUUGAAACCACAGCAACCGGUCCUGACGUUCAGGAUGACAGGUGCUAAUUCCACCCCCGCAAGGGGACAGAUGAGAC
+((.(((((....(((((((((((.....))))))...)))))((((.((.(((((((...)))))))....))))))........((((....))))...))))).))
+ minimum free energy = -38.70 kcal/mol
+
+Input string (upper or lower case); @ to quit
+....,....1....,....2....,....3....,....4....,....5....,....6....,....7....,....8
+length = 119
+GUCUUAUCCAGAGCAGCGGAGGGAACGGCCCUGUGAAGCUGCGGCAACCUGCGGAGGCCUUCUAAAGCGCCUACUAAGGUGCCAAUUCCGACCCGGUGGCCAUCCGGGAAAGAUAAGGA
+.(((((((....(((((..((((.....)))).....)))))((((.(((..(((((((((...))).)))).)).)))))))........(((((.......)))))...))))))).
+ minimum free energy = -45.60 kcal/mol
+
+Input string (upper or lower case); @ to quit
+....,....1....,....2....,....3....,....4....,....5....,....6....,....7....,....8
+length = 148
+CUAUCAUCGAGAAAGGUGGAGGGACUGGCCCUGAGAAGCCUUGGCAACCGUCAUUGACCGUCAGUGAUUCAAUGGAUUGCAUUGAUUCAUGUAUUGAGGUAAUGAUUGGUGCCAAUUCCAUCCCGGUUGAAGGCCGGGAAAGAUGAAG
+...(((((....(((((..((((.....)))).....)))))((((.(((((((((.((.(((((((.((((((.....)))))).))))....))))))))))).))))))).......((((((((...))))))))..)))))..
+ minimum free energy = -55.00 kcal/mol
+
+Input string (upper or lower case); @ to quit
+....,....1....,....2....,....3....,....4....,....5....,....6....,....7....,....8
+length = 110
+UUCUUAUCAAGAGCGACCGAGGGACUGGCCCGGUGACGUCGCGGCAACCCGCCUGAAAAGGUACGGUGCCAAUUCCAGCAAAGCCGCACAGCGGUUUUGACAGAUAAGGA
+((((((((....(((((...(((.....)))......)))))((((.((.((((....))))..))))))........(((((((((...)))))))))...))))))))
+ minimum free energy = -41.50 kcal/mol
+
+Input string (upper or lower case); @ to quit
+....,....1....,....2....,....3....,....4....,....5....,....6....,....7....,....8
+@
+

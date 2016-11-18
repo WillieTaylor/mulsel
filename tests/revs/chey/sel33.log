@@ -1,0 +1,245 @@
+ seedlen = 0 lowscore = 0
+Mutation Data Matrix (120 PAMs)
+ARNDCQEGHILKMFPSTWYVBZX
+matrix constant = 8
+Residue identity scores 10
+ARNDCQEGHILKMFPSTWYVBZX
+matrix constant = 0
+
+92680 sequences to be read in length range 100 -> 150
+
+Calculating peptide table based on length 4
+Reading user file of seq.s: final.seq
+ user_in = 1
+End of user sequences
+45 sequences read into 45 blocks, (45 are keyed)
+
+
+ ****** CYCLE 0 ******
+Minimum score held = 9
+Top 3 scores held per sequence
+Sequences in the range 1<Dij<46 scored
+Adjacent sequences scored with bonus of 10
+43 pairs found this pass, 0 previously collected
+pre_order  malloc OK
+reorder  malloc OK done
+ new block malloc OK
+cluster_pairs total list_alloc = 20
+pack_lists 0/45 blocks moved
+
+New sequence order is:
+* Block 0 <--- 1	USER>>SEQ176	  114   [+569+] G8AFS1_AZOBR/364-477       
+* Block 1 <--- 2	USER>>REV1766	  114   [+464+] W5XC88_9BACT/16-129        
+* Block 2 <--- 3	USER>>SEQ953	  120   [+371+] A8J3T1_CHLRE/26-145        
+* Block 3 <--- 4	USER>>SEQ142	  111   [+13+] C5ASU0_METEA/8-118         
+* Block 4 <--- 5	USER>>SEQ1382	  112   [+120+] D2R9C7_PIRSD/69-180        
+* Block 5 <--- 6	USER>>REV1623	  117   [+305+] A0DJG1_PARTE/637-753       
+* Block 6 <--- 7	USER>>SEQ66	  112   [+9+] Q01TC4_SOLUE/7-118         
+* Block 7 <--- 8	USER>>SEQ85	  114   [+269+] Q2SIJ1_HAHCH/5-118         
+* Block 8 <--- 9	USER>>SEQ2014	  115   [+161+] Q9A3V2_CAUCR/21-135        
+* Block 9 <--- 10	USER>>SEQ489	  127   [+2+] Q182U3_PEPD6/3-129         
+* Block 10 <--- 11	USER>>SEQ1301	  118   [+16+] D0LT24_HALO1/36-153        
+* Block 11 <--- 12	USER>>SEQ582	  115   [+95+] Q3ZAA6_DEHM1/21-135        
+* Block 12 <--- 13	USER>>SEQ2368	  115   [+1047+] B1ZX63_OPITP/143-257       
+* Block 13 <--- 14	USER>>SEQ763	  114   [+47+] C4ZEB4_EUBR3/4-117         
+* Block 14 <--- 15	USER>>SEQ3195	  118   [+26+] M7Y0D5_RHOT1/882-999       
+* Block 15 <--- 16	USER>>SEQ1259	  114   [+133+] R5EVW6_9CLOT/4-117         
+* Block 16 <--- 17	USER>>SEQ1863	  114   [+145+] I3TLW5_TISMK/621-734       
+* Block 17 <--- 18	USER>>SEQ2565	  112   [+11+] D2R951_PIRSD/6-117         
+* Block 18 <--- 19	USER>>SEQ1273	  112   [+26+] I4AK04_FLELS/1004-1115     
+* Block 19 <--- 20	USER>>SEQ3250	  114   [+114+] R6VLF3_9FIRM/7-120         
+* Block 20 <--- 21	USER>>REV2087	  113   [+545+] Q2RYV1_SALRD/12-124        
+* Block 21 <--- 22	USER>>SEQ3291	  113   [+12+] B1ZQ25_OPITP/7-119         
+* Block 22 <--- 23	USER>>SEQ2556	  115   [+31+] Q9ADP6_STRCO/1339-1453     
+* Block 23 <--- 24	USER>>REV2213	  111   [+19+] Q6MJ90_BDEBA/9-119         
+* Block 24 <--- 25	USER>>REV1301	  118   [+9+] D0LT24_HALO1/36-153        
+* Block 25 <--- 26	USER>>REV101	  114   [+17+] Q4PEH1_USTMA/3763-3876     
+* Block 26 <--- 27	USER>>REV142	  111   [+21+] C5ASU0_METEA/8-118         
+* Block 27 <--- 28	USER>>REV2855	  114   [+1144+] Q2RVX5_RHORT/4-117         
+* Block 28 <--- 29	USER>>REV580	  113   [+47+] C8WYI1_ALIAD/4-116         
+* Block 29 <--- 30	USER>>REV1228	  114   [+121+] O70004_STRCO/4-117         
+* Block 30 <--- 31	USER>>REV2605	  122   [+8+] Q2RY59_RHORT/28-149        
+* Block 31 <--- 32	USER>>REV448	  113   [+100+] F4KP98_HALH1/23-135        
+* Block 32 <--- 33	USER>>REV176	  114   [+55+] G8AFS1_AZOBR/364-477       
+* Block 33 <--- 34	USER>>REV1376	  115   [+4+] A9RME1_PHYPA/880-994       
+* Block 34 <--- 35	USER>>REV786	  118   [+5+] D2QJV7_SPILD/13-130        
+* Block 35 <--- 36	USER>>REV2695	  120   [+9+] Q5ZSR0_LEGPH/11-130        
+* Block 36 <--- 37	USER>>REV1416	  111   [+6+] I4B3B0_TURPD/309-419       
+* Block 37 <--- 38	USER>>REV1502	  113   [+4+] B8FLU3_DESAA/4-116         
+* Block 38 <--- 39	USER>>REV2556	  115   [+12+] Q9ADP6_STRCO/1339-1453     
+* Block 39 <--- 40	USER>>REV734	  115   [+130+] Q9HWA4_PSEAE/11-125        
+* Block 40 <--- 41	USER>>REV1027	  114   [+94+] A6TVF0_ALKMQ/4-117         
+* Block 41 <--- 42	USER>>REV2384	  118   [+3+] I6ZNY9_MELRP/9-126         
+* Block 42 <--- 43	USER>>REV3291	  113   [+35+] B1ZQ25_OPITP/7-119         
+* Block 43 <--- 44	USER>>REV3312	  113   [+19+] A9B8N6_HERA2/7-119         
+* Block 44 <--- 45	USER>>REV2835	  114   [+36+] Q2ILE8_ANADE/7-120         
+
+('*' = keyed block)
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 5
+ gap_pen = 20 span = 32 window = 40
+ minscore = 480 pepscore = 0 list_limit = 8
+ circles = 0 output = 999 outline = 80
+score_pairs 
+
+average score over cutoff = 499
+
+(29 pairs) cluster_pairs total list_alloc = 20
+pack_lists 
+update_blocks
+      USER>>SEQ1382
+439
+      USER>>SEQ142
+406
+      USER>>SEQ2565
+422
+      USER>>SEQ2014
+408
+      USER>>SEQ953
+518
+      USER>>SEQ1863
+525
+      USER>>SEQ2368
+531
+      USER>>SEQ3195
+
+
+      USER>>REV1766
+489
+      USER>>REV3291
+428
+      USER>>REV1228
+528
+      USER>>REV2855
+426
+      USER>>REV3312
+488
+      USER>>REV448
+512
+      USER>>REV2087
+524
+      USER>>REV580
+
+
+      USER>>REV2213
+483
+      USER>>REV734
+507
+      USER>>REV176
+514
+      USER>>REV1376
+
+
+      USER>>REV1623
+494
+      USER>>REV2695
+
+
+27 groups ( 4 aligned )
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 5
+ gap_pen = 20 span = 36 window = 44
+ minscore = 440 pepscore = 0 list_limit = 4
+ circles = 0 output = 999 outline = 80
+score_pairs 
+
+average score over cutoff = 455
+
+(27 pairs) cluster_pairs total list_alloc = 20
+pack_lists 
+update_blocks
+     -- USER>>SEQ176
+476
+     -- USER>>SEQ582
+467
+     -- USER>>SEQ3291
+468
+     -- USER>>SEQ1259
+
+
+     -- USER>>REV101
+476
+     -- USER>>REV1416
+454
+     -- USER>>REV142
+410
+     -- USER>>REV1027
+
+
+     -- USER>>REV2556
+466
+     -- USER>>REV2835
+
+
+     -- USER>>SEQ1273
+462
+     -- USER>>SEQ3250
+443
+     -- USER>>SEQ1301
+
+
+18 groups ( 8 aligned )
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 5
+ gap_pen = 20 span = 40 window = 48
+ minscore = 400 pepscore = 0 list_limit = 2
+ circles = 0 output = 999 outline = 80
+score_pairs 
+
+average score over cutoff = 411
+
+(12 pairs) cluster_pairs total list_alloc = 20
+pack_lists 
+update_blocks
+     ---- USER>>REV1502
+428
+     ---- USER>>REV2384
+
+
+     ---- USER>>SEQ66
+424
+     ---- USER>>SEQ85
+
+
+     ..p- USER>>REV1623
+     ..b- USER>>REV2695
+415
+     ---- USER>>REV786
+
+
+     ---- USER>>SEQ2556
+404
+     ---- USER>>REV2605
+
+
+     ---- USER>>SEQ489
+400
+     ---- USER>>SEQ763
+
+
+13 groups ( 12 aligned )
+
+ nblocks = 45 seedblk = 0 seedseq = 13
+picked USER>>SEQ176 (-4.709530)
+picked USER>>REV3291 (-4.568904)
+picked USER>>SEQ2014 (-4.586923)
+picked USER>>REV786 (-4.639570)
+picked USER>>SEQ85 (-4.016383)
+picked USER>>SEQ489 (-1.037024)
+picked USER>>SEQ3250 (-4.341808)
+picked USER>>REV2605 (-2.195126)
+picked USER>>REV176 (-4.648906)
+picked USER>>REV1301 (-4.744932)
+picked USER>>REV101 (-3.530875)
+picked USER>>REV2384 (-2.763931)
+picked USER>>REV2556 (-4.495355)
+ kept = 13

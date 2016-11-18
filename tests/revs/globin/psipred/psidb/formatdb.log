@@ -1,0 +1,8 @@
+
+========================[ Mar 3, 2016  2:11 PM ]========================
+Version 2.2.26 [Sep-21-2011]
+Started database file "full.seq"
+WARNING: [000.000] Cannot add sequence number 100 (lcl|100_full.seq) because it has zero-length.
+
+Removed single-volume database full.seq
+FATAL ERROR: [001.000] Fatal error when adding sequence to BLAST database.

@@ -1,0 +1,109 @@
+BLASTP 2.2.26 [Sep-21-2011]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for compositional score matrix adjustment: Altschul, Stephen F., 
+John C. Wootton, E. Michael Gertz, Richa Agarwala, Aleksandr Morgulis,
+Alejandro A. Schaffer, and Yi-Kuo Yu (2005) "Protein database searches
+using compositionally adjusted substitution matrices", FEBS J. 272:5101-5109.
+
+
+Reference for composition-based statistics starting in round 2:
+Schaffer, Alejandro A., L. Aravind, Thomas L. Madden,
+Sergei Shavirin, John L. Spouge, Yuri I. Wolf,  
+Eugene V. Koonin, and Stephen F. Altschul (2001), 
+"Improving the accuracy of PSI-BLAST protein database searches with 
+composition-based statistics and other refinements",  Nucleic Acids Res. 29:2994-3005.
+
+Query= >SEQ397 = [+972+] R5SDV9_9CLOT
+         (278 letters)
+
+Database: full.seq 
+           23 sequences; 7082 total letters
+
+Searching.......................done
+
+
+Results from round 1
+
+
+                                                                 Score    E
+Sequences producing significant alignments:                      (bits) Value
+
+>SEQ397 = [+972+] R5SDV9_9CLOT                                        575   e-168
+>SEQ837 = [+0+] R6DH62_9CLOT                                          340   5e-97
+>SEQ1617 = [+2+] R5WBM6_9FIRM                                         206   7e-57
+>SEQ2368 = [+14+] R6RBX6_9CLOT                                        157   5e-42
+>SEQ2697 = [+1157+] E6KA85_9BACT                                       35   4e-05
+>SEQ1159 = [+128+] F2NIX5_DESAR                                        32   5e-04
+>SEQ2568 = [+104+] A1SZW6_PSYIN                                        23   0.17 
+>seq519 = [+112+] tr|B0MPC7|B0MPC7_9FIRM                               20   1.8  
+>seq24 = [+116+] tr|D3NZJ1|D3NZJ1_AZOS1                                17   8.8  
+
+Searching.......................done
+
+
+Results from round 2
+
+
+                                                                 Score    E
+Sequences producing significant alignments:                      (bits) Value
+Sequences used in model and found again:
+
+>SEQ397 = [+972+] R5SDV9_9CLOT                                        389   e-112
+>SEQ837 = [+0+] R6DH62_9CLOT                                          375   e-107
+>SEQ1617 = [+2+] R5WBM6_9FIRM                                         312   1e-88
+>SEQ2368 = [+14+] R6RBX6_9CLOT                                        297   3e-84
+>SEQ2697 = [+1157+] E6KA85_9BACT                                       78   5e-18
+>SEQ1159 = [+128+] F2NIX5_DESAR                                        62   3e-13
+
+Sequences not found previously or not previously below threshold:
+
+>SEQ2568 = [+104+] A1SZW6_PSYIN                                        33   1e-04
+>SEQ2147 = [+7+] W6FTQ4_NODSP                                          23   0.15 
+>seq543 = [+3+] tr|J1F667|J1F667_9LACO                                 20   2.0  
+>seq519 = [+112+] tr|B0MPC7|B0MPC7_9FIRM                               18   5.8  
+>seq24 = [+116+] tr|D3NZJ1|D3NZJ1_AZOS1                                18   7.1  
+
+  Database: full.seq
+    Posted date:  Mar 7, 2016  9:26 PM
+  Number of letters in database: 7082
+  Number of sequences in database:  23
+  
+Lambda     K      H
+   0.322    0.139    0.352 
+
+Lambda     K      H
+   0.267   0.0422    0.140 
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Number of Hits to DB: 8260
+Number of Sequences: 23
+Number of extensions: 389
+Number of successful extensions: 52
+Number of sequences better than 10.0: 12
+Number of HSP's better than 10.0 without gapping: 26
+Number of HSP's successfully gapped in prelim test: 0
+Number of HSP's that attempted gapping in prelim test: 0
+Number of HSP's gapped (non-prelim): 30
+length of query: 278
+length of database: 7082
+effective HSP length: 47
+effective length of query: 231
+effective length of database: 6001
+effective search space:  1386231
+effective search space used:  1386231
+T: 11
+A: 40
+X1: 16 ( 7.4 bits)
+X2: 38 (14.6 bits)
+X3: 64 (24.7 bits)
+S1: 33 (18.2 bits)
+S2: 33 (17.3 bits)

@@ -1,0 +1,574 @@
+ seedlen = 0 lowscore = 0
+Mutation Data Matrix (120 PAMs)
+ARNDCQEGHILKMFPSTWYVBZX
+matrix constant = 8
+Residue identity scores 10
+ARNDCQEGHILKMFPSTWYVBZX
+matrix constant = 0
+
+92680 sequences to be read in length range 100 -> 150
+
+Calculating peptide table based on length 4
+Reading user file of seq.s: final.seq
+ user_in = 1
+End of user sequences
+136 sequences read into 136 blocks, (136 are keyed)
+
+
+ ****** CYCLE 0 ******
+Minimum score held = 9
+Top 3 scores held per sequence
+Sequences in the range 1<Dij<137 scored
+Adjacent sequences scored with bonus of 10
+135 pairs found this pass, 0 previously collected
+pre_order  malloc OK
+reorder  malloc OK done
+ new block malloc OK
+cluster_pairs total list_alloc = 20
+pack_lists 4/136 blocks moved
+
+New sequence order is:
+* Block 0 <--- 1	USER>>SEQ206	  110   [+6+] Q8A0Q5_BACTN/3-112         
+* Block 1 <--- 2	USER>>SEQ91	  116   [+0+] R5ZTG7_9CLOT/3-118         
+* Block 2 <--- 3	USER>>SEQ4	  116   [+1+] Q8A9F9_BACTN/10-125        
+* Block 3 <--- 4	USER>>SEQ266	  111   [+17+] A9CLL8_AGRT5/3-113         
+* Block 4 <=== 5	USER>>SEQ6	  113   [+1+] Q7NP36_GLOVI/113-225       
+* Block 5 <=== 8	USER>>SEQ189	  112   [+42+] C1F2N1_ACIC5/3-114         
+* Block 6 <--- 6	USER>>SEQ188	  112   [+1+] R5P5C1_9BACT/1176-1287     
+* Block 7 <--- 7	USER>>SEQ69	  110   [+6+] R5QY52_9FIRM/5-114         
+* Block 8 <--- 9	USER>>SEQ21	  114   [+3+] Q2S9K6_HAHCH/128-241       
+* Block 9 <--- 10	USER>>SEQ105	  117   [+1+] B1ZXN3_OPITP/1049-1165     
+* Block 10 <--- 11	USER>>SEQ11	  113   [+7+] A0LLL5_SYNFM/700-812       
+* Block 11 <--- 12	USER>>SEQ12	  110   [+0+] A0LFZ4_SYNFM/7-116         
+* Block 12 <--- 13	USER>>SEQ14	  111   [+1+] D2VLN9_NAEGR/75-185        
+* Block 13 <--- 14	USER>>SEQ121	  113   [+10+] D7CUI7_TRURR/10-122        
+* Block 14 <--- 15	USER>>SEQ17	  113   [+0+] E1Z400_CHLVA/13-125        
+* Block 15 <--- 16	USER>>SEQ101	  114   [+1+] Q4PEH1_USTMA/3763-3876     
+* Block 16 <--- 17	USER>>SEQ23	  114   [+1+] F5XMA7_MICPN/24-137        
+* Block 17 <--- 18	USER>>SEQ67	  113   [+6+] E6W348_DESIS/261-373       
+* Block 18 <--- 19	USER>>SEQ26	  116   [+1+] B3PFU4_CELJU/10-125        
+* Block 19 <--- 20	USER>>SEQ28	  112   [+1+] B1ZR53_OPITP/12-123        
+* Block 20 <--- 21	USER>>SEQ29	  113   [+11+] G8PHZ0_PSEUV/5-117         
+* Block 21 <--- 22	USER>>SEQ120	  117   [+4+] A6W3L8_MARMS/5-121         
+* Block 22 <--- 23	USER>>SEQ92	  114   [+2+] G8ARI6_AZOBR/831-944       
+* Block 23 <--- 24	USER>>SEQ51	  111   [+1+] D5BPH7_PUNMI/8-118         
+* Block 24 <--- 25	USER>>SEQ41	  114   [+0+] B1ZVL9_OPITP/7-120         
+* Block 25 <--- 26	USER>>SEQ159	  116   [+19+] Q728I7_DESVH/874-989       
+* Block 26 <--- 27	USER>>SEQ48	  114   [+0+] B3PLM0_CELJU/14-127        
+* Block 27 <--- 28	USER>>SEQ289	  110   [+4+] Q028U9_SOLUE/8-117         
+* Block 28 <--- 29	USER>>SEQ175	  113   [+13+] Q7VE20_PROMA/17-129        
+* Block 29 <--- 30	USER>>SEQ62	  115   [+2+] A9GV07_SORC5/1025-1139     
+* Block 30 <--- 31	USER>>SEQ63	  115   [+0+] B8F953_DESAA/43-157        
+* Block 31 <--- 32	USER>>SEQ66	  112   [+0+] Q01TC4_SOLUE/7-118         
+* Block 32 <--- 33	USER>>SEQ161	  127   [+1+] F0YAP2_AURAN/295-421       
+* Block 33 <--- 34	USER>>SEQ70	  114   [+2+] I0I1B7_CALAS/12-125        
+* Block 34 <--- 35	USER>>SEQ78	  112   [+2+] E1QDA6_DESB2/7-118         
+* Block 35 <--- 36	USER>>SEQ148	  115   [+1+] A9FBN1_SORC5/5-119         
+* Block 36 <--- 37	USER>>SEQ96	  114   [+2+] K1VMH1_TRIAC/642-755       
+* Block 37 <--- 38	USER>>SEQ98	  119   [+1+] F8GCV5_NITSI/9-127         
+* Block 38 <--- 39	USER>>SEQ164	  112   [+1+] A9AVZ7_HERA2/5-116         
+* Block 39 <--- 40	USER>>SEQ129	  114   [+9+] A9KI49_CLOPH/4-117         
+* Block 40 <--- 41	USER>>SEQ109	  112   [+0+] D1CC36_THET1/15-126        
+* Block 41 <--- 42	USER>>SEQ202	  113   [+10+] F2ND58_DESAR/788-900       
+* Block 42 <--- 43	USER>>SEQ246	  118   [+3+] D5EKL0_CORAD/486-603       
+* Block 43 <--- 44	USER>>SEQ205	  123   [+1+] I0GMN6_SELRL/3-125         
+* Block 44 <--- 45	USER>>SEQ299	  122   [+1+] D0LSQ9_HALO1/10-131        
+* Block 45 <--- 46	USER>>SEQ142	  111   [+0+] C5ASU0_METEA/8-118         
+* Block 46 <--- 47	USER>>SEQ186	  121   [+4+] A0E8Z0_PARTE/589-709       
+* Block 47 <--- 48	USER>>SEQ156	  117   [+1+] K0SQA0_THAOC/602-718       
+* Block 48 <--- 49	USER>>SEQ162	  116   [+0+] A9AXD3_HERA2/5-120         
+* Block 49 <--- 50	USER>>SEQ163	  114   [+0+] Q7D1D6_AGRT5/6-119         
+* Block 50 <--- 51	USER>>SEQ166	  111   [+0+] Q82TX8_NITEU/7-117         
+* Block 51 <--- 52	USER>>SEQ187	  115   [+1+] Q24W46_DESHY/4-118         
+* Block 52 <--- 53	USER>>SEQ253	  112   [+3+] F8GKG9_NITSI/7-118         
+* Block 53 <--- 54	USER>>SEQ191	  123   [+2+] Q22D61_TETTS/1265-1387     
+* Block 54 <--- 55	USER>>SEQ203	  116   [+1+] I4AKS6_FLELS/5-120         
+* Block 55 <--- 56	USER>>SEQ194	  119   [+0+] I0H4D5_ACTM4/14-132        
+* Block 56 <--- 57	USER>>SEQ195	  112   [+1+] Q0W3L8_UNCMA/11-122        
+* Block 57 <--- 58	USER>>SEQ212	  110   [+0+] Q028Z2_SOLUE/4-113         
+* Block 58 <--- 59	USER>>SEQ280	  111   [+3+] E6W1B5_DESIS/10-120        
+* Block 59 <--- 60	USER>>SEQ286	  115   [+11+] Q22TX5_TETTS/11-125        
+* Block 60 <--- 61	USER>>SEQ232	  113   [+0+] D8LPK5_ECTSI/555-667       
+* Block 61 <--- 62	USER>>SEQ258	  124   [+1+] D8LP35_ECTSI/455-578       
+* Block 62 <--- 63	USER>>SEQ293	  114   [+2+] E1R885_SPISS/4-117         
+* Block 63 <--- 64	USER>>SEQ263	  125   [+1+] Q74ET0_GEOSL/184-308       
+* Block 64 <--- 65	USER>>SEQ275	  121   [+0+] C6XU79_PEDHD/8-128         
+* Block 65 <--- 66	USER>>SEQ282	  112   [+0+] B1ZRJ6_OPITP/5-116         
+* Block 66 <--- 67	USER>>SEQ291	  116   [+0+] C8WL86_EGGLE/4-119         
+* Block 67 <--- 68	USER>>SEQ295	  126   [+0+] A0C6Q4_PARTE/795-920       
+* Block 68 <--- 69	USER>>REV206	  110   [+6+] Q8A0Q5_BACTN/3-112         
+* Block 69 <--- 70	USER>>REV91	  116   [+0+] R5ZTG7_9CLOT/3-118         
+* Block 70 <--- 71	USER>>REV4	  116   [+1+] Q8A9F9_BACTN/10-125        
+* Block 71 <=== 72	USER>>REV6	  113   [+1+] Q7NP36_GLOVI/113-225       
+* Block 72 <=== 73	USER>>REV189	  112   [+51+] C1F2N1_ACIC5/3-114         
+* Block 73 <--- 74	USER>>REV76	  111   [+3+] I0HBK7_ACTM4/3-113         
+* Block 74 <--- 75	USER>>REV188	  112   [+3+] R5P5C1_9BACT/1176-1287     
+* Block 75 <--- 76	USER>>REV52	  113   [+1+] C7PE59_CHIPD/479-591       
+* Block 76 <--- 77	USER>>REV40	  111   [+14+] Q6AJN0_DESPS/4-114         
+* Block 77 <--- 78	USER>>REV21	  114   [+3+] Q2S9K6_HAHCH/128-241       
+* Block 78 <--- 79	USER>>REV9	  113   [+1+] G8AW64_AZOBR/575-687       
+* Block 79 <--- 80	USER>>REV11	  113   [+1+] A0LLL5_SYNFM/700-812       
+* Block 80 <--- 81	USER>>REV14	  111   [+0+] D2VLN9_NAEGR/75-185        
+* Block 81 <--- 82	USER>>REV16	  112   [+0+] B2IJ88_BEII9/155-266       
+* Block 82 <--- 83	USER>>REV17	  113   [+0+] E1Z400_CHLVA/13-125        
+* Block 83 <--- 84	USER>>REV168	  115   [+30+] C7PAN6_CHIPD/1079-1193     
+* Block 84 <--- 85	USER>>REV129	  114   [+12+] A9KI49_CLOPH/4-117         
+* Block 85 <--- 86	USER>>REV23	  114   [+1+] F5XMA7_MICPN/24-137        
+* Block 86 <--- 87	USER>>REV67	  113   [+1+] E6W348_DESIS/261-373       
+* Block 87 <--- 88	USER>>REV26	  116   [+1+] B3PFU4_CELJU/10-125        
+* Block 88 <--- 89	USER>>REV28	  112   [+1+] B1ZR53_OPITP/12-123        
+* Block 89 <--- 90	USER>>REV33	  112   [+1+] A9AZ67_HERA2/5-116         
+* Block 90 <--- 91	USER>>REV125	  115   [+11+] G8AIF6_AZOBR/730-844       
+* Block 91 <--- 92	USER>>REV92	  114   [+2+] G8ARI6_AZOBR/831-944       
+* Block 92 <--- 93	USER>>REV105	  117   [+1+] B1ZXN3_OPITP/1049-1165     
+* Block 93 <--- 94	USER>>REV41	  114   [+0+] B1ZVL9_OPITP/7-120         
+* Block 94 <--- 95	USER>>REV48	  114   [+0+] B3PLM0_CELJU/14-127        
+* Block 95 <--- 96	USER>>REV97	  112   [+10+] CHEB1_KORVE/6-117          
+* Block 96 <--- 97	USER>>REV59	  110   [+7+] Q7UJC9_RHOBA/16-125        
+* Block 97 <--- 98	USER>>REV62	  115   [+2+] A9GV07_SORC5/1025-1139     
+* Block 98 <--- 99	USER>>REV63	  115   [+0+] B8F953_DESAA/43-157        
+* Block 99 <--- 100	USER>>REV65	  125   [+1+] C7PLE4_CHIPD/12-136        
+* Block 100 <--- 101	USER>>REV66	  112   [+0+] Q01TC4_SOLUE/7-118         
+* Block 101 <--- 102	USER>>REV70	  114   [+2+] I0I1B7_CALAS/12-125        
+* Block 102 <--- 103	USER>>REV190	  112   [+3+] C6XYG2_PEDHD/4-115         
+* Block 103 <--- 104	USER>>REV222	  114   [+1+] Q8EJC2_SHEON/3-116         
+* Block 104 <--- 105	USER>>REV148	  115   [+1+] A9FBN1_SORC5/5-119         
+* Block 105 <--- 106	USER>>REV137	  113   [+3+] A0LKN4_SYNFM/642-754       
+* Block 106 <--- 107	USER>>REV246	  118   [+4+] D5EKL0_CORAD/486-603       
+* Block 107 <--- 108	USER>>REV98	  119   [+0+] F8GCV5_NITSI/9-127         
+* Block 108 <--- 109	USER>>REV101	  114   [+1+] Q4PEH1_USTMA/3763-3876     
+* Block 109 <--- 110	USER>>REV293	  114   [+4+] E1R885_SPISS/4-117         
+* Block 110 <--- 111	USER>>REV109	  112   [+0+] D1CC36_THET1/15-126        
+* Block 111 <--- 112	USER>>REV202	  113   [+10+] F2ND58_DESAR/788-900       
+* Block 112 <--- 113	USER>>REV205	  123   [+1+] I0GMN6_SELRL/3-125         
+* Block 113 <--- 114	USER>>REV299	  122   [+1+] D0LSQ9_HALO1/10-131        
+* Block 114 <--- 115	USER>>REV142	  111   [+0+] C5ASU0_METEA/8-118         
+* Block 115 <--- 116	USER>>REV186	  121   [+4+] A0E8Z0_PARTE/589-709       
+* Block 116 <--- 117	USER>>REV156	  117   [+0+] K0SQA0_THAOC/602-718       
+* Block 117 <--- 118	USER>>REV162	  116   [+0+] A9AXD3_HERA2/5-120         
+* Block 118 <--- 119	USER>>REV166	  111   [+0+] Q82TX8_NITEU/7-117         
+* Block 119 <--- 120	USER>>REV187	  115   [+1+] Q24W46_DESHY/4-118         
+* Block 120 <--- 121	USER>>REV253	  112   [+3+] F8GKG9_NITSI/7-118         
+* Block 121 <--- 122	USER>>REV183	  117   [+1+] R5F8K5_9CLOT/809-925       
+* Block 122 <--- 123	USER>>REV191	  123   [+2+] Q22D61_TETTS/1265-1387     
+* Block 123 <--- 124	USER>>REV203	  116   [+1+] I4AKS6_FLELS/5-120         
+* Block 124 <--- 125	USER>>REV194	  119   [+0+] I0H4D5_ACTM4/14-132        
+* Block 125 <--- 126	USER>>REV195	  112   [+1+] Q0W3L8_UNCMA/11-122        
+* Block 126 <--- 127	USER>>REV212	  110   [+0+] Q028Z2_SOLUE/4-113         
+* Block 127 <--- 128	USER>>REV280	  111   [+3+] E6W1B5_DESIS/10-120        
+* Block 128 <--- 129	USER>>REV286	  115   [+11+] Q22TX5_TETTS/11-125        
+* Block 129 <--- 130	USER>>REV232	  113   [+0+] D8LPK5_ECTSI/555-667       
+* Block 130 <--- 131	USER>>REV296	  119   [+1+] D0LKP0_HALO1/466-584       
+* Block 131 <--- 132	USER>>REV295	  126   [+1+] A0C6Q4_PARTE/795-920       
+* Block 132 <--- 133	USER>>REV263	  125   [+1+] Q74ET0_GEOSL/184-308       
+* Block 133 <--- 134	USER>>REV275	  121   [+0+] C6XU79_PEDHD/8-128         
+* Block 134 <--- 135	USER>>REV282	  112   [+0+] B1ZRJ6_OPITP/5-116         
+* Block 135 <--- 136	USER>>REV291	  116   [+0+] C8WL86_EGGLE/4-119         
+
+('*' = keyed block)
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 5
+ gap_pen = 20 span = 32 window = 40
+ minscore = 480 pepscore = 0 list_limit = 8
+ circles = 0 output = 999 outline = 80
+score_pairs 
+
+average score over cutoff = 507
+
+(880 pairs) cluster_pairs total list_alloc = 40
+pack_lists 
+update_blocks
+      USER>>SEQ11
+677
+      USER>>SEQ202
+557
+      USER>>SEQ29
+555
+      USER>>SEQ4
+469
+      USER>>SEQ69
+483
+      USER>>SEQ148
+511
+      USER>>SEQ105
+442
+      USER>>SEQ163
+
+
+      USER>>REV280
+513
+      USER>>REV189
+606
+      USER>>REV76
+605
+      USER>>REV190
+567
+      USER>>REV59
+532
+      USER>>REV40
+586
+      USER>>REV11
+677
+      USER>>REV202
+
+
+      USER>>REV205
+471
+      USER>>REV188
+494
+      USER>>REV222
+446
+      USER>>REV275
+438
+      USER>>REV263
+546
+      USER>>REV286
+533
+      USER>>REV65
+659
+      USER>>REV299
+
+
+      USER>>SEQ51
+544
+      USER>>SEQ266
+586
+      USER>>SEQ189
+521
+      USER>>SEQ188
+496
+      USER>>SEQ159
+495
+      USER>>SEQ67
+592
+      USER>>SEQ175
+593
+      USER>>SEQ62
+
+
+      USER>>SEQ121
+537
+      USER>>SEQ70
+578
+      USER>>SEQ293
+567
+      USER>>SEQ129
+581
+      USER>>SEQ280
+559
+      USER>>SEQ195
+507
+      USER>>SEQ161
+422
+      USER>>SEQ253
+
+
+      USER>>REV101
+436
+      USER>>REV14
+437
+      USER>>REV62
+567
+      USER>>REV125
+573
+      USER>>REV168
+581
+      USER>>REV137
+561
+      USER>>REV52
+499
+      USER>>REV186
+
+
+      USER>>REV70
+578
+      USER>>REV293
+567
+      USER>>REV129
+532
+      USER>>REV97
+523
+      USER>>REV28
+533
+      USER>>REV4
+523
+      USER>>REV67
+544
+      USER>>REV6
+
+
+      USER>>REV246
+550
+      USER>>REV296
+526
+      USER>>REV183
+450
+      USER>>REV162
+518
+      USER>>REV33
+527
+      USER>>REV21
+511
+      USER>>REV9
+552
+      USER>>REV105
+
+
+      USER>>SEQ98
+451
+      USER>>SEQ205
+462
+      USER>>SEQ299
+479
+      USER>>SEQ275
+524
+      USER>>SEQ286
+546
+      USER>>SEQ263
+506
+      USER>>SEQ282
+446
+      USER>>SEQ203
+
+
+      USER>>SEQ206
+553
+      USER>>SEQ289
+452
+      USER>>SEQ156
+528
+      USER>>SEQ96
+543
+      USER>>SEQ186
+520
+      USER>>SEQ191
+517
+      USER>>SEQ295
+519
+      USER>>SEQ258
+
+
+      USER>>REV17
+485
+      USER>>REV148
+484
+      USER>>REV203
+538
+      USER>>REV195
+485
+      USER>>REV98
+420
+      USER>>REV187
+
+
+      USER>>SEQ6
+468
+      USER>>SEQ28
+455
+      USER>>SEQ14
+503
+      USER>>SEQ21
+523
+      USER>>SEQ120
+496
+      USER>>SEQ164
+524
+      USER>>SEQ162
+483
+      USER>>SEQ109
+
+
+      USER>>REV156
+481
+      USER>>REV191
+517
+      USER>>REV295
+485
+      USER>>REV253
+
+
+      USER>>SEQ101
+515
+      USER>>SEQ246
+506
+      USER>>SEQ12
+
+
+      USER>>SEQ17
+506
+      USER>>SEQ78
+502
+      USER>>SEQ41
+464
+      USER>>SEQ166
+486
+      USER>>SEQ66
+426
+      USER>>SEQ23
+486
+      USER>>SEQ48
+485
+      USER>>SEQ26
+
+
+      USER>>REV66
+486
+      USER>>REV166
+
+
+      USER>>REV23
+486
+      USER>>REV48
+485
+      USER>>REV26
+
+
+39 groups ( 17 aligned )
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 5
+ gap_pen = 20 span = 34 window = 42
+ minscore = 460 pepscore = 0 list_limit = 6
+ circles = 0 output = 999 outline = 80
+score_pairs 
+
+average score over cutoff = 478
+
+(8 pairs) cluster_pairs total list_alloc = 20
+pack_lists 
+update_blocks
+     -- USER>>REV206
+492
+     -- USER>>REV291
+489
+     -- USER>>REV91
+
+
+     -- USER>>SEQ187
+480
+     -- USER>>SEQ91
+489
+     -- USER>>SEQ291
+
+
+     -- USER>>REV16
+477
+     -- USER>>REV109
+
+
+     -- USER>>SEQ92
+461
+     -- USER>>SEQ194
+
+
+     -- USER>>REV92
+461
+     -- USER>>REV194
+
+
+32 groups ( 22 aligned )
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 5
+ gap_pen = 20 span = 36 window = 44
+ minscore = 440 pepscore = 0 list_limit = 4
+ circles = 0 output = 999 outline = 80
+score_pairs 
+
+No pairs over cutoff
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 5
+ gap_pen = 20 span = 38 window = 46
+ minscore = 420 pepscore = 0 list_limit = 2
+ circles = 0 output = 999 outline = 80
+score_pairs 
+
+average score over cutoff = 430
+
+(4 pairs) cluster_pairs total list_alloc = 20
+pack_lists 
+update_blocks
+     ---- USER>>REV41
+433
+     ---- USER>>REV212
+
+
+     ---- USER>>SEQ142
+431
+     ---- USER>>REV142
+
+
+30 groups ( 24 aligned )
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 5
+ gap_pen = 20 span = 40 window = 48
+ minscore = 400 pepscore = 0 list_limit = 2
+ circles = 0 output = 999 outline = 80
+score_pairs 
+
+average score over cutoff = 409
+
+(7 pairs) cluster_pairs total list_alloc = 20
+pack_lists 
+update_blocks
+     p----- USER>>REV41
+     b----- USER>>REV212
+417
+     ....p- USER>>REV66
+     ....b- USER>>REV166
+
+
+     ------ USER>>REV232
+414
+     ------ USER>>REV282
+
+
+     ------ USER>>SEQ212
+412
+     ------ USER>>SEQ232
+
+
+27 groups ( 25 aligned )
+
+ nblocks = 136 seedblk = 0 seedseq = 13
+picked USER>>SEQ156 (-3.918348)
+picked USER>>SEQ6 (-4.568904)
+picked USER>>SEQ163 (-4.694026)
+picked USER>>SEQ70 (-4.379777)
+picked USER>>SEQ17 (-4.639856)
+picked USER>>SEQ101 (-4.709530)
+picked USER>>SEQ194 (-2.772589)
+picked USER>>SEQ67 (-4.684976)
+picked USER>>SEQ63 (-4.718499)
+picked USER>>SEQ98 (-4.738086)
+picked USER>>SEQ142 (-4.682131)
+picked USER>>SEQ291 (-4.622026)
+picked USER>>SEQ232 (-3.521825)
+picked USER>>REV291 (-3.117950)
+picked USER>>REV16 (-4.691348)
+picked USER>>REV148 (-4.718499)
+picked USER>>REV23 (-4.341808)
+picked USER>>REV194 (-2.772589)
+picked USER>>REV66 (-4.630723)
+picked USER>>REV63 (-4.718499)
+picked USER>>REV70 (-4.486387)
+picked USER>>REV162 (-4.666763)
+picked USER>>REV62 (-4.586923)
+picked USER>>REV275 (-3.709212)
+picked USER>>REV156 (-2.755197)
+picked USER>>REV189 (-4.559772)
+picked USER>>REV232 (-4.477337)
+ kept = 27

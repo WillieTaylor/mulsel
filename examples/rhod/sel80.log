@@ -1,0 +1,724 @@
+ seedlen = 0 lowscore = 0
+Mutation Data Matrix (120 PAMs)
+ARNDCQEGHILKMFPSTWYVBZX
+matrix constant = 8
+Residue identity scores 10
+ARNDCQEGHILKMFPSTWYVBZX
+matrix constant = 0
+
+92680 sequences to be read in length range 100 -> 500
+
+Calculating peptide table based on length 4
+Reading user file of seq.s: final.seq
+ user_in = 1
+End of user sequences
+198 sequences read into 198 blocks, (198 are keyed)
+
+
+ ****** CYCLE 0 ******
+Minimum score held = 9
+Top 3 scores held per sequence
+Sequences in the range 0<Dij<50 scored
+Adjacent sequences scored with bonus of 10
+321 pairs found this pass, 0 previously collected
+
+
+ ****** CYCLE 1 ******
+Minimum score held = 9
+Top 3 scores held per sequence
+Sequences in the range 49<Dij<99 scored
+Adjacent sequences scored with bonus of 10
+222 pairs found this pass, 308 previously collected
+
+
+ ****** CYCLE 2 ******
+Minimum score held = 9
+Top 3 scores held per sequence
+Sequences in the range 98<Dij<148 scored
+Adjacent sequences scored with bonus of 10
+196 pairs found this pass, 513 previously collected
+
+
+ ****** CYCLE 3 ******
+Minimum score held = 9
+Top 3 scores held per sequence
+Sequences in the range 147<Dij<199 scored
+Adjacent sequences scored with bonus of 10
+208 pairs found this pass, 694 previously collected
+pre_order  malloc OK
+reorder  malloc OK done
+ new block malloc OK
+cluster_pairs total list_alloc = 60
+pack_lists 190/198 blocks moved
+
+New sequence order is:
+* Block 0 <=== 31	USER>>seq92	  294   [+8+] tr|D6BV37|D6BV37_9SMEG Short wave opsin OX=588576 OS=Melanotaenia australis (western rainbowfish). GN= PE=2 SV=1
+* Block 1 <=== 32	USER>>seq96	  294   [+7+] tr|Q7T2U6|Q7T2U6_9SMEG SWS2A opsin OX=232977 OS=Lucania goodei (bluefin killifish). GN= PE=2 SV=1
+* Block 2 <=== 16	USER>>seq6	  256   [+0+] tr|Q5S5Z9|Q5S5Z9_9PERC Bluesensitive pigment OX=40692 OS=Trematomus loennbergii (deepwater notothen). GN= PE=2 SV=1
+* Block 3 <=== 15	USER>>seq55	  294   [+0+] tr|Q6UN31|Q6UN31_9PETR Bluesensitive retinal pigment OX=71168 OS=Geotria australis. GN= PE=2 SV=1
+* Block 4 <=== 14	USER>>seq52	  294   [+9+] tr|A8RKB2|A8RKB2_NEOFS SWS2 opsin OX=7892 OS=Neoceratodus forsteri (Australian lungfish) (Ceratodus forsteri). GN= PE=2 SV=1
+* Block 5 <=== 13	USER>>seq62	  292   [+1+] tr|Q1L4C7|Q1L4C7_UTAST Pinopsin OX=43653 OS=Uta stansburiana (Sideblotched lizard). GN= PE=2 SV=1
+* Block 6 <=== 33	USER>>seq107	  292   [+1+] sp|P51476|OPSP_COLLI Pineal glandspecific opsin OX=8932 OS=Columba livia (Domestic pigeon). GN= PE=1 SV=1
+* Block 7 <=== 17	USER>>seq14	  271   [+0+] tr|C5H7Z8|C5H7Z8_ARTLI Shortwavelength sensitive opsin OX=27634 OS=Artibeus lituratus (Great fruiteating bat). GN= PE=3 SV=1
+* Block 8 <=== 38	USER>>seq112	  294   [+10+] tr|Q9W773|Q9W773_COLLI Violetsensitive cone opsin OX=8932 OS=Columba livia (Domestic pigeon). GN= PE=2 SV=1
+* Block 9 <=== 12	USER>>seq41	  243   [+1+] tr|Q5K6I0|Q5K6I0_CLUHA Greensensitive pigment green opsin 1 OX=7950 OS=Clupea harengus (Atlantic herring). GN= PE=2 SV=1
+* Block 10 <=== 36	USER>>seq85	  294   [+8+] tr|Q9I9R2|Q9I9R2_TAKRU Uncharacterized protein OX=31033 OS=Takifugu rubripes (Japanese pufferfish) (Fugu rubripes). GN= PE=2 SV=1
+* Block 11 <=== 37	USER>>seq67	  294   [+14+] tr|A8RKA4|A8RKA4_NEOFS Rh2 opsin OX=7892 OS=Neoceratodus forsteri (Australian lungfish) (Ceratodus forsteri). GN= PE=2 SV=1
+* Block 12 <=== 47	USER>>seq145	  278   [+9+] tr|G9HXJ5|G9HXJ5_9TELE Rod opsin OX=473299 OS=Bolinichthys indicus (lanternfish). GN= PE=4 SV=1
+* Block 13 <=== 10	USER>>seq38	  253   [+1+] tr|Q69BX9|Q69BX9_9TELE Rhodopsin OX=254392 OS=Rondeletia sp. AD2003. GN= PE=3 SV=1
+* Block 14 <=== 7	USER>>seq39	  252   [+2+] tr|Q8AWQ4|Q8AWQ4_9TELE Rhodopsin OX=206092 OS=Bathypterois dubius (spiderfish). GN= PE=3 SV=1
+* Block 15 <=== 46	USER>>seq166	  284   [+2+] tr|B8QPK7|B8QPK7_9PERO Rhodopsin OX=546507 OS=Sciaenidae sp. BL2008. GN= PE=3 SV=1
+* Block 16 <=== 11	USER>>seq2	  296   [+1+] sp|P52202|OPSD_ALLMI Rhodopsin OX=8496 OS=Alligator mississippiensis (American alligator). GN= PE=2 SV=1
+* Block 17 <=== 6	USER>>seq33	  264   [+1+] tr|K7PE36|K7PE36_9TELE Rhodopsin OX=1195463 OS=Coilia dussumieri. GN= PE=3 SV=1
+* Block 18 <=== 8	USER>>seq11	  276   [+2+] tr|Q9PT44|Q9PT44_PANBU Rhodopsin OX=8276 OS=Pantodon buchholzi (Freshwater butterflyfish). GN= PE=3 SV=1
+* Block 19 <=== 4	USER>>seq7	  270   [+0+] tr|G9I1B0|G9I1B0_9TELE Rhodopsin OX=473325 OS=Notacanthus bonaparte (shortfin spiny eel). GN= PE=3 SV=1
+* Block 20 <=== 45	USER>>seq173	  272   [+1+] tr|K7PE33|K7PE33_9TELE Rhodopsin OX=91729 OS=Mormyrops anguilloides (Cornish jack). GN= PE=3 SV=1
+* Block 21 <=== 3	USER>>seq17	  280   [+5+] tr|B8QPJ6|B8QPJ6_9TELE Rhodopsin OX=546531 OS=Photoblepharon palpebratum (eyelight fish). GN= PE=3 SV=1
+* Block 22 <=== 48	USER>>seq132	  294   [+2+] tr|D7F0F7|D7F0F7_9TELE Rhodopsin OX=239087 OS=Opsariichthys pachycephalus (thickhead chub). GN= PE=2 SV=1
+* Block 23 <=== 9	USER>>seq31	  272   [+4+] tr|K7PDH4|K7PDH4_ELOSA Rhodopsin OX=7928 OS=Elops saurus (Ladyfish). GN= PE=3 SV=1
+* Block 24 <=== 49	USER>>seq175	  259   [+0+] tr|E7CUH1|E7CUH1_9PERC Rhodopsin OX=171872 OS=Parablennius parvicornis (rockpool blenny). GN= PE=3 SV=1
+* Block 25 <=== 2	USER>>seq35	  261   [+0+] tr|K7PF64|K7PF64_UMBLI Rhodopsin OX=75935 OS=Umbra limi (Central mudminnow) (Hydrargira limi). GN= PE=3 SV=1
+* Block 26 <=== 5	USER>>seq27	  272   [+6+] tr|K7PEV1|K7PEV1_9TELE Rhodopsin OX=61620 OS=Galaxias maculatus (cowfish). GN= PE=3 SV=1
+* Block 27 <=== 1	USER>>seq61	  292   [+0+] tr|D0E2W5|D0E2W5_CHICK Vertebrate ancient long opsin OX=9031 OS=Gallus gallus (Chicken). GN= PE=2 SV=1
+* Block 28 <=== 19	USER>>seq3	  287   [+1+] tr|B1AYN7|B1AYN7_MOUSE Mediumwavesensitive opsin 1 OX=10090 OS=Mus musculus (Mouse). GN= PE=4 SV=1
+* Block 29 <=== 44	USER>>seq183	  294   [+8+] tr|C0SKV9|C0SKV9_CALMI Long wavelength sensitive opsin 1 OX=7868 OS=Callorhynchus milii (Elephant fish) (Australian ghost shark). GN= PE=2 SV=1
+* Block 30 <=== 34	USER>>seq122	  292   [+2+] tr|Q764P5|Q764P5_LAMJA Bistable UV pigment OX=980415 OS=Lampetra japonica (Japanese lamprey) (Entosphenus japonicus). GN= PE=2 SV=1
+* Block 31 <=== 35	USER>>seq99	  292   [+0+] tr|I3K3H2|I3K3H2_ORENI Uncharacterized protein OX=8128 OS=Oreochromis niloticus (Nile tilapia) (Tilapia nilotica). GN= PE=3 SV=1
+* Block 32 <=== 43	USER>>seq134	  292   [+0+] tr|G3N4M5|G3N4M5_GASAC Uncharacterized protein OX=69293 OS=Gasterosteus aculeatus (Threespined stickleback). GN= PE=3 SV=1
+* Block 33 <=== 30	USER>>seq77	  288   [+0+] tr|Q5SBP8|Q5SBP8_PLADU Ciliary opsin OX=6359 OS=Platynereis dumerilii (Dumeril's clam worm). GN= PE=2 SV=1
+* Block 34 <=== 18	USER>>seq59	  284   [+0+] tr|H0ZSK6|H0ZSK6_TAEGU Uncharacterized protein OX=59729 OS=Taeniopygia guttata (Zebra finch) (Poephila guttata). GN= PE=3 SV=1
+* Block 35 <=== 20	USER>>seq8	  275   [+0+] tr|H2M2R3|H2M2R3_ORYLA Uncharacterized protein OX=8090 OS=Oryzias latipes (Medaka fish) (Japanese ricefish). GN= PE=4 SV=1
+* Block 36 <=== 39	USER>>seq109	  293   [+0+] tr|G1NN79|G1NN79_MELGA Uncharacterized protein OX=9103 OS=Meleagris gallopavo (Common turkey). GN= PE=4 SV=1
+* Block 37 <=== 21	USER>>seq9	  272   [+0+] tr|H2L8K6|H2L8K6_ORYLA Uncharacterized protein OX=8090 OS=Oryzias latipes (Medaka fish) (Japanese ricefish). GN= PE=3 SV=1
+* Block 38 <=== 41	USER>>seq176	  257   [+0+] tr|H3CBM4|H3CBM4_TETNG Uncharacterized protein OX=99883 OS=nigroviridis). GN= PE=3 SV=1
+* Block 39 <=== 42	USER>>seq133	  288   [+0+] tr|E7CH08|E7CH08_9CRUS Opsin OX=870559 OS=Hemisquilla californiensis. GN= PE=2 SV=1
+* Block 40 <=== 28	USER>>seq45	  289   [+0+] tr|Q0PJ45|Q0PJ45_LITVA Rhodopsin OX=6689 OS=Litopenaeus vannamei (Whiteleg shrimp) (Penaeus vannamei). GN= PE=2 SV=1
+* Block 41 <=== 27	USER>>seq44	  289   [+0+] tr|B4PRN8|B4PRN8_DROYA GE24316 OX=7245 OS=Drosophila yakuba (Fruit fly). GN= PE=3 SV=1
+* Block 42 <=== 24	USER>>seq23	  249   [+0+] tr|A7STG4|A7STG4_NEMVE Predicted protein OX=45351 OS=Nematostella vectensis (Starlet sea anemone). GN=v1g131013 PE=4 SV=1
+* Block 43 <=== 23	USER>>seq47	  290   [+0+] tr|Q868G0|Q868G0_BRABE Opsin OX=7741 OS=Branchiostoma belcheri (Amphioxus). GN= PE=2 SV=1
+* Block 44 <=== 22	USER>>seq22	  265   [+0+] tr|F1NU85|F1NU85_CHICK Uncharacterized protein OX=9031 OS=Gallus gallus (Chicken). GN= PE=4 SV=1
+* Block 45 <=== 40	USER>>seq123	  278   [+0+] tr|G3T3L1|G3T3L1_LOXAF Uncharacterized protein OX=9785 OS=Loxodonta africana (African elephant). GN= PE=3 SV=1
+* Block 46 <=== 25	USER>>seq43	  289   [+0+] tr|H3HYD8|H3HYD8_STRPU Uncharacterized protein OX=7668 OS=Strongylocentrotus purpuratus (Purple sea urchin). GN= PE=4 SV=1
+* Block 47 <=== 26	USER>>seq56	  287   [+0+] tr|A9UMZ3|A9UMZ3_NEMVE Opsin OX=45351 OS=Nematostella vectensis (Starlet sea anemone). GN= PE=4 SV=1
+* Block 48 <=== 29	USER>>seq106	  286   [+0+] tr|A9UMY9|A9UMY9_NEMVE Opsin OX=45351 OS=Nematostella vectensis (Starlet sea anemone). GN= PE=4 SV=1
+* Block 49 <=== 74	USER>>seq280	  285   [+0+] tr|Q0QFY9|Q0QFY9_XENLA Mammalianlike melanopsin OX=8355 OS=Xenopus laevis (African clawed frog). GN= PE=2 SV=1
+* Block 50 <=== 75	USER>>seq279	  272   [+0+] tr|H2LLM3|H2LLM3_ORYLA Uncharacterized protein OX=8090 OS=Oryzias latipes (Medaka fish) (Japanese ricefish). GN= PE=3 SV=1
+* Block 51 <=== 76	USER>>seq283	  282   [+0+] tr|I1W5U5|I1W5U5_SALSA Melanopsin OX=8030 OS=Salmo salar (Atlantic salmon). GN= PE=2 SV=1
+* Block 52 <=== 95	USER>>seq269	  280   [+0+] tr|Q2YD70|Q2YD70_APIME Uncharacterized protein OX=7460 OS=Apis mellifera (Honeybee). GN= PE=2 SV=1
+* Block 53 <=== 94	USER>>seq267	  281   [+0+] tr|E2BR98|E2BR98_HARSA Greensensitive opsin OX=610380 OS=Harpegnathos saltator (Jerdon's jumping ant). GN=EAI_01400 PE=3 SV=1
+* Block 54 <=== 92	USER>>seq282	  277   [+1+] tr|H2SR75|H2SR75_TAKRU Uncharacterized protein OX=31033 OS=Takifugu rubripes (Japanese pufferfish) (Fugu rubripes). GN= PE=4 SV=1
+* Block 55 <=== 93	USER>>seq275	  289   [+0+] tr|G3Q956|G3Q956_GASAC Uncharacterized protein OX=69293 OS=Gasterosteus aculeatus (Threespined stickleback). GN= PE=4 SV=1
+* Block 56 <=== 67	USER>>seq207	  285   [+0+] tr|H2SFX1|H2SFX1_TAKRU Uncharacterized protein OX=31033 OS=Takifugu rubripes (Japanese pufferfish) (Fugu rubripes). GN= PE=3 SV=1
+* Block 57 <=== 83	USER>>seq278	  280   [+0+] tr|H3BXN0|H3BXN0_TETNG Uncharacterized protein OX=99883 OS=nigroviridis). GN= PE=3 SV=1
+* Block 58 <=== 84	USER>>seq271	  281   [+1+] tr|I3KSN8|I3KSN8_ORENI Uncharacterized protein OX=8128 OS=Oreochromis niloticus (Nile tilapia) (Tilapia nilotica). GN= PE=3 SV=1
+* Block 59 <=== 79	USER>>seq304	  275   [+0+] tr|G1QUB3|G1QUB3_NOMLE Uncharacterized protein OX=61853 OS=leucogenys). GN= PE=3 SV=1
+* Block 60 <=== 80	USER>>seq305	  281   [+5+] tr|E1C1F4|E1C1F4_CHICK Uncharacterized protein OX=9031 OS=Gallus gallus (Chicken). GN= PE=3 SV=1
+* Block 61 <=== 82	USER>>seq309	  281   [+3+] tr|H2L5E5|H2L5E5_ORYLA Uncharacterized protein OX=8090 OS=Oryzias latipes (Medaka fish) (Japanese ricefish). GN= PE=3 SV=1
+* Block 62 <=== 81	USER>>seq253	  281   [+0+] tr|H2TX80|H2TX80_TAKRU Uncharacterized protein OX=31033 OS=Takifugu rubripes (Japanese pufferfish) (Fugu rubripes). GN= PE=3 SV=1
+* Block 63 <=== 77	USER>>seq272	  266   [+0+] tr|F6T3T2|F6T3T2_XENTR Uncharacterized protein OX=8364 OS=Xenopus tropicalis (Western clawed frog) (Silurana tropicalis). GN= PE=4 SV=1
+* Block 64 <=== 78	USER>>seq296	  275   [+0+] tr|H2SBY1|H2SBY1_TAKRU Uncharacterized protein OX=31033 OS=Takifugu rubripes (Japanese pufferfish) (Fugu rubripes). GN= PE=4 SV=1
+* Block 65 <=== 55	USER>>seq149	  290   [+5+] tr|A8YXX6|A8YXX6_DANRE Vertebrate ancient long opsin b OX=7955 OS=Danio rerio (Zebrafish) (Brachydanio rerio). GN= PE=2 SV=1
+* Block 66 <=== 85	USER>>seq273	  287   [+0+] sp|O13018|OPSO_SALSA Vertebrate ancient opsin OX=8030 OS=Salmo salar (Atlantic salmon). GN= PE=1 SV=1
+* Block 67 <=== 69	USER>>seq226	  292   [+1+] tr|K7G4H6|K7G4H6_PELSI Uncharacterized protein OX=13735 OS=Pelodiscus sinensis (Chinese softshell turtle) (Trionyx sinensis). GN= PE=3 SV=1
+* Block 68 <=== 68	USER>>seq243	  294   [+5+] sp|P28684|OPSV_CHICK Violet cone photoreceptor pigment OX=9031 OS=Gallus gallus (Chicken). GN= PE=1 SV=1
+* Block 69 <=== 88	USER>>seq258	  294   [+9+] tr|B8XVN6|B8XVN6_9TELE SWS1 opsin OX=91658 OS=Stenobrachius leucopsarus (northern lampfish). GN= PE=3 SV=1
+* Block 70 <=== 54	USER>>seq158	  291   [+9+] tr|Q5NUF1|Q5NUF1_9PERO Ultraviolet opsin OX=163149 OS=Girella punctata (largescale blackfish). GN= PE=2 SV=1
+* Block 71 <=== 66	USER>>seq210	  294   [+12+] sp|P22330|OPSG1_ASTFA Green cone photoreceptor pigment 1 OX=223369 OS=Astyanax fasciatus (Blind cave fish) (Astyanax mexicanus). GN= PE=1 SV=1
+* Block 72 <=== 86	USER>>seq284	  294   [+1+] tr|D2IFR1|D2IFR1_9SMEG LWS P180 opsin OX=699901 OS=Jenynsia onca (onesided livebearer). GN= PE=2 SV=1
+* Block 73 <=== 65	USER>>seq190	  291   [+0+] tr|G3QNI8|G3QNI8_GORGO Uncharacterized protein OX=9595 OS=Gorilla gorilla gorilla (Lowland gorilla). GN= PE=3 SV=1
+* Block 74 <=== 64	USER>>seq194	  281   [+0+] tr|G7Q212|G7Q212_MACFA Putative uncharacterized protein OX=9541 OS=Macaca fascicularis (Crabeating macaque) (Cynomolgus monkey). GN=EGM_19343 PE=3 SV=1
+* Block 75 <=== 87	USER>>seq260	  294   [+0+] tr|H2MG93|H2MG93_ORYLA Uncharacterized protein OX=8090 OS=Oryzias latipes (Medaka fish) (Japanese ricefish). GN= PE=3 SV=1
+* Block 76 <=== 73	USER>>seq192	  294   [+1+] tr|A4ZIS9|A4ZIS9_ORNAN Shortwavesensitive 2 opsin OX=9258 OS=Ornithorhynchus anatinus (Duckbill platypus). GN= PE=2 SV=1
+* Block 77 <=== 72	USER>>seq229	  294   [+3+] tr|Q6J5J9|Q6J5J9_TAKRU Uncharacterized protein OX=31033 OS=Takifugu rubripes (Japanese pufferfish) (Fugu rubripes). GN= PE=3 SV=1
+* Block 78 <=== 53	USER>>seq130	  294   [+0+] tr|J7EUX1|J7EUX1_9LABR SWS2B opsin OX=229068 OS=Amphiprion akindynos (barrier reef anemonefish). GN= PE=2 SV=1
+* Block 79 <=== 52	USER>>seq157	  290   [+3+] tr|D2IV76|D2IV76_9TELE RH2D opsin OX=91658 OS=Stenobrachius leucopsarus (northern lampfish). GN= PE=3 SV=1
+* Block 80 <=== 89	USER>>seq250	  294   [+3+] tr|J7EUY1|J7EUY1_9LABR RH2B opsin OX=161912 OS=Parma oligolepis (bigscale parma). GN= PE=2 SV=1
+* Block 81 <=== 71	USER>>seq236	  294   [+8+] sp|Q9W6A5|OPSG1_DANRE Opsin1, mediumwavesensitive 1 OX=7955 OS=Danio rerio (Zebrafish) (Brachydanio rerio). GN= PE=1 SV=1
+* Block 82 <=== 70	USER>>seq214	  294   [+22+] tr|Q8AV67|Q8AV67_DANRE Rod opsin OX=7955 OS=Danio rerio (Zebrafish) (Brachydanio rerio). GN= PE=2 SV=1
+* Block 83 <=== 91	USER>>seq274	  290   [+1+] tr|F2Z240|F2Z240_9SMEG Rhodopsin OX=673786 OS=Elassoma gilberti. GN= PE=3 SV=1
+* Block 84 <=== 51	USER>>seq138	  287   [+0+] tr|G9HXK7|G9HXK7_9TELE Rod opsin OX=1126214 OS=Bathysaurus mollis. GN= PE=3 SV=1
+* Block 85 <=== 90	USER>>seq290	  278   [+3+] tr|G9HXJ4|G9HXJ4_9TELE Rod opsin OX=123251 OS=Ceratoscopelus warmingii. GN= PE=3 SV=1
+* Block 86 <=== 50	USER>>seq172	  272   [+0+] tr|K7PFN1|K7PFN1_9TELE Rhodopsin OX=1069390 OS=Benthosema pterotum (skinnycheek lanternfish). GN= PE=3 SV=1
+* Block 87 <=== 56	USER>>seq162	  268   [+0+] tr|H0VQ44|H0VQ44_CAVPO Uncharacterized protein OX=10141 OS=Cavia porcellus (Guinea pig). GN= PE=3 SV=1
+* Block 88 <=== 57	USER>>seq163	  256   [+0+] tr|G5BT72|G5BT72_HETGA Growth hormone secretagogue receptor type 1 OX=10181 OS=Heterocephalus glaber (Naked mole rat). GN=GW7_13956 PE=3 SV=1
+* Block 89 <=== 58	USER>>seq170	  230   [+0+] tr|K7F2D9|K7F2D9_PELSI Uncharacterized protein OX=13735 OS=Pelodiscus sinensis (Chinese softshell turtle) (Trionyx sinensis). GN= PE=3 SV=1
+* Block 90 <=== 59	USER>>seq164	  235   [+0+] tr|G3VX43|G3VX43_SARHA Uncharacterized protein OX=9305 OS=Sarcophilus harrisii (Tasmanian devil) (Sarcophilus laniarius). GN= PE=3 SV=1
+* Block 91 <=== 60	USER>>seq169	  251   [+0+] tr|H0ZCS0|H0ZCS0_TAEGU Uncharacterized protein OX=59729 OS=Taeniopygia guttata (Zebra finch) (Poephila guttata). GN= PE=3 SV=1
+* Block 92 <--- 61	USER>>seq165	  256   [+0+] tr|C3Y9H9|C3Y9H9_BRAFL Putative uncharacterized protein OX=7739 OS=Branchiostoma floridae (Florida lancelet) (Amphioxus). GN=BRAFLDRAFT_104489 PE=4 SV=1
+* Block 93 <--- 62	USER>>seq171	  264   [+0+] tr|C3ZZL5|C3ZZL5_BRAFL Putative uncharacterized protein OX=7739 OS=Branchiostoma floridae (Florida lancelet) (Amphioxus). GN=BRAFLDRAFT_138984 PE=3 SV=1
+* Block 94 <=== 97	USER>>seq264	  286   [+0+] tr|A7RSP6|A7RSP6_NEMVE Predicted protein OX=45351 OS=Nematostella vectensis (Starlet sea anemone). GN=v1g201540 PE=3 SV=1
+* Block 95 <=== 63	USER>>seq180	  284   [+0+] tr|A7RYQ3|A7RYQ3_NEMVE Predicted protein OX=45351 OS=Nematostella vectensis (Starlet sea anemone). GN=v1g204107 PE=3 SV=1
+* Block 96 <=== 98	USER>>seq256	  286   [+1+] tr|A7SAY7|A7SAY7_NEMVE Predicted protein OX=45351 OS=Nematostella vectensis (Starlet sea anemone). GN=v1g209464 PE=3 SV=1
+* Block 97 <--- 96	USER>>seq292	  274   [+0+] tr|A7RVG9|A7RVG9_NEMVE Predicted protein OX=45351 OS=Nematostella vectensis (Starlet sea anemone). GN=v1g202741 PE=4 SV=1
+* Block 98 <=== 143	USER>>seq427	  277   [+0+] tr|G3NKT6|G3NKT6_GASAC Uncharacterized protein OX=69293 OS=Gasterosteus aculeatus (Threespined stickleback). GN= PE=3 SV=1
+* Block 99 <=== 144	USER>>seq419	  284   [+1+] tr|E5RWR7|E5RWR7_CARAU Neuromedin U receptor 2 OX=7957 OS=Carassius auratus (Goldfish). GN= PE=2 SV=1
+* Block 100 <=== 145	USER>>seq424	  280   [+0+] tr|F6YAW5|F6YAW5_ORNAN Uncharacterized protein OX=9258 OS=Ornithorhynchus anatinus (Duckbill platypus). GN= PE=3 SV=1
+* Block 101 <=== 146	USER>>seq422	  276   [+0+] tr|Q4S7B6|Q4S7B6_TETNG Chromosome 1 SCAF14716, whole genome shotgun >sequence. OX=99883 OS=nigroviridis). GN=GSTENG00022869001 PE=3 SV=1
+* Block 102 <=== 140	USER>>seq432	  270   [+0+] tr|Q6DCG0|Q6DCG0_XENLA LOC779024 protein OX=8355 OS=Xenopus laevis (African clawed frog). GN= PE=2 SV=1
+* Block 103 <=== 147	USER>>seq418	  275   [+0+] tr|H2TP76|H2TP76_TAKRU Uncharacterized protein OX=31033 OS=Takifugu rubripes (Japanese pufferfish) (Fugu rubripes). GN= PE=3 SV=1
+* Block 104 <=== 137	USER>>seq323	  225   [+0+] tr|J7HGU3|J7HGU3_9CICH Short wavelength sensitive type 2b opsin OX=1224741 OS=Crenicichla frenata. GN= PE=2 SV=1
+* Block 105 <=== 136	USER>>seq326	  242   [+0+] tr|Q9PUZ7|Q9PUZ7_9TELE Rhodopsin OX=27725 OS=Osteoglossum sp. GN= PE=3 SV=1
+* Block 106 <=== 135	USER>>seq321	  293   [+3+] tr|B4YA22|B4YA22_9TELE Rhodopsin OX=91658 OS=Stenobrachius leucopsarus (northern lampfish). GN= PE=3 SV=1
+* Block 107 <=== 134	USER>>seq316	  291   [+1+] tr|Q9IBH2|Q9IBH2_9SAUR Pinopsin OX=357335 OS=Phelsuma sundbergi longinsulae. GN= PE=2 SV=1
+* Block 108 <=== 133	USER>>seq325	  242   [+0+] tr|D7RP26|D7RP26_HALDH Red opsin OX=42344 OS=Haliotis discus hannai (Japanese abalone). GN= PE=2 SV=1
+* Block 109 <=== 132	USER>>seq314	  291   [+0+] tr|H2U5T1|H2U5T1_TAKRU Uncharacterized protein OX=31033 OS=Takifugu rubripes (Japanese pufferfish) (Fugu rubripes). GN= PE=4 SV=1
+* Block 110 <=== 131	USER>>seq318	  287   [+0+] tr|E6P6L8|E6P6L8_DANRE Opsin 5 OX=7955 OS=Danio rerio (Zebrafish) (Brachydanio rerio). GN= PE=2 SV=1
+* Block 111 <=== 141	USER>>seq405	  268   [+0+] tr|L0ATA4|L0ATA4_ACRPL Acropsin 1 OX=6131 OS=Acropora palmata (Elkhorn coral). GN= PE=2 SV=1
+* Block 112 <=== 108	USER>>seq311	  278   [+0+] tr|F6YZX3|F6YZX3_XENTR Uncharacterized protein OX=8364 OS=Xenopus tropicalis (Western clawed frog) (Silurana tropicalis). GN= PE=3 SV=1
+* Block 113 <=== 109	USER>>seq315	  281   [+0+] tr|G1KBW7|G1KBW7_ANOCA Uncharacterized protein OX=28377 OS=Anolis carolinensis (Green anole) (American chameleon). GN= PE=3 SV=1
+* Block 114 <=== 110	USER>>seq312	  291   [+0+] tr|G3QAZ6|G3QAZ6_GASAC Uncharacterized protein OX=69293 OS=Gasterosteus aculeatus (Threespined stickleback). GN= PE=3 SV=1
+* Block 115 <=== 112	USER>>seq327	  289   [+0+] tr|Q8T359|Q8T359_PLADU Rhabdomeric opsin OX=6359 OS=Platynereis dumerilii (Dumeril's clam worm). GN= PE=2 SV=1
+* Block 116 <=== 111	USER>>seq359	  288   [+0+] tr|K9MBC8|K9MBC8_CALMI Melanopsin photopigment opn4xshort OX=7868 OS=Callorhynchus milii (Elephant fish) (Australian ghost shark). GN= PE=2 SV=1
+* Block 117 <=== 142	USER>>seq415	  233   [+0+] tr|C4MF31|C4MF31_9TELE Melanopsin OX=76798 OS=Coryphaenoides armatus. GN= PE=2 SV=1
+* Block 118 <=== 99	USER>>seq270	  281   [+0+] tr|C3ZLR1|C3ZLR1_BRAFL Putative uncharacterized protein OX=7739 OS=Branchiostoma floridae (Florida lancelet) (Amphioxus). GN=BRAFLDRAFT_86195 PE=4 SV=1
+* Block 119 <=== 129	USER>>seq322	  238   [+0+] tr|K1P324|K1P324_CRAGI Rhodopsin, GQcoupled OX=29159 OS=Crassostrea gigas (Pacific oyster) (Crassostrea angulata). GN= PE=3 SV=1
+* Block 120 <=== 130	USER>>seq329	  290   [+0+] tr|Q9NJC9|Q9NJC9_SCHMA RHO Gprotein coupled receptor OX=6183 OS=Schistosoma mansoni (Blood fluke). GN= PE=2 SV=1
+* Block 121 <=== 128	USER>>seq353	  288   [+1+] tr|B1B1V0|B1B1V0_9ARAC Kumopsin3 OX=243411 OS=Plexippus paykulli. GN= PE=2 SV=1
+* Block 122 <=== 124	USER>>seq363	  287   [+0+] tr|J9JQI5|J9JQI5_ACYPI Uncharacterized protein OX=7029 OS=Acyrthosiphon pisum (Pea aphid). GN= PE=3 SV=1
+* Block 123 <=== 123	USER>>seq370	  288   [+1+] tr|E2B887|E2B887_HARSA Opsin, ultravioletsensitive OX=610380 OS=Harpegnathos saltator (Jerdon's jumping ant). GN=EAI_03599 PE=3 SV=1
+* Block 124 <=== 125	USER>>seq338	  288   [+0+] tr|K7ZRY8|K7ZRY8_EURHC UVsensitive opsin OX=76203 OS=Eurema hecabe (Common grass yellow butterfly) (Papilio hecabe). GN= PE=2 SV=1
+* Block 125 <=== 126	USER>>seq356	  288   [+0+] tr|E9GYM4|E9GYM4_DAPPU Blue wavelength opsin OX=6669 OS=Daphnia pulex (Water flea). GN= PE=3 SV=1
+* Block 126 <=== 139	USER>>seq373	  287   [+0+] tr|E2B1M8|E2B1M8_CAMFO Opsin, bluesensitive OX=104421 OS=Camponotus floridanus (Florida carpenter ant). GN=EAG_02096 PE=4 SV=1
+* Block 127 <=== 127	USER>>seq336	  288   [+0+] tr|Q00LM4|Q00LM4_SATBE Bluesensitive rhodopsin OX=374599 OS=Satyrium behrii (Behr's hairstreak) (Thecla behrii). GN= PE=2 SV=1
+* Block 128 <=== 100	USER>>seq286	  257   [+0+] tr|K7ZK36|K7ZK36_9NEOP Bsensitive opsin OX=320267 OS=Catopsilia pomona (lemon migrant). GN= PE=2 SV=1
+* Block 129 <=== 101	USER>>seq293	  245   [+0+] tr|E3X5F2|E3X5F2_ANODA Uncharacterized protein OX=43151 OS=Anopheles darlingi (Mosquito). GN=AND_14128 PE=3 SV=1
+* Block 130 <=== 102	USER>>seq277	  264   [+0+] tr|E0W2R9|E0W2R9_PEDHC Class A rhodopsinlike Gprotein coupled receptor GPRop3, putative OX=121224 OS=Pediculus humanus subsp. corporis (Body louse). GN=Phum_PHUM596710 PE=3 SV=1
+* Block 131 <=== 122	USER>>seq352	  290   [+1+] tr|G0Z099|G0Z099_CHAJP Opsin protein OX=80839 OS=Charybdis japonica (Asian swimming crab). GN= PE=2 SV=1
+* Block 132 <=== 121	USER>>seq345	  290   [+0+] tr|E9GW94|E9GW94_DAPPU Putative uncharacterized protein LOPA4 OX=6669 OS=Daphnia pulex (Water flea). GN= PE=3 SV=1
+* Block 133 <=== 120	USER>>seq349	  290   [+1+] tr|B6EUW9|B6EUW9_9CRUS Opsin OX=381660 OS=Branchinella kugenumaensis. GN= PE=2 SV=1
+* Block 134 <=== 119	USER>>seq360	  289   [+3+] tr|D3TQV6|D3TQV6_GLOMM G proteincoupled receptor OX=37546 OS=Glossina morsitans morsitans (Savannah tsetse fly). GN= PE=2 SV=1
+* Block 135 <=== 118	USER>>seq361	  288   [+1+] tr|B0WAG3|B0WAG3_CULQU Opsin1 OX=7176 OS=Culex quinquefasciatus (Southern house mosquito) (Culex pungens). GN=CpipJ_CPIJ004067 PE=3 SV=1
+* Block 136 <=== 117	USER>>seq371	  275   [+0+] tr|B0X1G2|B0X1G2_CULQU Rhodopsin OX=7176 OS=Culex quinquefasciatus (Southern house mosquito) (Culex pungens). GN=CpipJ_CPIJ013056 PE=3 SV=1
+* Block 137 <=== 115	USER>>seq367	  289   [+3+] tr|Q7Z0Z5|Q7Z0Z5_CULPI Deltamethrin resistanceassociated NYDOP5 protein OX=42434 OS=Culex pipiens pallens. GN= PE=2 SV=1
+* Block 138 <=== 103	USER>>seq297	  252   [+0+] tr|E2C455|E2C455_HARSA Rhodopsin OX=610380 OS=Harpegnathos saltator (Jerdon's jumping ant). GN=EAI_12977 PE=3 SV=1
+* Block 139 <=== 114	USER>>seq341	  289   [+14+] tr|A8DQZ2|A8DQZ2_EUPCL Long wavelengthsensitive opsin OX=104504 OS=Euphydryas chalcedona (Variable checkerspot). GN= PE=2 SV=1
+* Block 140 <=== 104	USER>>seq299	  227   [+0+] tr|Q8T656|Q8T656_9NEOP LW opsin OX=110368 OS=Bicyclus anynana (squinting bush brown). GN= PE=2 SV=1
+* Block 141 <=== 116	USER>>seq358	  289   [+0+] tr|F4WTF3|F4WTF3_ACREC Rhodopsin OX=103372 OS=octospinosus echinatior). GN=G5I_09111 PE=3 SV=1
+* Block 142 <=== 113	USER>>seq337	  289   [+2+] tr|L0RH83|L0RH83_CUPSA Rhodopsin 1 OX=6928 OS=Cupiennius salei (Wandering spider). GN= PE=2 SV=1
+* Block 143 <=== 105	USER>>seq281	  282   [+0+] tr|H2MI54|H2MI54_ORYLA Uncharacterized protein OX=8090 OS=Oryzias latipes (Medaka fish) (Japanese ricefish). GN= PE=4 SV=1
+* Block 144 <=== 106	USER>>seq285	  272   [+0+] tr|A7RJA1|A7RJA1_NEMVE Predicted protein OX=45351 OS=Nematostella vectensis (Starlet sea anemone). GN=v1g178677 PE=4 SV=1
+* Block 145 <--- 107	USER>>seq287	  283   [+0+] tr|E9FSL5|E9FSL5_DAPPU Putative sNPF receptor OX=6669 OS=Daphnia pulex (Water flea). GN=DAPPUDRAFT_23465 PE=3 SV=1
+* Block 146 <--- 138	USER>>seq324	  235   [+0+] tr|A9CR63|A9CR63_9CNID Opsin OX=264074 OS=Cladonema radiatum. GN= PE=3 SV=1
+* Block 147 <=== 180	USER>>seq449	  274   [+0+] tr|H3BGN9|H3BGN9_LATCH Uncharacterized protein OX=7897 OS=Latimeria chalumnae (West Indian ocean coelacanth). GN= PE=3 SV=1
+* Block 148 <=== 181	USER>>seq482	  272   [+1+] tr|H2RIR2|H2RIR2_TAKRU Uncharacterized protein OX=31033 OS=Takifugu rubripes (Japanese pufferfish) (Fugu rubripes). GN= PE=3 SV=1
+* Block 149 <=== 179	USER>>seq442	  274   [+0+] tr|F6S282|F6S282_XENTR Uncharacterized protein OX=8364 OS=Xenopus tropicalis (Western clawed frog) (Silurana tropicalis). GN= PE=3 SV=1
+* Block 150 <=== 178	USER>>seq439	  265   [+0+] tr|H3J7G1|H3J7G1_STRPU Uncharacterized protein OX=7668 OS=Strongylocentrotus purpuratus (Purple sea urchin). GN= PE=3 SV=1
+* Block 151 <=== 182	USER>>seq478	  271   [+0+] tr|H3A6J9|H3A6J9_LATCH Uncharacterized protein OX=7897 OS=Latimeria chalumnae (West Indian ocean coelacanth). GN= PE=4 SV=1
+* Block 152 <=== 183	USER>>seq446	  271   [+2+] tr|K4PYS5|K4PYS5_SPHLE Melaninconcentrating hormone receptor 1 OX=7823 OS=Sphyrna lewini (Scalloped hammerhead shark) (Zygaena lewini). GN= PE=2 SV=1
+* Block 153 <=== 177	USER>>seq438	  276   [+9+] tr|B3DH72|B3DH72_DANRE Uncharacterized protein OX=7955 OS=Danio rerio (Zebrafish) (Brachydanio rerio). GN= PE=2 SV=1
+* Block 154 <=== 176	USER>>seq443	  275   [+1+] tr|G1L5H3|G1L5H3_AILME Uncharacterized protein OX=9646 OS=Ailuropoda melanoleuca (Giant panda). GN= PE=3 SV=1
+* Block 155 <=== 184	USER>>seq473	  268   [+0+] tr|F1NJY4|F1NJY4_CHICK Uncharacterized protein OX=9031 OS=Gallus gallus (Chicken). GN= PE=3 SV=1
+* Block 156 <=== 152	USER>>seq400	  265   [+0+] tr|L0AUA8|L0AUA8_ACRPL Acropsin 2 OX=6131 OS=Acropora palmata (Elkhorn coral). GN= PE=2 SV=1
+* Block 157 <=== 148	USER>>seq417	  278   [+0+] tr|K1RVG3|K1RVG3_CRAGI Neuropeptide FF receptor 2 OX=29159 OS=Crassostrea gigas (Pacific oyster) (Crassostrea angulata). GN= PE=3 SV=1
+* Block 158 <=== 194	USER>>seq469	  256   [+0+] tr|F1S112|F1S112_PIG Uncharacterized protein OX=9823 OS=Sus scrofa (Pig). GN= PE=3 SV=1
+* Block 159 <=== 170	USER>>seq393	  272   [+0+] tr|F1R0P5|F1R0P5_DANRE Uncharacterized protein OX=7955 OS=Danio rerio (Zebrafish) (Brachydanio rerio). GN= PE=4 SV=1
+* Block 160 <=== 185	USER>>seq494	  282   [+1+] tr|G1KWC5|G1KWC5_ANOCA Uncharacterized protein OX=28377 OS=Anolis carolinensis (Green anole) (American chameleon). GN= PE=4 SV=1
+* Block 161 <=== 186	USER>>seq499	  279   [+0+] tr|E1CFG1|E1CFG1_9ARAC Peropsin OX=243517 OS=Hasarius adansoni. GN= PE=2 SV=1
+* Block 162 <=== 175	USER>>seq433	  271   [+1+] sp|P47751|BRS4_BOMOR Bombesin receptor subtype4 OX=8346 OS=Bombina orientalis (Oriental firebellied toad). GN= PE=2 SV=1
+* Block 163 <=== 149	USER>>seq423	  285   [+0+] tr|H9F995|H9F995_MACMU Opsin3 OX=9544 OS=Macaca mulatta (Rhesus macaque). GN= PE=2 SV=1
+* Block 164 <=== 150	USER>>seq406	  283   [+0+] tr|G3NP49|G3NP49_GASAC Uncharacterized protein OX=69293 OS=Gasterosteus aculeatus (Threespined stickleback). GN= PE=3 SV=1
+* Block 165 <=== 151	USER>>seq420	  287   [+2+] tr|E7F8D2|E7F8D2_DANRE Uncharacterized protein OX=7955 OS=Danio rerio (Zebrafish) (Brachydanio rerio). GN= PE=3 SV=1
+* Block 166 <=== 193	USER>>seq488	  279   [+0+] tr|H3DHG5|H3DHG5_TETNG Uncharacterized protein OX=99883 OS=nigroviridis). GN= PE=3 SV=1
+* Block 167 <=== 169	USER>>seq407	  268   [+0+] tr|A9UMX1|A9UMX1_NEMVE Opsin OX=45351 OS=Nematostella vectensis (Starlet sea anemone). GN= PE=4 SV=1
+* Block 168 <=== 168	USER>>seq392	  274   [+0+] tr|A7RL78|A7RL78_NEMVE Predicted protein OX=45351 OS=Nematostella vectensis (Starlet sea anemone). GN=v1g85309 PE=3 SV=1
+* Block 169 <=== 187	USER>>seq497	  280   [+1+] tr|Q1L0I6|Q1L0I6_XENTR Parietopsin OX=8364 OS=Xenopus tropicalis (Western clawed frog) (Silurana tropicalis). GN= PE=2 SV=1
+* Block 170 <=== 153	USER>>seq410	  294   [+1+] tr|H2YBN7|H2YBN7_CIOSA Uncharacterized protein OX=51511 OS=Ciona savignyi (Pacific transparent sea squirt). GN= PE=3 SV=1
+* Block 171 <=== 154	USER>>seq412	  293   [+0+] tr|H2Z431|H2Z431_CIOSA Uncharacterized protein OX=51511 OS=Ciona savignyi (Pacific transparent sea squirt). GN= PE=3 SV=1
+* Block 172 <=== 157	USER>>seq394	  270   [+0+] tr|D3J7J3|D3J7J3_9CHIR Middle/longwavelength sensitive opsin OX=188571 OS=Rhinolophus pearsonii. GN= PE=2 SV=1
+* Block 173 <=== 158	USER>>seq408	  270   [+0+] tr|J9ZZN2|J9ZZN2_9CHON Longwavelengthsensitive opsin OX=168098 OS=Orectolobus maculatus (spotted wobbegong). GN= PE=2 SV=1
+* Block 174 <=== 155	USER>>seq413	  228   [+0+] tr|A7M6L0|A7M6L0_CHICK Vertebrate ancient opsin like OX=9031 OS=Gallus gallus (Chicken). GN= PE=2 SV=1
+* Block 175 <=== 156	USER>>seq397	  289   [+4+] tr|H2TKZ8|H2TKZ8_TAKRU Uncharacterized protein OX=31033 OS=Takifugu rubripes (Japanese pufferfish) (Fugu rubripes). GN= PE=3 SV=1
+* Block 176 <=== 188	USER>>seq500	  280   [+0+] tr|H2LBH4|H2LBH4_ORYLA Uncharacterized protein OX=8090 OS=Oryzias latipes (Medaka fish) (Japanese ricefish). GN= PE=4 SV=1
+* Block 177 <=== 189	USER>>seq496	  280   [+2+] sp|O42266|OPSP_ICTPU Parapinopsin OX=7998 OS=Ictalurus punctatus (Channel catfish). GN= PE=2 SV=1
+* Block 178 <=== 159	USER>>seq426	  291   [+0+] tr|H2SUB8|H2SUB8_TAKRU Uncharacterized protein OX=31033 OS=Takifugu rubripes (Japanese pufferfish) (Fugu rubripes). GN= PE=3 SV=1
+* Block 179 <=== 190	USER>>seq483	  281   [+0+] tr|H0ZAJ8|H0ZAJ8_TAEGU Uncharacterized protein OX=59729 OS=Taeniopygia guttata (Zebra finch) (Poephila guttata). GN= PE=3 SV=1
+* Block 180 <=== 160	USER>>seq403	  292   [+0+] sp|P51475|OPSP_CHICK Pineal glandspecific opsin OX=9031 OS=Gallus gallus (Chicken). GN= PE=1 SV=1
+* Block 181 <=== 161	USER>>seq402	  294   [+1+] tr|D7F0E9|D7F0E9_PSEPR Bluesensitive cone opsin OX=51549 OS=Pseudorasbora parva. GN= PE=2 SV=1
+* Block 182 <=== 165	USER>>seq385	  291   [+13+] sp|P41590|OPSD_ASTFA Rhodopsin OX=223369 OS=Astyanax fasciatus (Blind cave fish) (Astyanax mexicanus). GN= PE=1 SV=1
+* Block 183 <=== 166	USER>>seq404	  294   [+0+] tr|D2IV75|D2IV75_9TELE RH2B opsin OX=91658 OS=Stenobrachius leucopsarus (northern lampfish). GN= PE=3 SV=1
+* Block 184 <=== 191	USER>>seq484	  283   [+2+] tr|C6ERF0|C6ERF0_9TELE Greensensitive pigment Rh2A OX=239087 OS=Opsariichthys pachycephalus (thickhead chub). GN= PE=2 SV=1
+* Block 185 <=== 164	USER>>seq411	  288   [+0+] tr|C0SKW2|C0SKW2_CALMI Medium wavelength sensitive opsin OX=7868 OS=Callorhynchus milii (Elephant fish) (Australian ghost shark). GN= PE=2 SV=1
+* Block 186 <=== 163	USER>>seq425	  289   [+0+] tr|Q9I960|Q9I960_LITCT Cone pigment OX=8400 OS=Lithobates catesbeiana (American bullfrog) (Rana catesbeiana). GN= PE=2 SV=1
+* Block 187 <=== 162	USER>>seq389	  290   [+1+] tr|D5H3X0|D5H3X0_RANTA Blue opsin OX=86329 OS=Rangifer tarandus tarandus. GN= PE=2 SV=1
+* Block 188 <=== 192	USER>>seq495	  283   [+2+] tr|A8RKB0|A8RKB0_NEOFS SWS1 opsin OX=7892 OS=Neoceratodus forsteri (Australian lungfish) (Ceratodus forsteri). GN= PE=2 SV=1
+* Block 189 <--- 167	USER>>seq390	  277   [+1+] tr|C7DTP6|C7DTP6_9CRUS Opsin OX=85128 OS=Neogonodactylus oerstedii. GN= PE=2 SV=1
+* Block 190 <--- 171	USER>>seq414	  252   [+0+] tr|H2THH8|H2THH8_TAKRU Uncharacterized protein OX=31033 OS=Takifugu rubripes (Japanese pufferfish) (Fugu rubripes). GN= PE=4 SV=1
+* Block 191 <--- 172	USER>>seq416	  227   [+0+] tr|A7RXE1|A7RXE1_NEMVE Predicted protein OX=45351 OS=Nematostella vectensis (Starlet sea anemone). GN=v1g96957 PE=4 SV=1
+* Block 192 <=== 174	USER>>seq434	  270   [+0+] tr|D6W722|D6W722_TRICA Putative uncharacterized protein OX=7070 OS=Tribolium castaneum (Red flour beetle). GN=TcasGA2_TC014211 PE=3 SV=1
+* Block 193 <=== 173	USER>>seq430	  268   [+0+] tr|L7M1W7|L7M1W7_9ACAR Putative g proteincoupled receptor OX=72859 OS=Rhipicephalus pulchellus. GN= PE=2 SV=1
+* Block 194 <=== 198	USER>>seq457	  264   [+0+] tr|B7Q4D1|B7Q4D1_IXOSC G proteincoupled receptor, putative OX=6945 OS=Ixodes scapularis (Blacklegged tick) (Deer tick). GN=IscW_ISCW020998 PE=4 SV=1
+* Block 195 <=== 195	USER>>seq472	  271   [+12+] tr|H2SE17|H2SE17_TAKRU Uncharacterized protein OX=31033 OS=Takifugu rubripes (Japanese pufferfish) (Fugu rubripes). GN= PE=3 SV=1
+* Block 196 <=== 196	USER>>seq459	  271   [+10+] tr|I3MCE3|I3MCE3_SPETR Uncharacterized protein OX=43179 OS=(Ictidomys tridecemlineatus). GN= PE=3 SV=1
+* Block 197 <=== 197	USER>>seq498	  259   [+0+] tr|F6T556|F6T556_ORNAN Uncharacterized protein OX=9258 OS=Ornithorhynchus anatinus (Duckbill platypus). GN= PE=3 SV=1
+
+('*' = keyed block)
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 5
+ gap_pen = 20 span = 6 window = 8
+ minscore = 880 pepscore = 0 list_limit = 8
+ circles = 0 output = 999 outline = 80
+score_pairs 
+
+average score over cutoff = 960
+
+(60 pairs) cluster_pairs total list_alloc = 40
+pack_lists 
+update_blocks
+      USER>>seq27
+975
+      USER>>seq33
+362
+      USER>>seq166
+1026
+      USER>>seq17
+374
+      USER>>seq7
+1042
+      USER>>seq31
+1073
+      USER>>seq11
+1078
+      USER>>seq173
+
+
+      USER>>seq38
+1058
+      USER>>seq39
+
+
+      USER>>seq157
+985
+      USER>>seq250
+993
+      USER>>seq236
+826
+      USER>>seq138
+987
+      USER>>seq214
+1038
+      USER>>seq274
+
+
+      USER>>seq99
+1030
+      USER>>seq134
+
+
+      USER>>seq258
+1027
+      USER>>seq158
+
+
+      USER>>seq290
+1019
+      USER>>seq172
+
+
+      USER>>seq210
+1011
+      USER>>seq284
+884
+      USER>>seq190
+
+
+      USER>>seq389
+1006
+      USER>>seq495
+965
+      USER>>seq425
+
+
+      USER>>seq85
+925
+      USER>>seq67
+958
+      USER>>seq2
+992
+      USER>>seq132
+
+
+      USER>>seq62
+984
+      USER>>seq107
+
+
+      USER>>seq3
+971
+      USER>>seq183
+
+
+      USER>>seq305
+940
+      USER>>seq309
+962
+      USER>>seq253
+
+
+      USER>>seq260
+889
+      USER>>seq229
+962
+      USER>>seq130
+906
+      USER>>seq192
+
+
+      USER>>seq55
+913
+      USER>>seq52
+901
+      USER>>seq92
+957
+      USER>>seq96
+
+
+      USER>>seq133
+955
+      USER>>seq45
+
+
+      USER>>seq430
+922
+      USER>>seq457
+
+
+      USER>>seq358
+896
+      USER>>seq361
+899
+      USER>>seq367
+904
+      USER>>seq341
+
+
+      USER>>seq363
+894
+      USER>>seq370
+900
+      USER>>seq338
+
+
+      USER>>seq427
+895
+      USER>>seq419
+
+
+      USER>>seq472
+894
+      USER>>seq459
+
+
+      USER>>seq478
+886
+      USER>>seq446
+
+
+155 groups ( 21 aligned )
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 5
+ gap_pen = 20 span = 8 window = 12
+ minscore = 840 pepscore = 0 list_limit = 4
+ circles = 0 output = 999 outline = 80
+score_pairs 
+
+average score over cutoff = 899
+
+(20 pairs) cluster_pairs total list_alloc = 20
+pack_lists 
+update_blocks
+     -- USER>>seq483
+1036
+     -- USER>>seq403
+
+
+     -- USER>>seq279
+1010
+     -- USER>>seq283
+
+
+     p- USER>>seq38
+     b- USER>>seq39
+1001
+     -- USER>>seq35
+
+
+     -- USER>>seq149
+985
+     -- USER>>seq273
+
+
+     -- USER>>seq162
+978
+     -- USER>>seq163
+
+
+     -- USER>>seq404
+968
+     -- USER>>seq484
+875
+     -- USER>>seq411
+847
+     -- USER>>seq385
+
+
+     -- USER>>seq500
+840
+     -- USER>>seq496
+915
+     -- USER>>seq426
+
+
+     -- USER>>seq122
+865
+     p- USER>>seq99
+     b- USER>>seq134
+
+
+     -- USER>>seq243
+856
+     p- USER>>seq258
+     b- USER>>seq158
+
+
+     -- USER>>seq449
+850
+     -- USER>>seq482
+855
+     -- USER>>seq442
+
+
+     -- USER>>seq373
+849
+     -- USER>>seq336
+
+
+     -- USER>>seq438
+844
+     -- USER>>seq443
+
+
+     -- USER>>seq269
+843
+     -- USER>>seq267
+
+
+138 groups ( 31 aligned )
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 5
+ gap_pen = 20 span = 10 window = 16
+ minscore = 800 pepscore = 0 list_limit = 2
+ circles = 0 output = 999 outline = 80
+score_pairs 
+
+average score over cutoff = 835
+
+(14 pairs) cluster_pairs total list_alloc = 20
+pack_lists 
+update_blocks
+     ---- USER>>seq282
+925
+     ---- USER>>seq275
+
+
+     ..p- USER>>seq210
+     ..b- USER>>seq284
+     ..b- USER>>seq190
+875
+     ---- USER>>seq194
+
+
+     ..p- USER>>seq472
+     ..b- USER>>seq459
+865
+     ---- USER>>seq498
+
+
+     ---- USER>>seq371
+864
+     ..p- USER>>seq358
+     ..b- USER>>seq361
+     ..b- USER>>seq367
+     ..b- USER>>seq341
+
+
+     ---- USER>>seq352
+834
+     ---- USER>>seq345
+
+
+     ---- USER>>seq41
+830
+     ---- USER>>seq175
+
+
+     ---- USER>>seq278
+823
+     ---- USER>>seq271
+
+
+     ..p- USER>>seq133
+     ..b- USER>>seq45
+823
+     ---- USER>>seq44
+
+
+     ---- USER>>seq420
+818
+     ---- USER>>seq488
+
+
+     ---- USER>>seq311
+815
+     ---- USER>>seq315
+
+
+     ---- USER>>seq410
+809
+     ---- USER>>seq412
+
+
+     ---- USER>>seq280
+806
+     p--- USER>>seq279
+     b--- USER>>seq283
+
+
+126 groups ( 38 aligned )
+
+ nblocks = 198 seedblk = 0 seedseq = 4228762
+picked USER>>seq6 (-5.529429)
+picked USER>>seq92 (-105.673325)
+picked USER>>seq62 (-5.666427)
+picked USER>>seq14 (-5.590987)
+picked USER>>seq112 (-5.673323)
+picked USER>>seq175 (-1.370790)
+picked USER>>seq85 (-105.450180)
+picked USER>>seq145 (-105.613129)
+picked USER>>seq39 (-103.023331)
+picked USER>>seq27 (-104.192909)
+picked USER>>seq61 (-5.655992)
+picked USER>>seq183 (-103.089325)
+picked USER>>seq134 (-5.666427)
+picked USER>>seq77 (-5.648974)
+picked USER>>seq59 (-5.638355)
+picked USER>>seq8 (-105.602119)
+picked USER>>seq109 (-5.669881)
+picked USER>>seq9 (-105.583496)
+picked USER>>seq176 (-5.533390)
+picked USER>>seq45 (-5.550625)
+picked USER>>seq23 (-5.505332)
+picked USER>>seq47 (-5.641907)
+picked USER>>seq22 (-5.556828)
+picked USER>>seq123 (-5.616771)
+picked USER>>seq43 (-5.655992)
+picked USER>>seq56 (-5.648974)
+picked USER>>seq106 (-5.645447)
+picked USER>>seq279 (-101.500359)
+picked USER>>seq267 (-5.404478)
+picked USER>>seq282 (-102.002213)
+picked USER>>seq207 (-105.641907)
+picked USER>>seq271 (-5.404478)
+picked USER>>seq304 (-5.605802)
+picked USER>>seq309 (-105.627625)
+picked USER>>seq272 (-5.568345)
+picked USER>>seq296 (-105.598419)
+picked USER>>seq149 (-104.480827)
+picked USER>>seq226 (-5.662961)
+picked USER>>seq258 (-104.980179)
+picked USER>>seq210 (-102.840111)
+picked USER>>seq229 (-105.673325)
+picked USER>>seq157 (-104.477341)
+picked USER>>seq172 (-103.288399)
+picked USER>>seq162 (-1.965031)
+picked USER>>seq170 (-5.420535)
+picked USER>>seq164 (-5.442418)
+picked USER>>seq169 (-5.505332)
+picked USER>>seq165 (-0.533390)
+picked USER>>seq171 (-0.556828)
+picked USER>>seq264 (-5.645447)
+picked USER>>seq180 (-5.638355)
+picked USER>>seq256 (-5.641907)
+picked USER>>seq292 (-5.598422)
+picked USER>>seq419 (-103.054359)
+picked USER>>seq424 (-5.620401)
+picked USER>>seq422 (-5.609472)
+picked USER>>seq432 (-5.579730)
+picked USER>>seq418 (-105.605804)
+picked USER>>seq323 (-5.402678)
+picked USER>>seq326 (-5.476463)
+picked USER>>seq321 (-105.666428)
+picked USER>>seq316 (-5.662961)
+picked USER>>seq325 (-5.472270)
+picked USER>>seq314 (-105.662964)
+picked USER>>seq318 (-105.641907)
+picked USER>>seq405 (-5.579730)
+picked USER>>seq315 (-4.448966)
+picked USER>>seq312 (-5.662961)
+picked USER>>seq327 (-5.655992)
+picked USER>>seq359 (-105.648972)
+picked USER>>seq415 (-5.429346)
+picked USER>>seq270 (-0.624018)
+picked USER>>seq322 (-5.455321)
+picked USER>>seq329 (-5.655992)
+picked USER>>seq353 (-5.648974)
+picked USER>>seq370 (-5.547122)
+picked USER>>seq356 (-5.652489)
+picked USER>>seq336 (-5.429346)
+picked USER>>seq286 (-5.533390)
+picked USER>>seq293 (-5.488938)
+picked USER>>seq277 (-5.560682)
+picked USER>>seq352 (-5.652489)
+picked USER>>seq349 (-5.659482)
+picked USER>>seq360 (-5.655992)
+picked USER>>seq361 (-4.043051)
+picked USER>>seq297 (-5.517453)
+picked USER>>seq299 (-5.407172)
+picked USER>>seq337 (-5.655992)
+picked USER>>seq281 (-105.620399)
+picked USER>>seq285 (-5.590987)
+picked USER>>seq287 (-5.634789)
+picked USER>>seq324 (-5.446737)
+picked USER>>seq482 (-104.565590)
+picked USER>>seq439 (-5.568345)
+picked USER>>seq446 (-5.590987)
+picked USER>>seq438 (-105.386330)
+picked USER>>seq473 (-5.575949)
+picked USER>>seq400 (-5.568345)
+picked USER>>seq417 (-5.613128)
+picked USER>>seq469 (-5.533390)
+picked USER>>seq393 (-105.594711)
+picked USER>>seq494 (-5.631212)
+picked USER>>seq499 (-5.616771)
+picked USER>>seq433 (-5.587249)
+picked USER>>seq423 (-5.638355)
+picked USER>>seq406 (-5.631212)
+picked USER>>seq420 (-102.812233)
+picked USER>>seq407 (-5.579730)
+picked USER>>seq392 (-5.598422)
+picked USER>>seq497 (-5.624018)
+picked USER>>seq410 (-5.446737)
+picked USER>>seq394 (-5.587249)
+picked USER>>seq408 (-5.587249)
+picked USER>>seq413 (-5.411646)
+picked USER>>seq397 (-105.645447)
+picked USER>>seq500 (-102.950096)
+picked USER>>seq403 (-2.224407)
+picked USER>>seq402 (-5.669881)
+picked USER>>seq411 (-104.955826)
+picked USER>>seq495 (-102.639458)
+picked USER>>seq390 (-5.605802)
+picked USER>>seq414 (-105.517456)
+picked USER>>seq416 (-5.402678)
+picked USER>>seq434 (-0.572154)
+picked USER>>seq430 (-3.958907)
+picked USER>>seq472 (-102.754036)
+ kept = 126

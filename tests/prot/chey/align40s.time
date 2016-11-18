@@ -1,0 +1,18 @@
+71576
+90 992.318u kept = 68297 0
+80 1633.094u kept = 57916 0
+70 2194.189u kept = 39578 0
+60 1957.458u kept = 20022 0
+50 654.048u kept = 8706 0
+40 209.185u kept = 1665 0
+0
+wtaylor@wt:~/mulsel/tests/real/chey$ cp final.seq final40.0.seq
+wtaylor@wt:~/mulsel/tests/real/chey$ code/mulsel | tail -1
+ kept = 377
+wtaylor@wt:~/mulsel/tests/real/chey$ code/mulsel | tail -1
+ kept = 101
+wtaylor@wt:~/mulsel/tests/real/chey$ code/mulsel | tail -1
+ kept = 34
+wtaylor@wt:~/mulsel/tests/real/chey$ code/mulsel | tail -1
+ kept = 14
+

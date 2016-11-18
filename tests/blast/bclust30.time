@@ -1,0 +1,6 @@
+wtaylor@wt:~/mulsel/blast$ tcsh bclust.csh shuffle30
+Running BlastClust on 30013 sequences
+6615.209u 2.460s 1:50:28.21 99.8%	0+0k 7496+13456io 36pf+0w
+rm: cannot remove `clust.out': No such file or directory
+ 1879  1879 31892 clust.out
+

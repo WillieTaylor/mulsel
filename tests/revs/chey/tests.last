@@ -1,0 +1,46 @@
+300
+90 0.092u kept = 588 0 294 294
+80 0.432u kept = 578 0 289 289
+70 1.416u kept = 499 0 249 250
+60 4.448u kept = 359 0 179 180
+50 5.924u kept = 136 0 68 68
+40 1.548u kept = 27 0 13 14
+............p--- USER>>SEQ156 =0= [+27+] K0SQA0_THAOC/602-718       
+........p---b-p- USER>>SEQ6 =0= [+18+] Q7NP36_GLOVI/113-225       
+........|.....b- USER>>SEQ67 =0= [+108+] E6W348_DESIS/261-373       
+......p-b---p--- USER>>SEQ163 =0= [+44+] Q7D1D6_AGRT5/6-119         
+......|.....b--- USER>>SEQ17 =0= [+11+] E1Z400_CHLVA/13-125        
+....p-b-----p--- USER>>SEQ101 =0= [+6+] Q4PEH1_USTMA/3763-3876     
+....|.......b--- USER>>SEQ232 =0= [+1+] D8LPK5_ECTSI/555-667       
+....|.......p--- USER>>SEQ70 =0= [+38+] I0I1B7_CALAS/12-125        
+....|.....p-b--- USER>>SEQ194 =0= [+3+] I0H4D5_ACTM4/14-132        
+p---b-p---b----- USER>>SEQ142 =0= [+1+] C5ASU0_METEA/8-118         
+|.....b-p------- USER>>SEQ63 =0= [+0+] B8F953_DESAA/43-157        
+|.......b---p--- USER>>SEQ98 =0= [+23+] F8GCV5_NITSI/9-127         
+|...........b--- USER>>SEQ291 =0= [+3+] C8WL86_EGGLE/4-119         
+|.........p----- USER>>REV291 =0= [+8+] C8WL86_EGGLE/4-119         
+|.....p---b----- USER>>REV275 =0= [+26+] C6XU79_PEDHD/8-128         
+|.....|.....p--- USER>>REV16 =0= [+1+] B2IJ88_BEII9/155-266       
+|.....|...p-b--- USER>>REV23 =0= [+4+] F5XMA7_MICPN/24-137        
+b-p---b-p-b-p--- USER>>REV162 =0= [+19+] A9AXD3_HERA2/5-120         
+..|.....|...b--- USER>>REV189 =0= [+99+] C1F2N1_ACIC5/3-114         
+..|.....|...p--- USER>>REV148 =0= [+9+] A9FBN1_SORC5/5-119         
+..|.....b-p-b--- USER>>REV62 =0= [+59+] A9GV07_SORC5/1025-1139     
+..|.......b----- USER>>REV66 =0= [+3+] Q01TC4_SOLUE/7-118         
+..|.........p--- USER>>REV194 =0= [+3+] I0H4D5_ACTM4/14-132        
+..|.......p-b--- USER>>REV70 =0= [+39+] I0I1B7_CALAS/12-125        
+..b---p---b----- USER>>REV63 =0= [+0+] B8F953_DESAA/43-157        
+......b-----p--- USER>>REV156 =0= [+9+] K0SQA0_THAOC/602-718       
+............b--- USER>>REV232 =0= [+1+] D8LPK5_ECTSI/555-667       
+
+26 groups ( 1 aligned )
+16 groups ( 10 aligned )
+11 groups ( 10 aligned )
+8 groups ( 8 aligned )
+4 groups ( 4 aligned )
+3 groups ( 3 aligned )
+2 groups ( 2 aligned )
+1 groups ( 1 aligned )
+3333
+90 4.592u kept = 6360 0 3180 3180
+80 10.996u kept = 5713 0 2857 2856

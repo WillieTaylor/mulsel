@@ -1,0 +1,352 @@
+300
+90 0.084u kept = 588 0 294 294
+80 0.436u kept = 578 0 289 289
+70 1.416u kept = 499 0 249 250
+60 4.444u kept = 359 0 179 180
+50 5.912u kept = 136 0 68 68
+40 1.544u kept = 27 0 13 14
+............p--- USER>>SEQ156 =0= [+27+] K0SQA0_THAOC/602-718       
+........p---b-p- USER>>SEQ6 =0= [+18+] Q7NP36_GLOVI/113-225       
+........|.....b- USER>>SEQ67 =0= [+108+] E6W348_DESIS/261-373       
+......p-b---p--- USER>>SEQ163 =0= [+44+] Q7D1D6_AGRT5/6-119         
+......|.....b--- USER>>SEQ17 =0= [+11+] E1Z400_CHLVA/13-125        
+....p-b-----p--- USER>>SEQ101 =0= [+6+] Q4PEH1_USTMA/3763-3876     
+....|.......b--- USER>>SEQ232 =0= [+1+] D8LPK5_ECTSI/555-667       
+....|.......p--- USER>>SEQ70 =0= [+38+] I0I1B7_CALAS/12-125        
+....|.....p-b--- USER>>SEQ194 =0= [+3+] I0H4D5_ACTM4/14-132        
+p---b-p---b----- USER>>SEQ142 =0= [+1+] C5ASU0_METEA/8-118         
+|.....b-p------- USER>>SEQ63 =0= [+0+] B8F953_DESAA/43-157        
+|.......b---p--- USER>>SEQ98 =0= [+23+] F8GCV5_NITSI/9-127         
+|...........b--- USER>>SEQ291 =0= [+3+] C8WL86_EGGLE/4-119         
+|.........p----- USER>>REV291 =0= [+8+] C8WL86_EGGLE/4-119         
+|.....p---b----- USER>>REV275 =0= [+26+] C6XU79_PEDHD/8-128         
+|.....|.....p--- USER>>REV16 =0= [+1+] B2IJ88_BEII9/155-266       
+|.....|...p-b--- USER>>REV23 =0= [+4+] F5XMA7_MICPN/24-137        
+b-p---b-p-b-p--- USER>>REV162 =0= [+19+] A9AXD3_HERA2/5-120         
+..|.....|...b--- USER>>REV189 =0= [+99+] C1F2N1_ACIC5/3-114         
+..|.....|...p--- USER>>REV148 =0= [+9+] A9FBN1_SORC5/5-119         
+..|.....b-p-b--- USER>>REV62 =0= [+59+] A9GV07_SORC5/1025-1139     
+..|.......b----- USER>>REV66 =0= [+3+] Q01TC4_SOLUE/7-118         
+..|.........p--- USER>>REV194 =0= [+3+] I0H4D5_ACTM4/14-132        
+..|.......p-b--- USER>>REV70 =0= [+39+] I0I1B7_CALAS/12-125        
+..b---p---b----- USER>>REV63 =0= [+0+] B8F953_DESAA/43-157        
+......b-----p--- USER>>REV156 =0= [+9+] K0SQA0_THAOC/602-718       
+............b--- USER>>REV232 =0= [+1+] D8LPK5_ECTSI/555-667       
+
+26 groups ( 1 aligned )
+16 groups ( 10 aligned )
+11 groups ( 10 aligned )
+8 groups ( 8 aligned )
+4 groups ( 4 aligned )
+3 groups ( 3 aligned )
+2 groups ( 2 aligned )
+1 groups ( 1 aligned )
+last cut = 112
+
+3333
+90 4.588u kept = 6360 0 3180 3180
+80 10.972u kept = 5713 0 2857 2856
+70 23.421u kept = 4212 0 2114 2098
+60 48.459u kept = 2732 0 1367 1365
+50 52.707u kept = 1148 0 571 577
+40 27.521u kept = 196 0 98 98
+38 2.556u kept = 26 0 13 13
+..........p--- USER>>SEQ422 =0= [+1130+] I7A752_MELRP/4-117         
+......p---b--- USER>>SEQ156 =0= [+614+] K0SQA0_THAOC/602-718       
+....p-b---p--- USER>>SEQ661 =0= [+47+] Q0BZW4_HYPNA/156-267       
+....|.....b--- USER>>SEQ2286 =0= [+65+] R5FC83_9CLOT/594-706       
+....|...p----- USER>>SEQ786 =0= [+3+] D2QJV7_SPILD/13-130        
+..p-b-p-b----- USER>>SEQ1376 =0= [+124+] A9RME1_PHYPA/880-994       
+..|...|...p--- USER>>SEQ336 =0= [+638+] B9L0W5_THERP/34-146        
+..|...b-p-b--- USER>>SEQ2013 =0= [+105+] Q6MHA2_BDEBA/9-123         
+..|.....b-p--- USER>>SEQ3049 =0= [+161+] G8AX34_AZOBR/8-121         
+..|.......b--- USER>>SEQ41 =0= [+44+] B1ZVL9_OPITP/7-120         
+..|.......p--- USER>>SEQ2288 =0= [+93+] R7FZH6_9FIRM/5-120         
+p-b-----p-b--- USER>>SEQ2252 =0= [+88+] A9KJM4_CLOPH/3-116         
+|.......b----- USER>>SEQ3250 =0= [+110+] R6VLF3_9FIRM/7-120         
+|.......p----- USER>>REV1784 =0= [+470+] Q2IPB9_ANADE/236-350       
+|.....p-b---p- USER>>REV324 =0= [+1079+] D8RT92_SELML/903-1018      
+|.....|.....b- USER>>REV1712 =0= [+68+] D2VWZ7_NAEGR/912-1028      
+b-p---b---p--- USER>>REV176 =0= [+67+] G8AFS1_AZOBR/364-477       
+..|.......b--- USER>>REV2835 =0= [+68+] Q2ILE8_ANADE/7-120         
+..|.......p--- USER>>REV2564 =0= [+511+] F8GLI8_NITSI/8-121         
+..|.....p-b--- USER>>REV3042 =0= [+29+] F4L376_HALH1/5-118         
+..b-p---b-p--- USER>>REV1787 =0= [+204+] J9Z935_LEPFM/67-180        
+....|.....b--- USER>>REV1444 =0= [+147+] Q7UE45_RHOBA/46-158        
+....b-p------- USER>>REV492 =0= [+70+] A7HTS6_PARL1/3-114         
+......b-p----- USER>>REV2164 =0= [+186+] C0Z8M0_BREBN/6-119         
+........b-p--- USER>>REV1513 =0= [+150+] C6D6I4_PAESJ/3-116         
+..........b--- USER>>REV3223 =0= [+177+] F5XTA2_MICPN/11-124        
+
+25 groups ( 1 aligned )
+16 groups ( 10 aligned )
+10 groups ( 9 aligned )
+6 groups ( 6 aligned )
+4 groups ( 4 aligned )
+2 groups ( 2 aligned )
+1 groups ( 1 aligned )
+last cut = 119
+
+6666
+90 17.837u kept = 12541 0 6272 6270
+80 35.798u kept = 10857 0 5426 5432
+70 62.395u kept = 7579 0 3791 3788
+60 102.690u kept = 4815 0 2408 2407
+50 100.482u kept = 2017 0 1008 1009
+40 50.727u kept = 353 0 176 177
+38 7.600u kept = 46 0 22 24
+............p--- USER>>SEQ3702 =0= [+535+] G2KRI3_MICAA/21-135        
+..........p-b-p- USER>>SEQ475 =0= [+2159+] I4AH87_FLELS/6-120         
+..........|...b- USER>>SEQ1522 =0= [+187+] O25153_HELPY/679-793       
+........p-b-p--- USER>>SEQ3905 =0= [+931+] Q8PCA9_XANCP/519-632       
+........|...b--- USER>>SEQ6456 =0= [+956+] B1ZR64_OPITP/27-139        
+........|...p--- USER>>SEQ1342 =0= [+44+] K0IL91_NITGG/14-127        
+......p-b-p-b--- USER>>SEQ4264 =0= [+107+] E1X271_BACMS/3-115         
+......|...b-p--- USER>>SEQ6100 =0= [+82+] D8LPB9_ECTSI/314-427       
+......|.....b--- USER>>SEQ6627 =0= [+155+] Q8EHJ1_SHEON/750-862       
+......|.....p--- USER>>SEQ4556 =0= [+129+] G8AL70_AZOBR/999-1112      
+....p-b-p---b--- USER>>SEQ2297 =0= [+66+] Q1CVV3_MYXXD/261-374       
+....|...b---p--- USER>>SEQ4665 =0= [+219+] W5XDA9_9BACT/4-117         
+....|.......b--- USER>>SEQ5715 =0= [+78+] A9WDY3_CHLAA/234-347       
+....|.....p----- USER>>SEQ1027 =0= [+155+] A6TVF0_ALKMQ/4-117         
+....|...p-b----- USER>>SEQ4247 =0= [+110+] H6LJ21_ACEWD/739-853       
+....|...|...p--- USER>>SEQ2272 =0= [+63+] R6UYR9_9FIRM/5-118         
+p---b-p-b-p-b--- USER>>SEQ5171 =0= [+81+] R6QE75_9FIRM/9-121         
+|.....|...b----- USER>>SEQ5235 =0= [+29+] E6UBX2_RUMA7/7-120         
+|.....|...p----- USER>>SEQ6322 =0= [+205+] B0VHD6_CLOAI/5-120         
+|.....b-p-b----- USER>>SEQ6064 =0= [+55+] D4IYT1_BUTFI/4-119         
+|.......b---p--- USER>>SEQ4483 =0= [+55+] R5PIR8_9BURK/66-179        
+|...........b--- USER>>SEQ3922 =0= [+48+] I4BZU6_DESTA/5-120         
+|...........p--- USER>>REV2117 =0= [+1608+] B8FFI8_DESAA/70-184        
+|.......p---b--- USER>>REV582 =0= [+33+] Q3ZAA6_DEHM1/21-135        
+|.......|...p--- USER>>REV3702 =0= [+1326+] G2KRI3_MICAA/21-135        
+|.....p-b-p-b--- USER>>REV4026 =0= [+316+] I7MER1_TETTS/6-122         
+|.....|...b----- USER>>REV4911 =0= [+90+] Q728M3_DESVH/773-886       
+|.....|.....p--- USER>>REV4537 =0= [+61+] C0QW48_BRAHW/81-193        
+b-p---b---p-b--- USER>>REV5284 =0= [+60+] A9WCL4_CHLAA/163-276       
+..|.......b---p- USER>>REV5581 =0= [+36+] Q6MIU2_BDEBA/10-122        
+..|...........b- USER>>REV4476 =0= [+28+] Q6MHS5_BDEBA/11-125        
+..|.........p--- USER>>REV141 =0= [+916+] Q2S7P6_HAHCH/477-590       
+..|.....p---b--- USER>>REV430 =0= [+397+] Q8ABF4_BACTN/4-117         
+..|.....|...p--- USER>>REV1330 =0= [+38+] A7HVK7_PARL1/6-119         
+..|...p-b-p-b--- USER>>REV2478 =0= [+129+] D5EIS8_CORAD/3-116         
+..|...|...b----- USER>>REV4525 =0= [+88+] B5YHH5_THEYD/5-120         
+..|...|.....p--- USER>>REV1502 =0= [+4+] B8FLU3_DESAA/4-116         
+..b-p-b---p-b--- USER>>REV3309 =0= [+422+] C6Y0P8_PEDHD/893-1006      
+....|.....b----- USER>>REV3969 =0= [+92+] C7PLE3_CHIPD/8-121         
+....|.....p----- USER>>REV4486 =0= [+340+] A9CH56_AGRT5/466-579       
+....|...p-b-p--- USER>>REV1009 =0= [+148+] C6CSY2_PAESJ/4-117         
+....|...|...b--- USER>>REV4667 =0= [+98+] A9FM83_SORC5/618-731       
+....b-p-b---p--- USER>>REV1897 =0= [+74+] B8FIY1_DESAA/7-123         
+......|.....b--- USER>>REV2547 =0= [+64+] R5B906_9CLOT/13-127        
+......b-----p--- USER>>REV1567 =0= [+93+] H6LEY9_ACEWD/4-118         
+............b--- USER>>REV6064 =0= [+8+] D4IYT1_BUTFI/4-119         
+
+44 groups ( 2 aligned )
+27 groups ( 18 aligned )
+17 groups ( 17 aligned )
+10 groups ( 10 aligned )
+5 groups ( 5 aligned )
+3 groups ( 3 aligned )
+2 groups ( 2 aligned )
+1 groups ( 1 aligned )
+last cut = 124
+
+10000
+90 40.470u kept = 18666 0 9334 9333
+80 74.296u kept = 15740 0 7867 7874
+70 115.459u kept = 10578 0 5280 5298
+60 164.466u kept = 6581 0 3267 3314
+50 144.973u kept = 2803 0 1390 1413
+40 71.132u kept = 524 0 261 263
+38 13.392u kept = 69 0 33 36
+..............p--- USER>>SEQ7549 =0= [+1043+] Q0AMY0_MARMM/436-552       
+............p-b--- USER>>SEQ8442 =0= [+989+] A0LCR8_MAGSM/1563-1678     
+..........p-b----- USER>>SEQ2556 =0= [+88+] Q9ADP6_STRCO/1339-1453     
+........p-b-p----- USER>>SEQ4745 =0= [+63+] Q8EJB8_SHEON/11-124        
+........|...b-p--- USER>>SEQ7853 =0= [+163+] Q7NU14_CHRVO/6-119         
+........|.....b--- USER>>SEQ9741 =0= [+53+] A6VYI8_MARMS/12-125        
+......p-b-----p--- USER>>SEQ63 =0= [+333+] B8F953_DESAA/43-157        
+......|.......b--- USER>>SEQ8883 =0= [+1433+] B8FCV6_DESAA/7-120         
+......|.......p--- USER>>SEQ2830 =0= [+1496+] F2IGH3_FLUTR/7-119         
+......|.....p-b-p- USER>>SEQ1467 =0= [+182+] C8WS10_ALIAD/6-119         
+......|.....|...b- USER>>SEQ4280 =0= [+123+] Q3Z7E0_DEHM1/24-136        
+......|...p-b-p--- USER>>SEQ736 =0= [+140+] C7RIB2_ANAPD/3-115         
+......|...|...b--- USER>>SEQ5342 =0= [+120+] Q6ZES0_SYNY3/778-891       
+....p-b-p-b-p----- USER>>SEQ8887 =0= [+1532+] B1ZVP9_OPITP/4-117         
+....|...|...b----- USER>>SEQ937 =0= [+64+] K0I9E3_NITGG/1-113         
+....|...|.....p--- USER>>SEQ7079 =0= [+377+] D2QZA5_PIRSD/5-118         
+....|...b---p-b--- USER>>SEQ3933 =0= [+33+] I3YIK1_ALIFI/1084-1195     
+....|.......b----- USER>>SEQ4476 =0= [+70+] Q6MHS5_BDEBA/11-125        
+....|.........p--- USER>>SEQ1701 =0= [+365+] G4KU79_OSCVS/4-119         
+....|.......p-b--- USER>>SEQ4590 =0= [+79+] Q0DZH6_ORYSJ/30-144        
+....|...p---b----- USER>>SEQ3537 =0= [+176+] D4K2T6_9FIRM/5-118         
+....|...|.......p- USER>>SEQ2883 =0= [+180+] E0TE33_PARBH/439-552       
+....|...|...p---b- USER>>SEQ5986 =0= [+74+] R7GJK7_9CLOT/449-565       
+p---b-p-b-p-b-p--- USER>>SEQ5513 =0= [+100+] C7PGB6_CHIPD/4-117         
+|.....|...|...b--- USER>>SEQ7522 =0= [+79+] W8TCP8_EUBAC/7-119         
+|.....|...|...p--- USER>>SEQ8651 =0= [+54+] J9ZA01_LEPFM/15-127        
+|.....|...b-p-b--- USER>>SEQ6322 =0= [+49+] B0VHD6_CLOAI/5-120         
+|.....|.....b-p--- USER>>SEQ9029 =0= [+28+] A9GRB7_SORC5/530-643       
+|.....|.......b--- USER>>SEQ8266 =0= [+60+] Q0C4S0_HYPNA/415-528       
+|.....b---p------- USER>>SEQ4575 =0= [+42+] R6NQT8_9FIRM/3-121         
+|.........b------- USER>>SEQ7991 =0= [+5+] A9AVT7_HERA2/6-119         
+|.............p--- USER>>REV3360 =0= [+1996+] A0L9H2_MAGSM/547-663       
+|.........p---b--- USER>>REV8001 =0= [+1201+] E1X1T5_BACMS/6-122         
+|.....p---b-p----- USER>>REV5718 =0= [+115+] D0LW64_HALO1/280-395       
+|.....|.....b----- USER>>REV786 =0= [+6+] D2QJV7_SPILD/13-130        
+|.....|.......p--- USER>>REV546 =0= [+131+] Q2FQK0_METHJ/16-128        
+|.....|.....p-b--- USER>>REV9982 =0= [+1416+] K1VJU5_TRIAC/556-669       
+|.....|.....|...p- USER>>REV986 =0= [+563+] A4J4S9_DESRM/129-242       
+|.....|...p-b-p-b- USER>>REV1745 =0= [+458+] Q2RGJ8_MOOTA/12-126        
+|.....|...|...b--- USER>>REV640 =0= [+813+] EIN4_ARATH/644-758         
+|...p-b-p-b---p--- USER>>REV6456 =0= [+560+] B1ZR64_OPITP/27-139        
+|...|...|.....b--- USER>>REV861 =0= [+131+] G8ASR3_AZOBR/402-515       
+|...|...|.....p--- USER>>REV2138 =0= [+612+] R7IE55_9FIRM/4-117         
+|...|...b-p---b--- USER>>REV2650 =0= [+48+] V5SEH4_9RHIZ/3-117         
+|...|.....|...p--- USER>>REV4914 =0= [+173+] A3DCZ0_CLOTH/4-116         
+|...|.....b-p-b--- USER>>REV9666 =0= [+21+] C0QCI9_DESAH/142-254       
+|...|.......b-p--- USER>>REV8521 =0= [+70+] R5EYZ2_9CLOT/4-117         
+|...|.........b--- USER>>REV7543 =0= [+96+] R6MYP4_9CLOT/4-117         
+|...|.......p----- USER>>REV1610 =0= [+44+] Y415_BORBU/7-118           
+|...|.....p-b-p--- USER>>REV1027 =0= [+163+] A6TVF0_ALKMQ/4-117         
+|...|.....|...b--- USER>>REV2272 =0= [+141+] R6UYR9_9FIRM/5-118         
+|...|...p-b---p--- USER>>REV1897 =0= [+11+] B8FIY1_DESAA/7-123         
+|...|...|.....b--- USER>>REV5858 =0= [+29+] C4ZGY3_EUBR3/9-122         
+|...|...|...p----- USER>>REV1821 =0= [+107+] F2IK83_FLUTR/6-120         
+b-p-b-p-b-p-b----- USER>>REV6249 =0= [+97+] A8ESF8_ARCB4/183-297       
+..|...|...b-p----- USER>>REV430 =0= [+71+] Q8ABF4_BACTN/4-117         
+..|...|.....b----- USER>>REV5543 =0= [+24+] Q6AJU9_DESPS/7-119         
+..|...|.......p--- USER>>REV1084 =0= [+86+] Q7P0M9_CHRVO/182-293       
+..|...|...p---b--- USER>>REV6237 =0= [+31+] Q1D6D0_MYXXD/7-121         
+..|...b-p-b------- USER>>REV8368 =0= [+26+] Q2S9M1_HAHCH/126-239       
+..|.....b-----p--- USER>>REV7231 =0= [+108+] W0PCX4_9BURK/24-137        
+..|...........b--- USER>>REV4745 =0= [+66+] Q8EJB8_SHEON/11-124        
+..|.........p----- USER>>REV6605 =0= [+132+] R5HTV5_9FIRM/3-115         
+..|.....p---b----- USER>>REV489 =0= [+4+] Q182U3_PEPD6/3-129         
+..b---p-b---p----- USER>>SEQ7122 =0= [+24+] A6H1K2_FLAPJ/6-119         
+......|.....b----- USER>>SEQ8368 =0= [+39+] Q2S9M1_HAHCH/126-239       
+......b---p------- USER>>REV6064 =0= [+57+] D4IYT1_BUTFI/4-119         
+..........b---p--- USER>>REV6918 =0= [+55+] V5WKA5_9SPIO/778-892       
+..............b--- USER>>REV9102 =0= [+67+] B7G1X5_PHATC/364-478       
+
+66 groups ( 3 aligned )
+44 groups ( 23 aligned )
+28 groups ( 24 aligned )
+17 groups ( 17 aligned )
+10 groups ( 10 aligned )
+5 groups ( 5 aligned )
+3 groups ( 3 aligned )
+2 groups ( 2 aligned )
+1 groups ( 1 aligned )
+last cut = 110
+
+14307
+90 84.041u kept = 26420 0 13212 13209
+80 145.701u kept = 21745 0 10877 10869
+70 203.236u kept = 14196 0 7088 7108
+60 250.919u kept = 8676 0 4340 4336
+50 202.260u kept = 3776 0 1892 1884
+40 99.902u kept = 689 0 341 348
+38 19.449u kept = 89 0 45 44
+............p----- USER>>SEQ1497 =0= [+3778+] H8GMW6_METAL/12-125        
+..........p-b-p--- USER>>SEQ10232 =0= [+1591+] G1XC90_ARTOA/1095-1211     
+..........|...b--- USER>>SEQ11523 =0= [+701+] E0TGV7_PARBH/434-547       
+..........|...p--- USER>>SEQ11773 =0= [+603+] F4L714_HALH1/9-123         
+........p-b-p-b-p- USER>>SEQ12074 =0= [+1415+] C6D6B5_PAESJ/4-117         
+........|...|...b- USER>>SEQ6122 =0= [+395+] D9R1C0_CLOSW/4-117         
+........|...b----- USER>>SEQ2252 =0= [+67+] A9KJM4_CLOPH/3-116         
+........|.....p--- USER>>SEQ2835 =0= [+75+] Q2ILE8_ANADE/7-120         
+......p-b-p---b--- USER>>SEQ2014 =0= [+100+] Q9A3V2_CAUCR/21-135        
+......|...b---p--- USER>>SEQ5874 =0= [+34+] A0LBU4_MAGSM/811-924       
+......|.......b--- USER>>SEQ7522 =0= [+84+] W8TCP8_EUBAC/7-119         
+......|.......p--- USER>>SEQ12703 =0= [+1011+] Q026N7_SOLUE/37-150        
+......|...p---b--- USER>>SEQ3412 =0= [+243+] Q89XC6_BRADU/24-138        
+....p-b-p-b-p----- USER>>SEQ3489 =0= [+56+] C9RKL7_FIBSS/812-924       
+....|...|...b----- USER>>SEQ11319 =0= [+285+] V5SBU0_9RHIZ/437-549       
+....|...|.....p--- USER>>SEQ763 =0= [+107+] C4ZEB4_EUBR3/4-117         
+....|...b-p---b--- USER>>SEQ4098 =0= [+128+] Q24HN5_TETTS/1067-1180     
+....|.....|...p--- USER>>SEQ6918 =0= [+67+] V5WKA5_9SPIO/778-892       
+....|.....b-p-b--- USER>>SEQ8139 =0= [+148+] F2GBD7_ALTMD/772-884       
+....|.......b-p--- USER>>SEQ12846 =0= [+31+] F2IHV1_FLUTR/7-120         
+....|.........b--- USER>>SEQ11583 =0= [+99+] L0DE81_SINAD/6-118         
+....|.........p--- USER>>SEQ801 =0= [+811+] R5ZB43_9CLOT/4-118         
+....|.....p---b--- USER>>SEQ6156 =0= [+642+] A4J6F9_DESRM/913-1027      
+....|.....|...p--- USER>>SEQ2547 =0= [+75+] R5B906_9CLOT/13-127        
+....|...p-b-p-b--- USER>>SEQ5143 =0= [+82+] I0GUD9_SELRL/3-115         
+....|...|...b-p--- USER>>SEQ4770 =0= [+72+] F8L6T5_SIMNZ/7-119         
+....|...|.....b--- USER>>SEQ3309 =0= [+147+] C6Y0P8_PEDHD/893-1006      
+....|...|.....p--- USER>>SEQ11094 =0= [+60+] D2R3E5_PIRSD/19-131        
+..p-b-p-b-p---b--- USER>>SEQ13293 =0= [+84+] E1X598_BACMS/6-121         
+..|...|...b---p--- USER>>SEQ13544 =0= [+31+] I0H5N2_ACTM4/803-918       
+..|...|.......b--- USER>>SEQ11472 =0= [+70+] D0LVF6_HALO1/382-494       
+..|...|.....p----- USER>>SEQ5581 =0= [+39+] Q6MIU2_BDEBA/10-122        
+..|...b-p---b----- USER>>SEQ6039 =0= [+8+] R5M0L9_9MOLU/4-125         
+..|.....b---p----- USER>>SEQ7991 =0= [+19+] A9AVT7_HERA2/6-119         
+..|.........b----- USER>>SEQ13110 =0= [+120+] B8FF27_DESAA/537-649       
+..|.........p----- USER>>SEQ10205 =0= [+1+] H8GGD9_METAL/8-133         
+..|.....p---b----- USER>>SEQ93 =0= [+163+] F2G6S0_ALTMD/11-126        
+..|.....|.....p--- USER>>SEQ3410 =0= [+28+] Q8A9R5_BACTN/8-121         
+..|...p-b-p---b--- USER>>SEQ5559 =0= [+100+] D5EJQ4_CORAD/4-117         
+..|...|...b---p--- USER>>SEQ8695 =0= [+57+] A7HP61_PARL1/4-116         
+..|...|.......b--- USER>>SEQ13995 =0= [+36+] I0IHU5_PHYMF/4-118         
+..|...|.......p--- USER>>SEQ6237 =0= [+63+] Q1D6D0_MYXXD/7-121         
+p-b-p-b---p---b--- USER>>SEQ5858 =0= [+62+] C4ZGY3_EUBR3/9-122         
+|...|.....b---p--- USER>>SEQ11745 =0= [+86+] R7K7B0_9FIRM/3-114         
+|...|.........b--- USER>>SEQ9314 =0= [+66+] C7PRP4_CHIPD/4-116         
+|...|.......p----- USER>>REV12603 =0= [+70+] Q9K3S0_STRCO/5-117         
+|...|.....p-b-p--- USER>>REV11838 =0= [+1507+] A6VWK1_MARMS/11-123        
+|...|.....|...b--- USER>>REV9683 =0= [+370+] F8IAR6_SULAT/4-116         
+|...|...p-b-p----- USER>>REV430 =0= [+181+] Q8ABF4_BACTN/4-117         
+|...|...|...b----- USER>>REV9676 =0= [+40+] Q72EE2_DESVH/4-114         
+|...|...|.....p--- USER>>REV2014 =0= [+286+] Q9A3V2_CAUCR/21-135        
+|...|...|...p-b--- USER>>REV7746 =0= [+2577+] H7C7G8_CAUCR/18-133        
+|...b-p-b-p-b-p--- USER>>REV1382 =0= [+81+] D2R9C7_PIRSD/69-180        
+|.....|...|...b--- USER>>REV4745 =0= [+33+] Q8EJB8_SHEON/11-124        
+|.....|...b---p--- USER>>REV2433 =0= [+92+] F5YQH1_TREPZ/8-122         
+|.....|.......b--- USER>>REV3410 =0= [+26+] Q8A9R5_BACTN/8-121         
+|.....|.......p--- USER>>REV4880 =0= [+737+] W0PAU2_9BURK/12-125        
+|.....|...p---b--- USER>>REV12199 =0= [+382+] A0LIT6_SYNFM/191-305       
+|.....|...|...p--- USER>>REV4174 =0= [+58+] Q7VY65_BORPE/12-126        
+|.....b-p-b-p-b--- USER>>REV7381 =0= [+101+] C5K9Y8_PERM5/426-539       
+|.......|...b----- USER>>REV10625 =0= [+50+] F4L032_HALH1/8-120         
+|.......b-----p--- USER>>REV6064 =0= [+57+] D4IYT1_BUTFI/4-119         
+|.............b--- USER>>REV10020 =0= [+59+] K0IDP5_NITGG/10-122        
+|...........p----- USER>>REV5823 =0= [+310+] B2IEJ1_BEII9/8-121         
+|.........p-b----- USER>>REV1546 =0= [+1704+] D1B6P1_THEAS/6-119         
+|.....p---b------- USER>>REV332 =0= [+897+] Q7NWN4_CHRVO/8-126         
+|.....|.......p--- USER>>REV4337 =0= [+170+] R6HYJ7_9FIRM/10-124        
+|.....|...p---b--- USER>>REV7122 =0= [+55+] A6H1K2_FLAPJ/6-119         
+b---p-b-p-b---p--- USER>>REV9594 =0= [+98+] D2RJG8_ACIFV/4-117         
+....|...|.....b--- USER>>REV12834 =0= [+56+] B1HZD2_LYSSC/4-115         
+....|...|.....p--- USER>>REV2858 =0= [+24+] F4PP31_DICFS/980-1095      
+....|...b-p---b--- USER>>REV4805 =0= [+63+] Q8F2E4_LEPIN/9-123         
+....|.....b---p--- USER>>REV12169 =0= [+65+] Q1D394_MYXXD/7-121         
+....|.........b--- USER>>REV11693 =0= [+95+] R6J557_9PROT/299-411       
+....|.....p------- USER>>REV8987 =0= [+4+] F0YPI2_AURAN/2-117         
+....|...p-b-p----- USER>>REV2886 =0= [+632+] R5ZQD3_9CLOT/4-118         
+....|...|...b-p--- USER>>REV9228 =0= [+188+] A0BS33_PARTE/617-736       
+....|...|.....b--- USER>>REV13919 =0= [+102+] D4H209_DENA2/6-121         
+....|...|.......p- USER>>REV2878 =0= [+365+] I6Z850_MELRP/5-117         
+....|...|.....p-b- USER>>REV1396 =0= [+1526+] D5EKM4_CORAD/3-116         
+....|...|...p-b--- USER>>REV3617 =0= [+146+] I3YIX8_ALIFI/540-653       
+....b-p-b-p-b-p--- USER>>REV7057 =0= [+94+] R6D2M1_9CLOT/4-116         
+......|...|...b--- USER>>REV6457 =0= [+65+] R6W3E2_9FIRM/10-123        
+......|...|...p--- USER>>REV12260 =0= [+115+] D0LWI1_HALO1/18-130        
+......|...b-p-b--- USER>>REV7378 =0= [+105+] Q1INY7_KORVE/473-586       
+......|.....b-p--- USER>>REV11094 =0= [+83+] D2R3E5_PIRSD/19-131        
+......|.......b--- USER>>REV13320 =0= [+48+] E0TFX1_PARBH/13-128        
+......b-----p----- USER>>REV11036 =0= [+32+] D5STV2_PLAL2/3-116         
+............b----- USER>>REV11252 =0= [+26+] Q01FG2_OSTTA/14-130        
+
+87 groups ( 2 aligned )
+54 groups ( 33 aligned )
+37 groups ( 35 aligned )
+21 groups ( 21 aligned )
+12 groups ( 12 aligned )
+6 groups ( 6 aligned )
+3 groups ( 3 aligned )
+2 groups ( 2 aligned )
+1 groups ( 1 aligned )
+last cut = 112
+

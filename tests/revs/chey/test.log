@@ -1,0 +1,24 @@
+ peptide = GLE id = 5432
+ peptide = LEA id = 8884
+ peptide = EAF id = 3678
+ peptide = AFE id = 896
+ peptide = FER id = 4527
+ peptide = ERL id = 4143
+ peptide = RLK id = 13457
+ peptide = LKE id = 9050
+End of user sequences
+6 sequences read into 6 blocks, (6 are keyed)
+
+
+ ****** CYCLE 0 ******
+Minimum score held = 9
+Top 3 scores held per sequence
+Sequences in the range 1<Dij<7 scored
+Adjacent sequences scored with bonus of 10
+ pid->slot[i] = 3678  EAF
+ pid->slot[i] = 4143  ERL
+ pid->slot[i] = 4527  FER
+ pid->slot[i] = 5432  GLE
+ pid->slot[i] = 8884  LEA
+ pid->slot[i] = 9050  LKE
+ pid->slot[i] = 13457 RLK

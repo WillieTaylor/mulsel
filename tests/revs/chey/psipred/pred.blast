@@ -1,0 +1,137 @@
+BLASTP 2.2.26 [Sep-21-2011]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for compositional score matrix adjustment: Altschul, Stephen F., 
+John C. Wootton, E. Michael Gertz, Richa Agarwala, Aleksandr Morgulis,
+Alejandro A. Schaffer, and Yi-Kuo Yu (2005) "Protein database searches
+using compositionally adjusted substitution matrices", FEBS J. 272:5101-5109.
+
+
+Reference for composition-based statistics starting in round 2:
+Schaffer, Alejandro A., L. Aravind, Thomas L. Madden,
+Sergei Shavirin, John L. Spouge, Yuri I. Wolf,  
+Eugene V. Koonin, and Stephen F. Altschul (2001), 
+"Improving the accuracy of PSI-BLAST protein database searches with 
+composition-based statistics and other refinements",  Nucleic Acids Res. 29:2994-3005.
+
+Query= >REV11252 = [+26+] Q01FG2_OSTTA/14-130        
+         (117 letters)
+
+Database: full.seq 
+           178 sequences; 20,283 total letters
+
+Searching...........................................................done
+
+
+Results from round 1
+
+
+                                                                 Score    E
+Sequences producing significant alignments:                      (bits) Value
+
+>REV11252 = [+26+] Q01FG2_OSTTA/14-130                                236   4e-66
+REV11252[+26+] Q01FG2_OSTTA/14-130                                    234   1e-65
+REV9228[+188+] A0BS33_PARTE/617-736                                    27   0.005
+>REV9228 = [+188+] A0BS33_PARTE/617-736                                27   0.005
+REV12260[+115+] D0LWI1_HALO1/18-130                                    27   0.007
+>REV12260 = [+115+] D0LWI1_HALO1/18-130                                27   0.007
+>REV2878 = [+365+] I6Z850_MELRP/5-117                                  27   0.009
+REV2878[+365+] I6Z850_MELRP/5-117                                      27   0.009
+>REV7746 = [+2577+] H7C7G8_CAUCR/18-133                                23   0.085
+REV7746[+2577+] H7C7G8_CAUCR/18-133                                    23   0.085
+REV332[+897+] Q7NWN4_CHRVO/8-126                                       23   0.12 
+>REV332 = [+897+] Q7NWN4_CHRVO/8-126                                   23   0.13 
+>REV7057 = [+94+] R6D2M1_9CLOT/4-116                                   22   0.16 
+REV7057[+94+] R6D2M1_9CLOT/4-116                                       22   0.16 
+>REV2014 = [+286+] Q9A3V2_CAUCR/21-135                                 22   0.32 
+REV2014[+286+] Q9A3V2_CAUCR/21-135                                     22   0.32 
+REV2433[+92+] F5YQH1_TREPZ/8-122                                       20   0.66 
+>REV2433 = [+92+] F5YQH1_TREPZ/8-122                                   20   0.67 
+REV1546[+1704+] D1B6P1_THEAS/6-119                                     20   0.81 
+>REV1546 = [+1704+] D1B6P1_THEAS/6-119                                 20   0.84 
+
+[blastpgp] WARNING:  [000.000]  posPurgeMatches: Due to purging near identical sequences, only the query is used to construct the position-specific score matrix
+
+Searching...........................................................done
+
+
+Results from round 2
+
+
+                                                                 Score    E
+Sequences producing significant alignments:                      (bits) Value
+Sequences used in model and found again:
+
+>REV11252 = [+26+] Q01FG2_OSTTA/14-130                                228   1e-63
+REV11252[+26+] Q01FG2_OSTTA/14-130                                    226   5e-63
+
+Sequences not found previously or not previously below threshold:
+
+>REV12260 = [+115+] D0LWI1_HALO1/18-130                                26   0.015
+REV12260[+115+] D0LWI1_HALO1/18-130                                    26   0.015
+>REV2878 = [+365+] I6Z850_MELRP/5-117                                  25   0.024
+REV2878[+365+] I6Z850_MELRP/5-117                                      25   0.024
+>REV12834 = [+56+] B1HZD2_LYSSC/4-115                                  24   0.046
+REV12834[+56+] B1HZD2_LYSSC/4-115                                      24   0.046
+>REV9228 = [+188+] A0BS33_PARTE/617-736                                23   0.13 
+REV9228[+188+] A0BS33_PARTE/617-736                                    23   0.13 
+>REV332 = [+897+] Q7NWN4_CHRVO/8-126                                   23   0.16 
+REV332[+897+] Q7NWN4_CHRVO/8-126                                       23   0.16 
+>REV7746 = [+2577+] H7C7G8_CAUCR/18-133                                23   0.16 
+REV7746[+2577+] H7C7G8_CAUCR/18-133                                    23   0.16 
+>REV7057 = [+94+] R6D2M1_9CLOT/4-116                                   22   0.22 
+REV7057[+94+] R6D2M1_9CLOT/4-116                                       22   0.22 
+>REV2014 = [+286+] Q9A3V2_CAUCR/21-135                                 21   0.56 
+REV2014[+286+] Q9A3V2_CAUCR/21-135                                     21   0.56 
+REV1546[+1704+] D1B6P1_THEAS/6-119                                     21   0.57 
+>REV1546 = [+1704+] D1B6P1_THEAS/6-119                                 20   0.61 
+>REV2433 = [+92+] F5YQH1_TREPZ/8-122                                   20   0.78 
+REV2433[+92+] F5YQH1_TREPZ/8-122                                       20   0.78 
+>SEQ2547 = [+75+] R5B906_9CLOT/13-127                                  16   9.5  
+SEQ2547[+75+] R5B906_9CLOT/13-127                                      16   9.5  
+
+
+CONVERGED!
+  Database: full.seq
+    Posted date:  Mar 4, 2016  4:18 PM
+  Number of letters in database: 20,283
+  Number of sequences in database:  178
+  
+Lambda     K      H
+   0.326    0.140    0.422 
+
+Lambda     K      H
+   0.267   0.0428    0.140 
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Number of Hits to DB: 10,218
+Number of Sequences: 178
+Number of extensions: 356
+Number of successful extensions: 46
+Number of sequences better than 10.0: 24
+Number of HSP's better than 10.0 without gapping: 46
+Number of HSP's successfully gapped in prelim test: 0
+Number of HSP's that attempted gapping in prelim test: 0
+Number of HSP's gapped (non-prelim): 46
+length of query: 117
+length of database: 20,283
+effective HSP length: 44
+effective length of query: 73
+effective length of database: 12,451
+effective search space:   908923
+effective search space used:   908923
+T: 11
+A: 40
+X1: 16 ( 7.5 bits)
+X2: 38 (14.6 bits)
+X3: 64 (24.7 bits)
+S1: 31 (17.4 bits)
+S2: 31 (16.5 bits)

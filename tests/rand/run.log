@@ -1,0 +1,21 @@
+9009
+90 8.580u kept = 3330 578
+80 3.676u kept = 934 82
+70 2.012u kept = 269 44
+60 1.004u kept = 92 22
+50 0.396u kept = 60 21
+20
+wtaylor@wt:~/mulsel/code$ cp shuffle30.seq shuffle.seq
+wtaylor@wt:~/mulsel/code$ tcsh align.csh
+seqsort.c: In function ‘decode’:
+seqsort.c:496:2: warning: function returns address of local variable [enabled by default]
+mulsel.c: In function ‘score’:
+mulsel.c:1538:16: warning: cast from pointer to integer of different size [-Wpointer-to-int-cast]
+30013
+90 137.720u kept = 10893 1085
+80 31.997u kept = 3382 258
+70 10.768u kept = 918 64
+60 4.400u kept = 296 22
+50 1.656u kept = 202 21
+20
+

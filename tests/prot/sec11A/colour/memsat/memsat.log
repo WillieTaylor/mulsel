@@ -1,0 +1,1731 @@
+sequence = >seq1402 = [+0+] gi|528237590|gb|EPY29143.1|/5178
+
+174 residues read from file.
+
+Helix 1 from  13 (in) to  31 (out) : 5926
++++++++++++++IIIIXXXXXXXXXXXOOOO----------------------------------------------------------------------------------------------------------------------------------------------
+eelsslrsmrfrdLIHQITSFAIVLSLAAALYttqsfltncphamvvvmsgsmepgyyrgdvlflharpeypvevgdiivyrlpardvpivhrvhrvhvresdskrlfltkgdnnmyddrviydegtewveedfiigksygyiprlgyitlmfnesrickiltlfllgffaita
+Score = -0.842000
+Helix 1 from  13 (out) to  31 (in) : 6315
+-------------OOOOXXXXXXXXXXXIIII++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+eelsslrsmrfrdLIHQITSFAIVLSLAAALYttqsfltncphamvvvmsgsmepgyyrgdvlflharpeypvevgdiivyrlpardvpivhrvhrvhvresdskrlfltkgdnnmyddrviydegtewveedfiigksygyiprlgyitlmfnesrickiltlfllgffaita
+Score = -2.640000
+Helix 1 from  13 (in) to  29 (out) : 1229
+Helix 2 from  36 (out) to  52 (in) : 530
+Helix 3 from  59 (in) to  75 (out) : 4294961593
+Helix 4 from  82 (out) to  98 (in) : 4294960035
+Helix 5 from 120 (in) to 136 (out) : 4294959829
+Helix 6 from 145 (out) to 167 (in) : 4294965403
++++++++++++++IIIIXXXXXXXXXOOOO------OOOOXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO------OOOOXXXXXXXXXIIII+++++++++++++++++++++IIIIXXXXXXXXXOOOO--------OOOOXXXXXXXXXXXXXXXIIII++++++
+eelsslrsmrfrdLIHQITSFAIVLSLAAAlyttqsFLTNCPHAMVVVMSGSMepgyyrGDVLFLHARPEYPVEVGdiivyrLPARDVPIVHRVHRVHVresdskrlfltkgdnnmyddrVIYDEGTEWVEEDFIIGksygyiprLGYITLMFNESRICKILTLFLLGffaita
+Score = -100000.000000
+Helix 1 from  13 (out) to  29 (in) : 1924
+Helix 2 from  36 (in) to  52 (out) : 1000
+Helix 3 from  74 (out) to  90 (in) : 4294963132
+Helix 4 from 120 (in) to 136 (out) : 4294959829
+Helix 5 from 145 (out) to 167 (in) : 4294965403
+-------------OOOOXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO---------------------OOOOXXXXXXXXXIIII+++++++++++++++++++++++++++++IIIIXXXXXXXXXOOOO--------OOOOXXXXXXXXXXXXXXXIIII++++++
+eelsslrsmrfrdLIHQITSFAIVLSLAAAlyttqsFLTNCPHAMVVVMSGSMepgyyrgdvlflharpeypveVGDIIVYRLPARDVPIVhrvhrvhvresdskrlfltkgdnnmyddrVIYDEGTEWVEEDFIIGksygyiprLGYITLMFNESRICKILTLFLLGffaita
+Score = -100000.000000
+Helix 1 from  13 (in) to  29 (out) : 1229
+Helix 2 from  36 (out) to  52 (in) : 530
+Helix 3 from  74 (in) to  90 (out) : 4294962957
+Helix 4 from 145 (out) to 167 (in) : 4294965403
++++++++++++++IIIIXXXXXXXXXOOOO------OOOOXXXXXXXXXIIII+++++++++++++++++++++IIIIXXXXXXXXXOOOO------------------------------------------------------OOOOXXXXXXXXXXXXXXXIIII++++++
+eelsslrsmrfrdLIHQITSFAIVLSLAAAlyttqsFLTNCPHAMVVVMSGSMepgyyrgdvlflharpeypveVGDIIVYRLPARDVPIVhrvhrvhvresdskrlfltkgdnnmyddrviydegtewveedfiigksygyiprLGYITLMFNESRICKILTLFLLGffaita
+Score = -100000.000000
+Helix 1 from  13 (out) to  29 (in) : 1924
+Helix 2 from  36 (in) to  52 (out) : 1000
+Helix 3 from 145 (out) to 167 (in) : 4294965403
+-------------OOOOXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO--------------------------------------------------------------------------------------------OOOOXXXXXXXXXXXXXXXIIII++++++
+eelsslrsmrfrdLIHQITSFAIVLSLAAAlyttqsFLTNCPHAMVVVMSGSMepgyyrgdvlflharpeypvevgdiivyrlpardvpivhrvhrvhvresdskrlfltkgdnnmyddrviydegtewveedfiigksygyiprLGYITLMFNESRICKILTLFLLGffaita
+Score = -100000.000000
+Helix 1 from  13 (in) to  31 (out) : 2206
+Helix 2 from 145 (out) to 167 (in) : 4294965403
++++++++++++++IIIIXXXXXXXXXXXOOOO-----------------------------------------------------------------------------------------------------------------OOOOXXXXXXXXXXXXXXXIIII++++++
+eelsslrsmrfrdLIHQITSFAIVLSLAAALYttqsfltncphamvvvmsgsmepgyyrgdvlflharpeypvevgdiivyrlpardvpivhrvhrvhvresdskrlfltkgdnnmyddrviydegtewveedfiigksygyiprLGYITLMFNESRICKILTLFLLGffaita
+Score = -100000.000000
+Helix 1 from  13 (out) to  29 (in) : 1924
+Helix 2 from  36 (in) to  52 (out) : 1000
+Helix 3 from  59 (out) to  75 (in) : 4294961781
+Helix 4 from  82 (in) to  98 (out) : 4294959983
+Helix 5 from 120 (out) to 136 (in) : 4294959454
+Helix 6 from 145 (in) to 167 (out) : 4294965591
+-------------OOOOXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO------OOOOXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO---------------------OOOOXXXXXXXXXIIII++++++++IIIIXXXXXXXXXXXXXXXOOOO------
+eelsslrsmrfrdLIHQITSFAIVLSLAAAlyttqsFLTNCPHAMVVVMSGSMepgyyrGDVLFLHARPEYPVEVGdiivyrLPARDVPIVHRVHRVHVresdskrlfltkgdnnmyddrVIYDEGTEWVEEDFIIGksygyiprLGYITLMFNESRICKILTLFLLGffaita
+Score = -100000.000000
+Helix 1 from  13 (in) to  29 (out) : 1229
+Helix 2 from  36 (out) to  52 (in) : 530
+Helix 3 from  59 (in) to  75 (out) : 4294961593
+Helix 4 from  82 (out) to  98 (in) : 4294960035
+Helix 5 from 145 (in) to 167 (out) : 4294965591
++++++++++++++IIIIXXXXXXXXXOOOO------OOOOXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO------OOOOXXXXXXXXXIIII++++++++++++++++++++++++++++++++++++++++++++++IIIIXXXXXXXXXXXXXXXOOOO------
+eelsslrsmrfrdLIHQITSFAIVLSLAAAlyttqsFLTNCPHAMVVVMSGSMepgyyrGDVLFLHARPEYPVEVGdiivyrLPARDVPIVHRVHRVHVresdskrlfltkgdnnmyddrviydegtewveedfiigksygyiprLGYITLMFNESRICKILTLFLLGffaita
+Score = -100000.000000
+Helix 1 from  13 (out) to  29 (in) : 1924
+Helix 2 from  36 (in) to  52 (out) : 1000
+Helix 3 from  74 (out) to  90 (in) : 4294963132
+Helix 4 from 145 (in) to 167 (out) : 4294965591
+-------------OOOOXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO---------------------OOOOXXXXXXXXXIIII++++++++++++++++++++++++++++++++++++++++++++++++++++++IIIIXXXXXXXXXXXXXXXOOOO------
+eelsslrsmrfrdLIHQITSFAIVLSLAAAlyttqsFLTNCPHAMVVVMSGSMepgyyrgdvlflharpeypveVGDIIVYRLPARDVPIVhrvhrvhvresdskrlfltkgdnnmyddrviydegtewveedfiigksygyiprLGYITLMFNESRICKILTLFLLGffaita
+Score = -100000.000000
+Helix 1 from  13 (in) to  31 (out) : 2206
+Helix 2 from  74 (out) to  90 (in) : 4294963132
+Helix 3 from 145 (in) to 167 (out) : 4294965591
++++++++++++++IIIIXXXXXXXXXXXOOOO------------------------------------------OOOOXXXXXXXXXIIII++++++++++++++++++++++++++++++++++++++++++++++++++++++IIIIXXXXXXXXXXXXXXXOOOO------
+eelsslrsmrfrdLIHQITSFAIVLSLAAALYttqsfltncphamvvvmsgsmepgyyrgdvlflharpeypveVGDIIVYRLPARDVPIVhrvhrvhvresdskrlfltkgdnnmyddrviydegtewveedfiigksygyiprLGYITLMFNESRICKILTLFLLGffaita
+Score = -100000.000000
+Helix 1 from  13 (out) to  29 (in) : 1924
+Helix 2 from  36 (in) to  52 (out) : 1000
+-------------OOOOXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO-------------------------------------------------------------------------------------------------------------------------
+eelsslrsmrfrdLIHQITSFAIVLSLAAAlyttqsFLTNCPHAMVVVMSGSMepgyyrgdvlflharpeypvevgdiivyrlpardvpivhrvhrvhvresdskrlfltkgdnnmyddrviydegtewveedfiigksygyiprlgyitlmfnesrickiltlfllgffaita
+Score = 0.584000
+ 1 helices (+) : Score = -0.842
+ 1 helices (-) : Score = -2.64
+ 2 helices (+) : Score = -100000
+ 2 helices (-) : Score = 0.584
+ 3 helices (+) : Score = -100000
+ 3 helices (-) : Score = -100000
+ 4 helices (+) : Score = -100000
+ 4 helices (-) : Score = -100000
+ 5 helices (+) : Score = -100000
+ 5 helices (-) : Score = -100000
+ 6 helices (+) : Score = -100000
+ 6 helices (-) : Score = -100000
+
+FINAL PREDICTION
+================
+1: (out) 14-30	(1.92)
+2: 37-53	(1.00)
+FINAL: >P1;USER>>seq1402
+FINAL: sequence = >seq1402 = [+0+] gi|528237590|gb|EPY29143.1|/5178
+FINAL: eelsslrsmrfrdLIHQITSFAIVLSLAAAlyttqsFLTNCPHAMVVVMSGSMepgyyrgdvlflharpeypvevgdiivyrlpardvpivhrvhrvhvresdskrlfltkgdnnmyddrviydegtewveedfiigksygyiprlgyitlmfnesrickiltlfllgffaita*
+sequence = >SEED:seq0 = [+39+] sp|P67812|1179
+
+179 residues read from file.
+
+Helix 1 from  17 (in) to  35 (out) : 5010
++++++++++++++++++IIIIXXXXXXXXXXXOOOO-----------------------------------------------------------------------------------------------------------------------------------------------
+mlsldflddvrrmnkrqLYYQVLNFGMIVSSALMIWkglmvitgsespivvvlsgsmepafhrgdllfltnrvedpirvgeivvfriegreipivhrvlkihekqnghikfltkgdnnavddrglykqgqhwlekkdvvgrargfvpyigivtilmndypkfkyavlfllglfvlvhre
+Score = -4.219000
+Helix 1 from  17 (out) to  35 (in) : 3614
+-----------------OOOOXXXXXXXXXXXIIII+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+mlsldflddvrrmnkrqLYYQVLNFGMIVSSALMIWkglmvitgsespivvvlsgsmepafhrgdllfltnrvedpirvgeivvfriegreipivhrvlkihekqnghikfltkgdnnavddrglykqgqhwlekkdvvgrargfvpyigivtilmndypkfkyavlfllglfvlvhre
+Score = -4.649000
+Helix 1 from  17 (in) to  33 (out) : 1483
+Helix 2 from  40 (out) to  56 (in) : 4294967026
+Helix 3 from  63 (in) to  79 (out) : 4294960541
+Helix 4 from  86 (out) to 102 (in) : 4294958498
+Helix 5 from 110 (in) to 126 (out) : 4294958135
+Helix 6 from 137 (out) to 155 (in) : 4294966847
++++++++++++++++++IIIIXXXXXXXXXOOOO------OOOOXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO------OOOOXXXXXXXXXIIII+++++++IIIIXXXXXXXXXOOOO----------OOOOXXXXXXXXXXXIIII+++++++++++++++++++++++
+mlsldflddvrrmnkrqLYYQVLNFGMIVSSALMiwkglmVITGSESPIVVVLSGSMepafhrGDLLFLTNRVEDPIRVGeivvfrIEGREIPIVHRVLKIHEkqnghikFLTKGDNNAVDDRGLYKqgqhwlekkdVVGRARGFVPYIGIVTILMndypkfkyavlfllglfvlvhre
+Score = -100000.000000
+Helix 1 from  17 (out) to  33 (in) : 1391
+Helix 2 from  40 (in) to  56 (out) : 740
+Helix 3 from  65 (out) to  84 (in) : 4294961470
+Helix 4 from 108 (in) to 125 (out) : 4294958852
+Helix 5 from 137 (out) to 155 (in) : 4294966847
+-----------------OOOOXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO--------OOOOXXXXXXXXXXXXIIII+++++++++++++++++++++++IIIIXXXXXXXXXXOOOO-----------OOOOXXXXXXXXXXXIIII+++++++++++++++++++++++
+mlsldflddvrrmnkrqLYYQVLNFGMIVSSALMiwkglmVITGSESPIVVVLSGSMepafhrgdLLFLTNRVEDPIRVGEIVVFriegreipivhrvlkihekqnghIKFLTKGDNNAVDDRGLYkqgqhwlekkdVVGRARGFVPYIGIVTILMndypkfkyavlfllglfvlvhre
+Score = -100000.000000
+Helix 1 from  17 (in) to  35 (out) : 2575
+Helix 2 from  48 (out) to  68 (in) : 4294964368
+Helix 3 from  78 (in) to  94 (out) : 4294961303
+Helix 4 from 137 (out) to 155 (in) : 4294966847
++++++++++++++++++IIIIXXXXXXXXXXXOOOO------------OOOOXXXXXXXXXXXXXIIII+++++++++IIIIXXXXXXXXXOOOO------------------------------------------OOOOXXXXXXXXXXXIIII+++++++++++++++++++++++
+mlsldflddvrrmnkrqLYYQVLNFGMIVSSALMIWkglmvitgsespIVVVLSGSMEPAFHRGDLLFLtnrvedpirVGEIVVFRIEGREIPIVhrvlkihekqnghikfltkgdnnavddrglykqgqhwlekkdVVGRARGFVPYIGIVTILMndypkfkyavlfllglfvlvhre
+Score = -100000.000000
+Helix 1 from  17 (out) to  33 (in) : 1391
+Helix 2 from  40 (in) to  56 (out) : 740
+Helix 3 from 137 (out) to 155 (in) : 4294966847
+-----------------OOOOXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO--------------------------------------------------------------------------------OOOOXXXXXXXXXXXIIII+++++++++++++++++++++++
+mlsldflddvrrmnkrqLYYQVLNFGMIVSSALMiwkglmVITGSESPIVVVLSGSMepafhrgdllfltnrvedpirvgeivvfriegreipivhrvlkihekqnghikfltkgdnnavddrglykqgqhwlekkdVVGRARGFVPYIGIVTILMndypkfkyavlfllglfvlvhre
+Score = -100000.000000
+Helix 1 from  17 (in) to  35 (out) : 2575
+Helix 2 from  48 (out) to  68 (in) : 4294964368
++++++++++++++++++IIIIXXXXXXXXXXXOOOO------------OOOOXXXXXXXXXXXXXIIII++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+mlsldflddvrrmnkrqLYYQVLNFGMIVSSALMIWkglmvitgsespIVVVLSGSMEPAFHRGDLLFLtnrvedpirvgeivvfriegreipivhrvlkihekqnghikfltkgdnnavddrglykqgqhwlekkdvvgrargfvpyigivtilmndypkfkyavlfllglfvlvhre
+Score = -100000.000000
+Helix 1 from  17 (out) to  33 (in) : 1391
+Helix 2 from  40 (in) to  56 (out) : 740
+Helix 3 from  63 (out) to  79 (in) : 4294961111
+Helix 4 from  86 (in) to 102 (out) : 4294958924
+Helix 5 from 109 (out) to 125 (in) : 4294958238
+Helix 6 from 137 (in) to 155 (out) : 4294967215
+-----------------OOOOXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO------OOOOXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO------OOOOXXXXXXXXXIIII+++++++++++IIIIXXXXXXXXXXXOOOO-----------------------
+mlsldflddvrrmnkrqLYYQVLNFGMIVSSALMiwkglmVITGSESPIVVVLSGSMepafhrGDLLFLTNRVEDPIRVGeivvfrIEGREIPIVHRVLKIHEkqnghiKFLTKGDNNAVDDRGLYkqgqhwlekkdVVGRARGFVPYIGIVTILMndypkfkyavlfllglfvlvhre
+Score = -100000.000000
+Helix 1 from  17 (in) to  35 (out) : 2575
+Helix 2 from  48 (out) to  68 (in) : 4294964368
+Helix 3 from  78 (in) to  94 (out) : 4294961303
+Helix 4 from 108 (out) to 125 (in) : 4294958369
+Helix 5 from 137 (in) to 155 (out) : 4294967215
++++++++++++++++++IIIIXXXXXXXXXXXOOOO------------OOOOXXXXXXXXXXXXXIIII+++++++++IIIIXXXXXXXXXOOOO-------------OOOOXXXXXXXXXXIIII+++++++++++IIIIXXXXXXXXXXXOOOO-----------------------
+mlsldflddvrrmnkrqLYYQVLNFGMIVSSALMIWkglmvitgsespIVVVLSGSMEPAFHRGDLLFLtnrvedpirVGEIVVFRIEGREIPIVhrvlkihekqnghIKFLTKGDNNAVDDRGLYkqgqhwlekkdVVGRARGFVPYIGIVTILMndypkfkyavlfllglfvlvhre
+Score = -100000.000000
+Helix 1 from  17 (out) to  33 (in) : 1391
+Helix 2 from  40 (in) to  56 (out) : 740
+Helix 3 from  65 (out) to  84 (in) : 4294961470
+Helix 4 from 137 (in) to 155 (out) : 4294967215
+-----------------OOOOXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO--------OOOOXXXXXXXXXXXXIIII++++++++++++++++++++++++++++++++++++++++++++++++++++IIIIXXXXXXXXXXXOOOO-----------------------
+mlsldflddvrrmnkrqLYYQVLNFGMIVSSALMiwkglmVITGSESPIVVVLSGSMepafhrgdLLFLTNRVEDPIRVGEIVVFriegreipivhrvlkihekqnghikfltkgdnnavddrglykqgqhwlekkdVVGRARGFVPYIGIVTILMndypkfkyavlfllglfvlvhre
+Score = -100000.000000
+Helix 1 from  17 (in) to  35 (out) : 2575
+Helix 2 from  48 (out) to  68 (in) : 4294964368
+Helix 3 from 137 (in) to 155 (out) : 4294967215
++++++++++++++++++IIIIXXXXXXXXXXXOOOO------------OOOOXXXXXXXXXXXXXIIII++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++IIIIXXXXXXXXXXXOOOO-----------------------
+mlsldflddvrrmnkrqLYYQVLNFGMIVSSALMIWkglmvitgsespIVVVLSGSMEPAFHRGDLLFLtnrvedpirvgeivvfriegreipivhrvlkihekqnghikfltkgdnnavddrglykqgqhwlekkdVVGRARGFVPYIGIVTILMndypkfkyavlfllglfvlvhre
+Score = -100000.000000
+Helix 1 from  24 (out) to  41 (in) : 1895
+Helix 2 from 137 (in) to 155 (out) : 4294967215
+------------------------OOOOXXXXXXXXXXIIII+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++IIIIXXXXXXXXXXXOOOO-----------------------
+mlsldflddvrrmnkrqlyyqvlnFGMIVSSALMIWKGLMVItgsespivvvlsgsmepafhrgdllfltnrvedpirvgeivvfriegreipivhrvlkihekqnghikfltkgdnnavddrglykqgqhwlekkdVVGRARGFVPYIGIVTILMndypkfkyavlfllglfvlvhre
+Score = -100000.000000
+ 1 helices (+) : Score = -4.219
+ 1 helices (-) : Score = -4.649
+ 2 helices (+) : Score = -100000
+ 2 helices (-) : Score = -100000
+ 3 helices (+) : Score = -100000
+ 3 helices (-) : Score = -100000
+ 4 helices (+) : Score = -100000
+ 4 helices (-) : Score = -100000
+ 5 helices (+) : Score = -100000
+ 5 helices (-) : Score = -100000
+ 6 helices (+) : Score = -100000
+ 6 helices (-) : Score = -100000
+
+FINAL PREDICTION
+================
+1: (in) 18-36	(2.58)
+FINAL: >P1;USER>>SEED:seq0
+FINAL: sequence = >SEED:seq0 = [+39+] sp|P67812|1179
+FINAL: mlsldflddvrrmnkrqLYYQVLNFGMIVSSALMIWkglmvitgsespivvvlsgsmepafhrgdllfltnrvedpirvgeivvfriegreipivhrvlkihekqnghikfltkgdnnavddrglykqgqhwlekkdvvgrargfvpyigivtilmndypkfkyavlfllglfvlvhre*
+sequence = >seq1233 = [+0+] gi|384493939|gb|EIE84430.1|/3174
+
+172 residues read from file.
+
+Helix 1 from  10 (in) to  28 (out) : 5335
+++++++++++IIIIXXXXXXXXXXXOOOO-----------------------------------------------------------------------------------------------------------------------------------------------
+gelrrmnmrqVALQILNILTIGATTLMVWkglsvitnnespivvvlsgsmepgfhrgdlllltlprnepvaindicvfklpgrsipivhrvlkihedesgkefiltkgdnnhrddrvlydrgqmwinkehivgkvkgflpyvgmvtilmndyawmkyailavlglfvlihre
+Score = -1.468000
+Helix 1 from  10 (out) to  28 (in) : 5729
+----------OOOOXXXXXXXXXXXIIII+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+gelrrmnmrqVALQILNILTIGATTLMVWkglsvitnnespivvvlsgsmepgfhrgdlllltlprnepvaindicvfklpgrsipivhrvlkihedesgkefiltkgdnnhrddrvlydrgqmwinkehivgkvkgflpyvgmvtilmndyawmkyailavlglfvlihre
+Score = -2.891000
+Helix 1 from  10 (in) to  26 (out) : 1851
+Helix 2 from  33 (out) to  49 (in) : 4294965720
+Helix 3 from  56 (in) to  72 (out) : 4294963009
+Helix 4 from  79 (out) to  95 (in) : 4294961121
+Helix 5 from 116 (in) to 132 (out) : 4294959686
+Helix 6 from 141 (out) to 165 (in) : 82
+++++++++++IIIIXXXXXXXXXOOOO------OOOOXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO------OOOOXXXXXXXXXIIII++++++++++++++++++++IIIIXXXXXXXXXOOOO--------OOOOXXXXXXXXXXXXXXXXXIIII++++++
+gelrrmnmrqVALQILNILTIGATTLMvwkglsVITNNESPIVVVLSGSMepgfhrGDLLLLTLPRNEPVAINdicvfkLPGRSIPIVHRVLKIHEdesgkefiltkgdnnhrddrVLYDRGQMWINKEHIVGkvkgflpyVGMVTILMNDYAWMKYAILAVLGLFvlihre
+Score = -100000.000000
+Helix 1 from  10 (out) to  26 (in) : 1743
+Helix 2 from  33 (in) to  49 (out) : 4294966788
+Helix 3 from  69 (out) to  87 (in) : 4294964150
+Helix 4 from 116 (in) to 132 (out) : 4294959686
+Helix 5 from 141 (out) to 165 (in) : 82
+----------OOOOXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO-------------------OOOOXXXXXXXXXXXIIII++++++++++++++++++++++++++++IIIIXXXXXXXXXOOOO--------OOOOXXXXXXXXXXXXXXXXXIIII++++++
+gelrrmnmrqVALQILNILTIGATTLMvwkglsVITNNESPIVVVLSGSMepgfhrgdlllltlprnepVAINDICVFKLPGRSIPIVhrvlkihedesgkefiltkgdnnhrddrVLYDRGQMWINKEHIVGkvkgflpyVGMVTILMNDYAWMKYAILAVLGLFvlihre
+Score = -100000.000000
+Helix 1 from  10 (in) to  28 (out) : 3065
+Helix 2 from  41 (out) to  63 (in) : 4294964766
+Helix 3 from  70 (in) to  87 (out) : 4294964129
+Helix 4 from 141 (out) to 165 (in) : 82
+++++++++++IIIIXXXXXXXXXXXOOOO------------OOOOXXXXXXXXXXXXXXXIIII++++++IIIIXXXXXXXXXXOOOO-----------------------------------------------------OOOOXXXXXXXXXXXXXXXXXIIII++++++
+gelrrmnmrqVALQILNILTIGATTLMVWkglsvitnnespIVVVLSGSMEPGFHRGDLLLLTLprnepvAINDICVFKLPGRSIPIVhrvlkihedesgkefiltkgdnnhrddrvlydrgqmwinkehivgkvkgflpyVGMVTILMNDYAWMKYAILAVLGLFvlihre
+Score = -100000.000000
+Helix 1 from  10 (out) to  26 (in) : 1743
+Helix 2 from  33 (in) to  49 (out) : 4294966788
+Helix 3 from 141 (out) to 165 (in) : 82
+----------OOOOXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO-------------------------------------------------------------------------------------------OOOOXXXXXXXXXXXXXXXXXIIII++++++
+gelrrmnmrqVALQILNILTIGATTLMvwkglsVITNNESPIVVVLSGSMepgfhrgdlllltlprnepvaindicvfklpgrsipivhrvlkihedesgkefiltkgdnnhrddrvlydrgqmwinkehivgkvkgflpyVGMVTILMNDYAWMKYAILAVLGLFvlihre
+Score = -100000.000000
+Helix 1 from  10 (in) to  28 (out) : 3065
+Helix 2 from 141 (out) to 165 (in) : 82
+++++++++++IIIIXXXXXXXXXXXOOOO----------------------------------------------------------------------------------------------------------------OOOOXXXXXXXXXXXXXXXXXIIII++++++
+gelrrmnmrqVALQILNILTIGATTLMVWkglsvitnnespivvvlsgsmepgfhrgdlllltlprnepvaindicvfklpgrsipivhrvlkihedesgkefiltkgdnnhrddrvlydrgqmwinkehivgkvkgflpyVGMVTILMNDYAWMKYAILAVLGLFvlihre
+Score = -100000.000000
+Helix 1 from  10 (out) to  26 (in) : 1743
+Helix 2 from  33 (in) to  49 (out) : 4294966788
+Helix 3 from  56 (out) to  72 (in) : 4294963640
+Helix 4 from  79 (in) to  95 (out) : 4294961098
+Helix 5 from 116 (out) to 132 (in) : 4294959332
+Helix 6 from 141 (in) to 165 (out) : 381
+----------OOOOXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO------OOOOXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO--------------------OOOOXXXXXXXXXIIII++++++++IIIIXXXXXXXXXXXXXXXXXOOOO------
+gelrrmnmrqVALQILNILTIGATTLMvwkglsVITNNESPIVVVLSGSMepgfhrGDLLLLTLPRNEPVAINdicvfkLPGRSIPIVHRVLKIHEdesgkefiltkgdnnhrddrVLYDRGQMWINKEHIVGkvkgflpyVGMVTILMNDYAWMKYAILAVLGLFvlihre
+Score = -100000.000000
+Helix 1 from  10 (in) to  28 (out) : 3065
+Helix 2 from  41 (out) to  63 (in) : 4294964766
+Helix 3 from  70 (in) to  87 (out) : 4294964129
+Helix 4 from 116 (out) to 132 (in) : 4294959332
+Helix 5 from 141 (in) to 165 (out) : 381
+++++++++++IIIIXXXXXXXXXXXOOOO------------OOOOXXXXXXXXXXXXXXXIIII++++++IIIIXXXXXXXXXXOOOO----------------------------OOOOXXXXXXXXXIIII++++++++IIIIXXXXXXXXXXXXXXXXXOOOO------
+gelrrmnmrqVALQILNILTIGATTLMVWkglsvitnnespIVVVLSGSMEPGFHRGDLLLLTLprnepvAINDICVFKLPGRSIPIVhrvlkihedesgkefiltkgdnnhrddrVLYDRGQMWINKEHIVGkvkgflpyVGMVTILMNDYAWMKYAILAVLGLFvlihre
+Score = -100000.000000
+Helix 1 from  10 (out) to  26 (in) : 1743
+Helix 2 from  33 (in) to  49 (out) : 4294966788
+Helix 3 from  69 (out) to  87 (in) : 4294964150
+Helix 4 from 141 (in) to 165 (out) : 381
+----------OOOOXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO-------------------OOOOXXXXXXXXXXXIIII+++++++++++++++++++++++++++++++++++++++++++++++++++++IIIIXXXXXXXXXXXXXXXXXOOOO------
+gelrrmnmrqVALQILNILTIGATTLMvwkglsVITNNESPIVVVLSGSMepgfhrgdlllltlprnepVAINDICVFKLPGRSIPIVhrvlkihedesgkefiltkgdnnhrddrvlydrgqmwinkehivgkvkgflpyVGMVTILMNDYAWMKYAILAVLGLFvlihre
+Score = -100000.000000
+Helix 1 from  10 (in) to  28 (out) : 3065
+Helix 2 from  69 (out) to  87 (in) : 4294964150
+Helix 3 from 141 (in) to 165 (out) : 381
+++++++++++IIIIXXXXXXXXXXXOOOO----------------------------------------OOOOXXXXXXXXXXXIIII+++++++++++++++++++++++++++++++++++++++++++++++++++++IIIIXXXXXXXXXXXXXXXXXOOOO------
+gelrrmnmrqVALQILNILTIGATTLMVWkglsvitnnespivvvlsgsmepgfhrgdlllltlprnepVAINDICVFKLPGRSIPIVhrvlkihedesgkefiltkgdnnhrddrvlydrgqmwinkehivgkvkgflpyVGMVTILMNDYAWMKYAILAVLGLFvlihre
+Score = -100000.000000
+Helix 1 from  10 (out) to  28 (in) : 2397
+Helix 2 from 141 (in) to 165 (out) : 381
+----------OOOOXXXXXXXXXXXIIII++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++IIIIXXXXXXXXXXXXXXXXXOOOO------
+gelrrmnmrqVALQILNILTIGATTLMVWkglsvitnnespivvvlsgsmepgfhrgdlllltlprnepvaindicvfklpgrsipivhrvlkihedesgkefiltkgdnnhrddrvlydrgqmwinkehivgkvkgflpyVGMVTILMNDYAWMKYAILAVLGLFvlihre
+Score = 1.234000
+ 1 helices (+) : Score = -1.468
+ 1 helices (-) : Score = -2.891
+ 2 helices (+) : Score = -100000
+ 2 helices (-) : Score = 1.234
+ 3 helices (+) : Score = -100000
+ 3 helices (-) : Score = -100000
+ 4 helices (+) : Score = -100000
+ 4 helices (-) : Score = -100000
+ 5 helices (+) : Score = -100000
+ 5 helices (-) : Score = -100000
+ 6 helices (+) : Score = -100000
+ 6 helices (-) : Score = -100000
+
+FINAL PREDICTION
+================
+1: (out) 11-29	(2.40)
+2: 142-166	(0.38)
+FINAL: >P1;USER>>seq1233
+FINAL: sequence = >seq1233 = [+0+] gi|384493939|gb|EIE84430.1|/3174
+FINAL: gelrrmnmrqVALQILNILTIGATTLMVWkglsvitnnespivvvlsgsmepgfhrgdlllltlprnepvaindicvfklpgrsipivhrvlkihedesgkefiltkgdnnhrddrvlydrgqmwinkehivgkvkgflpyVGMVTILMNDYAWMKYAILAVLGLFvlihre*
+sequence = >seq1165 = [+0+] gi|330795655|ref|XP_003285887.1|/5178
+
+174 residues read from file.
+
+Helix 1 from  17 (in) to  37 (out) : 6347
++++++++++++++++++IIIIXXXXXXXXXXXXXOOOO----------------------------------------------------------------------------------------------------------------------------------------
+knlnpfnnipkyqiaqqIINFGLIVATALMIWKGLMIFsgsespivvvlsgsmipafyrgdllylnmedgpfrvgeivvfkidgkeipivhrilqihekengdyeirtkgdnnsvddlglyaqgqkwltrdhiigrakgflpsvgmvtivmhdypqlkyalvcvlalfvlstre
+Score = -4.861000
+Helix 1 from  17 (out) to  37 (in) : 7308
+-----------------OOOOXXXXXXXXXXXXXIIII++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+knlnpfnnipkyqiaqqIINFGLIVATALMIWKGLMIFsgsespivvvlsgsmipafyrgdllylnmedgpfrvgeivvfkidgkeipivhrilqihekengdyeirtkgdnnsvddlglyaqgqkwltrdhiigrakgflpsvgmvtivmhdypqlkyalvcvlalfvlstre
+Score = -4.154000
+Helix 1 from  17 (in) to  37 (out) : 2607
+Helix 2 from  44 (out) to  64 (in) : 51
+Helix 3 from  76 (in) to  93 (out) : 4294961146
+Helix 4 from 103 (out) to 120 (in) : 4294958448
+Helix 5 from 127 (in) to 143 (out) : 4294961498
+Helix 6 from 150 (out) to 167 (in) : 4294965541
++++++++++++++++++IIIIXXXXXXXXXXXXXOOOO------OOOOXXXXXXXXXXXXXIIII+++++++++++IIIIXXXXXXXXXXOOOO---------OOOOXXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO------OOOOXXXXXXXXXXIIII++++++
+knlnpfnnipkyqiaqqIINFGLIVATALMIWKGLMIFsgsespIVVVLSGSMIPAFYRGDLLYLnmedgpfrvgeIVVFKIDGKEIPIVHRILqihekengdYEIRTKGDNNSVDDLGLYaqgqkwLTRDHIIGRAKGFLPSVgmvtivMHDYPQLKYALVCVLALFvlstre
+Score = -100000.000000
+Helix 1 from  17 (out) to  37 (in) : 2073
+Helix 2 from  44 (in) to  64 (out) : 408
+Helix 3 from  76 (out) to  93 (in) : 4294961104
+Helix 4 from 117 (in) to 133 (out) : 4294960528
+Helix 5 from 143 (out) to 167 (in) : 4294966216
+-----------------OOOOXXXXXXXXXXXXXIIII++++++IIIIXXXXXXXXXXXXXOOOO-----------OOOOXXXXXXXXXXIIII+++++++++++++++++++++++IIIIXXXXXXXXXOOOO---------OOOOXXXXXXXXXXXXXXXXXIIII++++++
+knlnpfnnipkyqiaqqIINFGLIVATALMIWKGLMIFsgsespIVVVLSGSMIPAFYRGDLLYLnmedgpfrvgeIVVFKIDGKEIPIVHRILqihekengdyeirtkgdnnsvddLGLYAQGQKWLTRDHIIgrakgflpsVGMVTIVMHDYPQLKYALVCVLALFvlstre
+Score = -100000.000000
+Helix 1 from  17 (in) to  37 (out) : 2607
+Helix 2 from  44 (out) to  64 (in) : 51
+Helix 3 from  76 (in) to  93 (out) : 4294961146
+Helix 4 from 143 (out) to 167 (in) : 4294966216
++++++++++++++++++IIIIXXXXXXXXXXXXXOOOO------OOOOXXXXXXXXXXXXXIIII+++++++++++IIIIXXXXXXXXXXOOOO-------------------------------------------------OOOOXXXXXXXXXXXXXXXXXIIII++++++
+knlnpfnnipkyqiaqqIINFGLIVATALMIWKGLMIFsgsespIVVVLSGSMIPAFYRGDLLYLnmedgpfrvgeIVVFKIDGKEIPIVHRILqihekengdyeirtkgdnnsvddlglyaqgqkwltrdhiigrakgflpsVGMVTIVMHDYPQLKYALVCVLALFvlstre
+Score = -100000.000000
+Helix 1 from  17 (out) to  37 (in) : 2073
+Helix 2 from  44 (in) to  64 (out) : 408
+Helix 3 from 143 (out) to 167 (in) : 4294966216
+-----------------OOOOXXXXXXXXXXXXXIIII++++++IIIIXXXXXXXXXXXXXOOOO------------------------------------------------------------------------------OOOOXXXXXXXXXXXXXXXXXIIII++++++
+knlnpfnnipkyqiaqqIINFGLIVATALMIWKGLMIFsgsespIVVVLSGSMIPAFYRGDLLYLnmedgpfrvgeivvfkidgkeipivhrilqihekengdyeirtkgdnnsvddlglyaqgqkwltrdhiigrakgflpsVGMVTIVMHDYPQLKYALVCVLALFvlstre
+Score = -100000.000000
+Helix 1 from  17 (in) to  37 (out) : 2607
+Helix 2 from  44 (out) to  64 (in) : 51
++++++++++++++++++IIIIXXXXXXXXXXXXXOOOO------OOOOXXXXXXXXXXXXXIIII+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+knlnpfnnipkyqiaqqIINFGLIVATALMIWKGLMIFsgsespIVVVLSGSMIPAFYRGDLLYLnmedgpfrvgeivvfkidgkeipivhrilqihekengdyeirtkgdnnsvddlglyaqgqkwltrdhiigrakgflpsvgmvtivmhdypqlkyalvcvlalfvlstre
+Score = -100000.000000
+Helix 1 from  13 (out) to  29 (in) : 876
+Helix 2 from  36 (in) to  53 (out) : 517
+Helix 3 from  61 (out) to  78 (in) : 4294962749
+Helix 4 from  85 (in) to 101 (out) : 4294957861
+Helix 5 from 117 (out) to 134 (in) : 4294960455
+Helix 6 from 143 (in) to 167 (out) : 4294966307
+-------------OOOOXXXXXXXXXIIII++++++IIIIXXXXXXXXXXOOOO-------OOOOXXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO---------------OOOOXXXXXXXXXXIIII++++++++IIIIXXXXXXXXXXXXXXXXXOOOO------
+knlnpfnnipkyqIAQQIINFGLIVATALMiwkglmIFSGSESPIVVVLSGSMIpafyrgdLLYLNMEDGPFRVGEIVVfkidgkEIPIVHRILQIHEKENGdyeirtkgdnnsvddLGLYAQGQKWLTRDHIIGrakgflpsVGMVTIVMHDYPQLKYALVCVLALFvlstre
+Score = -100000.000000
+Helix 1 from  17 (in) to  37 (out) : 2607
+Helix 2 from  44 (out) to  64 (in) : 51
+Helix 3 from  76 (in) to  93 (out) : 4294961146
+Helix 4 from 117 (out) to 134 (in) : 4294960455
+Helix 5 from 143 (in) to 167 (out) : 4294966307
++++++++++++++++++IIIIXXXXXXXXXXXXXOOOO------OOOOXXXXXXXXXXXXXIIII+++++++++++IIIIXXXXXXXXXXOOOO-----------------------OOOOXXXXXXXXXXIIII++++++++IIIIXXXXXXXXXXXXXXXXXOOOO------
+knlnpfnnipkyqiaqqIINFGLIVATALMIWKGLMIFsgsespIVVVLSGSMIPAFYRGDLLYLnmedgpfrvgeIVVFKIDGKEIPIVHRILqihekengdyeirtkgdnnsvddLGLYAQGQKWLTRDHIIGrakgflpsVGMVTIVMHDYPQLKYALVCVLALFvlstre
+Score = -100000.000000
+Helix 1 from  17 (out) to  37 (in) : 2073
+Helix 2 from  44 (in) to  64 (out) : 408
+Helix 3 from  76 (out) to  93 (in) : 4294961104
+Helix 4 from 132 (in) to 150 (out) : 4294966599
+-----------------OOOOXXXXXXXXXXXXXIIII++++++IIIIXXXXXXXXXXXXXOOOO-----------OOOOXXXXXXXXXXIIII++++++++++++++++++++++++++++++++++++++IIIIXXXXXXXXXXXOOOO-----------------------
+knlnpfnnipkyqiaqqIINFGLIVATALMIWKGLMIFsgsespIVVVLSGSMIPAFYRGDLLYLnmedgpfrvgeIVVFKIDGKEIPIVHRILqihekengdyeirtkgdnnsvddlglyaqgqkwltrdhIIGRAKGFLPSVGMVTIVMhdypqlkyalvcvlalfvlstre
+Score = -100000.000000
+Helix 1 from  17 (in) to  37 (out) : 2607
+Helix 2 from  44 (out) to  64 (in) : 51
+Helix 3 from 132 (in) to 150 (out) : 4294966599
++++++++++++++++++IIIIXXXXXXXXXXXXXOOOO------OOOOXXXXXXXXXXXXXIIII+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++IIIIXXXXXXXXXXXOOOO-----------------------
+knlnpfnnipkyqiaqqIINFGLIVATALMIWKGLMIFsgsespIVVVLSGSMIPAFYRGDLLYLnmedgpfrvgeivvfkidgkeipivhrilqihekengdyeirtkgdnnsvddlglyaqgqkwltrdhIIGRAKGFLPSVGMVTIVMhdypqlkyalvcvlalfvlstre
+Score = -100000.000000
+Helix 1 from  17 (out) to  37 (in) : 2073
+Helix 2 from  44 (in) to  64 (out) : 408
+-----------------OOOOXXXXXXXXXXXXXIIII++++++IIIIXXXXXXXXXXXXXOOOO-------------------------------------------------------------------------------------------------------------
+knlnpfnnipkyqiaqqIINFGLIVATALMIWKGLMIFsgsespIVVVLSGSMIPAFYRGDLLYLnmedgpfrvgeivvfkidgkeipivhrilqihekengdyeirtkgdnnsvddlglyaqgqkwltrdhiigrakgflpsvgmvtivmhdypqlkyalvcvlalfvlstre
+Score = 3.314000
+ 1 helices (+) : Score = -4.861
+ 1 helices (-) : Score = -4.154
+ 2 helices (+) : Score = -100000
+ 2 helices (-) : Score = 3.314
+ 3 helices (+) : Score = -100000
+ 3 helices (-) : Score = -100000
+ 4 helices (+) : Score = -100000
+ 4 helices (-) : Score = -100000
+ 5 helices (+) : Score = -100000
+ 5 helices (-) : Score = -100000
+ 6 helices (+) : Score = -100000
+ 6 helices (-) : Score = -100000
+
+FINAL PREDICTION
+================
+1: (out) 18-38	(2.07)
+2: 45-65	(0.41)
+FINAL: >P1;USER>>seq1165
+FINAL: sequence = >seq1165 = [+0+] gi|330795655|ref|XP_003285887.1|/5178
+FINAL: knlnpfnnipkyqiaqqIINFGLIVATALMIWKGLMIFsgsespIVVVLSGSMIPAFYRGDLLYLnmedgpfrvgeivvfkidgkeipivhrilqihekengdyeirtkgdnnsvddlglyaqgqkwltrdhiigrakgflpsvgmvtivmhdypqlkyalvcvlalfvlstre*
+sequence = >seq2229 = [+7+] gi|261201103|ref|XP_002626952.1|/3188
+
+186 residues read from file.
+
+Helix 1 from 144 (in) to 162 (out) : 1782
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++IIIIXXXXXXXXXXXOOOO-----------------------
+nprqtftqvlnfalvlstafmlwkglsvytnsaspivvvlsgsmepafqrgdllflwnrsprvdvgeivvynvrgkdipivhrvmrtfpdvpgkdktkkggkqdveaspsslesqklltkgdnnlsddtelyargqdyldrkedIVGSVRGYIPAVGYVTIMLsehpwlksvllgfmglmvilqre
+Score = -3.121000
+Helix 1 from  35 (out) to  56 (in) : 4294966165
+-----------------------------------OOOOXXXXXXXXXXXXXXIIII+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+nprqtftqvlnfalvlstafmlwkglsvytnsaspIVVVLSGSMEPAFQRGDLLFLWnrsprvdvgeivvynvrgkdipivhrvmrtfpdvpgkdktkkggkqdveaspsslesqklltkgdnnlsddtelyargqdyldrkedivgsvrgyipavgyvtimlsehpwlksvllgfmglmvilqre
+Score = -2.243000
+Helix 1 from   8 (in) to  24 (out) : 1525
+Helix 2 from  31 (out) to  47 (in) : 4294966853
+Helix 3 from  54 (in) to  70 (out) : 4294961910
+Helix 4 from  77 (out) to  93 (in) : 4294961281
+Helix 5 from 104 (in) to 120 (out) : 4294959919
+Helix 6 from 144 (out) to 162 (in) : 625
+++++++++IIIIXXXXXXXXXOOOO------OOOOXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO------OOOOXXXXXXXXXIIII++++++++++IIIIXXXXXXXXXOOOO-----------------------OOOOXXXXXXXXXXXIIII+++++++++++++++++++++++
+nprqtftqVLNFALVLSTAFMLWKGlsvytnSASPIVVVLSGSMEPAFqrgdllFLWNRSPRVDVGEIVVYnvrgkdIPIVHRVMRTFPDVPGKdktkkggkqdVEASPSSLESQKLLTKGdnnlsddtelyargqdyldrkedIVGSVRGYIPAVGYVTIMLsehpwlksvllgfmglmvilqre
+Score = -100000.000000
+Helix 1 from   6 (out) to  22 (in) : 1333
+Helix 2 from  31 (in) to  47 (out) : 4294967045
+Helix 3 from  54 (out) to  70 (in) : 4294962754
+Helix 4 from 104 (in) to 120 (out) : 4294959919
+Helix 5 from 144 (out) to 162 (in) : 625
+------OOOOXXXXXXXXXIIII++++++++IIIIXXXXXXXXXOOOO------OOOOXXXXXXXXXIIII+++++++++++++++++++++++++++++++++IIIIXXXXXXXXXOOOO-----------------------OOOOXXXXXXXXXXXIIII+++++++++++++++++++++++
+nprqtfTQVLNFALVLSTAFMLWkglsvytnSASPIVVVLSGSMEPAFqrgdllFLWNRSPRVDVGEIVVYnvrgkdipivhrvmrtfpdvpgkdktkkggkqdVEASPSSLESQKLLTKGdnnlsddtelyargqdyldrkedIVGSVRGYIPAVGYVTIMLsehpwlksvllgfmglmvilqre
+Score = -100000.000000
+Helix 1 from   8 (in) to  24 (out) : 1525
+Helix 2 from  31 (out) to  47 (in) : 4294966853
+Helix 3 from  64 (in) to  80 (out) : 4294961914
+Helix 4 from 144 (out) to 162 (in) : 625
+++++++++IIIIXXXXXXXXXOOOO------OOOOXXXXXXXXXIIII++++++++++++++++IIIIXXXXXXXXXOOOO---------------------------------------------------------------OOOOXXXXXXXXXXXIIII+++++++++++++++++++++++
+nprqtftqVLNFALVLSTAFMLWKGlsvytnSASPIVVVLSGSMEPAFqrgdllflwnrsprvdVGEIVVYNVRGKDIPIVhrvmrtfpdvpgkdktkkggkqdveaspsslesqklltkgdnnlsddtelyargqdyldrkedIVGSVRGYIPAVGYVTIMLsehpwlksvllgfmglmvilqre
+Score = -100000.000000
+Helix 1 from   6 (out) to  22 (in) : 1333
+Helix 2 from  31 (in) to  47 (out) : 4294967045
+Helix 3 from 144 (out) to 162 (in) : 625
+------OOOOXXXXXXXXXIIII++++++++IIIIXXXXXXXXXOOOO------------------------------------------------------------------------------------------------OOOOXXXXXXXXXXXIIII+++++++++++++++++++++++
+nprqtfTQVLNFALVLSTAFMLWkglsvytnSASPIVVVLSGSMEPAFqrgdllflwnrsprvdvgeivvynvrgkdipivhrvmrtfpdvpgkdktkkggkqdveaspsslesqklltkgdnnlsddtelyargqdyldrkedIVGSVRGYIPAVGYVTIMLsehpwlksvllgfmglmvilqre
+Score = -100000.000000
+Helix 1 from   8 (in) to  24 (out) : 1525
+Helix 2 from  31 (out) to  47 (in) : 4294966853
+++++++++IIIIXXXXXXXXXOOOO------OOOOXXXXXXXXXIIII++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+nprqtftqVLNFALVLSTAFMLWKGlsvytnSASPIVVVLSGSMEPAFqrgdllflwnrsprvdvgeivvynvrgkdipivhrvmrtfpdvpgkdktkkggkqdveaspsslesqklltkgdnnlsddtelyargqdyldrkedivgsvrgyipavgyvtimlsehpwlksvllgfmglmvilqre
+Score = -100000.000000
+Helix 1 from   6 (out) to  22 (in) : 1333
+Helix 2 from  31 (in) to  47 (out) : 4294967045
+Helix 3 from  54 (out) to  70 (in) : 4294962754
+Helix 4 from  77 (in) to  93 (out) : 4294960937
+Helix 5 from 104 (out) to 120 (in) : 4294960230
+Helix 6 from 144 (in) to 162 (out) : 743
+------OOOOXXXXXXXXXIIII++++++++IIIIXXXXXXXXXOOOO------OOOOXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO----------OOOOXXXXXXXXXIIII+++++++++++++++++++++++IIIIXXXXXXXXXXXOOOO-----------------------
+nprqtfTQVLNFALVLSTAFMLWkglsvytnSASPIVVVLSGSMEPAFqrgdllFLWNRSPRVDVGEIVVYnvrgkdIPIVHRVMRTFPDVPGKdktkkggkqdVEASPSSLESQKLLTKGdnnlsddtelyargqdyldrkedIVGSVRGYIPAVGYVTIMLsehpwlksvllgfmglmvilqre
+Score = -100000.000000
+Helix 1 from   8 (in) to  24 (out) : 1525
+Helix 2 from  31 (out) to  47 (in) : 4294966853
+Helix 3 from  54 (in) to  70 (out) : 4294961910
+Helix 4 from  77 (out) to  93 (in) : 4294961281
+Helix 5 from 144 (in) to 162 (out) : 743
+++++++++IIIIXXXXXXXXXOOOO------OOOOXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO------OOOOXXXXXXXXXIIII++++++++++++++++++++++++++++++++++++++++++++++++++IIIIXXXXXXXXXXXOOOO-----------------------
+nprqtftqVLNFALVLSTAFMLWKGlsvytnSASPIVVVLSGSMEPAFqrgdllFLWNRSPRVDVGEIVVYnvrgkdIPIVHRVMRTFPDVPGKdktkkggkqdveaspsslesqklltkgdnnlsddtelyargqdyldrkedIVGSVRGYIPAVGYVTIMLsehpwlksvllgfmglmvilqre
+Score = -100000.000000
+Helix 1 from   6 (out) to  22 (in) : 1333
+Helix 2 from  31 (in) to  47 (out) : 4294967045
+Helix 3 from  54 (out) to  70 (in) : 4294962754
+Helix 4 from 144 (in) to 162 (out) : 743
+------OOOOXXXXXXXXXIIII++++++++IIIIXXXXXXXXXOOOO------OOOOXXXXXXXXXIIII+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++IIIIXXXXXXXXXXXOOOO-----------------------
+nprqtfTQVLNFALVLSTAFMLWkglsvytnSASPIVVVLSGSMEPAFqrgdllFLWNRSPRVDVGEIVVYnvrgkdipivhrvmrtfpdvpgkdktkkggkqdveaspsslesqklltkgdnnlsddtelyargqdyldrkedIVGSVRGYIPAVGYVTIMLsehpwlksvllgfmglmvilqre
+Score = -100000.000000
+Helix 1 from   8 (in) to  24 (out) : 1525
+Helix 2 from  31 (out) to  47 (in) : 4294966853
+Helix 3 from 144 (in) to 162 (out) : 743
+++++++++IIIIXXXXXXXXXOOOO------OOOOXXXXXXXXXIIII++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++IIIIXXXXXXXXXXXOOOO-----------------------
+nprqtftqVLNFALVLSTAFMLWKGlsvytnSASPIVVVLSGSMEPAFqrgdllflwnrsprvdvgeivvynvrgkdipivhrvmrtfpdvpgkdktkkggkqdveaspsslesqklltkgdnnlsddtelyargqdyldrkedIVGSVRGYIPAVGYVTIMLsehpwlksvllgfmglmvilqre
+Score = -100000.000000
+Helix 1 from   8 (out) to  28 (in) : 1366
+Helix 2 from 144 (in) to 162 (out) : 743
+--------OOOOXXXXXXXXXXXXXIIII+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++IIIIXXXXXXXXXXXOOOO-----------------------
+nprqtftqVLNFALVLSTAFMLWKGLSVYtnsaspivvvlsgsmepafqrgdllflwnrsprvdvgeivvynvrgkdipivhrvmrtfpdvpgkdktkkggkqdveaspsslesqklltkgdnnlsddtelyargqdyldrkedIVGSVRGYIPAVGYVTIMLsehpwlksvllgfmglmvilqre
+Score = 8.152000
+ 1 helices (+) : Score = -3.121
+ 1 helices (-) : Score = -2.243
+ 2 helices (+) : Score = -100000
+ 2 helices (-) : Score = 8.152
+ 3 helices (+) : Score = -100000
+ 3 helices (-) : Score = -100000
+ 4 helices (+) : Score = -100000
+ 4 helices (-) : Score = -100000
+ 5 helices (+) : Score = -100000
+ 5 helices (-) : Score = -100000
+ 6 helices (+) : Score = -100000
+ 6 helices (-) : Score = -100000
+
+FINAL PREDICTION
+================
+1: (out) 9-29	(1.37)
+2: 145-163	(0.74)
+FINAL: >P1;USER>>seq2229
+FINAL: sequence = >seq2229 = [+7+] gi|261201103|ref|XP_002626952.1|/3188
+FINAL: nprqtftqVLNFALVLSTAFMLWKGLSVYtnsaspivvvlsgsmepafqrgdllflwnrsprvdvgeivvynvrgkdipivhrvmrtfpdvpgkdktkkggkqdveaspsslesqklltkgdnnlsddtelyargqdyldrkedIVGSVRGYIPAVGYVTIMLsehpwlksvllgfmglmvilqre*
+sequence = >seq1315 = [+11+] gi|453083497|gb|EMF11543.1|/3174
+
+172 residues read from file.
+
+Helix 1 from  10 (in) to  28 (out) : 5737
+++++++++++IIIIXXXXXXXXXXXOOOO-----------------------------------------------------------------------------------------------------------------------------------------------
+navaglqprqLAAQILNFALVLSTAFMLWkglsvvtdssspivvvlsgsmepafqrgdllflwnrgmetqvgevvvysvkgkdipivhrvvrrfgggakplqlltkgdnnaaddtelyargqsylerskdvigsvvayvpfvgyvtillseypwlktamlvfmaltvvlqre
+Score = 0.942000
+Helix 1 from 130 (out) to 148 (in) : 6575
+----------------------------------------------------------------------------------------------------------------------------------OOOOXXXXXXXXXXXIIII+++++++++++++++++++++++
+navaglqprqlaaqilnfalvlstafmlwkglsvvtdssspivvvlsgsmepafqrgdllflwnrgmetqvgevvvysvkgkdipivhrvvrrfgggakplqlltkgdnnaaddtelyargqsylerskdVIGSVVAYVPFVGYVTILLseypwlktamlvfmaltvvlqre
+Score = 2.706000
+Helix 1 from  10 (in) to  26 (out) : 1991
+Helix 2 from  33 (out) to  49 (in) : 6
+Helix 3 from  58 (in) to  76 (out) : 4294962866
+Helix 4 from  83 (out) to 100 (in) : 4294960592
+Helix 5 from 123 (in) to 141 (out) : 4294963320
+Helix 6 from 148 (out) to 164 (in) : 4294965966
+++++++++++IIIIXXXXXXXXXOOOO------OOOOXXXXXXXXXIIII++++++++IIIIXXXXXXXXXXXOOOO------OOOOXXXXXXXXXXIIII++++++++++++++++++++++IIIIXXXXXXXXXXXOOOO------OOOOXXXXXXXXXIIII+++++++
+navaglqprqLAAQILNFALVLSTAFMlwkglsVVTDSSSPIVVVLSGSMepafqrgdLLFLWNRGMETQVGEVVVYsvkgkdIPIVHRVVRRFGGGAKPLqlltkgdnnaaddtelyargqsYLERSKDVIGSVVAYVPFVgyvtilLSEYPWLKTAMLVFMALtvvlqre
+Score = -100000.000000
+Helix 1 from  10 (out) to  26 (in) : 1591
+Helix 2 from  33 (in) to  49 (out) : 1020
+Helix 3 from  58 (out) to  78 (in) : 4294962981
+Helix 4 from  89 (in) to 105 (out) : 4294961032
+Helix 5 from 130 (out) to 148 (in) : 3377
+----------OOOOXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO--------OOOOXXXXXXXXXXXXXIIII++++++++++IIIIXXXXXXXXXOOOO------------------------OOOOXXXXXXXXXXXIIII+++++++++++++++++++++++
+navaglqprqLAAQILNFALVLSTAFMlwkglsVVTDSSSPIVVVLSGSMepafqrgdLLFLWNRGMETQVGEVVVYSVkgkdipivhrVVRRFGGGAKPLQLLTKgdnnaaddtelyargqsylerskdVIGSVVAYVPFVGYVTILLseypwlktamlvfmaltvvlqre
+Score = -100000.000000
+Helix 1 from  10 (in) to  28 (out) : 3024
+Helix 2 from  37 (out) to  53 (in) : 4294966655
+Helix 3 from  73 (in) to  90 (out) : 4294962149
+Helix 4 from 130 (out) to 148 (in) : 3377
+++++++++++IIIIXXXXXXXXXXXOOOO--------OOOOXXXXXXXXXIIII+++++++++++++++++++IIIIXXXXXXXXXXOOOO---------------------------------------OOOOXXXXXXXXXXXIIII+++++++++++++++++++++++
+navaglqprqLAAQILNFALVLSTAFMLWkglsvvtdSSSPIVVVLSGSMEPAFqrgdllflwnrgmetqvgeVVVYSVKGKDIPIVHRVVrrfgggakplqlltkgdnnaaddtelyargqsylerskdVIGSVVAYVPFVGYVTILLseypwlktamlvfmaltvvlqre
+Score = -100000.000000
+Helix 1 from  10 (out) to  26 (in) : 1591
+Helix 2 from  33 (in) to  49 (out) : 1020
+Helix 3 from 130 (out) to 148 (in) : 3377
+----------OOOOXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO--------------------------------------------------------------------------------OOOOXXXXXXXXXXXIIII+++++++++++++++++++++++
+navaglqprqLAAQILNFALVLSTAFMlwkglsVVTDSSSPIVVVLSGSMepafqrgdllflwnrgmetqvgevvvysvkgkdipivhrvvrrfgggakplqlltkgdnnaaddtelyargqsylerskdVIGSVVAYVPFVGYVTILLseypwlktamlvfmaltvvlqre
+Score = 5.392000
+Helix 1 from  10 (in) to  28 (out) : 3024
+Helix 2 from 130 (out) to 148 (in) : 3377
+++++++++++IIIIXXXXXXXXXXXOOOO-----------------------------------------------------------------------------------------------------OOOOXXXXXXXXXXXIIII+++++++++++++++++++++++
+navaglqprqLAAQILNFALVLSTAFMLWkglsvvtdssspivvvlsgsmepafqrgdllflwnrgmetqvgevvvysvkgkdipivhrvvrrfgggakplqlltkgdnnaaddtelyargqsylerskdVIGSVVAYVPFVGYVTILLseypwlktamlvfmaltvvlqre
+Score = 4.727000
+Helix 1 from  10 (out) to  26 (in) : 1591
+Helix 2 from  33 (in) to  49 (out) : 1020
+Helix 3 from  58 (out) to  76 (in) : 4294963228
+Helix 4 from  83 (in) to 100 (out) : 4294960487
+Helix 5 from 108 (out) to 124 (in) : 4294959220
+Helix 6 from 131 (in) to 148 (out) : 2756
+----------OOOOXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO--------OOOOXXXXXXXXXXXIIII++++++IIIIXXXXXXXXXXOOOO-------OOOOXXXXXXXXXIIII++++++IIIIXXXXXXXXXXOOOO-----------------------
+navaglqprqLAAQILNFALVLSTAFMlwkglsVVTDSSSPIVVVLSGSMepafqrgdLLFLWNRGMETQVGEVVVYsvkgkdIPIVHRVVRRFGGGAKPLqlltkgdNNAADDTELYARGQSYLerskdvIGSVVAYVPFVGYVTILLseypwlktamlvfmaltvvlqre
+Score = -100000.000000
+Helix 1 from  10 (in) to  26 (out) : 1991
+Helix 2 from  33 (out) to  49 (in) : 6
+Helix 3 from  58 (in) to  76 (out) : 4294962866
+Helix 4 from  83 (out) to 100 (in) : 4294960592
+Helix 5 from 130 (in) to 148 (out) : 3263
+++++++++++IIIIXXXXXXXXXOOOO------OOOOXXXXXXXXXIIII++++++++IIIIXXXXXXXXXXXOOOO------OOOOXXXXXXXXXXIIII+++++++++++++++++++++++++++++IIIIXXXXXXXXXXXOOOO-----------------------
+navaglqprqLAAQILNFALVLSTAFMlwkglsVVTDSSSPIVVVLSGSMepafqrgdLLFLWNRGMETQVGEVVVYsvkgkdIPIVHRVVRRFGGGAKPLqlltkgdnnaaddtelyargqsylerskdVIGSVVAYVPFVGYVTILLseypwlktamlvfmaltvvlqre
+Score = -100000.000000
+Helix 1 from  10 (out) to  26 (in) : 1591
+Helix 2 from  33 (in) to  49 (out) : 1020
+Helix 3 from  58 (out) to  78 (in) : 4294962981
+Helix 4 from 130 (in) to 148 (out) : 3263
+----------OOOOXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO--------OOOOXXXXXXXXXXXXXIIII+++++++++++++++++++++++++++++++++++++++++++++++++++IIIIXXXXXXXXXXXOOOO-----------------------
+navaglqprqLAAQILNFALVLSTAFMlwkglsVVTDSSSPIVVVLSGSMepafqrgdLLFLWNRGMETQVGEVVVYSVkgkdipivhrvvrrfgggakplqlltkgdnnaaddtelyargqsylerskdVIGSVVAYVPFVGYVTILLseypwlktamlvfmaltvvlqre
+Score = -100000.000000
+Helix 1 from  10 (in) to  28 (out) : 3024
+Helix 2 from  37 (out) to  53 (in) : 4294966655
+Helix 3 from 130 (in) to 148 (out) : 3263
+++++++++++IIIIXXXXXXXXXXXOOOO--------OOOOXXXXXXXXXIIII++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++IIIIXXXXXXXXXXXOOOO-----------------------
+navaglqprqLAAQILNFALVLSTAFMLWkglsvvtdSSSPIVVVLSGSMEPAFqrgdllflwnrgmetqvgevvvysvkgkdipivhrvvrrfgggakplqlltkgdnnaaddtelyargqsylerskdVIGSVVAYVPFVGYVTILLseypwlktamlvfmaltvvlqre
+Score = -100000.000000
+Helix 1 from  10 (out) to  28 (in) : 2240
+Helix 2 from 130 (in) to 148 (out) : 3263
+----------OOOOXXXXXXXXXXXIIII+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++IIIIXXXXXXXXXXXOOOO-----------------------
+navaglqprqLAAQILNFALVLSTAFMLWkglsvvtdssspivvvlsgsmepafqrgdllflwnrgmetqvgevvvysvkgkdipivhrvvrrfgggakplqlltkgdnnaaddtelyargqsylerskdVIGSVVAYVPFVGYVTILLseypwlktamlvfmaltvvlqre
+Score = 5.405000
+ 1 helices (+) : Score = 0.942
+ 1 helices (-) : Score = 2.706
+ 2 helices (+) : Score = 4.727
+ 2 helices (-) : Score = 5.405
+ 3 helices (+) : Score = -100000
+ 3 helices (-) : Score = 5.392
+ 4 helices (+) : Score = -100000
+ 4 helices (-) : Score = -100000
+ 5 helices (+) : Score = -100000
+ 5 helices (-) : Score = -100000
+ 6 helices (+) : Score = -100000
+ 6 helices (-) : Score = -100000
+
+FINAL PREDICTION
+================
+1: (out) 11-29	(2.24)
+2: 131-149	(3.26)
+FINAL: >P1;USER>>seq1315
+FINAL: sequence = >seq1315 = [+11+] gi|453083497|gb|EMF11543.1|/3174
+FINAL: navaglqprqLAAQILNFALVLSTAFMLWkglsvvtdssspivvvlsgsmepafqrgdllflwnrgmetqvgevvvysvkgkdipivhrvvrrfgggakplqlltkgdnnaaddtelyargqsylerskdVIGSVVAYVPFVGYVTILLseypwlktamlvfmaltvvlqre*
+sequence = >seq2251 = [+0+] gi|291001895|ref|XP_002683514.1|/6188
+
+183 residues read from file.
+
+Helix 1 from  11 (in) to  29 (out) : 8513
++++++++++++IIIIXXXXXXXXXXXOOOO---------------------------------------------------------------------------------------------------------------------------------------------------------
+seqfkgfnareFLSQIVSLAFVLCSALIIWkslsiytncqspivvvltgsmepafyrgdilflslssdpvhigdivvyklegkeipivhrvirlhnthnqtnlfegkedenvkiltkgdhnphddrygiynpglqwlnrghivgrvksilpyvgmvtiimndypsvkyvvvgvlillvltnke
+Score = -4.451000
+Helix 1 from  11 (out) to  29 (in) : 8031
+-----------OOOOXXXXXXXXXXXIIII+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+seqfkgfnareFLSQIVSLAFVLCSALIIWkslsiytncqspivvvltgsmepafyrgdilflslssdpvhigdivvyklegkeipivhrvirlhnthnqtnlfegkedenvkiltkgdhnphddrygiynpglqwlnrghivgrvksilpyvgmvtiimndypsvkyvvvgvlillvltnke
+Score = -5.624000
+Helix 1 from  11 (in) to  27 (out) : 2297
+Helix 2 from  34 (out) to  50 (in) : 237
+Helix 3 from  59 (in) to  77 (out) : 4294967286
+Helix 4 from  86 (out) to 103 (in) : 4294960386
+Helix 5 from 126 (in) to 142 (out) : 4294964086
+Helix 6 from 152 (out) to 176 (in) : 469
++++++++++++IIIIXXXXXXXXXOOOO------OOOOXXXXXXXXXIIII++++++++IIIIXXXXXXXXXXXOOOO--------OOOOXXXXXXXXXXIIII++++++++++++++++++++++IIIIXXXXXXXXXOOOO---------OOOOXXXXXXXXXXXXXXXXXIIII++++++
+seqfkgfnareFLSQIVSLAFVLCSALIiwkslsIYTNCQSPIVVVLTGSMepafyrgdILFLSLSSDPVHIGDIVVYklegkeipIVHRVIRLHNTHNQTNLFegkedenvkiltkgdhnphddrYGIYNPGLQWLNRGHIVgrvksilpyVGMVTIIMNDYPSVKYVVVGVLILLvltnke
+Score = -100000.000000
+Helix 1 from  11 (out) to  27 (in) : 3100
+Helix 2 from  34 (in) to  50 (out) : 1053
+Helix 3 from  59 (out) to  77 (in) : 213
+Helix 4 from 126 (in) to 142 (out) : 4294964086
+Helix 5 from 152 (out) to 176 (in) : 469
+-----------OOOOXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO--------OOOOXXXXXXXXXXXIIII++++++++++++++++++++++++++++++++++++++++++++++++IIIIXXXXXXXXXOOOO---------OOOOXXXXXXXXXXXXXXXXXIIII++++++
+seqfkgfnareFLSQIVSLAFVLCSALIiwkslsIYTNCQSPIVVVLTGSMepafyrgdILFLSLSSDPVHIGDIVVYklegkeipivhrvirlhnthnqtnlfegkedenvkiltkgdhnphddrYGIYNPGLQWLNRGHIVgrvksilpyVGMVTIIMNDYPSVKYVVVGVLILLvltnke
+Score = -100000.000000
+Helix 1 from  11 (in) to  27 (out) : 2297
+Helix 2 from  34 (out) to  50 (in) : 237
+Helix 3 from  59 (in) to  77 (out) : 4294967286
+Helix 4 from 152 (out) to 176 (in) : 469
++++++++++++IIIIXXXXXXXXXOOOO------OOOOXXXXXXXXXIIII++++++++IIIIXXXXXXXXXXXOOOO--------------------------------------------------------------------------OOOOXXXXXXXXXXXXXXXXXIIII++++++
+seqfkgfnareFLSQIVSLAFVLCSALIiwkslsIYTNCQSPIVVVLTGSMepafyrgdILFLSLSSDPVHIGDIVVYklegkeipivhrvirlhnthnqtnlfegkedenvkiltkgdhnphddrygiynpglqwlnrghivgrvksilpyVGMVTIIMNDYPSVKYVVVGVLILLvltnke
+Score = -100000.000000
+Helix 1 from  11 (out) to  29 (in) : 3942
+Helix 2 from  42 (in) to  64 (out) : 4294966002
+Helix 3 from 152 (out) to 176 (in) : 469
+-----------OOOOXXXXXXXXXXXIIII++++++++++++IIIIXXXXXXXXXXXXXXXOOOO---------------------------------------------------------------------------------------OOOOXXXXXXXXXXXXXXXXXIIII++++++
+seqfkgfnareFLSQIVSLAFVLCSALIIWkslsiytncqspIVVVLTGSMEPAFYRGDILFLSLssdpvhigdivvyklegkeipivhrvirlhnthnqtnlfegkedenvkiltkgdhnphddrygiynpglqwlnrghivgrvksilpyVGMVTIIMNDYPSVKYVVVGVLILLvltnke
+Score = -100000.000000
+Helix 1 from  11 (in) to  29 (out) : 3684
+Helix 2 from 152 (out) to 176 (in) : 469
++++++++++++IIIIXXXXXXXXXXXOOOO--------------------------------------------------------------------------------------------------------------------------OOOOXXXXXXXXXXXXXXXXXIIII++++++
+seqfkgfnareFLSQIVSLAFVLCSALIIWkslsiytncqspivvvltgsmepafyrgdilflslssdpvhigdivvyklegkeipivhrvirlhnthnqtnlfegkedenvkiltkgdhnphddrygiynpglqwlnrghivgrvksilpyVGMVTIIMNDYPSVKYVVVGVLILLvltnke
+Score = 9.116000
+Helix 1 from  11 (out) to  27 (in) : 3100
+Helix 2 from  34 (in) to  50 (out) : 1053
+Helix 3 from  59 (out) to  77 (in) : 213
+Helix 4 from  84 (in) to 100 (out) : 4294960234
+Helix 5 from 126 (out) to 143 (in) : 4294964011
+Helix 6 from 152 (in) to 176 (out) : 193
+-----------OOOOXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO--------OOOOXXXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO-------------------------OOOOXXXXXXXXXXIIII++++++++IIIIXXXXXXXXXXXXXXXXXOOOO------
+seqfkgfnareFLSQIVSLAFVLCSALIiwkslsIYTNCQSPIVVVLTGSMepafyrgdILFLSLSSDPVHIGDIVVYklegkeIPIVHRVIRLHNTHNQTnlfegkedenvkiltkgdhnphddrYGIYNPGLQWLNRGHIVGrvksilpyVGMVTIIMNDYPSVKYVVVGVLILLvltnke
+Score = -100000.000000
+Helix 1 from  11 (in) to  27 (out) : 2297
+Helix 2 from  34 (out) to  50 (in) : 237
+Helix 3 from  59 (in) to  77 (out) : 4294967286
+Helix 4 from 126 (out) to 143 (in) : 4294964011
+Helix 5 from 152 (in) to 176 (out) : 193
++++++++++++IIIIXXXXXXXXXOOOO------OOOOXXXXXXXXXIIII++++++++IIIIXXXXXXXXXXXOOOO------------------------------------------------OOOOXXXXXXXXXXIIII++++++++IIIIXXXXXXXXXXXXXXXXXOOOO------
+seqfkgfnareFLSQIVSLAFVLCSALIiwkslsIYTNCQSPIVVVLTGSMepafyrgdILFLSLSSDPVHIGDIVVYklegkeipivhrvirlhnthnqtnlfegkedenvkiltkgdhnphddrYGIYNPGLQWLNRGHIVGrvksilpyVGMVTIIMNDYPSVKYVVVGVLILLvltnke
+Score = -100000.000000
+Helix 1 from  11 (out) to  27 (in) : 3100
+Helix 2 from  34 (in) to  50 (out) : 1053
+Helix 3 from  59 (out) to  77 (in) : 213
+Helix 4 from 152 (in) to 176 (out) : 193
+-----------OOOOXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO--------OOOOXXXXXXXXXXXIIII++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++IIIIXXXXXXXXXXXXXXXXXOOOO------
+seqfkgfnareFLSQIVSLAFVLCSALIiwkslsIYTNCQSPIVVVLTGSMepafyrgdILFLSLSSDPVHIGDIVVYklegkeipivhrvirlhnthnqtnlfegkedenvkiltkgdhnphddrygiynpglqwlnrghivgrvksilpyVGMVTIIMNDYPSVKYVVVGVLILLvltnke
+Score = 8.815000
+Helix 1 from  11 (in) to  29 (out) : 3684
+Helix 2 from  59 (out) to  77 (in) : 213
+Helix 3 from 152 (in) to 176 (out) : 193
++++++++++++IIIIXXXXXXXXXXXOOOO-----------------------------OOOOXXXXXXXXXXXIIII++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++IIIIXXXXXXXXXXXXXXXXXOOOO------
+seqfkgfnareFLSQIVSLAFVLCSALIIWkslsiytncqspivvvltgsmepafyrgdILFLSLSSDPVHIGDIVVYklegkeipivhrvirlhnthnqtnlfegkedenvkiltkgdhnphddrygiynpglqwlnrghivgrvksilpyVGMVTIIMNDYPSVKYVVVGVLILLvltnke
+Score = 8.703000
+Helix 1 from  11 (out) to  29 (in) : 3942
+Helix 2 from  42 (in) to  64 (out) : 4294966002
+-----------OOOOXXXXXXXXXXXIIII++++++++++++IIIIXXXXXXXXXXXXXXXOOOO----------------------------------------------------------------------------------------------------------------------
+seqfkgfnareFLSQIVSLAFVLCSALIIWkslsiytncqspIVVVLTGSMEPAFYRGDILFLSLssdpvhigdivvyklegkeipivhrvirlhnthnqtnlfegkedenvkiltkgdhnphddrygiynpglqwlnrghivgrvksilpyvgmvtiimndypsvkyvvvgvlillvltnke
+Score = -100000.000000
+ 1 helices (+) : Score = -4.451
+ 1 helices (-) : Score = -5.624
+ 2 helices (+) : Score = 9.116
+ 2 helices (-) : Score = -100000
+ 3 helices (+) : Score = 8.703
+ 3 helices (-) : Score = -100000
+ 4 helices (+) : Score = -100000
+ 4 helices (-) : Score = 8.815
+ 5 helices (+) : Score = -100000
+ 5 helices (-) : Score = -100000
+ 6 helices (+) : Score = -100000
+ 6 helices (-) : Score = -100000
+
+FINAL PREDICTION
+================
+1: (in) 12-30	(3.68)
+2: 153-177	(0.47)
+FINAL: >P1;USER>>seq2251
+FINAL: sequence = >seq2251 = [+0+] gi|291001895|ref|XP_002683514.1|/6188
+FINAL: seqfkgfnareFLSQIVSLAFVLCSALIIWkslsiytncqspivvvltgsmepafyrgdilflslssdpvhigdivvyklegkeipivhrvirlhnthnqtnlfegkedenvkiltkgdhnphddrygiynpglqwlnrghivgrvksilpyVGMVTIIMNDYPSVKYVVVGVLILLvltnke*
+sequence = >seq2184 = [+1+] gi|118396019|ref|XP_001030353.1|/6180
+
+175 residues read from file.
+
+Helix 1 from  15 (in) to  33 (out) : 8887
++++++++++++++++IIIIXXXXXXXXXXXOOOO---------------------------------------------------------------------------------------------------------------------------------------------
+vkdtikeiasmkfrkILIQGASLAMIVGSALMIWktlmvltmsdspvvvvltgsmeplyyrgdilflynreekittgdvvvyqngeqeipivhrviavqekedneyyiltkgdnnfsddrglysppklwihkkdvlgkvkgylpylgmvtiilndyptvkyvvlglmglfvliak
+Score = -1.466000
+Helix 1 from  15 (out) to  33 (in) : 9103
+---------------OOOOXXXXXXXXXXXIIII+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vkdtikeiasmkfrkILIQGASLAMIVGSALMIWktlmvltmsdspvvvvltgsmeplyyrgdilflynreekittgdvvvyqngeqeipivhrviavqekedneyyiltkgdnnfsddrglysppklwihkkdvlgkvkgylpylgmvtiilndyptvkyvvlglmglfvliak
+Score = -3.211000
+Helix 1 from  15 (in) to  31 (out) : 2269
+Helix 2 from  38 (out) to  54 (in) : 311
+Helix 3 from  63 (in) to  81 (out) : 4294960457
+Helix 4 from  90 (out) to 108 (in) : 4294956743
+Helix 5 from 120 (in) to 136 (out) : 4294960006
+Helix 6 from 144 (out) to 168 (in) : 205
++++++++++++++++IIIIXXXXXXXXXOOOO------OOOOXXXXXXXXXIIII++++++++IIIIXXXXXXXXXXXOOOO--------OOOOXXXXXXXXXXXIIII+++++++++++IIIIXXXXXXXXXOOOO-------OOOOXXXXXXXXXXXXXXXXXIIII++++++
+vkdtikeiasmkfrkILIQGASLAMIVGSALMiwktlmVLTMSDSPVVVVLTGSMeplyyrgdILFLYNREEKITTGDVVVYqngeqeipIVHRVIAVQEKEDNEYYILtkgdnnfsddrGLYSPPKLWIHKKDVLGkvkgylpYLGMVTIILNDYPTVKYVVLGLMGLfvliak
+Score = -100000.000000
+Helix 1 from  15 (out) to  31 (in) : 1942
+Helix 2 from  38 (in) to  54 (out) : 1075
+Helix 3 from  78 (out) to  97 (in) : 4294961056
+Helix 4 from 120 (in) to 136 (out) : 4294960006
+Helix 5 from 144 (out) to 168 (in) : 205
+---------------OOOOXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO-----------------------OOOOXXXXXXXXXXXXIIII++++++++++++++++++++++IIIIXXXXXXXXXOOOO-------OOOOXXXXXXXXXXXXXXXXXIIII++++++
+vkdtikeiasmkfrkILIQGASLAMIVGSALMiwktlmVLTMSDSPVVVVLTGSMeplyyrgdilflynreekittgdVVVYQNGEQEIPIVHRVIAVqekedneyyiltkgdnnfsddrGLYSPPKLWIHKKDVLGkvkgylpYLGMVTIILNDYPTVKYVVLGLMGLfvliak
+Score = -100000.000000
+Helix 1 from  15 (in) to  33 (out) : 3361
+Helix 2 from  46 (out) to  67 (in) : 4294965426
+Helix 3 from  78 (in) to  97 (out) : 4294961025
+Helix 4 from 144 (out) to 168 (in) : 205
++++++++++++++++IIIIXXXXXXXXXXXOOOO------------OOOOXXXXXXXXXXXXXXIIII++++++++++IIIIXXXXXXXXXXXXOOOO----------------------------------------------OOOOXXXXXXXXXXXXXXXXXIIII++++++
+vkdtikeiasmkfrkILIQGASLAMIVGSALMIWktlmvltmsdspVVVVLTGSMEPLYYRGDILFLYnreekittgdVVVYQNGEQEIPIVHRVIAVqekedneyyiltkgdnnfsddrglysppklwihkkdvlgkvkgylpYLGMVTIILNDYPTVKYVVLGLMGLfvliak
+Score = -100000.000000
+Helix 1 from  15 (out) to  31 (in) : 1942
+Helix 2 from  38 (in) to  54 (out) : 1075
+Helix 3 from 144 (out) to 168 (in) : 205
+---------------OOOOXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO-----------------------------------------------------------------------------------------OOOOXXXXXXXXXXXXXXXXXIIII++++++
+vkdtikeiasmkfrkILIQGASLAMIVGSALMiwktlmVLTMSDSPVVVVLTGSMeplyyrgdilflynreekittgdvvvyqngeqeipivhrviavqekedneyyiltkgdnnfsddrglysppklwihkkdvlgkvkgylpYLGMVTIILNDYPTVKYVVLGLMGLfvliak
+Score = 3.486000
+Helix 1 from  15 (in) to  33 (out) : 3361
+Helix 2 from 144 (out) to 168 (in) : 205
++++++++++++++++IIIIXXXXXXXXXXXOOOO--------------------------------------------------------------------------------------------------------------OOOOXXXXXXXXXXXXXXXXXIIII++++++
+vkdtikeiasmkfrkILIQGASLAMIVGSALMIWktlmvltmsdspvvvvltgsmeplyyrgdilflynreekittgdvvvyqngeqeipivhrviavqekedneyyiltkgdnnfsddrglysppklwihkkdvlgkvkgylpYLGMVTIILNDYPTVKYVVLGLMGLfvliak
+Score = 6.434000
+Helix 1 from  15 (out) to  31 (in) : 1942
+Helix 2 from  38 (in) to  54 (out) : 1075
+Helix 3 from  63 (out) to  80 (in) : 4294960297
+Helix 4 from  87 (in) to 103 (out) : 4294957433
+Helix 5 from 120 (out) to 136 (in) : 4294960076
+Helix 6 from 144 (in) to 168 (out) : 338
+---------------OOOOXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO--------OOOOXXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO----------------OOOOXXXXXXXXXIIII+++++++IIIIXXXXXXXXXXXXXXXXXOOOO------
+vkdtikeiasmkfrkILIQGASLAMIVGSALMiwktlmVLTMSDSPVVVVLTGSMeplyyrgdILFLYNREEKITTGDVVVyqngeqEIPIVHRVIAVQEKEDNeyyiltkgdnnfsddrGLYSPPKLWIHKKDVLGkvkgylpYLGMVTIILNDYPTVKYVVLGLMGLfvliak
+Score = -100000.000000
+Helix 1 from  15 (in) to  33 (out) : 3361
+Helix 2 from  46 (out) to  67 (in) : 4294965426
+Helix 3 from  78 (in) to  97 (out) : 4294961025
+Helix 4 from 120 (out) to 136 (in) : 4294960076
+Helix 5 from 144 (in) to 168 (out) : 338
++++++++++++++++IIIIXXXXXXXXXXXOOOO------------OOOOXXXXXXXXXXXXXXIIII++++++++++IIIIXXXXXXXXXXXXOOOO----------------------OOOOXXXXXXXXXIIII+++++++IIIIXXXXXXXXXXXXXXXXXOOOO------
+vkdtikeiasmkfrkILIQGASLAMIVGSALMIWktlmvltmsdspVVVVLTGSMEPLYYRGDILFLYnreekittgdVVVYQNGEQEIPIVHRVIAVqekedneyyiltkgdnnfsddrGLYSPPKLWIHKKDVLGkvkgylpYLGMVTIILNDYPTVKYVVLGLMGLfvliak
+Score = -100000.000000
+Helix 1 from  15 (out) to  31 (in) : 1942
+Helix 2 from  38 (in) to  54 (out) : 1075
+Helix 3 from  78 (out) to  97 (in) : 4294961056
+Helix 4 from 144 (in) to 168 (out) : 338
+---------------OOOOXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO-----------------------OOOOXXXXXXXXXXXXIIII++++++++++++++++++++++++++++++++++++++++++++++IIIIXXXXXXXXXXXXXXXXXOOOO------
+vkdtikeiasmkfrkILIQGASLAMIVGSALMiwktlmVLTMSDSPVVVVLTGSMeplyyrgdilflynreekittgdVVVYQNGEQEIPIVHRVIAVqekedneyyiltkgdnnfsddrglysppklwihkkdvlgkvkgylpYLGMVTIILNDYPTVKYVVLGLMGLfvliak
+Score = -100000.000000
+Helix 1 from  15 (in) to  33 (out) : 3361
+Helix 2 from  46 (out) to  67 (in) : 4294965426
+Helix 3 from 144 (in) to 168 (out) : 338
++++++++++++++++IIIIXXXXXXXXXXXOOOO------------OOOOXXXXXXXXXXXXXXIIII++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++IIIIXXXXXXXXXXXXXXXXXOOOO------
+vkdtikeiasmkfrkILIQGASLAMIVGSALMIWktlmvltmsdspVVVVLTGSMEPLYYRGDILFLYnreekittgdvvvyqngeqeipivhrviavqekedneyyiltkgdnnfsddrglysppklwihkkdvlgkvkgylpYLGMVTIILNDYPTVKYVVLGLMGLfvliak
+Score = -100000.000000
+Helix 1 from  15 (out) to  31 (in) : 1942
+Helix 2 from  38 (in) to  54 (out) : 1075
+---------------OOOOXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO------------------------------------------------------------------------------------------------------------------------
+vkdtikeiasmkfrkILIQGASLAMIVGSALMiwktlmVLTMSDSPVVVVLTGSMeplyyrgdilflynreekittgdvvvyqngeqeipivhrviavqekedneyyiltkgdnnfsddrglysppklwihkkdvlgkvkgylpylgmvtiilndyptvkyvvlglmglfvliak
+Score = 0.791000
+ 1 helices (+) : Score = -1.466
+ 1 helices (-) : Score = -3.211
+ 2 helices (+) : Score = 6.434
+ 2 helices (-) : Score = 0.791
+ 3 helices (+) : Score = -100000
+ 3 helices (-) : Score = 3.486
+ 4 helices (+) : Score = -100000
+ 4 helices (-) : Score = -100000
+ 5 helices (+) : Score = -100000
+ 5 helices (-) : Score = -100000
+ 6 helices (+) : Score = -100000
+ 6 helices (-) : Score = -100000
+
+FINAL PREDICTION
+================
+1: (in) 16-34	(3.36)
+2: 145-169	(0.20)
+FINAL: >P1;USER>>seq2184
+FINAL: sequence = >seq2184 = [+1+] gi|118396019|ref|XP_001030353.1|/6180
+FINAL: vkdtikeiasmkfrkILIQGASLAMIVGSALMIWktlmvltmsdspvvvvltgsmeplyyrgdilflynreekittgdvvvyqngeqeipivhrviavqekedneyyiltkgdnnfsddrglysppklwihkkdvlgkvkgylpYLGMVTIILNDYPTVKYVVLGLMGLfvliak*
+sequence = >seq2210 = [+0+] gi|145478617|ref|XP_001425331.1|/7180
+
+174 residues read from file.
+
+Helix 1 from  12 (in) to  30 (out) : 9601
+++++++++++++IIIIXXXXXXXXXXXOOOO-----------------------------------------------------------------------------------------------------------------------------------------------
+yvdefrhmkfrkIILQIVSLAIVVGSALSIWkslqvvsfsespvvvvlsgsmepayyrgdilfltyfnkpfevgdvivykikdqdipivhrvlqiqqksedpmdqliltkgdnnqvddralyprkqmwlersdimgkiegvlpyvgyitillndypslkfvmiglmslfvltak
+Score = -1.064000
+Helix 1 from  12 (out) to  30 (in) : 9636
+------------OOOOXXXXXXXXXXXIIII+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+yvdefrhmkfrkIILQIVSLAIVVGSALSIWkslqvvsfsespvvvvlsgsmepayyrgdilfltyfnkpfevgdvivykikdqdipivhrvlqiqqksedpmdqliltkgdnnqvddralyprkqmwlersdimgkiegvlpyvgyitillndypslkfvmiglmslfvltak
+Score = -0.081000
+Helix 1 from  12 (in) to  28 (out) : 2596
+Helix 2 from  35 (out) to  51 (in) : 4294967222
+Helix 3 from  60 (in) to  78 (out) : 4294964726
+Helix 4 from  91 (out) to 108 (in) : 4294957616
+Helix 5 from 126 (in) to 142 (out) : 4294960346
+Helix 6 from 149 (out) to 167 (in) : 4294965829
+++++++++++++IIIIXXXXXXXXXOOOO------OOOOXXXXXXXXXIIII++++++++IIIIXXXXXXXXXXXOOOO------------OOOOXXXXXXXXXXIIII+++++++++++++++++IIIIXXXXXXXXXOOOO------OOOOXXXXXXXXXXXIIII++++++
+yvdefrhmkfrkIILQIVSLAIVVGSALSiwkslqVVSFSESPVVVVLSGSMepayyrgdILFLTYFNKPFEVGDVIVYkikdqdipivhrVLQIQQKSEDPMDQLILTkgdnnqvddralyprkqMWLERSDIMGKIEGVLPyvgyitILLNDYPSLKFVMIGLMSLfvltak
+Score = -100000.000000
+Helix 1 from  12 (out) to  28 (in) : 2314
+Helix 2 from  35 (in) to  51 (out) : 642
+Helix 3 from  60 (out) to  78 (in) : 4294964951
+Helix 4 from 126 (in) to 142 (out) : 4294960346
+Helix 5 from 149 (out) to 167 (in) : 4294965829
+------------OOOOXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO--------OOOOXXXXXXXXXXXIIII+++++++++++++++++++++++++++++++++++++++++++++++IIIIXXXXXXXXXOOOO------OOOOXXXXXXXXXXXIIII++++++
+yvdefrhmkfrkIILQIVSLAIVVGSALSiwkslqVVSFSESPVVVVLSGSMepayyrgdILFLTYFNKPFEVGDVIVYkikdqdipivhrvlqiqqksedpmdqliltkgdnnqvddralyprkqMWLERSDIMGKIEGVLPyvgyitILLNDYPSLKFVMIGLMSLfvltak
+Score = -100000.000000
+Helix 1 from  12 (in) to  28 (out) : 2596
+Helix 2 from  35 (out) to  51 (in) : 4294967222
+Helix 3 from  60 (in) to  78 (out) : 4294964726
+Helix 4 from 143 (out) to 167 (in) : 140
+++++++++++++IIIIXXXXXXXXXOOOO------OOOOXXXXXXXXXIIII++++++++IIIIXXXXXXXXXXXOOOO----------------------------------------------------------------OOOOXXXXXXXXXXXXXXXXXIIII++++++
+yvdefrhmkfrkIILQIVSLAIVVGSALSiwkslqVVSFSESPVVVVLSGSMepayyrgdILFLTYFNKPFEVGDVIVYkikdqdipivhrvlqiqqksedpmdqliltkgdnnqvddralyprkqmwlersdimgkiegvlpYVGYITILLNDYPSLKFVMIGLMSLfvltak
+Score = -100000.000000
+Helix 1 from  12 (out) to  28 (in) : 2314
+Helix 2 from  35 (in) to  51 (out) : 642
+Helix 3 from 143 (out) to 167 (in) : 140
+------------OOOOXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO-------------------------------------------------------------------------------------------OOOOXXXXXXXXXXXXXXXXXIIII++++++
+yvdefrhmkfrkIILQIVSLAIVVGSALSiwkslqVVSFSESPVVVVLSGSMepayyrgdilfltyfnkpfevgdvivykikdqdipivhrvlqiqqksedpmdqliltkgdnnqvddralyprkqmwlersdimgkiegvlpYVGYITILLNDYPSLKFVMIGLMSLfvltak
+Score = 3.901000
+Helix 1 from  12 (in) to  30 (out) : 3851
+Helix 2 from 143 (out) to 167 (in) : 140
+++++++++++++IIIIXXXXXXXXXXXOOOO----------------------------------------------------------------------------------------------------------------OOOOXXXXXXXXXXXXXXXXXIIII++++++
+yvdefrhmkfrkIILQIVSLAIVVGSALSIWkslqvvsfsespvvvvlsgsmepayyrgdilfltyfnkpfevgdvivykikdqdipivhrvlqiqqksedpmdqliltkgdnnqvddralyprkqmwlersdimgkiegvlpYVGYITILLNDYPSLKFVMIGLMSLfvltak
+Score = 5.236000
+Helix 1 from  12 (out) to  28 (in) : 2314
+Helix 2 from  35 (in) to  51 (out) : 642
+Helix 3 from  60 (out) to  78 (in) : 4294964951
+Helix 4 from  85 (in) to 102 (out) : 4294957589
+Helix 5 from 126 (out) to 142 (in) : 4294960561
+Helix 6 from 149 (in) to 167 (out) : 4294966280
+------------OOOOXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO--------OOOOXXXXXXXXXXXIIII++++++IIIIXXXXXXXXXXOOOO-----------------------OOOOXXXXXXXXXIIII++++++IIIIXXXXXXXXXXXOOOO------
+yvdefrhmkfrkIILQIVSLAIVVGSALSiwkslqVVSFSESPVVVVLSGSMepayyrgdILFLTYFNKPFEVGDVIVYkikdqdIPIVHRVLQIQQKSEDPMdqliltkgdnnqvddralyprkqMWLERSDIMGKIEGVLPyvgyitILLNDYPSLKFVMIGLMSLfvltak
+Score = -100000.000000
+Helix 1 from  12 (in) to  28 (out) : 2596
+Helix 2 from  35 (out) to  51 (in) : 4294967222
+Helix 3 from  60 (in) to  78 (out) : 4294964726
+Helix 4 from 105 (out) to 121 (in) : 4294958607
+Helix 5 from 143 (in) to 167 (out) : 396
+++++++++++++IIIIXXXXXXXXXOOOO------OOOOXXXXXXXXXIIII++++++++IIIIXXXXXXXXXXXOOOO--------------------------OOOOXXXXXXXXXIIII+++++++++++++++++++++IIIIXXXXXXXXXXXXXXXXXOOOO------
+yvdefrhmkfrkIILQIVSLAIVVGSALSiwkslqVVSFSESPVVVVLSGSMepayyrgdILFLTYFNKPFEVGDVIVYkikdqdipivhrvlqiqqksedpmdqLILTKGDNNQVDDRALYprkqmwlersdimgkiegvlpYVGYITILLNDYPSLKFVMIGLMSLfvltak
+Score = -100000.000000
+Helix 1 from  12 (out) to  28 (in) : 2314
+Helix 2 from  35 (in) to  51 (out) : 642
+Helix 3 from  60 (out) to  78 (in) : 4294964951
+Helix 4 from 143 (in) to 167 (out) : 396
+------------OOOOXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO--------OOOOXXXXXXXXXXXIIII++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++IIIIXXXXXXXXXXXXXXXXXOOOO------
+yvdefrhmkfrkIILQIVSLAIVVGSALSiwkslqVVSFSESPVVVVLSGSMepayyrgdILFLTYFNKPFEVGDVIVYkikdqdipivhrvlqiqqksedpmdqliltkgdnnqvddralyprkqmwlersdimgkiegvlpYVGYITILLNDYPSLKFVMIGLMSLfvltak
+Score = -100000.000000
+Helix 1 from  12 (in) to  30 (out) : 3851
+Helix 2 from  43 (out) to  66 (in) : 4294965242
+Helix 3 from 143 (in) to 167 (out) : 396
+++++++++++++IIIIXXXXXXXXXXXOOOO------------OOOOXXXXXXXXXXXXXXXXIIII++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++IIIIXXXXXXXXXXXXXXXXXOOOO------
+yvdefrhmkfrkIILQIVSLAIVVGSALSIWkslqvvsfsespVVVVLSGSMEPAYYRGDILFLTYFnkpfevgdvivykikdqdipivhrvlqiqqksedpmdqliltkgdnnqvddralyprkqmwlersdimgkiegvlpYVGYITILLNDYPSLKFVMIGLMSLfvltak
+Score = -100000.000000
+Helix 1 from  12 (out) to  30 (in) : 3208
+Helix 2 from 143 (in) to 167 (out) : 396
+------------OOOOXXXXXXXXXXXIIII++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++IIIIXXXXXXXXXXXXXXXXXOOOO------
+yvdefrhmkfrkIILQIVSLAIVVGSALSIWkslqvvsfsespvvvvlsgsmepayyrgdilfltyfnkpfevgdvivykikdqdipivhrvlqiqqksedpmdqliltkgdnnqvddralyprkqmwlersdimgkiegvlpYVGYITILLNDYPSLKFVMIGLMSLfvltak
+Score = 3.908000
+ 1 helices (+) : Score = -1.064
+ 1 helices (-) : Score = -0.081
+ 2 helices (+) : Score = 5.236
+ 2 helices (-) : Score = 3.908
+ 3 helices (+) : Score = -100000
+ 3 helices (-) : Score = 3.901
+ 4 helices (+) : Score = -100000
+ 4 helices (-) : Score = -100000
+ 5 helices (+) : Score = -100000
+ 5 helices (-) : Score = -100000
+ 6 helices (+) : Score = -100000
+ 6 helices (-) : Score = -100000
+
+FINAL PREDICTION
+================
+1: (in) 13-31	(3.85)
+2: 144-168	(0.14)
+FINAL: >P1;USER>>seq2210
+FINAL: sequence = >seq2210 = [+0+] gi|145478617|ref|XP_001425331.1|/7180
+FINAL: yvdefrhmkfrkIILQIVSLAIVVGSALSIWkslqvvsfsespvvvvlsgsmepayyrgdilfltyfnkpfevgdvivykikdqdipivhrvlqiqqksedpmdqliltkgdnnqvddralyprkqmwlersdimgkiegvlpYVGYITILLNDYPSLKFVMIGLMSLfvltak*
+sequence = >seq2295 = [+1+] gi|145346507|ref|XP_001417728.1|/26202
+
+177 residues read from file.
+
+Helix 1 from  16 (in) to  32 (out) : 8391
+++++++++++++++++IIIIXXXXXXXXXOOOO------------------------------------------------------------------------------------------------------------------------------------------------
+vdaivslshgtgrqtaLQWLSLALIVASALMVWkslmlftqsespvvvvlsgsmepglrrgdlllldnsrgpseigdvvvfnirgrdvpivhrilhvhanspadvgsrlmltkgdnnfaddgalyapgqrwlrqddvvgravvflphvgrltilmndypwfkyglisilgffvvtgk
+Score = 2.327000
+Helix 1 from 136 (out) to 154 (in) : 1793
+----------------------------------------------------------------------------------------------------------------------------------------OOOOXXXXXXXXXXXIIII++++++++++++++++++++++
+vdaivslshgtgrqtalqwlslalivasalmvwkslmlftqsespvvvvlsgsmepglrrgdlllldnsrgpseigdvvvfnirgrdvpivhrilhvhanspadvgsrlmltkgdnnfaddgalyapgqrwlrqddVVGRAVVFLPHVGRLTILMndypwfkyglisilgffvvtgk
+Score = -1.772000
+Helix 1 from  14 (in) to  30 (out) : 2121
+Helix 2 from  37 (out) to  53 (in) : 4294965893
+Helix 3 from  62 (in) to  80 (out) : 4294962840
+Helix 4 from  93 (out) to 110 (in) : 4294964081
+Helix 5 from 130 (in) to 146 (out) : 4294962030
+Helix 6 from 153 (out) to 170 (in) : 4294965441
+++++++++++++++IIIIXXXXXXXXXOOOO------OOOOXXXXXXXXXIIII++++++++IIIIXXXXXXXXXXXOOOO------------OOOOXXXXXXXXXXIIII+++++++++++++++++++IIIIXXXXXXXXXOOOO------OOOOXXXXXXXXXXIIII++++++
+vdaivslshgtgrqTALQWLSLALIVASALMvwkslmLFTQSESPVVVVLSGSMepglrrgdLLLLDNSRGPSEIGDVVVFnirgrdvpivhrILHVHANSPADVGSRLMLtkgdnnfaddgalyapgqrWLRQDDVVGRAVVFLPHvgrltiLMNDYPWFKYGLISILGFfvvtgk
+Score = -100000.000000
+Helix 1 from  14 (out) to  30 (in) : 1594
+Helix 2 from  37 (in) to  53 (out) : 4294966280
+Helix 3 from  62 (out) to  82 (in) : 4294962577
+Helix 4 from  93 (in) to 110 (out) : 4294964026
+Helix 5 from 136 (out) to 154 (in) : 4294966332
+--------------OOOOXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO--------OOOOXXXXXXXXXXXXXIIII++++++++++IIIIXXXXXXXXXXOOOO-------------------------OOOOXXXXXXXXXXXIIII++++++++++++++++++++++
+vdaivslshgtgrqTALQWLSLALIVASALMvwkslmLFTQSESPVVVVLSGSMepglrrgdLLLLDNSRGPSEIGDVVVFNIrgrdvpivhrILHVHANSPADVGSRLMLtkgdnnfaddgalyapgqrwlrqddVVGRAVVFLPHVGRLTILMndypwfkyglisilgffvvtgk
+Score = -100000.000000
+Helix 1 from  15 (in) to  32 (out) : 3120
+Helix 2 from  41 (out) to  57 (in) : 4294965210
+Helix 3 from  74 (in) to  90 (out) : 4294962759
+Helix 4 from 136 (out) to 154 (in) : 4294966332
++++++++++++++++IIIIXXXXXXXXXXOOOO--------OOOOXXXXXXXXXIIII++++++++++++++++IIIIXXXXXXXXXOOOO---------------------------------------------OOOOXXXXXXXXXXXIIII++++++++++++++++++++++
+vdaivslshgtgrqtALQWLSLALIVASALMVWkslmlftqSESPVVVVLSGSMEPGLrrgdlllldnsrgpseIGDVVVFNIRGRDVPIVhrilhvhanspadvgsrlmltkgdnnfaddgalyapgqrwlrqddVVGRAVVFLPHVGRLTILMndypwfkyglisilgffvvtgk
+Score = -100000.000000
+Helix 1 from  16 (out) to  32 (in) : 3100
+Helix 2 from  41 (in) to  57 (out) : 4294965156
+Helix 3 from 136 (out) to 154 (in) : 4294966332
+----------------OOOOXXXXXXXXXIIII++++++++IIIIXXXXXXXXXOOOO------------------------------------------------------------------------------OOOOXXXXXXXXXXXIIII++++++++++++++++++++++
+vdaivslshgtgrqtaLQWLSLALIVASALMVWkslmlftqSESPVVVVLSGSMEPGLrrgdlllldnsrgpseigdvvvfnirgrdvpivhrilhvhanspadvgsrlmltkgdnnfaddgalyapgqrwlrqddVVGRAVVFLPHVGRLTILMndypwfkyglisilgffvvtgk
+Score = -100000.000000
+Helix 1 from  18 (in) to  38 (out) : 2470
+Helix 2 from 136 (out) to 154 (in) : 4294966332
+++++++++++++++++++IIIIXXXXXXXXXXXXXOOOO-------------------------------------------------------------------------------------------------OOOOXXXXXXXXXXXIIII++++++++++++++++++++++
+vdaivslshgtgrqtalqWLSLALIVASALMVWKSLMLFtqsespvvvvlsgsmepglrrgdlllldnsrgpseigdvvvfnirgrdvpivhrilhvhanspadvgsrlmltkgdnnfaddgalyapgqrwlrqddVVGRAVVFLPHVGRLTILMndypwfkyglisilgffvvtgk
+Score = -100000.000000
+Helix 1 from  14 (out) to  30 (in) : 1594
+Helix 2 from  37 (in) to  53 (out) : 4294966280
+Helix 3 from  62 (out) to  79 (in) : 4294962540
+Helix 4 from  86 (in) to 102 (out) : 4294962786
+Helix 5 from 109 (out) to 125 (in) : 4294961773
+Helix 6 from 136 (in) to 154 (out) : 4294966700
+--------------OOOOXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO--------OOOOXXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO------OOOOXXXXXXXXXIIII++++++++++IIIIXXXXXXXXXXXOOOO----------------------
+vdaivslshgtgrqTALQWLSLALIVASALMvwkslmLFTQSESPVVVVLSGSMepglrrgdLLLLDNSRGPSEIGDVVVfnirgrDVPIVHRILHVHANSPAdvgsrlMLTKGDNNFADDGALYApgqrwlrqddVVGRAVVFLPHVGRLTILMndypwfkyglisilgffvvtgk
+Score = -100000.000000
+Helix 1 from  14 (in) to  30 (out) : 2121
+Helix 2 from  37 (out) to  53 (in) : 4294965893
+Helix 3 from  62 (in) to  80 (out) : 4294962840
+Helix 4 from  93 (out) to 110 (in) : 4294964081
+Helix 5 from 136 (in) to 154 (out) : 4294966700
+++++++++++++++IIIIXXXXXXXXXOOOO------OOOOXXXXXXXXXIIII++++++++IIIIXXXXXXXXXXXOOOO------------OOOOXXXXXXXXXXIIII+++++++++++++++++++++++++IIIIXXXXXXXXXXXOOOO----------------------
+vdaivslshgtgrqTALQWLSLALIVASALMvwkslmLFTQSESPVVVVLSGSMepglrrgdLLLLDNSRGPSEIGDVVVFnirgrdvpivhrILHVHANSPADVGSRLMLtkgdnnfaddgalyapgqrwlrqddVVGRAVVFLPHVGRLTILMndypwfkyglisilgffvvtgk
+Score = -100000.000000
+Helix 1 from  16 (out) to  32 (in) : 3100
+Helix 2 from  41 (in) to  57 (out) : 4294965156
+Helix 3 from  93 (out) to 110 (in) : 4294964081
+Helix 4 from 136 (in) to 154 (out) : 4294966700
+----------------OOOOXXXXXXXXXIIII++++++++IIIIXXXXXXXXXOOOO-----------------------------------OOOOXXXXXXXXXXIIII+++++++++++++++++++++++++IIIIXXXXXXXXXXXOOOO----------------------
+vdaivslshgtgrqtaLQWLSLALIVASALMVWkslmlftqSESPVVVVLSGSMEPGLrrgdlllldnsrgpseigdvvvfnirgrdvpivhrILHVHANSPADVGSRLMLtkgdnnfaddgalyapgqrwlrqddVVGRAVVFLPHVGRLTILMndypwfkyglisilgffvvtgk
+Score = -100000.000000
+Helix 1 from  15 (in) to  32 (out) : 3120
+Helix 2 from  41 (out) to  57 (in) : 4294965210
+Helix 3 from 136 (in) to 154 (out) : 4294966700
++++++++++++++++IIIIXXXXXXXXXXOOOO--------OOOOXXXXXXXXXIIII++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++IIIIXXXXXXXXXXXOOOO----------------------
+vdaivslshgtgrqtALQWLSLALIVASALMVWkslmlftqSESPVVVVLSGSMEPGLrrgdlllldnsrgpseigdvvvfnirgrdvpivhrilhvhanspadvgsrlmltkgdnnfaddgalyapgqrwlrqddVVGRAVVFLPHVGRLTILMndypwfkyglisilgffvvtgk
+Score = -100000.000000
+Helix 1 from  16 (out) to  32 (in) : 3100
+Helix 2 from 136 (in) to 154 (out) : 4294966700
+----------------OOOOXXXXXXXXXIIII+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++IIIIXXXXXXXXXXXOOOO----------------------
+vdaivslshgtgrqtaLQWLSLALIVASALMVWkslmlftqsespvvvvlsgsmepglrrgdlllldnsrgpseigdvvvfnirgrdvpivhrilhvhanspadvgsrlmltkgdnnfaddgalyapgqrwlrqddVVGRAVVFLPHVGRLTILMndypwfkyglisilgffvvtgk
+Score = -100000.000000
+ 1 helices (+) : Score = 2.327
+ 1 helices (-) : Score = -1.772
+ 2 helices (+) : Score = -100000
+ 2 helices (-) : Score = -100000
+ 3 helices (+) : Score = -100000
+ 3 helices (-) : Score = -100000
+ 4 helices (+) : Score = -100000
+ 4 helices (-) : Score = -100000
+ 5 helices (+) : Score = -100000
+ 5 helices (-) : Score = -100000
+ 6 helices (+) : Score = -100000
+ 6 helices (-) : Score = -100000
+
+FINAL PREDICTION
+================
+1: (in) 17-33	(2.88)
+FINAL: >P1;USER>>seq2295
+FINAL: sequence = >seq2295 = [+1+] gi|145346507|ref|XP_001417728.1|/26202
+FINAL: vdaivslshgtgrqtaLQWLSLALIVASALMVWkslmlftqsespvvvvlsgsmepglrrgdlllldnsrgpseigdvvvfnirgrdvpivhrilhvhanspadvgsrlmltkgdnnfaddgalyapgqrwlrqddvvgravvflphvgrltilmndypwfkyglisilgffvvtgk*
+sequence = >seq1159 = [+0+] gi|303274482|ref|XP_003056560.1|/2174
+
+173 residues read from file.
+
+Helix 1 from  11 (in) to  29 (out) : 10490
++++++++++++IIIIXXXXXXXXXXXOOOO-----------------------------------------------------------------------------------------------------------------------------------------------
+iselcslnrrqLVLQILGLGLVITSALVIWrslvyltnsespmvvvlsgsmepaffrgdilflnhskrsisvgevivfniegrkipivhrvissysgktlnntnyltkgdnnfgddtvlyaagqptlstdnivggvaafipcigritiimndfpilkysvigilcflvvlsrd
+Score = 0.595000
+Helix 1 from 131 (out) to 149 (in) : 5982
+-----------------------------------------------------------------------------------------------------------------------------------OOOOXXXXXXXXXXXIIII+++++++++++++++++++++++
+iselcslnrrqlvlqilglglvitsalviwrslvyltnsespmvvvlsgsmepaffrgdilflnhskrsisvgevivfniegrkipivhrvissysgktlnntnyltkgdnnfgddtvlyaagqptlstdnIVGGVAAFIPCIGRITIIMndfpilkysvigilcflvvlsrd
+Score = -5.430000
+Helix 1 from  11 (in) to  27 (out) : 2854
+Helix 2 from  34 (out) to  50 (in) : 4294966147
+Helix 3 from  59 (in) to  77 (out) : 4294963306
+Helix 4 from  84 (out) to 100 (in) : 4294963483
+Helix 5 from 117 (in) to 139 (out) : 40
+Helix 6 from 147 (out) to 166 (in) : 26
++++++++++++IIIIXXXXXXXXXOOOO------OOOOXXXXXXXXXIIII++++++++IIIIXXXXXXXXXXXOOOO------OOOOXXXXXXXXXIIII++++++++++++++++IIIIXXXXXXXXXXXXXXXOOOO-------OOOOXXXXXXXXXXXXIIII++++++
+iselcslnrrqLVLQILGLGLVITSALViwrslvYLTNSESPMVVVLSGSMepaffrgdILFLNHSKRSISVGEVIVFniegrkIPIVHRVISSYSGKTLNntnyltkgdnnfgddtVLYAAGQPTLSTDNIVGGVAAFIpcigritIIMNDFPILKYSVIGILCFLvvlsrd
+Score = -100000.000000
+Helix 1 from  11 (out) to  29 (in) : 3853
+Helix 2 from  42 (in) to  62 (out) : 4294965959
+Helix 3 from  69 (out) to  87 (in) : 4294962165
+Helix 4 from 117 (in) to 139 (out) : 40
+Helix 5 from 147 (out) to 166 (in) : 26
+-----------OOOOXXXXXXXXXXXIIII++++++++++++IIIIXXXXXXXXXXXXXOOOO------OOOOXXXXXXXXXXXIIII+++++++++++++++++++++++++++++IIIIXXXXXXXXXXXXXXXOOOO-------OOOOXXXXXXXXXXXXIIII++++++
+iselcslnrrqLVLQILGLGLVITSALVIWrslvyltnsespMVVVLSGSMEPAFFRGDILFLnhskrsISVGEVIVFNIEGRKIPIVhrvissysgktlnntnyltkgdnnfgddtVLYAAGQPTLSTDNIVGGVAAFIpcigritIIMNDFPILKYSVIGILCFLvvlsrd
+Score = -100000.000000
+Helix 1 from  11 (in) to  29 (out) : 4171
+Helix 2 from  42 (out) to  62 (in) : 4294965832
+Helix 3 from 117 (in) to 139 (out) : 40
+Helix 4 from 147 (out) to 166 (in) : 26
++++++++++++IIIIXXXXXXXXXXXOOOO------------OOOOXXXXXXXXXXXXXIIII++++++++++++++++++++++++++++++++++++++++++++++++++++++IIIIXXXXXXXXXXXXXXXOOOO-------OOOOXXXXXXXXXXXXIIII++++++
+iselcslnrrqLVLQILGLGLVITSALVIWrslvyltnsespMVVVLSGSMEPAFFRGDILFLnhskrsisvgevivfniegrkipivhrvissysgktlnntnyltkgdnnfgddtVLYAAGQPTLSTDNIVGGVAAFIpcigritIIMNDFPILKYSVIGILCFLvvlsrd
+Score = -100000.000000
+Helix 1 from  11 (out) to  29 (in) : 3853
+Helix 2 from  42 (in) to  62 (out) : 4294965959
+Helix 3 from 131 (out) to 149 (in) : 2472
+-----------OOOOXXXXXXXXXXXIIII++++++++++++IIIIXXXXXXXXXXXXXOOOO--------------------------------------------------------------------OOOOXXXXXXXXXXXIIII+++++++++++++++++++++++
+iselcslnrrqLVLQILGLGLVITSALVIWrslvyltnsespMVVVLSGSMEPAFFRGDILFLnhskrsisvgevivfniegrkipivhrvissysgktlnntnyltkgdnnfgddtvlyaagqptlstdnIVGGVAAFIPCIGRITIIMndfpilkysvigilcflvvlsrd
+Score = -100000.000000
+Helix 1 from  11 (in) to  29 (out) : 4171
+Helix 2 from 131 (out) to 149 (in) : 2472
++++++++++++IIIIXXXXXXXXXXXOOOO-----------------------------------------------------------------------------------------------------OOOOXXXXXXXXXXXIIII+++++++++++++++++++++++
+iselcslnrrqLVLQILGLGLVITSALVIWrslvyltnsespmvvvlsgsmepaffrgdilflnhskrsisvgevivfniegrkipivhrvissysgktlnntnyltkgdnnfgddtvlyaagqptlstdnIVGGVAAFIPCIGRITIIMndfpilkysvigilcflvvlsrd
+Score = 4.606000
+Helix 1 from  11 (out) to  27 (in) : 3079
+Helix 2 from  34 (in) to  50 (out) : 4294966956
+Helix 3 from  59 (out) to  77 (in) : 4294963192
+Helix 4 from  84 (in) to 100 (out) : 4294963047
+Helix 5 from 117 (out) to 139 (in) : 4294967144
+Helix 6 from 147 (in) to 166 (out) : 54
+-----------OOOOXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO--------OOOOXXXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO----------------OOOOXXXXXXXXXXXXXXXIIII+++++++IIIIXXXXXXXXXXXXOOOO------
+iselcslnrrqLVLQILGLGLVITSALViwrslvYLTNSESPMVVVLSGSMepaffrgdILFLNHSKRSISVGEVIVFniegrkIPIVHRVISSYSGKTLNntnyltkgdnnfgddtVLYAAGQPTLSTDNIVGGVAAFIpcigritIIMNDFPILKYSVIGILCFLvvlsrd
+Score = -100000.000000
+Helix 1 from  11 (in) to  29 (out) : 4171
+Helix 2 from  42 (out) to  62 (in) : 4294965832
+Helix 3 from  69 (in) to  87 (out) : 4294962133
+Helix 4 from 117 (out) to 139 (in) : 4294967144
+Helix 5 from 147 (in) to 166 (out) : 54
++++++++++++IIIIXXXXXXXXXXXOOOO------------OOOOXXXXXXXXXXXXXIIII++++++IIIIXXXXXXXXXXXOOOO-----------------------------OOOOXXXXXXXXXXXXXXXIIII+++++++IIIIXXXXXXXXXXXXOOOO------
+iselcslnrrqLVLQILGLGLVITSALVIWrslvyltnsespMVVVLSGSMEPAFFRGDILFLnhskrsISVGEVIVFNIEGRKIPIVhrvissysgktlnntnyltkgdnnfgddtVLYAAGQPTLSTDNIVGGVAAFIpcigritIIMNDFPILKYSVIGILCFLvvlsrd
+Score = -100000.000000
+Helix 1 from  11 (out) to  29 (in) : 3853
+Helix 2 from  42 (in) to  62 (out) : 4294965959
+Helix 3 from 117 (out) to 139 (in) : 4294967144
+Helix 4 from 147 (in) to 166 (out) : 54
+-----------OOOOXXXXXXXXXXXIIII++++++++++++IIIIXXXXXXXXXXXXXOOOO------------------------------------------------------OOOOXXXXXXXXXXXXXXXIIII+++++++IIIIXXXXXXXXXXXXOOOO------
+iselcslnrrqLVLQILGLGLVITSALVIWrslvyltnsespMVVVLSGSMEPAFFRGDILFLnhskrsisvgevivfniegrkipivhrvissysgktlnntnyltkgdnnfgddtVLYAAGQPTLSTDNIVGGVAAFIpcigritIIMNDFPILKYSVIGILCFLvvlsrd
+Score = -100000.000000
+Helix 1 from  11 (in) to  29 (out) : 4171
+Helix 2 from  42 (out) to  62 (in) : 4294965832
+Helix 3 from 131 (in) to 149 (out) : 2547
++++++++++++IIIIXXXXXXXXXXXOOOO------------OOOOXXXXXXXXXXXXXIIII++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++IIIIXXXXXXXXXXXOOOO-----------------------
+iselcslnrrqLVLQILGLGLVITSALVIWrslvyltnsespMVVVLSGSMEPAFFRGDILFLnhskrsisvgevivfniegrkipivhrvissysgktlnntnyltkgdnnfgddtvlyaagqptlstdnIVGGVAAFIPCIGRITIIMndfpilkysvigilcflvvlsrd
+Score = -100000.000000
+Helix 1 from  11 (out) to  29 (in) : 3853
+Helix 2 from 131 (in) to 149 (out) : 2547
+-----------OOOOXXXXXXXXXXXIIII+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++IIIIXXXXXXXXXXXOOOO-----------------------
+iselcslnrrqLVLQILGLGLVITSALVIWrslvyltnsespmvvvlsgsmepaffrgdilflnhskrsisvgevivfniegrkipivhrvissysgktlnntnyltkgdnnfgddtvlyaagqptlstdnIVGGVAAFIPCIGRITIIMndfpilkysvigilcflvvlsrd
+Score = 2.173000
+ 1 helices (+) : Score = 0.595
+ 1 helices (-) : Score = -5.43
+ 2 helices (+) : Score = 4.606
+ 2 helices (-) : Score = 2.173
+ 3 helices (+) : Score = -100000
+ 3 helices (-) : Score = -100000
+ 4 helices (+) : Score = -100000
+ 4 helices (-) : Score = -100000
+ 5 helices (+) : Score = -100000
+ 5 helices (-) : Score = -100000
+ 6 helices (+) : Score = -100000
+ 6 helices (-) : Score = -100000
+
+FINAL PREDICTION
+================
+1: (in) 12-30	(4.17)
+2: 132-150	(2.47)
+FINAL: >P1;USER>>seq1159
+FINAL: sequence = >seq1159 = [+0+] gi|303274482|ref|XP_003056560.1|/2174
+FINAL: iselcslnrrqLVLQILGLGLVITSALVIWrslvyltnsespmvvvlsgsmepaffrgdilflnhskrsisvgevivfniegrkipivhrvissysgktlnntnyltkgdnnfgddtvlyaagqptlstdnIVGGVAAFIPCIGRITIIMndfpilkysvigilcflvvlsrd*
+sequence = >seq3187 = [+95+] gi|670398094|ref|XP_008679115.1|/7180
+
+174 residues read from file.
+
+Helix 1 from  12 (in) to  36 (out) : 7626
+++++++++++++IIIIXXXXXXXXXXXXXXXXXOOOO-----------------------------------------------------------------------------------------------------------------------------------------
+vlesiqamqirpVVAQIITLGMILTSALILWKGLVVVtgsespvvvvlsgsmepgfrkgdvlflhmnkdpvrtgdivvfnvegrdipivhrvikvherhdtvdsdiltkgdnnpgddrvlyahgqlwlqrqhiigravgylpyagwltivmtekpvlkylligalgllvvaske
+Score = 0.292000
+Helix 1 from  16 (out) to  36 (in) : 7686
+----------------OOOOXXXXXXXXXXXXXIIII+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vlesiqamqirpvvaqIITLGMILTSALILWKGLVVVtgsespvvvvlsgsmepgfrkgdvlflhmnkdpvrtgdivvfnvegrdipivhrvikvherhdtvdsdiltkgdnnpgddrvlyahgqlwlqrqhiigravgylpyagwltivmtekpvlkylligalgllvvaske
+Score = -2.840000
+Helix 1 from  12 (in) to  28 (out) : 2612
+Helix 2 from  35 (out) to  51 (in) : 4294966797
+Helix 3 from  60 (in) to  78 (out) : 4294962049
+Helix 4 from  85 (out) to 101 (in) : 4294957969
+Helix 5 from 118 (in) to 134 (out) : 4294962832
+Helix 6 from 143 (out) to 167 (in) : 4294965829
+++++++++++++IIIIXXXXXXXXXOOOO------OOOOXXXXXXXXXIIII++++++++IIIIXXXXXXXXXXXOOOO------OOOOXXXXXXXXXIIII++++++++++++++++IIIIXXXXXXXXXOOOO--------OOOOXXXXXXXXXXXXXXXXXIIII++++++
+vlesiqamqirpVVAQIITLGMILTSALIlwkglvVVTGSESPVVVVLSGSMepgfrkgdVLFLHMNKDPVRTGDIVVFnvegrdIPIVHRVIKVHERHDTVdsdiltkgdnnpgddrVLYAHGQLWLQRQHIIGravgylpyAGWLTIVMTEKPVLKYLLIGALGLLvvaske
+Score = -100000.000000
+Helix 1 from  12 (out) to  28 (in) : 2646
+Helix 2 from  35 (in) to  51 (out) : 507
+Helix 3 from  75 (out) to  92 (in) : 4294962586
+Helix 4 from 118 (in) to 134 (out) : 4294962832
+Helix 5 from 143 (out) to 167 (in) : 4294965829
+------------OOOOXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO-----------------------OOOOXXXXXXXXXXIIII+++++++++++++++++++++++++IIIIXXXXXXXXXOOOO--------OOOOXXXXXXXXXXXXXXXXXIIII++++++
+vlesiqamqirpVVAQIITLGMILTSALIlwkglvVVTGSESPVVVVLSGSMepgfrkgdvlflhmnkdpvrtgdIVVFNVEGRDIPIVHRVIkvherhdtvdsdiltkgdnnpgddrVLYAHGQLWLQRQHIIGravgylpyAGWLTIVMTEKPVLKYLLIGALGLLvvaske
+Score = -100000.000000
+Helix 1 from  12 (in) to  28 (out) : 2612
+Helix 2 from  35 (out) to  51 (in) : 4294966797
+Helix 3 from  75 (in) to  92 (out) : 4294962492
+Helix 4 from 132 (out) to 150 (in) : 626
+++++++++++++IIIIXXXXXXXXXOOOO------OOOOXXXXXXXXXIIII+++++++++++++++++++++++IIIIXXXXXXXXXXOOOO---------------------------------------OOOOXXXXXXXXXXXIIII+++++++++++++++++++++++
+vlesiqamqirpVVAQIITLGMILTSALIlwkglvVVTGSESPVVVVLSGSMepgfrkgdvlflhmnkdpvrtgdIVVFNVEGRDIPIVHRVIkvherhdtvdsdiltkgdnnpgddrvlyahgqlwlqrqhIIGRAVGYLPYAGWLTIVMtekpvlkylligalgllvvaske
+Score = -100000.000000
+Helix 1 from  12 (out) to  28 (in) : 2646
+Helix 2 from  35 (in) to  51 (out) : 507
+Helix 3 from 132 (out) to 150 (in) : 626
+------------OOOOXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO--------------------------------------------------------------------------------OOOOXXXXXXXXXXXIIII+++++++++++++++++++++++
+vlesiqamqirpVVAQIITLGMILTSALIlwkglvVVTGSESPVVVVLSGSMepgfrkgdvlflhmnkdpvrtgdivvfnvegrdipivhrvikvherhdtvdsdiltkgdnnpgddrvlyahgqlwlqrqhIIGRAVGYLPYAGWLTIVMtekpvlkylligalgllvvaske
+Score = 2.567000
+Helix 1 from  12 (in) to  30 (out) : 3998
+Helix 2 from 132 (out) to 150 (in) : 626
+++++++++++++IIIIXXXXXXXXXXXOOOO-----------------------------------------------------------------------------------------------------OOOOXXXXXXXXXXXIIII+++++++++++++++++++++++
+vlesiqamqirpVVAQIITLGMILTSALILWkglvvvtgsespvvvvlsgsmepgfrkgdvlflhmnkdpvrtgdivvfnvegrdipivhrvikvherhdtvdsdiltkgdnnpgddrvlyahgqlwlqrqhIIGRAVGYLPYAGWLTIVMtekpvlkylligalgllvvaske
+Score = 3.182000
+Helix 1 from  12 (out) to  28 (in) : 2646
+Helix 2 from  35 (in) to  51 (out) : 507
+Helix 3 from  60 (out) to  78 (in) : 4294961938
+Helix 4 from  85 (in) to 101 (out) : 4294957719
+Helix 5 from 118 (out) to 134 (in) : 4294962387
+Helix 6 from 143 (in) to 167 (out) : 4294965589
+------------OOOOXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO--------OOOOXXXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO----------------OOOOXXXXXXXXXIIII++++++++IIIIXXXXXXXXXXXXXXXXXOOOO------
+vlesiqamqirpVVAQIITLGMILTSALIlwkglvVVTGSESPVVVVLSGSMepgfrkgdVLFLHMNKDPVRTGDIVVFnvegrdIPIVHRVIKVHERHDTVdsdiltkgdnnpgddrVLYAHGQLWLQRQHIIGravgylpyAGWLTIVMTEKPVLKYLLIGALGLLvvaske
+Score = -100000.000000
+Helix 1 from  12 (in) to  28 (out) : 2612
+Helix 2 from  35 (out) to  51 (in) : 4294966797
+Helix 3 from  75 (in) to  92 (out) : 4294962492
+Helix 4 from 118 (out) to 134 (in) : 4294962387
+Helix 5 from 143 (in) to 167 (out) : 4294965589
+++++++++++++IIIIXXXXXXXXXOOOO------OOOOXXXXXXXXXIIII+++++++++++++++++++++++IIIIXXXXXXXXXXOOOO-------------------------OOOOXXXXXXXXXIIII++++++++IIIIXXXXXXXXXXXXXXXXXOOOO------
+vlesiqamqirpVVAQIITLGMILTSALIlwkglvVVTGSESPVVVVLSGSMepgfrkgdvlflhmnkdpvrtgdIVVFNVEGRDIPIVHRVIkvherhdtvdsdiltkgdnnpgddrVLYAHGQLWLQRQHIIGravgylpyAGWLTIVMTEKPVLKYLLIGALGLLvvaske
+Score = -100000.000000
+Helix 1 from  12 (out) to  28 (in) : 2646
+Helix 2 from  35 (in) to  51 (out) : 507
+Helix 3 from  75 (out) to  92 (in) : 4294962586
+Helix 4 from 132 (in) to 150 (out) : 902
+------------OOOOXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO-----------------------OOOOXXXXXXXXXXIIII+++++++++++++++++++++++++++++++++++++++IIIIXXXXXXXXXXXOOOO-----------------------
+vlesiqamqirpVVAQIITLGMILTSALIlwkglvVVTGSESPVVVVLSGSMepgfrkgdvlflhmnkdpvrtgdIVVFNVEGRDIPIVHRVIkvherhdtvdsdiltkgdnnpgddrvlyahgqlwlqrqhIIGRAVGYLPYAGWLTIVMtekpvlkylligalgllvvaske
+Score = -100000.000000
+Helix 1 from  12 (in) to  28 (out) : 2612
+Helix 2 from  35 (out) to  51 (in) : 4294966797
+Helix 3 from 132 (in) to 150 (out) : 902
+++++++++++++IIIIXXXXXXXXXOOOO------OOOOXXXXXXXXXIIII++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++IIIIXXXXXXXXXXXOOOO-----------------------
+vlesiqamqirpVVAQIITLGMILTSALIlwkglvVVTGSESPVVVVLSGSMepgfrkgdvlflhmnkdpvrtgdivvfnvegrdipivhrvikvherhdtvdsdiltkgdnnpgddrvlyahgqlwlqrqhIIGRAVGYLPYAGWLTIVMtekpvlkylligalgllvvaske
+Score = -100000.000000
+Helix 1 from  12 (out) to  36 (in) : 2598
+Helix 2 from 132 (in) to 150 (out) : 902
+------------OOOOXXXXXXXXXXXXXXXXXIIII+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++IIIIXXXXXXXXXXXOOOO-----------------------
+vlesiqamqirpVVAQIITLGMILTSALILWKGLVVVtgsespvvvvlsgsmepgfrkgdvlflhmnkdpvrtgdivvfnvegrdipivhrvikvherhdtvdsdiltkgdnnpgddrvlyahgqlwlqrqhIIGRAVGYLPYAGWLTIVMtekpvlkylligalgllvvaske
+Score = 0.508000
+ 1 helices (+) : Score = 0.292
+ 1 helices (-) : Score = -2.84
+ 2 helices (+) : Score = 3.182
+ 2 helices (-) : Score = 0.508
+ 3 helices (+) : Score = -100000
+ 3 helices (-) : Score = 2.567
+ 4 helices (+) : Score = -100000
+ 4 helices (-) : Score = -100000
+ 5 helices (+) : Score = -100000
+ 5 helices (-) : Score = -100000
+ 6 helices (+) : Score = -100000
+ 6 helices (-) : Score = -100000
+
+FINAL PREDICTION
+================
+1: (in) 13-31	(4.00)
+2: 133-151	(0.63)
+FINAL: >P1;USER>>seq3187
+FINAL: sequence = >seq3187 = [+95+] gi|670398094|ref|XP_008679115.1|/7180
+FINAL: vlesiqamqirpVVAQIITLGMILTSALILWkglvvvtgsespvvvvlsgsmepgfrkgdvlflhmnkdpvrtgdivvfnvegrdipivhrvikvherhdtvdsdiltkgdnnpgddrvlyahgqlwlqrqhIIGRAVGYLPYAGWLTIVMtekpvlkylligalgllvvaske*
+sequence = >seq3047 = [+1+] gi|67474817|ref|XP_653142.1|/16188
+
+173 residues read from file.
+
+Helix 1 from  18 (in) to  37 (out) : 7543
+++++++++++++++++++IIIIXXXXXXXXXXXXOOOO---------------------------------------------------------------------------------------------------------------------------------------
+iqslksmgprliiqnvtqFGLIVASAVILWKALCIFFFteapivvilsgsmepgfkrgdlmfltnkggvdniqigdivvynlpskgipiihrvieihkdtkgdvrfltkgdnnpvddrglyggplwlkpdqiigksyahipyvgmitialtdypilkwtviglllisvllnkd
+Score = -5.369000
+Helix 1 from  18 (out) to  37 (in) : 8440
+------------------OOOOXXXXXXXXXXXXIIII+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+iqslksmgprliiqnvtqFGLIVASAVILWKALCIFFFteapivvilsgsmepgfkrgdlmfltnkggvdniqigdivvynlpskgipiihrvieihkdtkgdvrfltkgdnnpvddrglyggplwlkpdqiigksyahipyvgmitialtdypilkwtviglllisvllnkd
+Score = -5.497000
+Helix 1 from  10 (in) to  27 (out) : 561
+Helix 2 from  34 (out) to  50 (in) : 1516
+Helix 3 from  57 (in) to  73 (out) : 4294962213
+Helix 4 from  80 (out) to  96 (in) : 4294962119
+Helix 5 from 118 (in) to 134 (out) : 4294962600
+Helix 6 from 141 (out) to 165 (in) : 1850
+++++++++++IIIIXXXXXXXXXXOOOO------OOOOXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO------OOOOXXXXXXXXXIIII+++++++++++++++++++++IIIIXXXXXXXXXOOOO------OOOOXXXXXXXXXXXXXXXXXIIII+++++++
+iqslksmgprLIIQNVTQFGLIVASAVIlwkalcIFFFTEAPIVVILSGSMepgfkrGDLMFLTNKGGVDNIQIgdivvyNLPSKGIPIIHRVIEIHkdtkgdvrfltkgdnnpvddrGLYGGPLWLKPDQIIGKsyahipYVGMITIALTDYPILKWTVIGLLLIsvllnkd
+Score = -100000.000000
+Helix 1 from  10 (out) to  27 (in) : 818
+Helix 2 from  34 (in) to  50 (out) : 1803
+Helix 3 from  73 (out) to  89 (in) : 4294965405
+Helix 4 from 118 (in) to 134 (out) : 4294962600
+Helix 5 from 141 (out) to 165 (in) : 1850
+----------OOOOXXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO----------------------OOOOXXXXXXXXXIIII++++++++++++++++++++++++++++IIIIXXXXXXXXXOOOO------OOOOXXXXXXXXXXXXXXXXXIIII+++++++
+iqslksmgprLIIQNVTQFGLIVASAVIlwkalcIFFFTEAPIVVILSGSMepgfkrgdlmfltnkggvdniqIGDIVVYNLPSKGIPIIhrvieihkdtkgdvrfltkgdnnpvddrGLYGGPLWLKPDQIIGKsyahipYVGMITIALTDYPILKWTVIGLLLIsvllnkd
+Score = -100000.000000
+Helix 1 from  10 (in) to  27 (out) : 561
+Helix 2 from  34 (out) to  50 (in) : 1516
+Helix 3 from  73 (in) to  89 (out) : 4294965229
+Helix 4 from 141 (out) to 165 (in) : 1850
+++++++++++IIIIXXXXXXXXXXOOOO------OOOOXXXXXXXXXIIII++++++++++++++++++++++IIIIXXXXXXXXXOOOO---------------------------------------------------OOOOXXXXXXXXXXXXXXXXXIIII+++++++
+iqslksmgprLIIQNVTQFGLIVASAVIlwkalcIFFFTEAPIVVILSGSMepgfkrgdlmfltnkggvdniqIGDIVVYNLPSKGIPIIhrvieihkdtkgdvrfltkgdnnpvddrglyggplwlkpdqiigksyahipYVGMITIALTDYPILKWTVIGLLLIsvllnkd
+Score = -100000.000000
+Helix 1 from  10 (out) to  27 (in) : 818
+Helix 2 from  34 (in) to  50 (out) : 1803
+Helix 3 from 141 (out) to 165 (in) : 1850
+----------OOOOXXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO------------------------------------------------------------------------------------------OOOOXXXXXXXXXXXXXXXXXIIII+++++++
+iqslksmgprLIIQNVTQFGLIVASAVIlwkalcIFFFTEAPIVVILSGSMepgfkrgdlmfltnkggvdniqigdivvynlpskgipiihrvieihkdtkgdvrfltkgdnnpvddrglyggplwlkpdqiigksyahipYVGMITIALTDYPILKWTVIGLLLIsvllnkd
+Score = 4.938000
+Helix 1 from  18 (in) to  37 (out) : 3471
+Helix 2 from 141 (out) to 165 (in) : 1850
+++++++++++++++++++IIIIXXXXXXXXXXXXOOOO-------------------------------------------------------------------------------------------------------OOOOXXXXXXXXXXXXXXXXXIIII+++++++
+iqslksmgprliiqnvtqFGLIVASAVILWKALCIFFFteapivvilsgsmepgfkrgdlmfltnkggvdniqigdivvynlpskgipiihrvieihkdtkgdvrfltkgdnnpvddrglyggplwlkpdqiigksyahipYVGMITIALTDYPILKWTVIGLLLIsvllnkd
+Score = 5.676000
+Helix 1 from  10 (out) to  27 (in) : 818
+Helix 2 from  34 (in) to  50 (out) : 1803
+Helix 3 from  57 (out) to  73 (in) : 4294962410
+Helix 4 from  80 (in) to  96 (out) : 4294962335
+Helix 5 from 118 (out) to 134 (in) : 4294963497
+Helix 6 from 141 (in) to 165 (out) : 1569
+----------OOOOXXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO------OOOOXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO---------------------OOOOXXXXXXXXXIIII++++++IIIIXXXXXXXXXXXXXXXXXOOOO-------
+iqslksmgprLIIQNVTQFGLIVASAVIlwkalcIFFFTEAPIVVILSGSMepgfkrGDLMFLTNKGGVDNIQIgdivvyNLPSKGIPIIHRVIEIHkdtkgdvrfltkgdnnpvddrGLYGGPLWLKPDQIIGKsyahipYVGMITIALTDYPILKWTVIGLLLIsvllnkd
+Score = -100000.000000
+Helix 1 from  10 (in) to  27 (out) : 561
+Helix 2 from  34 (out) to  50 (in) : 1516
+Helix 3 from  73 (in) to  89 (out) : 4294965229
+Helix 4 from 118 (out) to 134 (in) : 4294963497
+Helix 5 from 141 (in) to 165 (out) : 1569
+++++++++++IIIIXXXXXXXXXXOOOO------OOOOXXXXXXXXXIIII++++++++++++++++++++++IIIIXXXXXXXXXOOOO----------------------------OOOOXXXXXXXXXIIII++++++IIIIXXXXXXXXXXXXXXXXXOOOO-------
+iqslksmgprLIIQNVTQFGLIVASAVIlwkalcIFFFTEAPIVVILSGSMepgfkrgdlmfltnkggvdniqIGDIVVYNLPSKGIPIIhrvieihkdtkgdvrfltkgdnnpvddrGLYGGPLWLKPDQIIGKsyahipYVGMITIALTDYPILKWTVIGLLLIsvllnkd
+Score = -100000.000000
+Helix 1 from  10 (out) to  27 (in) : 818
+Helix 2 from  34 (in) to  50 (out) : 1803
+Helix 3 from  73 (out) to  89 (in) : 4294965405
+Helix 4 from 141 (in) to 165 (out) : 1569
+----------OOOOXXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO----------------------OOOOXXXXXXXXXIIII+++++++++++++++++++++++++++++++++++++++++++++++++++IIIIXXXXXXXXXXXXXXXXXOOOO-------
+iqslksmgprLIIQNVTQFGLIVASAVIlwkalcIFFFTEAPIVVILSGSMepgfkrgdlmfltnkggvdniqIGDIVVYNLPSKGIPIIhrvieihkdtkgdvrfltkgdnnpvddrglyggplwlkpdqiigksyahipYVGMITIALTDYPILKWTVIGLLLIsvllnkd
+Score = -100000.000000
+Helix 1 from  18 (in) to  37 (out) : 3471
+Helix 2 from  73 (out) to  89 (in) : 4294965405
+Helix 3 from 141 (in) to 165 (out) : 1569
+++++++++++++++++++IIIIXXXXXXXXXXXXOOOO-----------------------------------OOOOXXXXXXXXXIIII+++++++++++++++++++++++++++++++++++++++++++++++++++IIIIXXXXXXXXXXXXXXXXXOOOO-------
+iqslksmgprliiqnvtqFGLIVASAVILWKALCIFFFteapivvilsgsmepgfkrgdlmfltnkggvdniqIGDIVVYNLPSKGIPIIhrvieihkdtkgdvrfltkgdnnpvddrglyggplwlkpdqiigksyahipYVGMITIALTDYPILKWTVIGLLLIsvllnkd
+Score = -100000.000000
+Helix 1 from  18 (out) to  37 (in) : 3245
+Helix 2 from 141 (in) to 165 (out) : 1569
+------------------OOOOXXXXXXXXXXXXIIII+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++IIIIXXXXXXXXXXXXXXXXXOOOO-------
+iqslksmgprliiqnvtqFGLIVASAVILWKALCIFFFteapivvilsgsmepgfkrgdlmfltnkggvdniqigdivvynlpskgipiihrvieihkdtkgdvrfltkgdnnpvddrglyggplwlkpdqiigksyahipYVGMITIALTDYPILKWTVIGLLLIsvllnkd
+Score = 0.991000
+ 1 helices (+) : Score = -5.369
+ 1 helices (-) : Score = -5.497
+ 2 helices (+) : Score = 5.676
+ 2 helices (-) : Score = 0.991
+ 3 helices (+) : Score = -100000
+ 3 helices (-) : Score = 4.938
+ 4 helices (+) : Score = -100000
+ 4 helices (-) : Score = -100000
+ 5 helices (+) : Score = -100000
+ 5 helices (-) : Score = -100000
+ 6 helices (+) : Score = -100000
+ 6 helices (-) : Score = -100000
+
+FINAL PREDICTION
+================
+1: (in) 19-38	(3.47)
+2: 142-166	(1.85)
+FINAL: >P1;USER>>seq3047
+FINAL: sequence = >seq3047 = [+1+] gi|67474817|ref|XP_653142.1|/16188
+FINAL: iqslksmgprliiqnvtqFGLIVASAVILWKALCIFFFteapivvilsgsmepgfkrgdlmfltnkggvdniqigdivvynlpskgipiihrvieihkdtkgdvrfltkgdnnpvddrglyggplwlkpdqiigksyahipYVGMITIALTDYPILKWTVIGLLLIsvllnkd*
+sequence = >seq2511 = [+0+] gi|465792787|emb|CCU98029.1|/6184
+
+179 residues read from file.
+
+Helix 1 from  12 (in) to  29 (out) : 5415
+++++++++++++IIIIXXXXXXXXXXOOOO-----------------------------------------------------------------------------------------------------------------------------------------------------
+aqalqphmwrrqVAQFVQVLHVIAMALAVWkglsvvtntespvvvvlsgsmepafhrgdllfltmtskpiepgeitvyrvpntdipivhrvieardkyvratdrsgrrgqllltkgdnnedddimlyqgprwirddqivgrvqgflpyagyitillndypalkyvvlsllglslffere
+Score = -1.151000
+Helix 1 from 137 (out) to 155 (in) : 1287
+-----------------------------------------------------------------------------------------------------------------------------------------OOOOXXXXXXXXXXXIIII+++++++++++++++++++++++
+aqalqphmwrrqvaqfvqvlhviamalavwkglsvvtntespvvvvlsgsmepafhrgdllfltmtskpiepgeitvyrvpntdipivhrvieardkyvratdrsgrrgqllltkgdnnedddimlyqgprwirddqIVGRVQGFLPYAGYITILLndypalkyvvlsllglslffere
+Score = -2.453000
+Helix 1 from  12 (in) to  28 (out) : 489
+Helix 2 from  35 (out) to  51 (in) : 4294964781
+Helix 3 from  59 (in) to  75 (out) : 4294963214
+Helix 4 from  82 (out) to  98 (in) : 4294959199
+Helix 5 from 123 (in) to 139 (out) : 4294960050
+Helix 6 from 147 (out) to 171 (in) : 4294967280
+++++++++++++IIIIXXXXXXXXXOOOO------OOOOXXXXXXXXXIIII+++++++IIIIXXXXXXXXXOOOO------OOOOXXXXXXXXXIIII++++++++++++++++++++++++IIIIXXXXXXXXXOOOO-------OOOOXXXXXXXXXXXXXXXXXIIII+++++++
+aqalqphmwrrqVAQFVQVLHVIAMALAVwkglsvVTNTESPVVVVLSGSMEpafhrgdLLFLTMTSKPIEPGEITvyrvpnTDIPIVHRVIEARDKYVratdrsgrrgqllltkgdnnedddIMLYQGPRWIRDDQIVGrvqgflpYAGYITILLNDYPALKYVVLSLLGLslffere
+Score = -100000.000000
+Helix 1 from  11 (out) to  27 (in) : 4294966896
+Helix 2 from  34 (in) to  50 (out) : 4294967254
+Helix 3 from  59 (out) to  77 (in) : 4294964283
+Helix 4 from 123 (in) to 139 (out) : 4294960050
+Helix 5 from 147 (out) to 171 (in) : 4294967280
+-----------OOOOXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO--------OOOOXXXXXXXXXXXIIII+++++++++++++++++++++++++++++++++++++++++++++IIIIXXXXXXXXXOOOO-------OOOOXXXXXXXXXXXXXXXXXIIII+++++++
+aqalqphmwrrQVAQFVQVLHVIAMALAvwkglsVVTNTESPVVVVLSGSMepafhrgdLLFLTMTSKPIEPGEITVYrvpntdipivhrvieardkyvratdrsgrrgqllltkgdnnedddIMLYQGPRWIRDDQIVGrvqgflpYAGYITILLNDYPALKYVVLSLLGLslffere
+Score = -100000.000000
+Helix 1 from  18 (in) to  35 (out) : 749
+Helix 2 from  42 (out) to  64 (in) : 4294964674
+Helix 3 from  74 (in) to  91 (out) : 4294963264
+Helix 4 from 147 (out) to 171 (in) : 4294967280
+++++++++++++++++++IIIIXXXXXXXXXXOOOO------OOOOXXXXXXXXXXXXXXXIIII+++++++++IIIIXXXXXXXXXXOOOO-------------------------------------------------------OOOOXXXXXXXXXXXXXXXXXIIII+++++++
+aqalqphmwrrqvaqfvqVLHVIAMALAVWKGLSVVtntespVVVVLSGSMEPAFHRGDLLFLTMtskpiepgeITVYRVPNTDIPIVHRVIeardkyvratdrsgrrgqllltkgdnnedddimlyqgprwirddqivgrvqgflpYAGYITILLNDYPALKYVVLSLLGLslffere
+Score = -100000.000000
+Helix 1 from  12 (out) to  29 (in) : 1246
+Helix 2 from  42 (in) to  64 (out) : 4294965169
+Helix 3 from 147 (out) to 171 (in) : 4294967280
+------------OOOOXXXXXXXXXXIIII++++++++++++IIIIXXXXXXXXXXXXXXXOOOO----------------------------------------------------------------------------------OOOOXXXXXXXXXXXXXXXXXIIII+++++++
+aqalqphmwrrqVAQFVQVLHVIAMALAVWkglsvvtntespVVVVLSGSMEPAFHRGDLLFLTMtskpiepgeitvyrvpntdipivhrvieardkyvratdrsgrrgqllltkgdnnedddimlyqgprwirddqivgrvqgflpYAGYITILLNDYPALKYVVLSLLGLslffere
+Score = -100000.000000
+Helix 1 from  18 (in) to  35 (out) : 749
+Helix 2 from 147 (out) to 171 (in) : 4294967280
+++++++++++++++++++IIIIXXXXXXXXXXOOOO---------------------------------------------------------------------------------------------------------------OOOOXXXXXXXXXXXXXXXXXIIII+++++++
+aqalqphmwrrqvaqfvqVLHVIAMALAVWKGLSVVtntespvvvvlsgsmepafhrgdllfltmtskpiepgeitvyrvpntdipivhrvieardkyvratdrsgrrgqllltkgdnnedddimlyqgprwirddqivgrvqgflpYAGYITILLNDYPALKYVVLSLLGLslffere
+Score = -100000.000000
+Helix 1 from  11 (out) to  27 (in) : 4294966896
+Helix 2 from  34 (in) to  50 (out) : 4294967254
+Helix 3 from  59 (out) to  77 (in) : 4294964283
+Helix 4 from  97 (in) to 113 (out) : 4294958614
+Helix 5 from 123 (out) to 139 (in) : 4294959834
+Helix 6 from 147 (in) to 171 (out) : 126
+-----------OOOOXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO--------OOOOXXXXXXXXXXXIIII+++++++++++++++++++IIIIXXXXXXXXXOOOO---------OOOOXXXXXXXXXIIII+++++++IIIIXXXXXXXXXXXXXXXXXOOOO-------
+aqalqphmwrrQVAQFVQVLHVIAMALAvwkglsVVTNTESPVVVVLSGSMepafhrgdLLFLTMTSKPIEPGEITVYrvpntdipivhrvieardkYVRATDRSGRRGQLLLTkgdnnedddIMLYQGPRWIRDDQIVGrvqgflpYAGYITILLNDYPALKYVVLSLLGLslffere
+Score = -100000.000000
+Helix 1 from  18 (in) to  35 (out) : 749
+Helix 2 from  42 (out) to  64 (in) : 4294964674
+Helix 3 from  74 (in) to  91 (out) : 4294963264
+Helix 4 from 123 (out) to 139 (in) : 4294959834
+Helix 5 from 147 (in) to 171 (out) : 126
+++++++++++++++++++IIIIXXXXXXXXXXOOOO------OOOOXXXXXXXXXXXXXXXIIII+++++++++IIIIXXXXXXXXXXOOOO-------------------------------OOOOXXXXXXXXXIIII+++++++IIIIXXXXXXXXXXXXXXXXXOOOO-------
+aqalqphmwrrqvaqfvqVLHVIAMALAVWKGLSVVtntespVVVVLSGSMEPAFHRGDLLFLTMtskpiepgeITVYRVPNTDIPIVHRVIeardkyvratdrsgrrgqllltkgdnnedddIMLYQGPRWIRDDQIVGrvqgflpYAGYITILLNDYPALKYVVLSLLGLslffere
+Score = -100000.000000
+Helix 1 from  11 (out) to  27 (in) : 4294966896
+Helix 2 from  34 (in) to  50 (out) : 4294967254
+Helix 3 from  59 (out) to  77 (in) : 4294964283
+Helix 4 from 137 (in) to 155 (out) : 4294967167
+-----------OOOOXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO--------OOOOXXXXXXXXXXXIIII+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++IIIIXXXXXXXXXXXOOOO-----------------------
+aqalqphmwrrQVAQFVQVLHVIAMALAvwkglsVVTNTESPVVVVLSGSMepafhrgdLLFLTMTSKPIEPGEITVYrvpntdipivhrvieardkyvratdrsgrrgqllltkgdnnedddimlyqgprwirddqIVGRVQGFLPYAGYITILLndypalkyvvlsllglslffere
+Score = -100000.000000
+Helix 1 from  18 (in) to  35 (out) : 749
+Helix 2 from  42 (out) to  64 (in) : 4294964674
+Helix 3 from 137 (in) to 155 (out) : 4294967167
+++++++++++++++++++IIIIXXXXXXXXXXOOOO------OOOOXXXXXXXXXXXXXXXIIII++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++IIIIXXXXXXXXXXXOOOO-----------------------
+aqalqphmwrrqvaqfvqVLHVIAMALAVWKGLSVVtntespVVVVLSGSMEPAFHRGDLLFLTMtskpiepgeitvyrvpntdipivhrvieardkyvratdrsgrrgqllltkgdnnedddimlyqgprwirddqIVGRVQGFLPYAGYITILLndypalkyvvlsllglslffere
+Score = -100000.000000
+Helix 1 from  12 (out) to  29 (in) : 1246
+Helix 2 from 137 (in) to 155 (out) : 4294967167
+------------OOOOXXXXXXXXXXIIII+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++IIIIXXXXXXXXXXXOOOO-----------------------
+aqalqphmwrrqVAQFVQVLHVIAMALAVWkglsvvtntespvvvvlsgsmepafhrgdllfltmtskpiepgeitvyrvpntdipivhrvieardkyvratdrsgrrgqllltkgdnnedddimlyqgprwirddqIVGRVQGFLPYAGYITILLndypalkyvvlsllglslffere
+Score = -100000.000000
+ 1 helices (+) : Score = -1.151
+ 1 helices (-) : Score = -2.453
+ 2 helices (+) : Score = -100000
+ 2 helices (-) : Score = -100000
+ 3 helices (+) : Score = -100000
+ 3 helices (-) : Score = -100000
+ 4 helices (+) : Score = -100000
+ 4 helices (-) : Score = -100000
+ 5 helices (+) : Score = -100000
+ 5 helices (-) : Score = -100000
+ 6 helices (+) : Score = -100000
+ 6 helices (-) : Score = -100000
+
+FINAL PREDICTION
+================
+1: (in) 13-30	(1.42)
+FINAL: >P1;USER>>seq2511
+FINAL: sequence = >seq2511 = [+0+] gi|465792787|emb|CCU98029.1|/6184
+FINAL: aqalqphmwrrqVAQFVQVLHVIAMALAVWkglsvvtntespvvvvlsgsmepafhrgdllfltmtskpiepgeitvyrvpntdipivhrvieardkyvratdrsgrrgqllltkgdnnedddimlyqgprwirddqivgrvqgflpyagyitillndypalkyvvlsllglslffere*
+sequence = >seq2206 = [+7+] gi|170095185|ref|XP_001878813.1|/3188
+
+186 residues read from file.
+
+Helix 1 from  14 (in) to  38 (out) : 5407
+++++++++++++++IIIIXXXXXXXXXXXXXXXXXOOOO---------------------------------------------------------------------------------------------------------------------------------------------------
+teeikafrrlgfrhVLLQALNFATVIASGLMIWKGLGIItnsespivvvlsgsmepafyrgdllfltnpvseqyktgditvykipgadipivhrvlethdvppkgrkakeagepasqlmltkgdnnyvddlelyqglqwlerkhivgkvrgflpyvgyvtiamndfpqlkyallgvlgllallqre
+Score = -1.348000
+Helix 1 from  14 (out) to  32 (in) : 6327
+--------------OOOOXXXXXXXXXXXIIII+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+teeikafrrlgfrhVLLQALNFATVIASGLMIWkglgiitnsespivvvlsgsmepafyrgdllfltnpvseqyktgditvykipgadipivhrvlethdvppkgrkakeagepasqlmltkgdnnyvddlelyqglqwlerkhivgkvrgflpyvgyvtiamndfpqlkyallgvlgllallqre
+Score = -4.648000
+Helix 1 from   9 (in) to  26 (out) : 4294966039
+Helix 2 from  33 (out) to  49 (in) : 4294966322
+Helix 3 from  56 (in) to  72 (out) : 4294963250
+Helix 4 from  79 (out) to  95 (in) : 4294963926
+Helix 5 from 110 (in) to 127 (out) : 4294960813
+Helix 6 from 155 (out) to 179 (in) : 4294965990
++++++++++IIIIXXXXXXXXXXOOOO------OOOOXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO------OOOOXXXXXXXXXIIII++++++++++++++IIIIXXXXXXXXXXOOOO---------------------------OOOOXXXXXXXXXXXXXXXXXIIII++++++
+teeikafrrLGFRHVLLQALNFATVIAsglmiwKGLGIITNSESPIVVVLsgsmepAFYRGDLLFLTNPVSEQyktgdiTVYKIPGADIPIVHRVLethdvppkgrkakeAGEPASQLMLTKGDNNYVddlelyqglqwlerkhivgkvrgflpyVGYVTIAMNDFPQLKYALLGVLGLLallqre
+Score = -100000.000000
+Helix 1 from  14 (out) to  30 (in) : 1352
+Helix 2 from  37 (in) to  53 (out) : 117
+Helix 3 from  78 (out) to  95 (in) : 4294963957
+Helix 4 from 110 (in) to 127 (out) : 4294960813
+Helix 5 from 155 (out) to 179 (in) : 4294965990
+--------------OOOOXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO------------------------OOOOXXXXXXXXXXIIII++++++++++++++IIIIXXXXXXXXXXOOOO---------------------------OOOOXXXXXXXXXXXXXXXXXIIII++++++
+teeikafrrlgfrhVLLQALNFATVIASGLMiwkglgIITNSESPIVVVLSGSMepafyrgdllfltnpvseqyktgdITVYKIPGADIPIVHRVLethdvppkgrkakeAGEPASQLMLTKGDNNYVddlelyqglqwlerkhivgkvrgflpyVGYVTIAMNDFPQLKYALLGVLGLLallqre
+Score = -100000.000000
+Helix 1 from  14 (in) to  32 (out) : 2796
+Helix 2 from  45 (out) to  65 (in) : 4294964959
+Helix 3 from  78 (in) to  95 (out) : 4294964226
+Helix 4 from 155 (out) to 179 (in) : 4294965990
+++++++++++++++IIIIXXXXXXXXXXXOOOO------------OOOOXXXXXXXXXXXXXIIII++++++++++++IIIIXXXXXXXXXXOOOO-----------------------------------------------------------OOOOXXXXXXXXXXXXXXXXXIIII++++++
+teeikafrrlgfrhVLLQALNFATVIASGLMIWkglgiitnsespIVVVLSGSMEPAFYRGDLLFLtnpvseqyktgdITVYKIPGADIPIVHRVLethdvppkgrkakeagepasqlmltkgdnnyvddlelyqglqwlerkhivgkvrgflpyVGYVTIAMNDFPQLKYALLGVLGLLallqre
+Score = -100000.000000
+Helix 1 from  14 (out) to  30 (in) : 1352
+Helix 2 from  37 (in) to  53 (out) : 117
+Helix 3 from 155 (out) to 179 (in) : 4294965990
+--------------OOOOXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO-----------------------------------------------------------------------------------------------------OOOOXXXXXXXXXXXXXXXXXIIII++++++
+teeikafrrlgfrhVLLQALNFATVIASGLMiwkglgIITNSESPIVVVLSGSMepafyrgdllfltnpvseqyktgditvykipgadipivhrvlethdvppkgrkakeagepasqlmltkgdnnyvddlelyqglqwlerkhivgkvrgflpyVGYVTIAMNDFPQLKYALLGVLGLLallqre
+Score = -100000.000000
+Helix 1 from  14 (in) to  32 (out) : 2796
+Helix 2 from 155 (out) to 179 (in) : 4294965990
+++++++++++++++IIIIXXXXXXXXXXXOOOO--------------------------------------------------------------------------------------------------------------------------OOOOXXXXXXXXXXXXXXXXXIIII++++++
+teeikafrrlgfrhVLLQALNFATVIASGLMIWkglgiitnsespivvvlsgsmepafyrgdllfltnpvseqyktgditvykipgadipivhrvlethdvppkgrkakeagepasqlmltkgdnnyvddlelyqglqwlerkhivgkvrgflpyVGYVTIAMNDFPQLKYALLGVLGLLallqre
+Score = -100000.000000
+Helix 1 from   9 (out) to  26 (in) : 4294966692
+Helix 2 from  34 (in) to  50 (out) : 4294967069
+Helix 3 from  57 (out) to  73 (in) : 4294963069
+Helix 4 from  80 (in) to  96 (out) : 4294963587
+Helix 5 from 117 (out) to 133 (in) : 4294960254
+Helix 6 from 144 (in) to 162 (out) : 4294966336
+---------OOOOXXXXXXXXXXIIII+++++++IIIIXXXXXXXXXOOOO------OOOOXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO--------------------OOOOXXXXXXXXXIIII++++++++++IIIIXXXXXXXXXXXOOOO-----------------------
+teeikafrrLGFRHVLLQALNFATVIAsglmiwkGLGIITNSESPIVVVLSgsmepaFYRGDLLFLTNPVSEQYktgditVYKIPGADIPIVHRVLEthdvppkgrkakeagepasqLMLTKGDNNYVDDLELYqglqwlerkhIVGKVRGFLPYVGYVTIAMndfpqlkyallgvlgllallqre
+Score = -100000.000000
+Helix 1 from  14 (in) to  32 (out) : 2796
+Helix 2 from  45 (out) to  65 (in) : 4294964959
+Helix 3 from  78 (in) to  95 (out) : 4294964226
+Helix 4 from 117 (out) to 133 (in) : 4294960254
+Helix 5 from 144 (in) to 162 (out) : 4294966336
+++++++++++++++IIIIXXXXXXXXXXXOOOO------------OOOOXXXXXXXXXXXXXIIII++++++++++++IIIIXXXXXXXXXXOOOO---------------------OOOOXXXXXXXXXIIII++++++++++IIIIXXXXXXXXXXXOOOO-----------------------
+teeikafrrlgfrhVLLQALNFATVIASGLMIWkglgiitnsespIVVVLSGSMEPAFYRGDLLFLtnpvseqyktgdITVYKIPGADIPIVHRVLethdvppkgrkakeagepasqLMLTKGDNNYVDDLELYqglqwlerkhIVGKVRGFLPYVGYVTIAMndfpqlkyallgvlgllallqre
+Score = -100000.000000
+Helix 1 from  14 (out) to  30 (in) : 1352
+Helix 2 from  37 (in) to  53 (out) : 117
+Helix 3 from  78 (out) to  95 (in) : 4294963957
+Helix 4 from 144 (in) to 162 (out) : 4294966336
+--------------OOOOXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO------------------------OOOOXXXXXXXXXXIIII++++++++++++++++++++++++++++++++++++++++++++++++IIIIXXXXXXXXXXXOOOO-----------------------
+teeikafrrlgfrhVLLQALNFATVIASGLMiwkglgIITNSESPIVVVLSGSMepafyrgdllfltnpvseqyktgdITVYKIPGADIPIVHRVLethdvppkgrkakeagepasqlmltkgdnnyvddlelyqglqwlerkhIVGKVRGFLPYVGYVTIAMndfpqlkyallgvlgllallqre
+Score = -100000.000000
+Helix 1 from  14 (in) to  32 (out) : 2796
+Helix 2 from  45 (out) to  65 (in) : 4294964959
+Helix 3 from 144 (in) to 162 (out) : 4294966336
+++++++++++++++IIIIXXXXXXXXXXXOOOO------------OOOOXXXXXXXXXXXXXIIII++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++IIIIXXXXXXXXXXXOOOO-----------------------
+teeikafrrlgfrhVLLQALNFATVIASGLMIWkglgiitnsespIVVVLSGSMEPAFYRGDLLFLtnpvseqyktgditvykipgadipivhrvlethdvppkgrkakeagepasqlmltkgdnnyvddlelyqglqwlerkhIVGKVRGFLPYVGYVTIAMndfpqlkyallgvlgllallqre
+Score = -100000.000000
+Helix 1 from  14 (out) to  30 (in) : 1352
+Helix 2 from  37 (in) to  53 (out) : 117
+--------------OOOOXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO------------------------------------------------------------------------------------------------------------------------------------
+teeikafrrlgfrhVLLQALNFATVIASGLMiwkglgIITNSESPIVVVLSGSMepafyrgdllfltnpvseqyktgditvykipgadipivhrvlethdvppkgrkakeagepasqlmltkgdnnyvddlelyqglqwlerkhivgkvrgflpyvgyvtiamndfpqlkyallgvlgllallqre
+Score = 0.480000
+ 1 helices (+) : Score = -1.348
+ 1 helices (-) : Score = -4.648
+ 2 helices (+) : Score = -100000
+ 2 helices (-) : Score = 0.48
+ 3 helices (+) : Score = -100000
+ 3 helices (-) : Score = -100000
+ 4 helices (+) : Score = -100000
+ 4 helices (-) : Score = -100000
+ 5 helices (+) : Score = -100000
+ 5 helices (-) : Score = -100000
+ 6 helices (+) : Score = -100000
+ 6 helices (-) : Score = -100000
+
+FINAL PREDICTION
+================
+1: (out) 15-31	(1.35)
+2: 38-54	(0.12)
+FINAL: >P1;USER>>seq2206
+FINAL: sequence = >seq2206 = [+7+] gi|170095185|ref|XP_001878813.1|/3188
+FINAL: teeikafrrlgfrhVLLQALNFATVIASGLMiwkglgIITNSESPIVVVLSGSMepafyrgdllfltnpvseqyktgditvykipgadipivhrvlethdvppkgrkakeagepasqlmltkgdnnyvddlelyqglqwlerkhivgkvrgflpyvgyvtiamndfpqlkyallgvlgllallqre*
+sequence = >seq1175 = [+0+] gi|401888833|gb|EJT52781.1|/4178
+
+175 residues read from file.
+
+Helix 1 from   8 (in) to  31 (out) : 4662
+++++++++IIIIXXXXXXXXXXXXXXXXOOOO-----------------------------------------------------------------------------------------------------------------------------------------------
+eeiakirkLGVHGVLFQLLNFLNVVASGLVMWkalclvtnsespivvvlsgsmepafyrgdilllmnpqdarydigditvykvpgdplgtpivhrvieshtsnttqllltkcdnnptddfflykgpqwldsrqivgkvvgflpylgyvtiamndfpqlkyallgtvgaflllnrd
+Score = -1.904000
+Helix 1 from 133 (out) to 151 (in) : 3031
+-------------------------------------------------------------------------------------------------------------------------------------OOOOXXXXXXXXXXXIIII+++++++++++++++++++++++
+eeiakirklgvhgvlfqllnflnvvasglvmwkalclvtnsespivvvlsgsmepafyrgdilllmnpqdarydigditvykvpgdplgtpivhrvieshtsnttqllltkcdnnptddfflykgpqwldsrqIVGKVVGFLPYLGYVTIAMndfpqlkyallgtvgaflllnrd
+Score = -5.876000
+Helix 1 from   8 (in) to  25 (out) : 483
+Helix 2 from  33 (out) to  49 (in) : 4294966840
+Helix 3 from  56 (in) to  72 (out) : 4294961920
+Helix 4 from  79 (out) to  96 (in) : 4294963956
+Helix 5 from 106 (in) to 122 (out) : 4294962178
+Helix 6 from 133 (out) to 151 (in) : 1116
+++++++++IIIIXXXXXXXXXXOOOO-------OOOOXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO------OOOOXXXXXXXXXXIIII+++++++++IIIIXXXXXXXXXOOOO----------OOOOXXXXXXXXXXXIIII+++++++++++++++++++++++
+eeiakirkLGVHGVLFQLLNFLNVVAsglvmwkALCLVTNSESPIVVVLSgsmepaFYRGDILLLMNPQDARYdigditVYKVPGDPLGTPIVHRVIeshtsnttqLLLTKCDNNPTDDFFLYkgpqwldsrqIVGKVVGFLPYLGYVTIAMndfpqlkyallgtvgaflllnrd
+Score = -100000.000000
+Helix 1 from   8 (out) to  25 (in) : 1082
+Helix 2 from  33 (in) to  49 (out) : 110
+Helix 3 from  56 (out) to  72 (in) : 4294962463
+Helix 4 from  79 (in) to  96 (out) : 4294964115
+Helix 5 from 133 (out) to 151 (in) : 1116
+--------OOOOXXXXXXXXXXIIII+++++++IIIIXXXXXXXXXOOOO------OOOOXXXXXXXXXIIII++++++IIIIXXXXXXXXXXOOOO------------------------------------OOOOXXXXXXXXXXXIIII+++++++++++++++++++++++
+eeiakirkLGVHGVLFQLLNFLNVVAsglvmwkALCLVTNSESPIVVVLSgsmepaFYRGDILLLMNPQDARYdigditVYKVPGDPLGTPIVHRVIeshtsnttqllltkcdnnptddfflykgpqwldsrqIVGKVVGFLPYLGYVTIAMndfpqlkyallgtvgaflllnrd
+Score = -100000.000000
+Helix 1 from   8 (in) to  31 (out) : 2468
+Helix 2 from  44 (out) to  65 (in) : 4294965432
+Helix 3 from  77 (in) to  93 (out) : 4294964985
+Helix 4 from 133 (out) to 151 (in) : 1116
+++++++++IIIIXXXXXXXXXXXXXXXXOOOO------------OOOOXXXXXXXXXXXXXXIIII+++++++++++IIIIXXXXXXXXXOOOO---------------------------------------OOOOXXXXXXXXXXXIIII+++++++++++++++++++++++
+eeiakirkLGVHGVLFQLLNFLNVVASGLVMWkalclvtnsespIVVVLSGSMEPAFYRGDILLLMnpqdarydigdITVYKVPGDPLGTPIVHrvieshtsnttqllltkcdnnptddfflykgpqwldsrqIVGKVVGFLPYLGYVTIAMndfpqlkyallgtvgaflllnrd
+Score = -100000.000000
+Helix 1 from   8 (out) to  25 (in) : 1082
+Helix 2 from  33 (in) to  52 (out) : 685
+Helix 3 from 133 (out) to 151 (in) : 1116
+--------OOOOXXXXXXXXXXIIII+++++++IIIIXXXXXXXXXXXXOOOO--------------------------------------------------------------------------------OOOOXXXXXXXXXXXIIII+++++++++++++++++++++++
+eeiakirkLGVHGVLFQLLNFLNVVAsglvmwkALCLVTNSESPIVVVLSGSMepafyrgdilllmnpqdarydigditvykvpgdplgtpivhrvieshtsnttqllltkcdnnptddfflykgpqwldsrqIVGKVVGFLPYLGYVTIAMndfpqlkyallgtvgaflllnrd
+Score = 3.816000
+Helix 1 from   8 (in) to  31 (out) : 2468
+Helix 2 from 133 (out) to 151 (in) : 1116
+++++++++IIIIXXXXXXXXXXXXXXXXOOOO-----------------------------------------------------------------------------------------------------OOOOXXXXXXXXXXXIIII+++++++++++++++++++++++
+eeiakirkLGVHGVLFQLLNFLNVVASGLVMWkalclvtnsespivvvlsgsmepafyrgdilllmnpqdarydigditvykvpgdplgtpivhrvieshtsnttqllltkcdnnptddfflykgpqwldsrqIVGKVVGFLPYLGYVTIAMndfpqlkyallgtvgaflllnrd
+Score = 5.636000
+Helix 1 from   8 (out) to  25 (in) : 1082
+Helix 2 from  33 (in) to  49 (out) : 110
+Helix 3 from  56 (out) to  72 (in) : 4294962463
+Helix 4 from  79 (in) to  96 (out) : 4294964115
+Helix 5 from 106 (out) to 122 (in) : 4294961811
+Helix 6 from 133 (in) to 151 (out) : 1437
+--------OOOOXXXXXXXXXXIIII+++++++IIIIXXXXXXXXXOOOO------OOOOXXXXXXXXXIIII++++++IIIIXXXXXXXXXXOOOO---------OOOOXXXXXXXXXIIII++++++++++IIIIXXXXXXXXXXXOOOO-----------------------
+eeiakirkLGVHGVLFQLLNFLNVVAsglvmwkALCLVTNSESPIVVVLSgsmepaFYRGDILLLMNPQDARYdigditVYKVPGDPLGTPIVHRVIeshtsnttqLLLTKCDNNPTDDFFLYkgpqwldsrqIVGKVVGFLPYLGYVTIAMndfpqlkyallgtvgaflllnrd
+Score = -100000.000000
+Helix 1 from   8 (in) to  31 (out) : 2468
+Helix 2 from  44 (out) to  65 (in) : 4294965432
+Helix 3 from  77 (in) to  93 (out) : 4294964985
+Helix 4 from 106 (out) to 122 (in) : 4294961811
+Helix 5 from 133 (in) to 151 (out) : 1437
+++++++++IIIIXXXXXXXXXXXXXXXXOOOO------------OOOOXXXXXXXXXXXXXXIIII+++++++++++IIIIXXXXXXXXXOOOO------------OOOOXXXXXXXXXIIII++++++++++IIIIXXXXXXXXXXXOOOO-----------------------
+eeiakirkLGVHGVLFQLLNFLNVVASGLVMWkalclvtnsespIVVVLSGSMEPAFYRGDILLLMnpqdarydigdITVYKVPGDPLGTPIVHrvieshtsnttqLLLTKCDNNPTDDFFLYkgpqwldsrqIVGKVVGFLPYLGYVTIAMndfpqlkyallgtvgaflllnrd
+Score = -100000.000000
+Helix 1 from   8 (out) to  25 (in) : 1082
+Helix 2 from  33 (in) to  52 (out) : 685
+Helix 3 from  74 (out) to  92 (in) : 4294964045
+Helix 4 from 133 (in) to 151 (out) : 1437
+--------OOOOXXXXXXXXXXIIII+++++++IIIIXXXXXXXXXXXXOOOO---------------------OOOOXXXXXXXXXXXIIII++++++++++++++++++++++++++++++++++++++++IIIIXXXXXXXXXXXOOOO-----------------------
+eeiakirkLGVHGVLFQLLNFLNVVAsglvmwkALCLVTNSESPIVVVLSGSMepafyrgdilllmnpqdarydIGDITVYKVPGDPLGTPIVhrvieshtsnttqllltkcdnnptddfflykgpqwldsrqIVGKVVGFLPYLGYVTIAMndfpqlkyallgtvgaflllnrd
+Score = -100000.000000
+Helix 1 from   8 (in) to  31 (out) : 2468
+Helix 2 from  44 (out) to  65 (in) : 4294965432
+Helix 3 from 133 (in) to 151 (out) : 1437
+++++++++IIIIXXXXXXXXXXXXXXXXOOOO------------OOOOXXXXXXXXXXXXXXIIII+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++IIIIXXXXXXXXXXXOOOO-----------------------
+eeiakirkLGVHGVLFQLLNFLNVVASGLVMWkalclvtnsespIVVVLSGSMEPAFYRGDILLLMnpqdarydigditvykvpgdplgtpivhrvieshtsnttqllltkcdnnptddfflykgpqwldsrqIVGKVVGFLPYLGYVTIAMndfpqlkyallgtvgaflllnrd
+Score = -100000.000000
+Helix 1 from   8 (out) to  25 (in) : 1082
+Helix 2 from  33 (in) to  52 (out) : 685
+--------OOOOXXXXXXXXXXIIII+++++++IIIIXXXXXXXXXXXXOOOO--------------------------------------------------------------------------------------------------------------------------
+eeiakirkLGVHGVLFQLLNFLNVVAsglvmwkALCLVTNSESPIVVVLSGSMepafyrgdilllmnpqdarydigditvykvpgdplgtpivhrvieshtsnttqllltkcdnnptddfflykgpqwldsrqivgkvvgflpylgyvtiamndfpqlkyallgtvgaflllnrd
+Score = 1.756000
+ 1 helices (+) : Score = -1.904
+ 1 helices (-) : Score = -5.876
+ 2 helices (+) : Score = 5.636
+ 2 helices (-) : Score = 1.756
+ 3 helices (+) : Score = -100000
+ 3 helices (-) : Score = 3.816
+ 4 helices (+) : Score = -100000
+ 4 helices (-) : Score = -100000
+ 5 helices (+) : Score = -100000
+ 5 helices (-) : Score = -100000
+ 6 helices (+) : Score = -100000
+ 6 helices (-) : Score = -100000
+
+FINAL PREDICTION
+================
+1: (in) 9-32	(2.47)
+2: 134-152	(1.12)
+FINAL: >P1;USER>>seq1175
+FINAL: sequence = >seq1175 = [+0+] gi|401888833|gb|EJT52781.1|/4178
+FINAL: eeiakirkLGVHGVLFQLLNFLNVVASGLVMWkalclvtnsespivvvlsgsmepafyrgdilllmnpqdarydigditvykvpgdplgtpivhrvieshtsnttqllltkcdnnptddfflykgpqwldsrqIVGKVVGFLPYLGYVTIAMndfpqlkyallgtvgaflllnrd*
+sequence = >seq4253 = [+0+] gi|648157177|gb|KDR70943.1|/6194
+
+189 residues read from file.
+
+Helix 1 from   9 (in) to  28 (out) : 7205
++++++++++IIIIXXXXXXXXXXXXOOOO----------------------------------------------------------------------------------------------------------------------------------------------------------------
+pkrqvllqsLTLASAIASMLMLYSGLGIVtntespivvvlsgsmepafqrgdiiflsnpthrpytngdivvykipgaeipivhrilethdisddhdrkghrysfskipgpigrsentpqqllltkgdnnpvddvalyngvdwlrgeqvigkvwgflpyvgyvsiamndmprlkyaafaamglaaliqre
+Score = 1.131000
+Helix 1 from   9 (out) to  28 (in) : 6696
+---------OOOOXXXXXXXXXXXXIIII++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+pkrqvllqsLTLASAIASMLMLYSGLGIVtntespivvvlsgsmepafqrgdiiflsnpthrpytngdivvykipgaeipivhrilethdisddhdrkghrysfskipgpigrsentpqqllltkgdnnpvddvalyngvdwlrgeqvigkvwgflpyvgyvsiamndmprlkyaafaamglaaliqre
+Score = -3.293000
+Helix 1 from   9 (in) to  28 (out) : 3183
+Helix 2 from  35 (out) to  55 (in) : 4294964121
+Helix 3 from  68 (in) to  85 (out) : 4294964281
+Helix 4 from  97 (out) to 113 (in) : 4294960124
+Helix 5 from 120 (in) to 136 (out) : 4294961773
+Helix 6 from 147 (out) to 165 (in) : 562
++++++++++IIIIXXXXXXXXXXXXOOOO------OOOOXXXXXXXXXXXXXIIII++++++++++++IIIIXXXXXXXXXXOOOO-----------OOOOXXXXXXXXXIIII++++++IIIIXXXXXXXXXOOOO----------OOOOXXXXXXXXXXXIIII+++++++++++++++++++++++
+pkrqvllqsLTLASAIASMLMLYSGLGIVtntespIVVVLSGSMEPAFQRGDIIFLsnpthrpytngdIVVYKIPGAEIPIVHRILethdisddhdrKGHRYSFSKIPGPIGRSentpqqLLLTKGDNNPVDDVALYngvdwlrgeqVIGKVWGFLPYVGYVSIAMndmprlkyaafaamglaaliqre
+Score = -100000.000000
+Helix 1 from   9 (out) to  28 (in) : 3006
+Helix 2 from  35 (in) to  55 (out) : 4294964626
+Helix 3 from  68 (out) to  85 (in) : 4294964154
+Helix 4 from 120 (in) to 136 (out) : 4294961773
+Helix 5 from 147 (out) to 165 (in) : 562
+---------OOOOXXXXXXXXXXXXIIII++++++IIIIXXXXXXXXXXXXXOOOO------------OOOOXXXXXXXXXXIIII++++++++++++++++++++++++++++++++++IIIIXXXXXXXXXOOOO----------OOOOXXXXXXXXXXXIIII+++++++++++++++++++++++
+pkrqvllqsLTLASAIASMLMLYSGLGIVtntespIVVVLSGSMEPAFQRGDIIFLsnpthrpytngdIVVYKIPGAEIPIVHRILethdisddhdrkghrysfskipgpigrsentpqqLLLTKGDNNPVDDVALYngvdwlrgeqVIGKVWGFLPYVGYVSIAMndmprlkyaafaamglaaliqre
+Score = -100000.000000
+Helix 1 from   9 (in) to  28 (out) : 3183
+Helix 2 from  35 (out) to  55 (in) : 4294964121
+Helix 3 from  68 (in) to  85 (out) : 4294964281
+Helix 4 from 147 (out) to 165 (in) : 562
++++++++++IIIIXXXXXXXXXXXXOOOO------OOOOXXXXXXXXXXXXXIIII++++++++++++IIIIXXXXXXXXXXOOOO-------------------------------------------------------------OOOOXXXXXXXXXXXIIII+++++++++++++++++++++++
+pkrqvllqsLTLASAIASMLMLYSGLGIVtntespIVVVLSGSMEPAFQRGDIIFLsnpthrpytngdIVVYKIPGAEIPIVHRILethdisddhdrkghrysfskipgpigrsentpqqllltkgdnnpvddvalyngvdwlrgeqVIGKVWGFLPYVGYVSIAMndmprlkyaafaamglaaliqre
+Score = -100000.000000
+Helix 1 from   9 (out) to  28 (in) : 3006
+Helix 2 from  35 (in) to  55 (out) : 4294964626
+Helix 3 from 147 (out) to 165 (in) : 562
+---------OOOOXXXXXXXXXXXXIIII++++++IIIIXXXXXXXXXXXXXOOOO-------------------------------------------------------------------------------------------OOOOXXXXXXXXXXXIIII+++++++++++++++++++++++
+pkrqvllqsLTLASAIASMLMLYSGLGIVtntespIVVVLSGSMEPAFQRGDIIFLsnpthrpytngdivvykipgaeipivhrilethdisddhdrkghrysfskipgpigrsentpqqllltkgdnnpvddvalyngvdwlrgeqVIGKVWGFLPYVGYVSIAMndmprlkyaafaamglaaliqre
+Score = -100000.000000
+Helix 1 from   9 (in) to  28 (out) : 3183
+Helix 2 from 147 (out) to 165 (in) : 562
++++++++++IIIIXXXXXXXXXXXXOOOO----------------------------------------------------------------------------------------------------------------------OOOOXXXXXXXXXXXIIII+++++++++++++++++++++++
+pkrqvllqsLTLASAIASMLMLYSGLGIVtntespivvvlsgsmepafqrgdiiflsnpthrpytngdivvykipgaeipivhrilethdisddhdrkghrysfskipgpigrsentpqqllltkgdnnpvddvalyngvdwlrgeqVIGKVWGFLPYVGYVSIAMndmprlkyaafaamglaaliqre
+Score = 9.714000
+Helix 1 from   9 (out) to  28 (in) : 3006
+Helix 2 from  35 (in) to  55 (out) : 4294964626
+Helix 3 from  68 (out) to  85 (in) : 4294964154
+Helix 4 from  97 (in) to 113 (out) : 4294960300
+Helix 5 from 120 (out) to 136 (in) : 4294961769
+Helix 6 from 147 (in) to 165 (out) : 1019
+---------OOOOXXXXXXXXXXXXIIII++++++IIIIXXXXXXXXXXXXXOOOO------------OOOOXXXXXXXXXXIIII+++++++++++IIIIXXXXXXXXXOOOO------OOOOXXXXXXXXXIIII++++++++++IIIIXXXXXXXXXXXOOOO-----------------------
+pkrqvllqsLTLASAIASMLMLYSGLGIVtntespIVVVLSGSMEPAFQRGDIIFLsnpthrpytngdIVVYKIPGAEIPIVHRILethdisddhdrKGHRYSFSKIPGPIGRSentpqqLLLTKGDNNPVDDVALYngvdwlrgeqVIGKVWGFLPYVGYVSIAMndmprlkyaafaamglaaliqre
+Score = -100000.000000
+Helix 1 from   9 (in) to  28 (out) : 3183
+Helix 2 from  35 (out) to  55 (in) : 4294964121
+Helix 3 from  68 (in) to  85 (out) : 4294964281
+Helix 4 from 120 (out) to 136 (in) : 4294961769
+Helix 5 from 147 (in) to 165 (out) : 1019
++++++++++IIIIXXXXXXXXXXXXOOOO------OOOOXXXXXXXXXXXXXIIII++++++++++++IIIIXXXXXXXXXXOOOO----------------------------------OOOOXXXXXXXXXIIII++++++++++IIIIXXXXXXXXXXXOOOO-----------------------
+pkrqvllqsLTLASAIASMLMLYSGLGIVtntespIVVVLSGSMEPAFQRGDIIFLsnpthrpytngdIVVYKIPGAEIPIVHRILethdisddhdrkghrysfskipgpigrsentpqqLLLTKGDNNPVDDVALYngvdwlrgeqVIGKVWGFLPYVGYVSIAMndmprlkyaafaamglaaliqre
+Score = -100000.000000
+Helix 1 from   9 (out) to  28 (in) : 3006
+Helix 2 from  35 (in) to  55 (out) : 4294964626
+Helix 3 from  68 (out) to  85 (in) : 4294964154
+Helix 4 from 147 (in) to 165 (out) : 1019
+---------OOOOXXXXXXXXXXXXIIII++++++IIIIXXXXXXXXXXXXXOOOO------------OOOOXXXXXXXXXXIIII+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++IIIIXXXXXXXXXXXOOOO-----------------------
+pkrqvllqsLTLASAIASMLMLYSGLGIVtntespIVVVLSGSMEPAFQRGDIIFLsnpthrpytngdIVVYKIPGAEIPIVHRILethdisddhdrkghrysfskipgpigrsentpqqllltkgdnnpvddvalyngvdwlrgeqVIGKVWGFLPYVGYVSIAMndmprlkyaafaamglaaliqre
+Score = -100000.000000
+Helix 1 from   9 (in) to  28 (out) : 3183
+Helix 2 from  68 (out) to  85 (in) : 4294964154
+Helix 3 from 147 (in) to 165 (out) : 1019
++++++++++IIIIXXXXXXXXXXXXOOOO---------------------------------------OOOOXXXXXXXXXXIIII+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++IIIIXXXXXXXXXXXOOOO-----------------------
+pkrqvllqsLTLASAIASMLMLYSGLGIVtntespivvvlsgsmepafqrgdiiflsnpthrpytngdIVVYKIPGAEIPIVHRILethdisddhdrkghrysfskipgpigrsentpqqllltkgdnnpvddvalyngvdwlrgeqVIGKVWGFLPYVGYVSIAMndmprlkyaafaamglaaliqre
+Score = -100000.000000
+Helix 1 from   9 (out) to  28 (in) : 3006
+Helix 2 from  35 (in) to  55 (out) : 4294964626
+---------OOOOXXXXXXXXXXXXIIII++++++IIIIXXXXXXXXXXXXXOOOO-------------------------------------------------------------------------------------------------------------------------------------
+pkrqvllqsLTLASAIASMLMLYSGLGIVtntespIVVVLSGSMEPAFQRGDIIFLsnpthrpytngdivvykipgaeipivhrilethdisddhdrkghrysfskipgpigrsentpqqllltkgdnnpvddvalyngvdwlrgeqvigkvwgflpyvgyvsiamndmprlkyaafaamglaaliqre
+Score = -100000.000000
+ 1 helices (+) : Score = 1.131
+ 1 helices (-) : Score = -3.293
+ 2 helices (+) : Score = 9.714
+ 2 helices (-) : Score = -100000
+ 3 helices (+) : Score = -100000
+ 3 helices (-) : Score = -100000
+ 4 helices (+) : Score = -100000
+ 4 helices (-) : Score = -100000
+ 5 helices (+) : Score = -100000
+ 5 helices (-) : Score = -100000
+ 6 helices (+) : Score = -100000
+ 6 helices (-) : Score = -100000
+
+FINAL PREDICTION
+================
+1: (in) 10-29	(3.18)
+2: 148-166	(0.56)
+FINAL: >P1;USER>>seq4253
+FINAL: sequence = >seq4253 = [+0+] gi|648157177|gb|KDR70943.1|/6194
+FINAL: pkrqvllqsLTLASAIASMLMLYSGLGIVtntespivvvlsgsmepafqrgdiiflsnpthrpytngdivvykipgaeipivhrilethdisddhdrkghrysfskipgpigrsentpqqllltkgdnnpvddvalyngvdwlrgeqVIGKVWGFLPYVGYVSIAMndmprlkyaafaamglaaliqre*

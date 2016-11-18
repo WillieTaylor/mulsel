@@ -1,0 +1,318 @@
+..............p----- USER>>seqR248 =0= [+124+] R family seq 248  0.249431 54 R
+......p-------b----- USER>>seqR310 =0= [+45+] R family seq 310  0.407382 37 R
+......|.....p------- USER>>seqR405 =0= [+30+] R family seq 405  0.134610 34 R
+......b-p---b---p--- USER>>seqR456 =0= [+13+] R family seq 456  0.058337 36 R
+........|.......b--- USER>>seqR478 =0= [+15+] R family seq 478  0.339911 34 R
+........b-----p----- USER>>seqR533 =0= [+6+] R family seq 533  0.248142 34 R
+..............b----- USER>>seqR584 =0= [+8+] R family seq 584  0.331488 34 R
+
+............p------- USER>>seqY182 =0= [+99+] Y family seq 182  0.259102 60 Y
+......p-----b-p----- USER>>seqY294 =0= [+72+] Y family seq 294  0.386949 41 Y
+......|.......b----- USER>>seqY359 =0= [+19+] Y family seq 359  0.257232 34 Y
+......|.....p------- USER>>seqY435 =0= [+19+] Y family seq 435  0.022311 34 Y
+......b-p---b------- USER>>seqY511 =0= [+15+] Y family seq 511  0.195760 34 Y
+........|.......p--- USER>>seqY549 =0= [+11+] Y family seq 549  0.122171 34 Y
+........b-----p-b--- USER>>seqY559 =0= [+3+] Y family seq 559  0.011808 34 Y
+..............b----- USER>>seqY579 =0= [+9+] Y family seq 579  0.350136 34 Y
+
+....p--------------- USER>>seqH6 =0= [+4+] H family seq 6  0.104161 71 H
+....|.......p------- USER>>seqH250 =0= [+127+] H family seq 250  0.053910 52 H
+....b-p-----b-p----- USER>>seqH334 =0= [+32+] H family seq 334  0.126720 35 H
+......|.......b----- USER>>seqH387 =0= [+7+] H family seq 387  0.038074 34 H
+......|.....p------- USER>>seqH583 =0= [+4+] H family seq 583  0.245497 34 H
+......b-p---b------- USER>>seqH535 =0= [+16+] H family seq 535  0.239405 35 H
+........b---p------- USER>>seqH441 =0= [+5+] H family seq 441  0.143196 35 H
+............b---p--- USER>>seqH480 =0= [+18+] H family seq 480  0.240267 34 H
+................b--- USER>>seqH502 =0= [+7+] H family seq 502  0.377985 35 H
+
+..............p----- USER>>seqL103 =0= [+103+] L family seq 103  0.184408 68 L
+..........p---b-p--- USER>>seqL220 =0= [+6+] L family seq 220  0.472085 49 L
+..........|.....b--- USER>>seqL286 =0= [+72+] L family seq 286  0.100620 39 L
+........p-b-p------- USER>>seqL387 =0= [+15+] L family seq 387  0.219154 34 L
+........|...b------- USER>>seqL436 =0= [+22+] L family seq 436  0.043046 35 L
+........|...p------- USER>>seqL516 =0= [+10+] L family seq 516  0.280255 34 L
+........b-p-b------- USER>>seqL547 =0= [+3+] L family seq 547  0.168878 34 L
+..........b--------- USER>>seqL587 =0= [+6+] L family seq 587  0.030079 34 L
+
+..............p----- USER>>seqV186 =0= [+104+] V family seq 186  0.312785 49 V
+............p-b----- USER>>seqV284 =0= [+35+] V family seq 284  0.208706 34 V
+........p---b------- USER>>seqV364 =0= [+21+] V family seq 364  0.098976 34 V
+......p-b----------- USER>>seqV455 =0= [+56+] V family seq 455  0.174843 34 V
+......|.......p----- USER>>seqV599 =0= [+2+] V family seq 599  0.379219 35 V
+......b-----p-b----- USER>>seqV582 =0= [+4+] V family seq 582  0.398476 34 V
+............b------- USER>>seqV553 =0= [+10+] V family seq 553  0.228013 34 V
+
+............p------- USER>>seqI253 =0= [+130+] I family seq 253  0.055322 45 I
+........p---b------- USER>>seqI307 =0= [+33+] I family seq 307  0.458374 34 I
+........|.....p----- USER>>seqI374 =0= [+20+] I family seq 374  0.487640 35 I
+......p-b-p---b----- USER>>seqI421 =0= [+10+] I family seq 421  0.380058 34 I
+......|...b--------- USER>>seqI491 =0= [+40+] I family seq 491  0.302640 34 I
+......b------------- USER>>seqI596 =0= [+18+] I family seq 596  0.334514 34 I
+
+........p----------- USER>>seqE198 =0= [+139+] E family seq 198  0.262989 51 E
+........|...p------- USER>>seqE319 =0= [+19+] E family seq 319  0.442222 34 E
+......p-b-p-b---p--- USER>>seqE356 =0= [+12+] E family seq 356  0.093601 35 E
+......|...|.....b--- USER>>seqE396 =0= [+24+] E family seq 396  0.223897 34 E
+......|...b-----p--- USER>>seqE458 =0= [+19+] E family seq 458  0.441394 34 E
+......|.........b--- USER>>seqE495 =0= [+8+] E family seq 495  0.025371 34 E
+......b-------p----- USER>>seqE567 =0= [+15+] E family seq 567  0.220260 34 E
+..............b----- USER>>seqE535 =0= [+12+] E family seq 535  0.243456 35 E
+
+........p----------- USER>>seqF582 =0= [+8+] F family seq 582  0.420513 34 F
+......p-b---p------- USER>>seqF523 =0= [+23+] F family seq 523  0.354857 34 F
+......|.....b-p----- USER>>seqF481 =0= [+15+] F family seq 481  0.281754 34 F
+......|.......b----- USER>>seqF456 =0= [+18+] F family seq 456  0.420086 34 F
+......|.....p------- USER>>seqF385 =0= [+19+] F family seq 385  0.285432 34 F
+......b---p-b------- USER>>seqF291 =0= [+73+] F family seq 291  0.106796 44 F
+..........b--------- USER>>seqF144 =0= [+76+] F family seq 144  0.119383 66 F
+
+..........p--------- USER>>seqQ146 =0= [+68+] Q family seq 146  0.150465 62 Q
+........p-b-----p--- USER>>seqQ252 =0= [+25+] Q family seq 252  0.355187 45 Q
+........|.......b--- USER>>seqQ293 =0= [+58+] Q family seq 293  0.031794 39 Q
+......p-b-------p--- USER>>seqQ385 =0= [+8+] Q family seq 385  0.492381 34 Q
+......|.........b--- USER>>seqQ425 =0= [+18+] Q family seq 425  0.147808 34 Q
+......b-----p------- USER>>seqQ496 =0= [+26+] Q family seq 496  0.341157 35 Q
+............b------- USER>>seqQ568 =0= [+13+] Q family seq 568  0.260604 34 Q
+
+................p--- USER>>seqM586 =0= [+9+] M family seq 586  0.464339 35 M
+............p---b--- USER>>seqM560 =0= [+13+] M family seq 560  0.067152 34 M
+........p---b------- USER>>seqM501 =0= [+17+] M family seq 501  0.326235 34 M
+........b-p--------- USER>>seqM403 =0= [+33+] M family seq 403  0.137588 34 M
+..........|.......p- USER>>seqM319 =0= [+32+] M family seq 319  0.377089 36 M
+..........b-p-----b- USER>>seqM295 =0= [+69+] M family seq 295  0.215645 41 M
+............b------- USER>>seqM183 =0= [+91+] M family seq 183  0.475497 62 M
+
+..............p----- USER>>seqP113 =0= [+75+] P family seq 113  0.286514 64 P
+..........p---b----- USER>>seqP262 =0= [+55+] P family seq 262  0.416650 41 P
+........p-b-p------- USER>>seqP444 =0= [+25+] P family seq 444  0.160706 34 P
+........|...b-p----- USER>>seqP389 =0= [+18+] P family seq 389  0.365891 35 P
+........|.....b----- USER>>seqP338 =0= [+29+] P family seq 338  0.353133 34 P
+........b---p------- USER>>seqP573 =0= [+11+] P family seq 573  0.389968 34 P
+............b------- USER>>seqP523 =0= [+9+] P family seq 523  0.374234 34 P
+
+............p------- USER>>seqW225 =0= [+112+] W family seq 225  0.335921 50 W
+........p---b-p----- USER>>seqW285 =0= [+16+] W family seq 285  0.467573 35 W
+........|.....b----- USER>>seqW322 =0= [+20+] W family seq 322  0.452142 34 W
+........|.....p----- USER>>seqW382 =0= [+11+] W family seq 382  0.256349 34 W
+......p-b---p-b-p--- USER>>seqW419 =0= [+13+] W family seq 419  0.336893 34 W
+......|.....|...b--- USER>>seqW451 =0= [+10+] W family seq 451  0.236469 34 W
+......|.....b------- USER>>seqW493 =0= [+11+] W family seq 493  0.257220 35 W
+..p---b------------- USER>>seqW589 =0= [+23+] W family seq 589  0.346761 34 W
+..|.....p----------- USER>>seqW152 =0= [+143+] W family seq 152  0.836530 63 W
+..|.....|...p------- USER>>seqW293 =0= [+27+] W family seq 293  0.987395 35 W
+..b---p-b-p-b---p--- USER>>seqW338 =0= [+10+] W family seq 338  0.927266 34 W
+......|...|.....b--- USER>>seqW373 =0= [+25+] W family seq 373  0.721766 34 W
+......|...b--------- USER>>seqW425 =0= [+17+] W family seq 425  0.632156 34 W
+......b-----p------- USER>>seqW499 =0= [+23+] W family seq 499  0.878548 35 W
+............b---p--- USER>>seqW555 =0= [+13+] W family seq 555  0.907456 34 W
+................b--- USER>>seqW592 =0= [+9+] W family seq 592  0.707761 34 W
+
+..............p----- USER>>seqD172 =0= [+87+] D family seq 172  0.284442 61 D
+........p-----b----- USER>>seqD275 =0= [+60+] D family seq 275  0.198321 41 D
+......p-b----------- USER>>seqD431 =0= [+39+] D family seq 431  0.212434 34 D
+p-----b---p--------- USER>>seqD493 =0= [+23+] D family seq 493  0.297813 34 D
+|.........b--------- USER>>seqD578 =0= [+21+] D family seq 578  0.142201 35 D
+|.............p----- USER>>seqD225 =0= [+118+] D family seq 225  0.893346 48 D
+|.........p---b----- USER>>seqD285 =0= [+60+] D family seq 285  0.672525 39 D
+b-----p---b--------- USER>>seqD366 =0= [+18+] D family seq 366  0.965657 34 D
+......b---p--------- USER>>seqD585 =0= [+13+] D family seq 585  0.813957 34 D
+..........b-p------- USER>>seqD504 =0= [+8+] D family seq 504  0.550287 34 D
+............b------- USER>>seqD466 =0= [+22+] D family seq 466  0.502613 34 D
+
+............p------- USER>>seqA206 =0= [+115+] A family seq 206  0.477643 49 A
+........p---b------- USER>>seqA307 =0= [+67+] A family seq 307  0.014872 36 A
+......p-b-p--------- USER>>seqA485 =0= [+20+] A family seq 485  0.323515 35 A
+......|...b---p----- USER>>seqA446 =0= [+21+] A family seq 446  0.431111 34 A
+......|.......b----- USER>>seqA395 =0= [+14+] A family seq 395  0.374828 34 A
+......b---------p--- USER>>seqA583 =0= [+4+] A family seq 583  0.008073 34 A
+................b--- USER>>seqA558 =0= [+18+] A family seq 558  0.436705 34 A
+
+............p------- USER>>seqC129 =0= [+117+] C family seq 129  0.465855 63 C
+..........p-b------- USER>>seqC597 =0= [+10+] C family seq 597  0.324047 34 C
+........p-b-----p--- USER>>seqC529 =0= [+17+] C family seq 529  0.099586 34 C
+........|.......b--- USER>>seqC504 =0= [+13+] C family seq 504  0.254651 34 C
+........|.....p----- USER>>seqC458 =0= [+4+] C family seq 458  0.034871 34 C
+........b-p---b----- USER>>seqC448 =0= [+12+] C family seq 448  0.278246 35 C
+..........b-p------- USER>>seqC397 =0= [+11+] C family seq 397  0.392367 34 C
+............b------- USER>>seqC328 =0= [+86+] C family seq 328  0.314921 40 C
+
+..........p--------- USER>>seqT254 =0= [+124+] T family seq 254  0.143078 50 T
+........p-b---p----- USER>>seqT425 =0= [+71+] T family seq 425  0.147254 34 T
+........|.....b----- USER>>seqT481 =0= [+19+] T family seq 481  0.047024 34 T
+........b-p--------- USER>>seqT545 =0= [+14+] T family seq 545  0.030469 34 T
+..........b--------- USER>>seqT599 =0= [+3+] T family seq 599  0.272691 34 T
+
+..............p----- USER>>seqK588 =0= [+3+] K family seq 588  0.328365 34 K
+........p-----b----- USER>>seqK560 =0= [+11+] K family seq 560  0.265303 34 K
+......p-b-----p----- USER>>seqK250 =0= [+66+] K family seq 250  0.346427 38 K
+......|.......b----- USER>>seqK160 =0= [+111+] K family seq 160  0.340330 58 K
+......|.......p----- USER>>seqK508 =0= [+17+] K family seq 508  0.065991 34 K
+..p---b---p---b----- USER>>seqK467 =0= [+12+] K family seq 467  0.303712 35 K
+..|.......b--------- USER>>seqK406 =0= [+35+] K family seq 406  0.255981 34 K
+..|.........p------- USER>>seqK126 =0= [+101+] K family seq 126  0.972713 66 K
+..|.....p---b------- USER>>seqK279 =0= [+53+] K family seq 279  0.500459 37 K
+..b---p-b---p------- USER>>seqK465 =0= [+21+] K family seq 465  0.732462 35 K
+......|.....b------- USER>>seqK407 =0= [+40+] K family seq 407  0.941133 34 K
+......b-------p----- USER>>seqK598 =0= [+2+] K family seq 598  0.558101 34 K
+..............b----- USER>>seqK569 =0= [+25+] K family seq 569  0.590048 34 K
+
+........p----------- USER>>seqG15 =0= [+3+] G family seq 15  0.197040 71 G
+........|.........p- USER>>seqG334 =0= [+34+] G family seq 334  0.523057 34 G
+........|.....p---b- USER>>seqG324 =0= [+26+] G family seq 324  0.233077 34 G
+......p-b-p---b----- USER>>seqG302 =0= [+27+] G family seq 302  0.590829 36 G
+......|...b-----p--- USER>>seqG260 =0= [+78+] G family seq 260  0.721197 44 G
+......|.........b--- USER>>seqG186 =0= [+200+] G family seq 186  0.352432 53 G
+......|...p--------- USER>>seqG596 =0= [+24+] G family seq 596  0.488609 34 G
+......b-p-b-----p--- USER>>seqG573 =0= [+16+] G family seq 573  0.598646 34 G
+........|.......b--- USER>>seqG594 =0= [+2+] G family seq 594  0.824516 34 G
+........|.......p--- USER>>seqG468 =0= [+27+] G family seq 468  0.229454 35 G
+........b---p---b--- USER>>seqG445 =0= [+30+] G family seq 445  0.922953 35 G
+............b------- USER>>seqG494 =0= [+21+] G family seq 494  0.588689 34 G
+
+............p------- USER>>seqS174 =0= [+90+] S family seq 174  0.464162 62 S
+..........p-b------- USER>>seqS277 =0= [+48+] S family seq 277  0.473452 38 S
+....p-----b-p------- USER>>seqS400 =0= [+2+] S family seq 400  0.419730 34 S
+....|.......b------- USER>>seqS337 =0= [+24+] S family seq 337  0.117325 34 S
+....|.........p----- USER>>seqS596 =0= [+5+] S family seq 596  0.208141 34 S
+p---b-----p---b----- USER>>seqS572 =0= [+10+] S family seq 572  0.480208 35 S
+|.........b---p----- USER>>seqS521 =0= [+6+] S family seq 521  0.398704 34 S
+|.............b----- USER>>seqS488 =0= [+22+] S family seq 488  0.072931 34 S
+|.............p----- USER>>seqS487 =0= [+21+] S family seq 487  0.654762 34 S
+|.......p-----b----- USER>>seqS428 =0= [+31+] S family seq 428  0.699461 34 S
+b-----p-b-----p----- USER>>seqS320 =0= [+4+] S family seq 320  0.810463 34 S
+......|.......b----- USER>>seqS275 =0= [+177+] S family seq 275  0.542830 38 S
+......b---p--------- USER>>seqS533 =0= [+12+] S family seq 533  0.578854 34 S
+..........b--------- USER>>seqS597 =0= [+2+] S family seq 597  0.641004 34 S
+
+................p--- USER>>seqN525 =0= [+31+] N family seq 525  0.096088 34 N
+..........p-----b--- USER>>seqN555 =0= [+20+] N family seq 555  0.407952 34 N
+......p---b--------- USER>>seqN434 =0= [+24+] N family seq 434  0.433294 34 N
+......|.......p----- USER>>seqN378 =0= [+18+] N family seq 378  0.443643 35 N
+......b---p---b----- USER>>seqN344 =0= [+12+] N family seq 344  0.396160 34 N
+..........b---p----- USER>>seqN270 =0= [+70+] N family seq 270  0.342983 40 N
+..............b----- USER>>seqN196 =0= [+90+] N family seq 196  0.166381 58 N
+
+..............p----- USER>>seqQ566 =0= [+14+] Q family seq 566  0.596655 34 Q
+........p-----b----- USER>>seqQ523 =0= [+33+] Q family seq 523  0.995063 34 Q
+........|.....p----- USER>>seqQ424 =0= [+22+] Q family seq 424  0.922540 34 Q
+........b-p---b----- USER>>seqQ361 =0= [+7+] Q family seq 361  0.546553 34 Q
+..........b-p------- USER>>seqQ288 =0= [+105+] Q family seq 288  0.672419 40 Q
+............b------- USER>>seqQ141 =0= [+93+] Q family seq 141  0.541058 63 Q
+
+..............p----- USER>>seqR249 =0= [+145+] R family seq 249  0.807487 53 R
+........p-----b----- USER>>seqR302 =0= [+20+] R family seq 302  0.843335 37 R
+......p-b---p------- USER>>seqR385 =0= [+12+] R family seq 385  0.584731 34 R
+......|.....b---p--- USER>>seqR449 =0= [+17+] R family seq 449  0.832346 34 R
+......|.........b--- USER>>seqR432 =0= [+16+] R family seq 432  0.712630 34 R
+......b-------p----- USER>>seqR550 =0= [+28+] R family seq 550  0.518432 34 R
+..............b----- USER>>seqR521 =0= [+9+] R family seq 521  0.976760 34 R
+
+............p------- USER>>seqI373 =0= [+11+] I family seq 373  0.740137 35 I
+..........p-b---p--- USER>>seqI333 =0= [+5+] I family seq 333  0.623021 34 I
+..........|.....b--- USER>>seqI300 =0= [+12+] I family seq 300  0.504948 35 I
+......p---b--------- USER>>seqI206 =0= [+139+] I family seq 206  0.907738 56 I
+......|.........p--- USER>>seqI422 =0= [+11+] I family seq 422  0.704871 34 I
+......|.....p---b--- USER>>seqI439 =0= [+4+] I family seq 439  0.880769 34 I
+......b-p---b------- USER>>seqI485 =0= [+35+] I family seq 485  0.810852 34 I
+........b----------- USER>>seqI579 =0= [+17+] I family seq 579  0.691927 35 I
+
+............p------- USER>>seqY146 =0= [+116+] Y family seq 146  0.678498 64 Y
+..........p-b------- USER>>seqY300 =0= [+61+] Y family seq 300  0.824651 40 Y
+..........|...p----- USER>>seqY478 =0= [+5+] Y family seq 478  0.733114 34 Y
+........p-b-p-b----- USER>>seqY445 =0= [+15+] Y family seq 445  0.917127 34 Y
+........|...b------- USER>>seqY398 =0= [+18+] Y family seq 398  0.882268 34 Y
+........b-----p----- USER>>seqY565 =0= [+12+] Y family seq 565  0.879514 34 Y
+..............b----- USER>>seqY526 =0= [+28+] Y family seq 526  0.926420 34 Y
+
+..........p--------- USER>>seqM142 =0= [+28+] M family seq 142  0.939346 67 M
+........p-b-----p--- USER>>seqM320 =0= [+129+] M family seq 320  0.672845 36 M
+........|.......b--- USER>>seqM371 =0= [+11+] M family seq 371  0.985035 34 M
+......p-b---p------- USER>>seqM496 =0= [+29+] M family seq 496  0.739964 34 M
+......|.....b---p--- USER>>seqM425 =0= [+15+] M family seq 425  0.923735 34 M
+......|.........b--- USER>>seqM444 =0= [+18+] M family seq 444  0.867246 34 M
+......b------------- USER>>seqM592 =0= [+8+] M family seq 592  0.507629 34 M
+
+........p----------- USER>>seqF594 =0= [+23+] F family seq 594  0.994668 34 F
+........|.......p--- USER>>seqF543 =0= [+3+] F family seq 543  0.678324 34 F
+......p-b---p---b--- USER>>seqF511 =0= [+21+] F family seq 511  0.662136 34 F
+......|.....b------- USER>>seqF476 =0= [+7+] F family seq 476  0.529971 34 F
+......b-----p------- USER>>seqF351 =0= [+70+] F family seq 351  0.790562 34 F
+............b------- USER>>seqF277 =0= [+151+] F family seq 277  0.553832 50 F
+
+................p--- USER>>seqV185 =0= [+109+] V family seq 185  0.756888 49 V
+............p---b--- USER>>seqV238 =0= [+38+] V family seq 238  0.956182 39 V
+......p-----b---p--- USER>>seqV363 =0= [+16+] V family seq 363  0.637840 34 V
+......|.........b--- USER>>seqV336 =0= [+10+] V family seq 336  0.612700 35 V
+......|.........p--- USER>>seqV593 =0= [+0+] V family seq 593  0.941969 36 V
+......b---p-----b--- USER>>seqV571 =0= [+22+] V family seq 571  0.592349 35 V
+..........b-p------- USER>>seqV510 =0= [+7+] V family seq 510  0.599430 35 V
+............b------- USER>>seqV453 =0= [+21+] V family seq 453  0.613046 34 V
+
+..........p--------- USER>>seqE188 =0= [+142+] E family seq 188  0.606392 53 E
+......p---b-p------- USER>>seqE436 =0= [+22+] E family seq 436  0.829862 35 E
+......|.....b------- USER>>seqE352 =0= [+36+] E family seq 352  0.645884 35 E
+......b-------p----- USER>>seqE569 =0= [+7+] E family seq 569  0.762539 34 E
+..............b----- USER>>seqE546 =0= [+42+] E family seq 546  0.736352 35 E
+
+......p------------- USER>>seqH554 =0= [+19+] H family seq 554  0.792376 34 H
+......b-p----------- USER>>seqH456 =0= [+29+] H family seq 456  0.689773 34 H
+........|.......p--- USER>>seqH402 =0= [+7+] H family seq 402  0.845159 34 H
+........b-p-----b--- USER>>seqH384 =0= [+69+] H family seq 384  0.727204 34 H
+..........b--------- USER>>seqH247 =0= [+141+] H family seq 247  0.975217 52 H
+
+..............p----- USER>>seqL395 =0= [+25+] L family seq 395  0.575494 35 L
+..........p---b----- USER>>seqL331 =0= [+29+] L family seq 331  0.960314 34 L
+......p---b---p----- USER>>seqL222 =0= [+45+] L family seq 222  0.928954 48 L
+......|.......b----- USER>>seqL111 =0= [+101+] L family seq 111  0.599722 68 L
+......|.......p----- USER>>seqL473 =0= [+12+] L family seq 473  0.774191 34 L
+......b-p-----b----- USER>>seqL502 =0= [+7+] L family seq 502  0.828904 34 L
+........|.....p----- USER>>seqL527 =0= [+5+] L family seq 527  0.800939 34 L
+........b-p---b----- USER>>seqL549 =0= [+10+] L family seq 549  0.650211 34 L
+..........b--------- USER>>seqL584 =0= [+16+] L family seq 584  0.776074 34 L
+
+..............p----- USER>>seqT470 =0= [+12+] T family seq 470  0.502816 35 T
+............p-b----- USER>>seqT498 =0= [+7+] T family seq 498  0.881762 34 T
+........p---b------- USER>>seqT549 =0= [+29+] T family seq 549  0.851161 34 T
+......p-b----------- USER>>seqT598 =0= [+4+] T family seq 598  0.577838 34 T
+......b---p--------- USER>>seqT383 =0= [+53+] T family seq 383  0.548437 34 T
+..........|.....p--- USER>>seqT304 =0= [+11+] T family seq 304  0.657275 38 T
+..........b-p---b--- USER>>seqT256 =0= [+131+] T family seq 256  0.880578 50 T
+............b------- USER>>seqT4 =0= [+6+] T family seq 4  0.994503 77 T
+
+..............p----- USER>>seqC130 =0= [+101+] C family seq 130  0.654754 63 C
+............p-b----- USER>>seqC293 =0= [+30+] C family seq 293  0.515560 45 C
+........p---b------- USER>>seqC329 =0= [+25+] C family seq 329  0.638895 40 C
+......p-b-p--------- USER>>seqC403 =0= [+22+] C family seq 403  0.867836 34 C
+......|...b---p----- USER>>seqC459 =0= [+9+] C family seq 459  0.604425 34 C
+......|.......b----- USER>>seqC503 =0= [+18+] C family seq 503  0.590339 34 C
+......b-------p----- USER>>seqC552 =0= [+8+] C family seq 552  0.563624 35 C
+..............b----- USER>>seqC587 =0= [+4+] C family seq 587  0.635462 34 C
+
+................p--- USER>>seqN233 =0= [+115+] N family seq 233  0.791476 48 N
+..........p-----b--- USER>>seqN274 =0= [+38+] N family seq 274  0.704029 39 N
+......p---b-p------- USER>>seqN398 =0= [+16+] N family seq 398  0.771562 34 N
+......|.....b------- USER>>seqN358 =0= [+21+] N family seq 358  0.863096 35 N
+......b-----p------- USER>>seqN526 =0= [+29+] N family seq 526  0.608232 34 N
+............b------- USER>>seqN452 =0= [+28+] N family seq 452  0.715573 34 N
+
+................p--- USER>>seqA148 =0= [+70+] A family seq 148  0.720010 61 A
+............p---b--- USER>>seqA213 =0= [+26+] A family seq 213  0.534337 46 A
+..........p-b-p----- USER>>seqA296 =0= [+47+] A family seq 296  0.917514 36 A
+..........|...b----- USER>>seqA342 =0= [+8+] A family seq 342  0.625822 34 A
+......p---b-----p--- USER>>seqA394 =0= [+20+] A family seq 394  0.966637 34 A
+......|.........b--- USER>>seqA425 =0= [+6+] A family seq 425  0.828691 34 A
+......|.......p----- USER>>seqA468 =0= [+8+] A family seq 468  0.503081 34 A
+......b---p---b----- USER>>seqA488 =0= [+9+] A family seq 488  0.988199 34 A
+..........b--------- USER>>seqA542 =0= [+32+] A family seq 542  0.959593 34 A
+
+..............p----- USER>>seqP222 =0= [+143+] P family seq 222  0.835917 49 P
+........p-----b----- USER>>seqP302 =0= [+30+] P family seq 302  0.911379 35 P
+........|.......p--- USER>>seqP394 =0= [+38+] P family seq 394  0.884624 34 P
+......p-b---p---b--- USER>>seqP417 =0= [+1+] P family seq 417  0.629880 35 P
+......|.....b------- USER>>seqP460 =0= [+12+] P family seq 460  0.540639 34 P
+......b-----p------- USER>>seqP593 =0= [+3+] P family seq 593  0.700561 34 P
+............b---p--- USER>>seqP538 =0= [+11+] P family seq 538  0.715933 35 P
+................b--- USER>>seqP522 =0= [+17+] P family seq 522  0.565307 34 P
+
+-------------------- USER>>seqM4 =0= [+5+] M family seq 4  0.841193 74 M
+

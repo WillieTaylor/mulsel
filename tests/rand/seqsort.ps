@@ -1,0 +1,1524 @@
+%!PS-Adobe-3.0
+%%BoundingBox: 18 36 577 806
+%%Title: Enscript Output
+%%Creator: GNU Enscript 1.6.5.90
+%%CreationDate: Thu Nov 19 11:52:25 2015
+%%Orientation: Portrait
+%%Pages: (atend)
+%%DocumentMedia: A4 595 842 0 () ()
+%%DocumentNeededResources: (atend)
+%%EndComments
+%%BeginProlog
+%%BeginResource: procset Enscript-Prolog 1.6.5 90
+%
+% Procedures.
+%
+
+/_S {	% save current state
+  /_s save def
+} def
+/_R {	% restore from saved state
+  _s restore
+} def
+
+/S {	% showpage protecting gstate
+  gsave
+  showpage
+  grestore
+} bind def
+
+/MF {	% fontname newfontname -> -	make a new encoded font
+  /newfontname exch def
+  /fontname exch def
+
+  /fontdict fontname findfont def
+  /newfont fontdict maxlength dict def
+
+  fontdict {
+    exch
+    dup /FID eq {
+      % skip FID pair
+      pop pop
+    } {
+      % copy to the new font dictionary
+      exch newfont 3 1 roll put
+    } ifelse
+  } forall
+
+  newfont /FontName newfontname put
+
+  % insert only valid encoding vectors
+  encoding_vector length 256 eq {
+    newfont /Encoding encoding_vector put
+  } if
+
+  newfontname newfont definefont pop
+} def
+
+/MF_PS { % fontname newfontname -> -	make a new font preserving its enc
+  /newfontname exch def
+  /fontname exch def
+
+  /fontdict fontname findfont def
+  /newfont fontdict maxlength dict def
+
+  fontdict {
+    exch
+    dup /FID eq {
+      % skip FID pair
+      pop pop
+    } {
+      % copy to the new font dictionary
+      exch newfont 3 1 roll put
+    } ifelse
+  } forall
+
+  newfont /FontName newfontname put
+
+  newfontname newfont definefont pop
+} def
+
+/SF { % fontname width height -> -	set a new font
+  /height exch def
+  /width exch def
+
+  findfont
+  [width 0 0 height 0 0] makefont setfont
+} def
+
+/SUF { % fontname width height -> -	set a new user font
+  /height exch def
+  /width exch def
+
+  /F-gs-user-font MF
+  /F-gs-user-font width height SF
+} def
+
+/SUF_PS { % fontname width height -> -	set a new user font preserving its enc
+  /height exch def
+  /width exch def
+
+  /F-gs-user-font MF_PS
+  /F-gs-user-font width height SF
+} def
+
+/M {moveto} bind def
+/s {show} bind def
+
+/Box {	% x y w h -> -			define box path
+  /d_h exch def /d_w exch def /d_y exch def /d_x exch def
+  d_x d_y  moveto
+  d_w 0 rlineto
+  0 d_h rlineto
+  d_w neg 0 rlineto
+  closepath
+} def
+
+/bgs {	% x y height blskip gray str -> -	show string with bg color
+  /str exch def
+  /gray exch def
+  /blskip exch def
+  /height exch def
+  /y exch def
+  /x exch def
+
+  gsave
+    x y blskip sub str stringwidth pop height Box
+    gray setgray
+    fill
+  grestore
+  x y M str s
+} def
+
+/bgcs { % x y height blskip red green blue str -> -  show string with bg color
+  /str exch def
+  /blue exch def
+  /green exch def
+  /red exch def
+  /blskip exch def
+  /height exch def
+  /y exch def
+  /x exch def
+
+  gsave
+    x y blskip sub str stringwidth pop height Box
+    red green blue setrgbcolor
+    fill
+  grestore
+  x y M str s
+} def
+
+% Highlight bars.
+/highlight_bars {	% nlines lineheight output_y_margin gray -> -
+  gsave
+    setgray
+    /ymarg exch def
+    /lineheight exch def
+    /nlines exch def
+
+    % This 2 is just a magic number to sync highlight lines to text.
+    0 d_header_y ymarg sub 2 sub translate
+
+    /cw d_output_w cols div def
+    /nrows d_output_h ymarg 2 mul sub lineheight div cvi def
+
+    % for each column
+    0 1 cols 1 sub {
+      cw mul /xp exch def
+
+      % for each rows
+      0 1 nrows 1 sub {
+        /rn exch def
+        rn lineheight mul neg /yp exch def
+        rn nlines idiv 2 mod 0 eq {
+	  % Draw highlight bar.  4 is just a magic indentation.
+	  xp 4 add yp cw 8 sub lineheight neg Box fill
+	} if
+      } for
+    } for
+
+  grestore
+} def
+
+% Line highlight bar.
+/line_highlight {	% x y width height gray -> -
+  gsave
+    /gray exch def
+    Box gray setgray fill
+  grestore
+} def
+
+% Column separator lines.
+/column_lines {
+  gsave
+    .1 setlinewidth
+    0 d_footer_h translate
+    /cw d_output_w cols div def
+    1 1 cols 1 sub {
+      cw mul 0 moveto
+      0 d_output_h rlineto stroke
+    } for
+  grestore
+} def
+
+% Column borders.
+/column_borders {
+  gsave
+    .1 setlinewidth
+    0 d_footer_h moveto
+    0 d_output_h rlineto
+    d_output_w 0 rlineto
+    0 d_output_h neg rlineto
+    closepath stroke
+  grestore
+} def
+
+% Do the actual underlay drawing
+/draw_underlay {
+  ul_style 0 eq {
+    ul_str true charpath stroke
+  } {
+    ul_str show
+  } ifelse
+} def
+
+% Underlay
+/underlay {	% - -> -
+  gsave
+    0 d_page_h translate
+    d_page_h neg d_page_w atan rotate
+
+    ul_gray setgray
+    ul_font setfont
+    /dw d_page_h dup mul d_page_w dup mul add sqrt def
+    ul_str stringwidth pop dw exch sub 2 div ul_h_ptsize -2 div moveto
+    draw_underlay
+  grestore
+} def
+
+/user_underlay {	% - -> -
+  gsave
+    ul_x ul_y translate
+    ul_angle rotate
+    ul_gray setgray
+    ul_font setfont
+    0 0 ul_h_ptsize 2 div sub moveto
+    draw_underlay
+  grestore
+} def
+
+% Page prefeed
+/page_prefeed {		% bool -> -
+  statusdict /prefeed known {
+    statusdict exch /prefeed exch put
+  } {
+    pop
+  } ifelse
+} def
+
+% Wrapped line markers
+/wrapped_line_mark {	% x y charwith charheight type -> -
+  /type exch def
+  /h exch def
+  /w exch def
+  /y exch def
+  /x exch def
+
+  type 2 eq {
+    % Black boxes (like TeX does)
+    gsave
+      0 setlinewidth
+      x w 4 div add y M
+      0 h rlineto w 2 div 0 rlineto 0 h neg rlineto
+      closepath fill
+    grestore
+  } {
+    type 3 eq {
+      % Small arrows
+      gsave
+        .2 setlinewidth
+        x w 2 div add y h 2 div add M
+        w 4 div 0 rlineto
+        x w 4 div add y lineto stroke
+
+        x w 4 div add w 8 div add y h 4 div add M
+        x w 4 div add y lineto
+	w 4 div h 8 div rlineto stroke
+      grestore
+    } {
+      % do nothing
+    } ifelse
+  } ifelse
+} def
+
+% EPSF import.
+
+/BeginEPSF {
+  /b4_Inc_state save def    		% Save state for cleanup
+  /dict_count countdictstack def	% Count objects on dict stack
+  /op_count count 1 sub def		% Count objects on operand stack
+  userdict begin
+  /showpage { } def
+  0 setgray 0 setlinecap
+  1 setlinewidth 0 setlinejoin
+  10 setmiterlimit [ ] 0 setdash newpath
+  /languagelevel where {
+    pop languagelevel
+    1 ne {
+      false setstrokeadjust false setoverprint
+    } if
+  } if
+} bind def
+
+/EndEPSF {
+  count op_count sub { pos } repeat	% Clean up stacks
+  countdictstack dict_count sub { end } repeat
+  b4_Inc_state restore
+} bind def
+
+% Check PostScript language level.
+/languagelevel where {
+  pop /gs_languagelevel languagelevel def
+} {
+  /gs_languagelevel 1 def
+} ifelse
+%%EndResource
+%%BeginResource: procset Enscript-Encoding-88591 1.6.5 90
+/encoding_vector [
+/.notdef      	/.notdef      	/.notdef      	/.notdef      	
+/.notdef      	/.notdef      	/.notdef      	/.notdef      	
+/.notdef      	/.notdef      	/.notdef      	/.notdef      	
+/.notdef      	/.notdef      	/.notdef      	/.notdef      	
+/.notdef      	/.notdef      	/.notdef      	/.notdef      	
+/.notdef      	/.notdef      	/.notdef      	/.notdef      	
+/.notdef      	/.notdef      	/.notdef      	/.notdef      	
+/.notdef      	/.notdef      	/.notdef      	/.notdef      	
+/space        	/exclam       	/quotedbl     	/numbersign   	
+/dollar       	/percent      	/ampersand    	/quoteright   	
+/parenleft    	/parenright   	/asterisk     	/plus         	
+/comma        	/hyphen       	/period       	/slash        	
+/zero         	/one          	/two          	/three        	
+/four         	/five         	/six          	/seven        	
+/eight        	/nine         	/colon        	/semicolon    	
+/less         	/equal        	/greater      	/question     	
+/at           	/A            	/B            	/C            	
+/D            	/E            	/F            	/G            	
+/H            	/I            	/J            	/K            	
+/L            	/M            	/N            	/O            	
+/P            	/Q            	/R            	/S            	
+/T            	/U            	/V            	/W            	
+/X            	/Y            	/Z            	/bracketleft  	
+/backslash    	/bracketright 	/asciicircum  	/underscore   	
+/quoteleft    	/a            	/b            	/c            	
+/d            	/e            	/f            	/g            	
+/h            	/i            	/j            	/k            	
+/l            	/m            	/n            	/o            	
+/p            	/q            	/r            	/s            	
+/t            	/u            	/v            	/w            	
+/x            	/y            	/z            	/braceleft    	
+/bar          	/braceright   	/tilde        	/.notdef      	
+/.notdef      	/.notdef      	/.notdef      	/.notdef      	
+/.notdef      	/.notdef      	/.notdef      	/.notdef      	
+/.notdef      	/.notdef      	/.notdef      	/.notdef      	
+/.notdef      	/.notdef      	/.notdef      	/.notdef      	
+/.notdef      	/.notdef      	/.notdef      	/.notdef      	
+/.notdef      	/.notdef      	/.notdef      	/.notdef      	
+/.notdef      	/.notdef      	/.notdef      	/.notdef      	
+/.notdef      	/.notdef      	/.notdef      	/.notdef      	
+/space        	/exclamdown   	/cent         	/sterling     	
+/currency     	/yen          	/brokenbar    	/section      	
+/dieresis     	/copyright    	/ordfeminine  	/guillemotleft	
+/logicalnot   	/hyphen       	/registered   	/macron       	
+/degree       	/plusminus    	/twosuperior  	/threesuperior	
+/acute        	/mu           	/paragraph    	/bullet       	
+/cedilla      	/onesuperior  	/ordmasculine 	/guillemotright	
+/onequarter   	/onehalf      	/threequarters	/questiondown 	
+/Agrave       	/Aacute       	/Acircumflex  	/Atilde       	
+/Adieresis    	/Aring        	/AE           	/Ccedilla     	
+/Egrave       	/Eacute       	/Ecircumflex  	/Edieresis    	
+/Igrave       	/Iacute       	/Icircumflex  	/Idieresis    	
+/Eth          	/Ntilde       	/Ograve       	/Oacute       	
+/Ocircumflex  	/Otilde       	/Odieresis    	/multiply     	
+/Oslash       	/Ugrave       	/Uacute       	/Ucircumflex  	
+/Udieresis    	/Yacute       	/Thorn        	/germandbls   	
+/agrave       	/aacute       	/acircumflex  	/atilde       	
+/adieresis    	/aring        	/ae           	/ccedilla     	
+/egrave       	/eacute       	/ecircumflex  	/edieresis    	
+/igrave       	/iacute       	/icircumflex  	/idieresis    	
+/eth          	/ntilde       	/ograve       	/oacute       	
+/ocircumflex  	/otilde       	/odieresis    	/divide       	
+/oslash       	/ugrave       	/uacute       	/ucircumflex  	
+/udieresis    	/yacute       	/thorn        	/ydieresis    	
+] def
+%%EndResource
+%%EndProlog
+%%BeginSetup
+%%IncludeResource: font Courier-Bold
+%%IncludeResource: font Courier
+/HFpt_w 10 def
+/HFpt_h 10 def
+/Courier-Bold /HF-gs-font MF
+/HF /HF-gs-font findfont [HFpt_w 0 0 HFpt_h 0 0] makefont def
+/Courier /F-gs-font MF
+/F-gs-font 10 10 SF
+/#copies 1 def
+% Pagedevice definitions:
+gs_languagelevel 1 gt {
+  <<
+    /PageSize [595 842] 
+  >> setpagedevice
+} if
+%%BeginResource: procset Enscript-Header-simple 1.6.5 90
+
+/do_header {	% print default simple header
+  gsave
+    d_header_x d_header_y HFpt_h 3 div add translate
+
+    HF setfont
+    user_header_p {
+      5 0 moveto user_header_left_str show
+
+      d_header_w user_header_center_str stringwidth pop sub 2 div
+      0 moveto user_header_center_str show
+
+      d_header_w user_header_right_str stringwidth pop sub 5 sub
+      0 moveto user_header_right_str show
+    } {
+      5 0 moveto fname show
+      45 0 rmoveto fmodstr show
+      45 0 rmoveto pagenumstr show
+    } ifelse
+
+  grestore
+} def
+%%EndResource
+/d_page_w 559 def
+/d_page_h 770 def
+/d_header_x 0 def
+/d_header_y 755 def
+/d_header_w 559 def
+/d_header_h 15 def
+/d_footer_x 0 def
+/d_footer_y 0 def
+/d_footer_w 559 def
+/d_footer_h 0 def
+/d_output_w 559 def
+/d_output_h 755 def
+/cols 1 def
+%%EndSetup
+%%Page: (1) 1
+%%BeginPageSetup
+_S
+18 36 translate
+/pagenum 1 def
+/fname (seqsort.c) def
+/fdir (.) def
+/ftail (seqsort.c) def
+% User defined strings:
+/fmodstr (Thu Nov 19 11:17:38 2015) def
+/pagenumstr (1) def
+/user_header_p false def
+/user_footer_p false def
+%%EndPageSetup
+do_header
+5 742 M
+(#include "util/wt/incl/util.h") s
+5 731 M
+(#include "multal.h") s
+5 709 M
+(struct  slot    {) s
+5 698 M
+(                int     id;) s
+5 687 M
+(                struct slot     *more, *less;) s
+5 676 M
+(                }) s
+5 665 M
+(        ;) s
+5 654 M
+(typedef struct  slot    Slot;) s
+5 632 M
+(struct  best    {) s
+5 621 M
+(                int     score, m, l;) s
+5 610 M
+(                struct best     *more, *less;) s
+5 599 M
+(                }) s
+5 588 M
+(        ;) s
+5 577 M
+(typedef struct  best    Best;) s
+5 555 M
+(typedef struct  {) s
+5 544 M
+(                int     id;) s
+5 533 M
+(                int     count;) s
+5 522 M
+(                int     *slot;) s
+5 511 M
+(                }) s
+5 500 M
+(        Pept;) s
+5 489 M
+(Pept    *pept_list;) s
+5 478 M
+(int     n_pept = 0, n_prot = 0;) s
+5 456 M
+(struct node     {) s
+5 445 M
+(                int     id;) s
+5 434 M
+(                int     count;) s
+5 423 M
+(                struct  node    *more, *less;) s
+5 412 M
+(                Slot    *slot;) s
+5 401 M
+(                }) s
+5 390 M
+(        ;) s
+5 379 M
+(typedef struct  node    Node;) s
+5 368 M
+(Node    *key;) s
+5 346 M
+(struct pair     {) s
+5 335 M
+(                int     id;) s
+5 324 M
+(                char    count;) s
+5 313 M
+(                struct  pair    *more, *less;) s
+5 302 M
+(                }) s
+5 291 M
+(        ;) s
+5 280 M
+(typedef struct  pair    Pair;) s
+5 269 M
+(Pair    *gate;) s
+5 258 M
+(int     ngates,) s
+5 247 M
+(        free_pairs = 0;) s
+5 225 M
+(typedef struct  {) s
+5 214 M
+(                int     id;) s
+5 203 M
+(                unsigned char   count;) s
+5 192 M
+(                }) s
+5 181 M
+(        Prot;) s
+5 170 M
+(Prot    *pair_list;) s
+5 159 M
+(int     n_pair = 0;) s
+5 137 M
+(int     base[PEPLEN],) s
+5 126 M
+(        n_alloc, p_alloc = 1000,) s
+5 115 M
+(        jump, joff;) s
+5 93 M
+(int     soft_level = 0, diag_up, min_pept, max_hold;) s
+5 71 M
+(int     *nth;) s
+5 49 M
+(int     get_nth\(\);) s
+5 38 M
+(Slot    *get_slot\(\);) s
+5 27 M
+(Best    *get_best\(\);) s
+5 16 M
+(Node    *get_node\(\);) s
+5 5 M
+(Pair    *get_pair\(\);) s
+_R
+S
+%%Page: (2) 2
+%%BeginPageSetup
+_S
+18 36 translate
+/pagenum 2 def
+/fname (seqsort.c) def
+/fdir (.) def
+/ftail (seqsort.c) def
+% User defined strings:
+/fmodstr (Thu Nov 19 11:17:38 2015) def
+/pagenumstr (2) def
+/user_header_p false def
+/user_footer_p false def
+%%EndPageSetup
+do_header
+5 742 M
+(char    *decode\(\);) s
+5 731 M
+(char    soften\(\);) s
+5 709 M
+(init_slots \(nprots,pep_len,soft\)) s
+5 698 M
+(int     nprots, pep_len, soft;) s
+5 687 M
+({       int     peplen = abs\(pep_len\),) s
+5 676 M
+(                i, j, power = 1;) s
+5 665 M
+(        printf\("\\nCalculating peptide table based on length %d\\n", peplen\);) s
+5 654 M
+(        if \(soft\) {) s
+5 643 M
+(                printf\("peptide softened to level %d\\n", soft\);) s
+5 632 M
+(                soft_level = soft;) s
+5 621 M
+(                if \(pep_len<0\) {) s
+5 610 M
+(                        printf\("\(default softening ignored\)\\n"\);) s
+5 599 M
+(                        pep_len = -pep_len;) s
+5 588 M
+(                }) s
+5 577 M
+(        }) s
+5 566 M
+(        if \(pep_len<0\) {) s
+5 555 M
+(                soft_level = peplen-4;) s
+5 544 M
+(                printf\("peptide softened by default to level %d\\n", soft_level\);) s
+5 533 M
+(        }) s
+5 522 M
+(        for \(i=peplen; i>0; i--\) {) s
+5 511 M
+(                base[i-1] = power;) s
+5 500 M
+(                power = power*NACIDS;) s
+5 489 M
+(        }) s
+5 478 M
+(        nth = \(int*\)malloc\(sizeof\(int\)*\(nprots+1\)\);) s
+5 467 M
+(        TEST\(nth\)) s
+5 456 M
+(        key = \(Node*\)malloc\(sizeof\(Node\)*\(nprots+1\)\);) s
+5 445 M
+(        TEST\(key\)) s
+5 434 M
+(        for \(i=1; i<=nprots; i++\) {) s
+5 423 M
+(        {       Node    *k = key+i;) s
+5 412 M
+(                nth[i] = min_pept;) s
+5 401 M
+(                k->id = i;) s
+5 390 M
+(                k->slot = 0;) s
+5 379 M
+(                k->count = 0;) s
+5 368 M
+(                k->more = k->less = 0;) s
+5 357 M
+(                }) s
+5 346 M
+(        }) s
+5 335 M
+(}) s
+5 313 M
+(char    soften\(res,soft\)) s
+5 302 M
+(char    res;) s
+5 291 M
+(int     soft;) s
+5 280 M
+({) s
+5 269 M
+(        res = UPPER\(res\);) s
+5 258 M
+(        if \(res=='B'\) return 'D';) s
+5 247 M
+(        if \(res=='Z'\) return 'E';) s
+5 236 M
+(        if \(soft==0\) return res;) s
+5 225 M
+(        if \(res=='S'\) return 'T';) s
+5 214 M
+(        if \(res=='L'\) return 'I';) s
+5 203 M
+(        if \(soft==1\) return res;) s
+5 192 M
+(        if \(res=='D'\) return 'E';) s
+5 181 M
+(        if \(res=='N'\) return 'Q';) s
+5 170 M
+(        if \(soft==2\) return res;) s
+5 159 M
+(        if \(res=='V'\) return 'I';) s
+5 148 M
+(        if \(res=='R'\) return 'K';) s
+5 137 M
+(        if \(soft==3\) return res;) s
+5 126 M
+(        if \(res=='Y'\) return 'F';) s
+5 115 M
+(        if \(res=='A'\) return 'G';) s
+5 104 M
+(        return res;) s
+5 93 M
+(}) s
+5 71 M
+(find_slot \(open,pep_len,pep_in,prot\)) s
+5 60 M
+(char    *pep_in;) s
+5 49 M
+(int     open, pep_len, prot;) s
+5 38 M
+({       int     peplen = abs\(pep_len\), ) s
+5 27 M
+(                coff = 'A'-1,) s
+5 16 M
+(                hole, id = 0, i;) s
+5 5 M
+(        Node    *p = key+prot;) s
+_R
+S
+%%Page: (3) 3
+%%BeginPageSetup
+_S
+18 36 translate
+/pagenum 3 def
+/fname (seqsort.c) def
+/fdir (.) def
+/ftail (seqsort.c) def
+% User defined strings:
+/fmodstr (Thu Nov 19 11:17:38 2015) def
+/pagenumstr (3) def
+/user_header_p false def
+/user_footer_p false def
+%%EndPageSetup
+do_header
+5 742 M
+(        char    peptide[PEPLEN];) s
+5 731 M
+(        for \(i=0; i<peplen; i++\) {) s
+5 720 M
+(                peptide[i] = soften\(pep_in[i],soft_level\);) s
+5 709 M
+(                id += \(peptide[i]-coff\)*base[i];) s
+5 698 M
+(        }) s
+5 687 M
+(        peptide[peplen] = '\\0';) s
+5 676 M
+(        if \(p->slot\) get_slot\(p,p->slot,id\);) s
+5 665 M
+(        else    p->slot = get_slot\(p,0,id\);) s
+5 654 M
+(}) s
+5 632 M
+(Slot *get_slot \(node, slot, new_id\)) s
+5 621 M
+(Node    *node;) s
+5 610 M
+(Slot    *slot;) s
+5 599 M
+(int     new_id;) s
+5 588 M
+({) s
+5 577 M
+(        Slot    *n = slot;) s
+5 566 M
+(        if \(slot\) ) s
+5 555 M
+(        {       int     slot_id = slot->id;) s
+5 544 M
+(                if\(new_id == slot_id\) {) s
+5 533 M
+(                        return n;) s
+5 522 M
+(                }) s
+5 511 M
+(                if \(new_id < slot_id\) {) s
+5 500 M
+(                        if \(slot->less\) get_slot\(node,slot->less,new_id\);) s
+5 489 M
+(                        else    slot->less = get_slot\(node,0,new_id\);) s
+5 478 M
+(                } else {) s
+5 467 M
+(                        if \(slot->more\) get_slot\(node,slot->more,new_id\);) s
+5 456 M
+(                        else    slot->more = get_slot\(node,0,new_id\);) s
+5 445 M
+(                }) s
+5 434 M
+(        } else {) s
+5 423 M
+(                n = \(Slot*\)malloc\(sizeof\(Slot\)\);) s
+5 412 M
+(                TEST\(n\)) s
+5 401 M
+(                n->id = new_id;) s
+5 390 M
+(                n->less = n->more = 0;) s
+5 379 M
+(                \(node->count\)++;) s
+5 368 M
+(        }) s
+5 357 M
+(        return n;) s
+5 346 M
+(}) s
+5 324 M
+(int     get_nth \(slot,n\)) s
+5 313 M
+(Best    *slot;) s
+5 302 M
+(int     *n;) s
+5 291 M
+({ int   s = min_pept;) s
+5 280 M
+(        if \(!slot\) return;) s
+5 269 M
+(        if \(slot->more\) s = get_nth\(slot->more,n\);) s
+5 258 M
+(        \(*n\)++;) s
+5 247 M
+(        if \(*n==max_hold\) return slot->score;) s
+5 236 M
+(        if \(slot->less\) s = get_nth\(slot->less,n\);) s
+5 225 M
+(        return s;) s
+5 214 M
+(}) s
+5 192 M
+(free_best \(slot\)) s
+5 181 M
+(Best    *slot;) s
+5 170 M
+({) s
+5 159 M
+(        if \(!slot\) return;) s
+5 148 M
+(        if \(slot->less\) free_best\(slot->less\);) s
+5 137 M
+(        if \(slot->more\) free_best\(slot->more\);) s
+5 126 M
+(        free \(slot\);) s
+5 115 M
+(}) s
+5 93 M
+(in_slot \(id, jd\)) s
+5 82 M
+(int     id;) s
+5 71 M
+({) s
+5 60 M
+(        int     i, j, n;) s
+5 49 M
+(        Pept    *pid = pept_list+id,) s
+5 38 M
+(                *pjd = pept_list+jd;) s
+5 27 M
+(        i = j = n = 0;) s
+5 16 M
+(        while \(i < pid->count && j < pjd->count\) {) s
+5 5 M
+(                if \(pid->slot[i]  < pjd->slot[j]\) i++;) s
+_R
+S
+%%Page: (4) 4
+%%BeginPageSetup
+_S
+18 36 translate
+/pagenum 4 def
+/fname (seqsort.c) def
+/fdir (.) def
+/ftail (seqsort.c) def
+% User defined strings:
+/fmodstr (Thu Nov 19 11:17:38 2015) def
+/pagenumstr (4) def
+/user_header_p false def
+/user_footer_p false def
+%%EndPageSetup
+do_header
+5 742 M
+(                if \(pid->slot[i]  > pjd->slot[j]\) j++;) s
+5 731 M
+(                if \(pid->slot[i] == pjd->slot[j]\) {) s
+5 720 M
+(                        i++; j++; n++;) s
+5 709 M
+(                }) s
+5 698 M
+(        }) s
+5 687 M
+(        return n;) s
+5 676 M
+(}) s
+5 654 M
+(Best *get_best \(slot, n, more, kept\)) s
+5 643 M
+(Best    *slot;) s
+5 632 M
+(int     n, more, *kept;) s
+5 621 M
+({) s
+5 610 M
+(        Best    *s = slot;) s
+5 599 M
+(        if \(slot\) {) s
+5 588 M
+(                if \(n <= slot->score\) {) s
+5 577 M
+(                        more += slot->m + 1;) s
+5 566 M
+(                        if \(slot->less\) {) s
+5 555 M
+(                                slot->less = get_best\(slot->less,n,more,kept\);) s
+5 544 M
+(                                slot->l = \(slot->less\)->l + \(slot->less\)->m + 1;) s
+5 533 M
+(                        } else {) s
+5 522 M
+(                                slot->less = get_best\(0,n,more,kept\);) s
+5 511 M
+(                                if \(slot->less\) slot->l = 1;) s
+5 500 M
+(                        }) s
+5 489 M
+(                } else {) s
+5 478 M
+(                        if \(slot->more\) {) s
+5 467 M
+(                                slot->more = get_best\(slot->more,n,more,kept\);) s
+5 456 M
+(                                slot->m = \(slot->more\)->m + \(slot->more\)->l + 1;) s
+5 445 M
+(                        } else {) s
+5 434 M
+(                                slot->more = get_best\(0,n,more,kept\);) s
+5 423 M
+(                                if \(slot->more\) slot->m = 1;) s
+5 412 M
+(                        }) s
+5 401 M
+(                        if \(slot->more && more+slot->m >= max_hold\) {) s
+5 390 M
+(                                s = slot->more;) s
+5 379 M
+(                                if \(slot->less\) free_best\(slot->less\);) s
+5 368 M
+(                                free \(slot\);) s
+5 357 M
+(                        }) s
+5 346 M
+(                }) s
+5 335 M
+(        } else {) s
+5 324 M
+(                if \(more >= max_hold\) return 0;) s
+5 313 M
+(                s = \(Best*\)malloc\(sizeof\(Best\)\);) s
+5 302 M
+(                TEST\(s\)) s
+5 291 M
+(                s->score = n;) s
+5 280 M
+(                s->less = s->more = 0;) s
+5 269 M
+(                s->l = s->m = 0;) s
+5 258 M
+(                *kept = 1;) s
+5 247 M
+(        }) s
+5 236 M
+(        return s;) s
+5 225 M
+(}) s
+5 203 M
+(count \(nprots,aspan,bspan,place,minp,hold,diag\)) s
+5 192 M
+(int     nprots, aspan, bspan, minp, hold, diag;) s
+5 181 M
+(int     *place;) s
+5 170 M
+({) s
+5 159 M
+(        int     n, i, j, k, left, deep, topi, topj, n_pairs,) s
+5 148 M
+(                npairs = \(nprots*nprots-nprots\)/2,) s
+5 137 M
+(                pept_max, pair_limit = 16000000;) s
+5 126 M
+(        Best    **best;) s
+5 115 M
+(        best = \(Best**\)malloc\(sizeof\(Best*\)*\(nprots+1\)\);) s
+5 104 M
+(        for \(i=1; i<=nprots; i++\) best[i] = 0;) s
+5 93 M
+(        min_pept = minp;) s
+5 82 M
+(        max_hold = hold;) s
+5 71 M
+(        if \(diag < 0\) diag_up = min_pept;) s
+5 60 M
+(                else  diag_up = diag;) s
+5 49 M
+(        ngates = nprots;) s
+5 38 M
+(        jump = npairs/ngates;) s
+5 27 M
+(        left = npairs-jump*ngates;) s
+5 16 M
+(        j = joff = \(jump+left+1\)/2;) s
+5 5 M
+(        if \(!place[0] || free_pairs\)) s
+_R
+S
+%%Page: (5) 5
+%%BeginPageSetup
+_S
+18 36 translate
+/pagenum 5 def
+/fname (seqsort.c) def
+/fdir (.) def
+/ftail (seqsort.c) def
+% User defined strings:
+/fmodstr (Thu Nov 19 11:17:38 2015) def
+/pagenumstr (5) def
+/user_header_p false def
+/user_footer_p false def
+%%EndPageSetup
+do_header
+5 742 M
+(                gate = \(Pair*\)malloc\(sizeof\(Pair\)*\(ngates+1\)\);) s
+5 731 M
+(        for \(i=0; i<ngates; i++\) {) s
+5 720 M
+(        {       Pair    *g = gate+i;) s
+5 709 M
+(                        g->id = j;) s
+5 698 M
+(                        g->count = 0;) s
+5 687 M
+(                        g->more = g->less = 0;) s
+5 676 M
+(                        j += jump;) s
+5 665 M
+(                }) s
+5 654 M
+(        }) s
+5 643 M
+(        printf\("\\n\\n ****** CYCLE %d ******\\n", place[0]\);) s
+5 632 M
+(        printf\("Minimum score held = %d\\n", min_pept\);) s
+5 621 M
+(        printf\("Top %d scores held per sequence\\n", max_hold\);) s
+5 610 M
+(        printf\("Sequences in the range %d<Dij<%d scored\\n",aspan,bspan\);) s
+5 599 M
+(        printf\("Adjacent sequences scored with bonus of %d\\n", diag_up\);) s
+5 588 M
+(        n_pairs = 0;) s
+5 577 M
+(        for \(i=1; i<nprots; i++\)) s
+5 566 M
+(        { int   pid = place[i],) s
+5 555 M
+(                pjd = place[i+1],) s
+5 544 M
+(                id = pack\(pid,pjd,nprots\),) s
+5 533 M
+(                way = min\(max\(0,\(id-joff+1\)/jump\),nprots-1\),) s
+5 522 M
+(                n = in_slot\(pid,pjd\);) s
+5 511 M
+(                get_pair\(gate+way,id,-n,place[0]\);) s
+5 500 M
+(                npairs++;) s
+5 489 M
+(        }) s
+5 478 M
+(        for \(i=1; i<=\(nprots-aspan\); i++\)) s
+5 467 M
+(        { int   pid = place[i];) s
+5 456 M
+(                for \(j=i+aspan; j<=min\(nprots,i+bspan\); j++\) ) s
+5 445 M
+(                { int   pjd = place[j],) s
+5 434 M
+(                        pdif = abs\(i-j\),) s
+5 423 M
+(                        id = pack\(pid,pjd,nprots\),) s
+5 412 M
+(                        way = min\(max\(0,\(id-joff+1\)/jump\),nprots-1\),) s
+5 401 M
+(                        n = in_slot\(pid,pjd\);) s
+5 390 M
+(                        if \(n_pair == pair_limit\) break;) s
+5 379 M
+(                        if \(n<min_pept\) continue;) s
+5 368 M
+(                        topi = topj = 0;) s
+5 357 M
+(                        if \(n>nth[pid]\) {) s
+5 346 M
+(                                if \(!best[pid]\)) s
+5 335 M
+(                                        best[pid] = get_best\(0,n,0,&topi\);) s
+5 324 M
+(                                else best[pid] = get_best\(best[pid],n,0,&topi\);) s
+5 313 M
+(                                deep = 0;) s
+5 302 M
+(                                if \(topi\) nth[pid] = get_nth\(best[pid],&deep\);) s
+5 291 M
+(                        }) s
+5 280 M
+(                        if \(n>nth[pjd]\) {) s
+5 269 M
+(                                if \(!best[pjd]\)) s
+5 258 M
+(                                        best[pjd] = get_best\(0,n,0,&topj\);) s
+5 247 M
+(                                else best[pjd] = get_best\(best[pjd],n,0,&topj\);) s
+5 236 M
+(                                deep = 0;) s
+5 225 M
+(                                if \(topj\) nth[pjd] = get_nth\(best[pjd],&deep\);) s
+5 214 M
+(                        }) s
+5 203 M
+(                        if \(topi || topj\) {) s
+5 192 M
+(                                get_pair\(gate+way,id,n,place[0]\);) s
+5 181 M
+(                                n_pairs++;) s
+5 170 M
+(                        }) s
+5 159 M
+(                        if \(n_pair == pair_limit\) break;) s
+5 148 M
+(                }) s
+5 137 M
+(                free_best\(best[pid]\);) s
+5 126 M
+(                if \(n_pair == pair_limit\) break;) s
+5 115 M
+(        }) s
+5 104 M
+(        printf\("%d pairs collected\\n",n_pairs\);) s
+5 93 M
+(        if \(n_pair == pair_limit\) printf\("%d pair slots filled\\n", pair_limit\);) s
+5 82 M
+(        return pair_out\(\);) s
+5 71 M
+(}) s
+5 49 M
+(Pair *get_pair \(pair, id, score, again\)) s
+5 38 M
+(Pair    *pair;) s
+5 27 M
+(int     id, score;) s
+5 16 M
+(int     again;) s
+5 5 M
+({) s
+_R
+S
+%%Page: (6) 6
+%%BeginPageSetup
+_S
+18 36 translate
+/pagenum 6 def
+/fname (seqsort.c) def
+/fdir (.) def
+/ftail (seqsort.c) def
+% User defined strings:
+/fmodstr (Thu Nov 19 11:17:38 2015) def
+/pagenumstr (6) def
+/user_header_p false def
+/user_footer_p false def
+%%EndPageSetup
+do_header
+5 742 M
+(        if \(pair\)) s
+5 731 M
+(        {       int     pair_id = pair->id;) s
+5 720 M
+(                if \(id == pair_id\) {) s
+5 709 M
+(                        if \(pair->count && again\) return;) s
+5 698 M
+(                        if \(pair->count+score < BYTE\)) s
+5 687 M
+(                                pair->count += score;) s
+5 676 M
+(                        else    pair->count  = BYTE;) s
+5 665 M
+(                        return;) s
+5 654 M
+(                }        ) s
+5 643 M
+(                if \(id < pair_id\) {) s
+5 632 M
+(                        if \(pair->less\) get_pair\(pair->less,id,score,again\);) s
+5 621 M
+(                        else    pair->less = get_pair\(0,id,score,0\);) s
+5 610 M
+(                } else {) s
+5 599 M
+(                        if \(pair->more\) get_pair\(pair->more,id,score,again\);    ) s
+5 588 M
+(                        else    pair->more = get_pair\(0,id,score,0\);) s
+5 577 M
+(                }) s
+5 566 M
+(        } ) s
+5 555 M
+(        else ) s
+5 544 M
+(        {       Pair    *n;) s
+5 533 M
+(                n = \(Pair*\)malloc\(sizeof\(Pair\)\);) s
+5 522 M
+(                TEST\(n\)) s
+5 511 M
+(                n->id = id;) s
+5 500 M
+(                n->less = n->more = 0;) s
+5 489 M
+(                n->count = score;) s
+5 478 M
+(                n_pair++;) s
+5 467 M
+(                return n;) s
+5 456 M
+(        }) s
+5 445 M
+(}) s
+5 423 M
+(pscore \(pid, pjd, nprots\)) s
+5 412 M
+(int     pid, pjd;) s
+5 401 M
+({       int     id = pack\(pid,pjd,nprots\),) s
+5 390 M
+(                way = \(id-joff+1\)/jump,) s
+5 379 M
+(                count;) s
+5 368 M
+(        way = min\(max\(0,way\),nprots-1\);) s
+5 357 M
+(        count = find_pair\(gate+way,id\);) s
+5 346 M
+(        return count;) s
+5 335 M
+( }) s
+5 313 M
+(find_pair \(pair, id\)) s
+5 302 M
+(Pair    *pair;) s
+5 291 M
+(int     id;) s
+5 280 M
+({       int     count, pair_id = pair->id;) s
+5 269 M
+(        if \(id == pair_id\) return \(int\)pair->count;) s
+5 258 M
+(        count = 0;) s
+5 247 M
+(        if \(id < pair_id\) {) s
+5 236 M
+(                if \(pair->less\) count = find_pair\(pair->less,id\);) s
+5 225 M
+(        } else {) s
+5 214 M
+(                if \(pair->more\) count = find_pair\(pair->more,id\);       ) s
+5 203 M
+(        }) s
+5 192 M
+(        return count;) s
+5 181 M
+(}) s
+5 159 M
+(pair_out\(\)) s
+5 148 M
+({) s
+5 137 M
+(int     i, j;) s
+5 126 M
+(        n_pair = 0;) s
+5 115 M
+(        n_alloc = p_alloc;) s
+5 104 M
+(        pair_list = \(Prot*\)malloc\(sizeof\(Prot\)*n_alloc\);) s
+5 93 M
+(        TEST\(pair_list\)) s
+5 82 M
+(        for \(i=0; i<ngates; i++\) print_pair\(gate+i\);) s
+5 71 M
+(        if \(free_pairs\) free\(gate\);) s
+5 60 M
+(        PRINTi\(n_pair\) NL) s
+5 49 M
+(        return n_pair;) s
+5 38 M
+(}) s
+5 16 M
+(print_pair \(pair\)) s
+5 5 M
+(Pair    *pair;) s
+_R
+S
+%%Page: (7) 7
+%%BeginPageSetup
+_S
+18 36 translate
+/pagenum 7 def
+/fname (seqsort.c) def
+/fdir (.) def
+/ftail (seqsort.c) def
+% User defined strings:
+/fmodstr (Thu Nov 19 11:17:38 2015) def
+/pagenumstr (7) def
+/user_header_p false def
+/user_footer_p false def
+%%EndPageSetup
+do_header
+5 742 M
+({       ) s
+5 731 M
+(        if \(pair->less\) print_pair\(pair->less\);) s
+5 720 M
+(        if \(abs\(pair->count\) >= min_pept\)) s
+5 709 M
+(        {       Prot    *p;) s
+5 698 M
+(                if \(n_pair==n_alloc\) {) s
+5 687 M
+(                        n_alloc += p_alloc;) s
+5 676 M
+(                        pair_list = \(Prot*\)) s
+5 665 M
+(                                realloc\(pair_list,n_alloc*sizeof\(Prot\)\);) s
+5 654 M
+(                        TEST\(pair_list\)) s
+5 643 M
+(                }) s
+5 632 M
+(                pair_list[n_pair].id = pair->id;) s
+5 621 M
+(                if \(pair->count < 0\) {) s
+5 610 M
+(                        pair_list[n_pair].count = diag_up - pair->count;) s
+5 599 M
+(                        pair->count = -\(pair->count\);) s
+5 588 M
+(                } else  pair_list[n_pair].count = pair->count;) s
+5 577 M
+(                n_pair++;) s
+5 566 M
+(        }) s
+5 555 M
+(        if \(pair->more\) print_pair\(pair->more\);) s
+5 544 M
+(        if \(free_pairs\) free\(pair\);) s
+5 533 M
+(        return;) s
+5 522 M
+(}) s
+5 500 M
+(pept_out\(nprots\)) s
+5 489 M
+(int     nprots;) s
+5 478 M
+({) s
+5 467 M
+(int     i, j;) s
+5 456 M
+(        pept_list = \(Pept*\)malloc\(sizeof\(Pept\)*\(nprots+1\)\);) s
+5 445 M
+(        TEST\(pept_list\)) s
+5 434 M
+(        for \(i=1; i<=nprots; i++\)) s
+5 423 M
+(        {       Node    *node = key+i;) s
+5 412 M
+(                Pept    *pep = pept_list+i;) s
+5 401 M
+(                pep->id = node->id;) s
+5 390 M
+(                pep->count = node->count;) s
+5 379 M
+(                pep->slot = \(int*\)malloc\(pep->count*sizeof\(int\)\);) s
+5 368 M
+(                TEST\(pep->slot\)) s
+5 357 M
+(                n_prot = 0;) s
+5 346 M
+(                if \(node->slot\) print_slot\(node->slot,pep\);) s
+5 335 M
+(                else printf\("*NB* no slot for prot = %d\\n",i\);) s
+5 324 M
+(        }) s
+5 313 M
+(        free\(key\);) s
+5 302 M
+(}) s
+5 280 M
+(print_slot \(slot,pep\)) s
+5 269 M
+(Slot    *slot;) s
+5 258 M
+(Pept    *pep;) s
+5 247 M
+({) s
+5 236 M
+(        if \(slot->less\) print_slot\(slot->less,pep\);) s
+5 225 M
+(        if \(slot->id\) pep->slot[n_prot++] = slot->id;) s
+5 214 M
+(        if \(slot->more\) print_slot\(slot->more,pep\);) s
+5 203 M
+(        free\(slot\);) s
+5 192 M
+(        return;) s
+5 181 M
+(}) s
+5 159 M
+(char    *decode \(n,peplen\)) s
+5 148 M
+(int     n, peplen;) s
+5 137 M
+({) s
+5 126 M
+(        char    pep[PEPLEN];) s
+5 115 M
+(        int     i, c, rem = n;) s
+5 104 M
+(        for \(i=0; i<peplen; i++\) {) s
+5 93 M
+(                c = rem/base[i];) s
+5 82 M
+(                pep[i]='A'+c-1;) s
+5 71 M
+(                rem -= c*base[i];) s
+5 60 M
+(        }) s
+5 49 M
+(        pep[peplen] = '\\0';) s
+5 38 M
+(        return pep;) s
+5 27 M
+(}       ) s
+5 16 M
+(reorder \(pairs\)) s
+5 5 M
+(int     *pairs;) s
+_R
+S
+%%Page: (8) 8
+%%BeginPageSetup
+_S
+18 36 translate
+/pagenum 8 def
+/fname (seqsort.c) def
+/fdir (.) def
+/ftail (seqsort.c) def
+% User defined strings:
+/fmodstr (Thu Nov 19 11:17:38 2015) def
+/pagenumstr (8) def
+/user_header_p false def
+/user_footer_p false def
+%%EndPageSetup
+do_header
+5 742 M
+({) s
+5 731 M
+(        int     i;) s
+5 720 M
+(        int     *score;) s
+5 709 M
+(        int     *place;) s
+5 698 M
+(printf\("reorder "\);) s
+5 687 M
+(        score = \(int*\)  malloc\(n_pair*sizeof\(int\)\);) s
+5 676 M
+(                TEST\(score\)) s
+5 665 M
+(        place = \(int*\)malloc\(n_pair*sizeof\(int\)\);) s
+5 654 M
+(                TEST\(place\)) s
+5 643 M
+(printf\(" malloc OK"\);) s
+5 632 M
+(        for \(i=0; i<n_pair; i++\) score[i] = pair_list[i].count;) s
+5 621 M
+(        sort\(0, score, 0, place, n_pair, 1\);) s
+5 610 M
+(        free\(score\);) s
+5 599 M
+(        for \(i=0; i<n_pair; i++\) pairs[i] = pair_list[place[i]].id;) s
+5 588 M
+(        free\(pair_list\);) s
+5 577 M
+(        free\(place\);) s
+5 566 M
+(printf\(" done\\n"\);) s
+5 555 M
+(        return;) s
+5 544 M
+(}) s
+_R
+S
+%%Trailer
+%%Pages: 8
+%%DocumentNeededResources: font Courier-Bold Courier 
+%%EOF

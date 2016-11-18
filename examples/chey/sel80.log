@@ -1,0 +1,966 @@
+ seedlen = 0 lowscore = 0
+Mutation Data Matrix (120 PAMs)
+ARNDCQEGHILKMFPSTWYVBZX
+matrix constant = 8
+Residue identity scores 10
+ARNDCQEGHILKMFPSTWYVBZX
+matrix constant = 0
+
+92680 sequences to be read in length range 100 -> 150
+
+Calculating peptide table based on length 4
+Reading user file of seq.s: final.seq
+ user_in = 1
+End of user sequences
+343 sequences read into 343 blocks, (343 are keyed)
+
+
+ ****** CYCLE 0 ******
+Minimum score held = 9
+Top 3 scores held per sequence
+Sequences in the range 0<Dij<86 scored
+Adjacent sequences scored with bonus of 10
+164 pairs found this pass, 0 previously collected
+
+
+ ****** CYCLE 1 ******
+Minimum score held = 9
+Top 3 scores held per sequence
+Sequences in the range 85<Dij<171 scored
+Adjacent sequences scored with bonus of 10
+165 pairs found this pass, 112 previously collected
+
+
+ ****** CYCLE 2 ******
+Minimum score held = 9
+Top 3 scores held per sequence
+Sequences in the range 170<Dij<256 scored
+Adjacent sequences scored with bonus of 10
+151 pairs found this pass, 222 previously collected
+
+
+ ****** CYCLE 3 ******
+Minimum score held = 9
+Top 3 scores held per sequence
+Sequences in the range 255<Dij<344 scored
+Adjacent sequences scored with bonus of 10
+134 pairs found this pass, 315 previously collected
+pre_order  malloc OK
+reorder  malloc OK done
+ new block malloc OK
+cluster_pairs total list_alloc = 80
+pack_lists 230/343 blocks moved
+
+New sequence order is:
+* Block 0 <=== 1	USER>>seq54	  135   [+0+] gi|599421186|ref|XP_007416534.1|/12591393
+* Block 1 <=== 2	USER>>seq49	  130   [+0+] gi|299743615|ref|XP_001835879.2|/12861415
+* Block 2 <=== 3	USER>>seq11	  121   [+0+] gi|21693597|gb|AAM75361.1|AF521648_1/5125
+* Block 3 <=== 4	USER>>seq36	  121   [+3+] gi|496413046|ref|WP_009121910.1|/11951315
+* Block 4 <=== 5	USER>>seq43	  123   [+5+] gi|490433163|ref|WP_004305003.1|/11931315
+* Block 5 <=== 6	USER>>seq56	  118   [+11+] gi|640554609|ref|WP_024986415.1|/12371354
+* Block 6 <=== 51	USER>>seq85	  131   [+0+] gi|502740459|ref|WP_012975443.1|/9381068
+* Block 7 <=== 52	USER>>seq105	  119   [+0+] gi|501582194|ref|WP_012586512.1|/9111029
+* Block 8 <=== 53	USER>>seq103	  120   [+0+] gi|516431396|ref|WP_017820451.1|/13351454
+* Block 9 <=== 40	USER>>seq81	  125   [+0+] gi|506295414|ref|WP_015815189.1|/9441068
+* Block 10 <=== 39	USER>>seq86	  122   [+1+] gi|505343348|ref|WP_015530450.1|/9471068
+* Block 11 <=== 79	USER>>seq148	  122   [+1+] gi|495666614|ref|WP_008391193.1|/9471068
+* Block 12 <=== 80	USER>>seq144	  124   [+0+] gi|492543757|ref|WP_005880118.1|/9451068
+* Block 13 <=== 81	USER>>seq145	  125   [+0+] gi|545588531|ref|WP_021717293.1|/9441068
+* Block 14 <=== 41	USER>>seq104	  126   [+0+] gi|506253837|ref|WP_015773612.1|/9041029
+* Block 15 <=== 42	USER>>seq89	  119   [+0+] gi|505012528|ref|WP_015199630.1|/13361454
+* Block 16 <=== 17	USER>>seq13	  129   [+0+] gi|519052297|ref|WP_020208172.1|/11871315KEEP
+* Block 17 <=== 18	USER>>seq8	  120   [+2+] gi|515665283|ref|WP_017097883.1|/11961315
+* Block 18 <=== 19	USER>>seq12	  120   [+0+] gi|517821330|ref|WP_018991538.1|/11961315
+* Block 19 <=== 84	USER>>seq140	  122   [+0+] gi|546962183|ref|WP_021906605.1|/9471068
+* Block 20 <=== 85	USER>>seq127	  125   [+0+] gi|490172008|ref|WP_004070647.1|/13691493
+* Block 21 <=== 7	USER>>seq62	  118   [+0+] gi|518323147|ref|WP_019493354.1|/17661883
+* Block 22 <=== 8	USER>>seq51	  136   [+1+] gi|356525172|ref|XP_003531201.1|/8941029
+* Block 23 <=== 38	USER>>seq64	  124   [+0+] gi|398390113|ref|XP_003848517.1|/9451068
+* Block 24 <=== 9	USER>>seq7	  117   [+0+] gi|504992204|ref|WP_015179306.1|/26282744KEEP
+* Block 25 <=== 10	USER>>seq59	  119   [+0+] gi|648406386|ref|WP_026098137.1|/12361354
+* Block 26 <=== 83	USER>>seq131	  123   [+0+] gi|496165721|ref|WP_008890228.1|/9461068
+* Block 27 <=== 82	USER>>seq128	  128   [+0+] gi|527033513|ref|WP_020881270.1|/9021029
+* Block 28 <=== 11	USER>>seq3	  116   [+0+] gi|500203811|ref|WP_011874050.1|/12001315
+* Block 29 <=== 20	USER>>seq15	  119   [+0+] gi|500034234|ref|WP_011714952.1|/22362354
+* Block 30 <=== 43	USER>>seq88	  118   [+0+] gi|504015939|ref|WP_014249933.1|/9511068
+* Block 31 <=== 44	USER>>seq117	  119   [+0+] gi|517221513|ref|WP_018410331.1|/9111029
+* Block 32 <=== 45	USER>>seq118	  122   [+0+] gi|515934404|ref|WP_017364987.1|/9081029
+* Block 33 <=== 46	USER>>seq79	  121   [+0+] gi|506253839|ref|WP_015773614.1|/9481068
+* Block 34 <=== 47	USER>>seq82	  121   [+0+] gi|506254036|ref|WP_015773811.1|/9481068
+* Block 35 <=== 12	USER>>seq5	  123   [+0+] gi|520763611|ref|WP_020284632.1|/16221744
+* Block 36 <=== 48	USER>>seq108	  123   [+0+] gi|503602385|ref|WP_013836461.1|/9071029
+* Block 37 <=== 13	USER>>seq47	  119   [+0+] gi|559210982|ref|WP_023578689.1|/12361354
+* Block 38 <=== 14	USER>>seq57	  120   [+0+] gi|664267588|ref|WP_030798421.1|/16641783
+* Block 39 <=== 15	USER>>seq31	  120   [+1+] gi|494624011|ref|WP_007381955.1|/12351354
+* Block 40 <=== 50	USER>>seq71	  120   [+4+] gi|655408680|ref|WP_028807483.1|/12351354
+* Block 41 <=== 49	USER>>seq67	  121   [+0+] gi|504255918|ref|WP_014443020.1|/13731493
+* Block 42 <--- 16	USER>>seq6	  124   [+1+] gi|515340180|ref|WP_016859159.1|/12311354
+* Block 43 <--- 21	USER>>seq16	  129   [+0+] gi|118378518|ref|XP_001022434.1|/10361164
+* Block 44 <=== 22	USER>>seq17	  125   [+0+] gi|499447709|ref|WP_011135173.1|/12691393
+* Block 45 <=== 23	USER>>seq34	  127   [+0+] gi|495130153|ref|WP_007854964.1|/12281354
+* Block 46 <--- 24	USER>>seq18	  112   [+0+] gi|503703549|ref|WP_013937625.1|/32823393
+* Block 47 <=== 30	USER>>seq52	  120   [+0+] gi|499636648|ref|WP_011317382.1|/21962315
+* Block 48 <=== 37	USER>>seq63	  121   [+0+] gi|505015114|ref|WP_015202216.1|/17241844
+* Block 49 <=== 36	USER>>seq116	  121   [+0+] gi|499782943|ref|WP_011463677.1|/17631883
+* Block 50 <=== 25	USER>>seq48	  114   [+0+] gi|489568147|ref|WP_003472638.1|/22412354
+* Block 51 <=== 26	USER>>seq33	  120   [+0+] gi|490241042|ref|WP_004139298.1|/15861705
+* Block 52 <=== 35	USER>>seq77	  120   [+11+] gi|515961909|ref|WP_017392492.1|/13741493
+* Block 53 <=== 27	USER>>seq35	  121   [+2+] gi|521076145|ref|WP_020407052.1|/25852705
+* Block 54 <=== 77	USER>>seq153	  121   [+1+] gi|515814669|ref|WP_017245422.1|/22952415
+* Block 55 <--- 28	USER>>seq44	  115   [+1+] gi|497849186|ref|WP_010163342.1|/12011315
+* Block 56 <--- 29	USER>>seq46	  118   [+0+] gi|499752512|ref|WP_011433246.1|/11981315
+* Block 57 <--- 31	USER>>seq55	  123   [+0+] gi|598012399|ref|XP_007337385.1|/12711393
+* Block 58 <--- 32	USER>>seq58	  131   [+0+] gi|630028575|ref|XP_007836536.1|/11851315
+* Block 59 <--- 33	USER>>seq60	  111   [+0+] gi|654260876|ref|WP_027776107.1|/16341744
+* Block 60 <--- 34	USER>>seq61	  115   [+0+] gi|655359284|ref|WP_028765644.1|/12791393
+* Block 61 <--- 54	USER>>seq68	  121   [+0+] gi|501378374|ref|WP_012409940.1|/13731493
+* Block 62 <=== 55	USER>>seq107	  103   [+0+] gi|505001702|ref|WP_015188804.1|/9271029
+* Block 63 <=== 56	USER>>seq69	  114   [+0+] gi|504950219|ref|WP_015137321.1|/13801493
+* Block 64 <=== 57	USER>>seq109	  121   [+0+] gi|503568300|ref|WP_013802376.1|/9091029
+* Block 65 <--- 58	USER>>seq72	  118   [+0+] gi|9857983|gb|AAG00949.1|AF273679_3/523640
+* Block 66 <--- 59	USER>>seq73	  119   [+0+] gi|505243879|ref|WP_015430981.1|/9501068
+* Block 67 <--- 60	USER>>seq74	  117   [+0+] gi|505218414|ref|WP_015405516.1|/9521068
+* Block 68 <=== 61	USER>>seq75	  118   [+0+] gi|503392721|ref|WP_013627382.1|/9511068
+* Block 69 <=== 62	USER>>seq119	  122   [+0+] gi|522822139|ref|WP_020734859.1|/9081029
+* Block 70 <--- 63	USER>>seq83	  124   [+0+] gi|515866127|ref|WP_017296755.1|/13701493
+* Block 71 <--- 64	USER>>seq84	  124   [+0+] gi|504359359|ref|WP_014546461.1|/9451068
+* Block 72 <--- 65	USER>>seq90	  124   [+0+] gi|503023135|ref|WP_013258111.1|/9451068
+* Block 73 <--- 66	USER>>seq91	  113   [+0+] gi|503984993|ref|WP_014218987.1|/9561068
+* Block 74 <--- 67	USER>>seq93	  122   [+0+] gi|653101692|ref|WP_027351777.1|/11941315
+* Block 75 <--- 68	USER>>seq97	  121   [+0+] gi|506420924|ref|WP_015940643.1|/9091029
+* Block 76 <=== 69	USER>>seq98	  109   [+1+] gi|500666872|ref|WP_011969807.1|/9211029
+* Block 77 <=== 70	USER>>seq110	  109   [+0+] gi|515843133|ref|WP_017273886.1|/9211029
+* Block 78 <--- 71	USER>>seq99	  119   [+0+] gi|501112129|ref|WP_012161695.1|/9111029
+* Block 79 <--- 72	USER>>seq100	  122   [+2+] gi|516312941|ref|WP_017709635.1|/9471068
+* Block 80 <--- 73	USER>>seq106	  123   [+0+] gi|504991352|ref|WP_015178454.1|/12931415
+* Block 81 <--- 74	USER>>seq112	  117   [+0+] gi|522078315|ref|WP_020589524.1|/9521068
+* Block 82 <--- 75	USER>>seq113	  117   [+0+] gi|517076995|ref|WP_018265813.1|/9131029
+* Block 83 <--- 76	USER>>seq114	  122   [+0+] gi|519029529|ref|WP_020185404.1|/9081029
+* Block 84 <--- 78	USER>>seq126	  116   [+0+] gi|495866876|ref|WP_008591455.1|/17291844
+* Block 85 <--- 86	USER>>seq129	  118   [+0+] gi|545123236|ref|WP_021484709.1|/9511068
+* Block 86 <=== 166	USER>>seq302	  123   [+0+] gi|652933177|ref|WP_027186854.1|/10031125
+* Block 87 <=== 167	USER>>seq273	  119   [+0+] gi|494102002|ref|WP_007042794.1|/10071125
+* Block 88 <=== 141	USER>>seq237	  124   [+0+] gi|506254050|ref|WP_015773825.1|/10021125
+* Block 89 <=== 90	USER>>seq146	  123   [+0+] gi|496438804|ref|WP_009147649.1|/9461068
+* Block 90 <=== 91	USER>>seq165	  122   [+0+] gi|499262951|ref|WP_010960491.1|/9081029
+* Block 91 <=== 92	USER>>seq150	  122   [+0+] gi|490878897|ref|WP_004740891.1|/9471068
+* Block 92 <=== 93	USER>>seq163	  126   [+0+] gi|497864643|ref|WP_010178799.1|/9041029
+* Block 93 <=== 136	USER>>seq238	  119   [+0+] gi|517042031|ref|WP_018230849.1|/10461164
+* Block 94 <=== 169	USER>>seq264	  119   [+0+] gi|495339088|ref|WP_008063822.1|/10461164
+* Block 95 <=== 170	USER>>seq275	  124   [+0+] gi|496441417|ref|WP_009150262.1|/10021125
+* Block 96 <=== 168	USER>>seq249	  135   [+0+] gi|527025629|ref|WP_020877359.1|/10301164
+* Block 97 <=== 138	USER>>seq210	  116   [+0+] gi|659886890|ref|WP_029933575.1|/13001415
+* Block 98 <=== 113	USER>>seq162	  121   [+0+] gi|497362108|ref|WP_009676321.1|/9091029
+* Block 99 <=== 94	USER>>seq141	  119   [+0+] gi|497411957|ref|WP_009726155.1|/9501068
+* Block 100 <=== 95	USER>>seq132	  116   [+0+] gi|494243653|ref|WP_007144428.1|/9531068
+* Block 101 <=== 96	USER>>seq147	  117   [+1+] gi|494267099|ref|WP_007154681.1|/9521068
+* Block 102 <=== 139	USER>>seq198	  124   [+0+] gi|651605502|ref|WP_026600388.1|/9451068
+* Block 103 <=== 140	USER>>seq236	  132   [+0+] gi|516315553|ref|WP_017712247.1|/10331164
+* Block 104 <=== 87	USER>>seq130	  120   [+0+] gi|496676389|ref|WP_009318879.1|/9491068
+* Block 105 <=== 142	USER>>seq209	  123   [+0+] gi|653213236|ref|WP_027425929.1|/12931415
+* Block 106 <=== 143	USER>>seq226	  120   [+0+] gi|501371938|ref|WP_012403504.1|/10451164
+* Block 107 <=== 144	USER>>seq227	  121   [+2+] gi|500269600|ref|WP_011920484.1|/10441164
+* Block 108 <=== 145	USER>>seq200	  123   [+0+] gi|652768347|ref|WP_027081594.1|/16831805
+* Block 109 <=== 146	USER>>seq204	  121   [+0+] gi|515857836|ref|WP_017288464.1|/18241944
+* Block 110 <=== 147	USER>>seq207	  119   [+1+] gi|663276130|ref|WP_030289358.1|/16871805
+* Block 111 <=== 88	USER>>seq183	  119   [+0+] gi|654982890|ref|WP_028432407.1|/17651883
+* Block 112 <=== 89	USER>>seq168	  123   [+0+] gi|494072149|ref|WP_007014206.1|/9071029
+* Block 113 <=== 135	USER>>seq197	  137   [+0+] gi|645230983|ref|XP_008222182.1|/8931029
+* Block 114 <=== 98	USER>>seq133	  121   [+0+] gi|490531602|ref|WP_004396775.1|/9481068
+* Block 115 <=== 97	USER>>seq180	  123   [+14+] gi|639491818|ref|WP_024663144.1|/9461068
+* Block 116 <=== 120	USER>>seq186	  123   [+2+] gi|648201021|ref|WP_025990828.1|/9461068
+* Block 117 <=== 121	USER>>seq190	  123   [+0+] gi|640577707|ref|WP_025007986.1|/9461068
+* Block 118 <--- 99	USER>>seq134	  123   [+0+] gi|492279209|ref|WP_005797221.1|/9461068
+* Block 119 <=== 101	USER>>seq157	  119   [+0+] gi|493565669|ref|WP_006519011.1|/9111029
+* Block 120 <=== 100	USER>>seq138	  122   [+0+] gi|493564443|ref|WP_006517810.1|/16841805
+* Block 121 <=== 122	USER>>seq187	  122   [+0+] gi|648409291|ref|WP_026101042.1|/13331454
+* Block 122 <=== 123	USER>>seq223	  122   [+0+] gi|521993413|ref|WP_020504684.1|/18231944
+* Block 123 <=== 124	USER>>seq222	  120   [+0+] gi|517780793|ref|WP_018951001.1|/17861905
+* Block 124 <=== 125	USER>>seq241	  120   [+6+] gi|691116579|ref|WP_032036911.1|/13741493
+* Block 125 <=== 102	USER>>seq139	  119   [+0+] gi|491617115|ref|WP_005474670.1|/13361454
+* Block 126 <=== 137	USER>>seq233	  121   [+1+] gi|515526623|ref|WP_016959870.1|/10441164
+* Block 127 <--- 103	USER>>seq143	  115   [+0+] gi|493778066|ref|WP_006726511.1|/9541068
+* Block 128 <=== 148	USER>>seq201	  109   [+0+] gi|655099570|ref|WP_028547348.1|/9601068
+* Block 129 <=== 104	USER>>seq167	  112   [+0+] gi|551163668|ref|WP_022816485.1|/9571068
+* Block 130 <=== 106	USER>>seq152	  115   [+0+] gi|495132245|ref|WP_007857056.1|/9541068
+* Block 131 <=== 105	USER>>seq151	  121   [+0+] gi|551076438|ref|WP_022802204.1|/13731493
+* Block 132 <=== 128	USER>>seq191	  121   [+0+] gi|653264401|ref|WP_027462531.1|/13731493
+* Block 133 <=== 129	USER>>seq199	  123   [+0+] gi|654859853|ref|WP_028312178.1|/9461068
+* Block 134 <=== 130	USER>>seq212	  124   [+0+] gi|654997780|ref|WP_028446992.1|/9061029
+* Block 135 <=== 127	USER>>seq240	  114   [+0+] gi|489668456|ref|WP_003572727.1|/18311944
+* Block 136 <=== 126	USER>>seq202	  121   [+0+] gi|657841705|ref|WP_029556804.1|/9481068
+* Block 137 <--- 107	USER>>seq154	  120   [+0+] gi|495091077|ref|WP_007815900.1|/9101029
+* Block 138 <=== 119	USER>>seq185	  109   [+0+] gi|636788345|ref|WP_024324481.1|/9211029
+* Block 139 <=== 133	USER>>seq195	  111   [+0+] gi|648481721|ref|WP_026173472.1|/9191029
+* Block 140 <=== 108	USER>>seq155	  118   [+0+] gi|498353836|ref|WP_010667992.1|/9121029
+* Block 141 <--- 109	USER>>seq156	  118   [+0+] gi|546229503|ref|WP_021833622.1|/9121029
+* Block 142 <=== 110	USER>>seq158	  120   [+0+] gi|496422065|ref|WP_009130912.1|/9101029
+* Block 143 <=== 111	USER>>seq159	  120   [+1+] gi|496427675|ref|WP_009136522.1|/9101029
+* Block 144 <--- 112	USER>>seq161	  122   [+0+] gi|494953302|ref|WP_007679330.1|/9081029
+* Block 145 <=== 114	USER>>seq166	  107   [+0+] gi|544635063|ref|WP_021070757.1|/9231029
+* Block 146 <=== 150	USER>>seq211	  107   [+0+] gi|657038658|ref|WP_029281740.1|/9231029
+* Block 147 <--- 115	USER>>seq169	  117   [+0+] gi|551339054|ref|WP_022958474.1|/9131029
+* Block 148 <--- 116	USER>>seq170	  127   [+0+] gi|146161343|ref|XP_001471091.1|/10991225
+* Block 149 <--- 117	USER>>seq171	  119   [+0+] gi|655210823|ref|WP_028630919.1|/17651883
+* Block 150 <--- 118	USER>>seq184	  125   [+0+] gi|367001586|ref|XP_003685528.1|/10011125
+* Block 151 <--- 131	USER>>seq192	  118   [+0+] gi|503099430|ref|WP_013334228.1|/14761593
+* Block 152 <--- 132	USER>>seq193	  112   [+0+] gi|559198164|ref|WP_023574660.1|/19142025
+* Block 153 <--- 134	USER>>seq196	  118   [+1+] gi|640367306|ref|WP_024879718.1|/9121029
+* Block 154 <--- 149	USER>>seq203	  114   [+0+] gi|502873427|ref|WP_013108403.1|/14411554
+* Block 155 <=== 151	USER>>seq213	  120   [+1+] gi|501557375|ref|WP_012561876.1|/10451164
+* Block 156 <=== 152	USER>>seq215	  117   [+0+] gi|504097100|ref|WP_014331094.1|/10481164
+* Block 157 <=== 153	USER>>seq216	  115   [+1+] gi|504306848|ref|WP_014493950.1|/10501164
+* Block 158 <--- 154	USER>>seq217	  117   [+0+] gi|504251981|ref|WP_014439083.1|/10481164
+* Block 159 <--- 155	USER>>seq218	  119   [+0+] gi|516259301|ref|WP_017663264.1|/17871905
+* Block 160 <--- 156	USER>>seq219	  120   [+0+] gi|505001346|ref|WP_015188448.1|/10451164
+* Block 161 <--- 157	USER>>seq220	  116   [+0+] gi|515887232|ref|WP_017317815.1|/17901905
+* Block 162 <--- 158	USER>>seq221	  123   [+0+] gi|503411765|ref|WP_013646426.1|/13931515
+* Block 163 <--- 159	USER>>seq224	  120   [+0+] gi|501116580|ref|WP_012165866.1|/10451164
+* Block 164 <--- 160	USER>>seq225	  105   [+0+] gi|501194720|ref|WP_012237738.1|/14111515
+* Block 165 <--- 161	USER>>seq229	  123   [+0+] gi|505215708|ref|WP_015402810.1|/10421164
+* Block 166 <--- 162	USER>>seq230	  115   [+0+] gi|665859937|ref|WP_031227144.1|/9151029
+* Block 167 <--- 163	USER>>seq232	  122   [+0+] gi|504372258|ref|WP_014559360.1|/10041125
+* Block 168 <--- 164	USER>>seq247	  119   [+0+] gi|495149998|ref|WP_007874804.1|/14751593
+* Block 169 <--- 165	USER>>seq248	  115   [+0+] gi|515522704|ref|WP_016955958.1|/10111125
+* Block 170 <--- 171	USER>>seq292	  115   [+0+] gi|653482753|ref|WP_027552710.1|/10501164
+* Block 171 <=== 172	USER>>seq250	  120   [+0+] gi|488804963|ref|WP_002717369.1|/10451164
+* Block 172 <=== 173	USER>>seq253	  115   [+2+] gi|493662843|ref|WP_006614132.1|/10501164
+* Block 173 <--- 174	USER>>seq251	  120   [+0+] gi|522819194|ref|WP_020732737.1|/10061125
+* Block 174 <=== 175	USER>>seq252	  121   [+0+] gi|495185658|ref|WP_007910448.1|/14341554
+* Block 175 <=== 176	USER>>seq272	  118   [+0+] gi|639512003|ref|WP_024676885.1|/18661983
+* Block 176 <=== 224	USER>>seq317	  120   [+2+] gi|490790205|ref|WP_004652352.1|/15741693
+* Block 177 <=== 225	USER>>seq314	  122   [+0+] gi|504985603|ref|WP_015172705.1|/25332654
+* Block 178 <=== 226	USER>>seq321	  123   [+0+] gi|518338720|ref|WP_019508927.1|/11031225
+* Block 179 <=== 177	USER>>seq256	  122   [+0+] gi|494878460|ref|WP_007604549.1|/10431164
+* Block 180 <=== 178	USER>>seq254	  117   [+1+] gi|499969665|ref|WP_011650383.1|/10481164
+* Block 181 <=== 179	USER>>seq294	  118   [+1+] gi|657851066|ref|WP_029561259.1|/10471164
+* Block 182 <=== 180	USER>>seq295	  116   [+0+] gi|655456754|ref|WP_028839835.1|/10491164
+* Block 183 <--- 181	USER>>seq258	  121   [+0+] gi|547644004|ref|WP_022120836.1|/10441164
+* Block 184 <--- 182	USER>>seq259	  116   [+0+] gi|499452072|ref|WP_011139536.1|/10491164
+* Block 185 <=== 229	USER>>seq324	  118   [+0+] gi|497821097|ref|WP_010135253.1|/11471264
+* Block 186 <=== 215	USER>>seq307	  123   [+0+] gi|503528742|ref|WP_013762874.1|/11031225
+* Block 187 <=== 239	USER>>seq367	  117   [+0+] gi|648616937|ref|WP_026308688.1|/11481264
+* Block 188 <=== 238	USER>>seq325	  120   [+0+] gi|547845901|ref|WP_022253195.1|/11451264
+* Block 189 <=== 237	USER>>seq365	  118   [+0+] gi|551196112|ref|WP_022824188.1|/11081225
+* Block 190 <=== 183	USER>>seq300	  123   [+0+] gi|500937395|ref|WP_012026167.1|/11421264
+* Block 191 <=== 184	USER>>seq308	  119   [+0+] gi|500027247|ref|WP_011707965.1|/11071225
+* Block 192 <=== 185	USER>>seq260	  119   [+0+] gi|495931403|ref|WP_008655982.1|/10461164
+* Block 193 <=== 244	USER>>seq345	  120   [+8+] gi|547868732|ref|WP_022274982.1|/11061225
+* Block 194 <=== 243	USER>>seq338	  120   [+0+] gi|496048607|ref|WP_008773114.1|/11061225
+* Block 195 <=== 242	USER>>seq360	  122   [+0+] gi|493854371|ref|WP_006801265.1|/11041225
+* Block 196 <=== 241	USER>>seq350	  120   [+0+] gi|498203291|ref|WP_010517447.1|/11061225
+* Block 197 <=== 240	USER>>seq351	  121   [+0+] gi|547188866|ref|WP_021930669.1|/11051225
+* Block 198 <=== 233	USER>>seq357	  121   [+0+] gi|547230396|ref|WP_021967165.1|/11051225
+* Block 199 <=== 234	USER>>seq355	  120   [+0+] gi|492406230|ref|WP_005834426.1|/11061225
+* Block 200 <=== 235	USER>>seq354	  123   [+2+] gi|490430518|ref|WP_004302647.1|/11031225
+* Block 201 <=== 232	USER>>seq330	  121   [+0+] gi|548170787|ref|WP_022392507.1|/11051225
+* Block 202 <=== 249	USER>>seq331	  122   [+0+] gi|547709129|ref|WP_022128806.1|/11041225
+* Block 203 <=== 189	USER>>seq296	  121   [+0+] gi|653246963|ref|WP_027452465.1|/10441164
+* Block 204 <=== 190	USER>>seq297	  121   [+0+] gi|653246909|ref|WP_027452413.1|/10441164
+* Block 205 <=== 192	USER>>seq270	  124   [+1+] gi|493508457|ref|WP_006462837.1|/10411164
+* Block 206 <=== 191	USER>>seq267	  122   [+3+] gi|545131750|ref|WP_021493129.1|/10431164
+* Block 207 <=== 222	USER>>seq329	  119   [+0+] gi|495085014|ref|WP_007809838.1|/11461264
+* Block 208 <=== 221	USER>>seq320	  121   [+0+] gi|518264863|ref|WP_019435071.1|/11051225
+* Block 209 <=== 219	USER>>seq369	  122   [+0+] gi|589103139|ref|XP_006963592.1|/11041225
+* Block 210 <=== 220	USER>>seq312	  118   [+0+] gi|503482366|ref|WP_013717027.1|/11081225
+* Block 211 <=== 193	USER>>seq310	  118   [+0+] gi|500923779|ref|WP_012019599.1|/11081225
+* Block 212 <=== 236	USER>>seq332	  119   [+5+] gi|496574258|ref|WP_009275376.1|/11071225
+* Block 213 <=== 214	USER>>seq306	  122   [+0+] gi|519055568|ref|WP_020211443.1|/11431264
+* Block 214 <=== 231	USER>>seq348	  123   [+1+] gi|547800318|ref|WP_022209963.1|/11031225
+* Block 215 <=== 218	USER>>seq316	  124   [+0+] gi|118397834|ref|XP_001031248.1|/13411464
+* Block 216 <=== 209	USER>>seq298	  125   [+0+] gi|599366041|ref|XP_007406027.1|/10011125
+* Block 217 <=== 210	USER>>seq303	  121   [+0+] gi|657762966|ref|WP_029531449.1|/10051125
+* Block 218 <--- 186	USER>>seq261	  120   [+0+] gi|498163330|ref|WP_010477486.1|/10451164
+* Block 219 <--- 187	USER>>seq262	  121   [+0+] gi|497465553|ref|WP_009779751.1|/10441164
+* Block 220 <--- 188	USER>>seq263	  127   [+0+] gi|493777308|ref|WP_006725762.1|/10381164
+* Block 221 <--- 194	USER>>seq271	  117   [+0+] gi|497905010|ref|WP_010219166.1|/10091125
+* Block 222 <=== 246	USER>>seq328	  126   [+0+] gi|491634681|ref|WP_005492213.1|/11391264
+* Block 223 <=== 247	USER>>seq363	  120   [+0+] gi|499605043|ref|WP_011285777.1|/11061225
+* Block 224 <=== 248	USER>>seq356	  119   [+0+] gi|493040741|ref|WP_006106278.1|/11071225
+* Block 225 <=== 195	USER>>seq274	  119   [+1+] gi|497469240|ref|WP_009783438.1|/10071125
+* Block 226 <--- 196	USER>>seq276	  124   [+0+] gi|499607748|ref|WP_011288482.1|/10021125
+* Block 227 <=== 197	USER>>seq277	  136   [+0+] gi|573985397|ref|XP_006670619.1|/14191554
+* Block 228 <=== 230	USER>>seq326	  120   [+0+] gi|496421452|ref|WP_009130299.1|/11451264
+* Block 229 <=== 198	USER>>seq279	  124   [+0+] gi|615465022|ref|XP_007599157.1|/10021125
+* Block 230 <=== 255	USER>>seq366	  125   [+0+] gi|156845690|ref|XP_001645735.1|/9151039
+* Block 231 <=== 200	USER>>seq280	  115   [+0+] gi|647190505|ref|WP_025662630.1|/18301944
+* Block 232 <=== 201	USER>>seq281	  114   [+1+] gi|654685251|ref|WP_028144047.1|/18311944
+* Block 233 <=== 199	USER>>seq286	  120   [+0+] gi|639845393|ref|WP_024749951.1|/10061125
+* Block 234 <--- 202	USER>>seq283	  114   [+0+] gi|505029057|ref|WP_015216159.1|/15801693
+* Block 235 <--- 203	USER>>seq285	  122   [+0+] gi|597905024|ref|XP_007299811.1|/13941515
+* Block 236 <--- 204	USER>>seq287	  120   [+0+] gi|504934573|ref|WP_015121675.1|/15351654
+* Block 237 <--- 205	USER>>seq288	  120   [+0+] gi|6573354|pdb|1DBW|A/2121
+* Block 238 <--- 206	USER>>seq289	  111   [+0+] gi|651359387|ref|WP_026471749.1|/10541164
+* Block 239 <--- 207	USER>>seq290	  122   [+0+] gi|663319458|ref|WP_030319326.1|/14331554
+* Block 240 <--- 208	USER>>seq293	  117   [+0+] gi|654702416|ref|WP_028160527.1|/10481164
+* Block 241 <--- 211	USER>>seq299	  115   [+0+] gi|652420627|ref|WP_026816073.1|/14011515
+* Block 242 <--- 212	USER>>seq304	  114   [+0+] gi|501375597|ref|WP_012407163.1|/11121225
+* Block 243 <=== 213	USER>>seq305	  115   [+0+] gi|503760762|ref|WP_013994838.1|/11111225
+* Block 244 <=== 251	USER>>seq359	  122   [+0+] gi|546360946|ref|WP_021847907.1|/11041225
+* Block 245 <=== 216	USER>>seq309	  115   [+0+] gi|504408892|ref|WP_014595994.1|/11111225
+* Block 246 <=== 245	USER>>seq327	  115   [+0+] gi|489396227|ref|WP_003302723.1|/11111225
+* Block 247 <--- 217	USER>>seq311	  122   [+0+] gi|505033657|ref|WP_015220759.1|/11041225
+* Block 248 <--- 223	USER>>seq313	  115   [+0+] gi|504769869|ref|WP_014956971.1|/11111225
+* Block 249 <--- 227	USER>>seq315	  122   [+0+] gi|118388886|ref|XP_001027538.1|/9571078
+* Block 250 <--- 228	USER>>seq322	  116   [+1+] gi|6730309|pdb|1DC8|A/6121
+* Block 251 <--- 250	USER>>seq358	  120   [+0+] gi|491487637|ref|WP_005345378.1|/11061225
+* Block 252 <--- 252	USER>>seq361	  119   [+0+] gi|494102409|ref|WP_007043198.1|/11071225
+* Block 253 <--- 253	USER>>seq362	  120   [+0+] gi|498245622|ref|WP_010559778.1|/11061225
+* Block 254 <--- 254	USER>>seq364	  118   [+0+] gi|628298973|ref|XP_007758999.1|/15371654
+* Block 255 <--- 256	USER>>seq368	  137   [+0+] gi|636765385|ref|XP_008084866.1|/10891225
+* Block 256 <--- 257	USER>>seq370	  126   [+4+] gi|648449205|ref|WP_026140956.1|/11391264
+* Block 257 <=== 276	USER>>seq402	  141   [+0+] gi|694377848|ref|XP_009365200.1|/10851225
+* Block 258 <=== 307	USER>>seq455	  118   [+0+] gi|504935859|ref|WP_015122961.1|/9221039
+* Block 259 <=== 326	USER>>seq447	  124   [+0+] gi|502735597|ref|WP_012970581.1|/13021425
+* Block 260 <=== 311	USER>>seq439	  124   [+0+] gi|503145144|ref|WP_013379805.1|/13021425
+* Block 261 <=== 310	USER>>seq444	  119   [+0+] gi|515597487|ref|WP_017030092.1|/9601078
+* Block 262 <=== 309	USER>>seq452	  117   [+1+] gi|518420551|ref|WP_019590758.1|/13481464
+* Block 263 <=== 308	USER>>seq460	  115   [+0+] gi|515631820|ref|WP_017064420.1|/13111425
+* Block 264 <=== 312	USER>>seq495	  123   [+0+] gi|499123437|ref|WP_010852358.1|/13421464
+* Block 265 <=== 313	USER>>seq496	  121   [+1+] gi|491171241|ref|WP_005029608.1|/9581078
+* Block 266 <=== 314	USER>>seq448	  120   [+0+] gi|506253645|ref|WP_015773420.1|/9201039
+* Block 267 <=== 271	USER>>seq410	  125   [+0+] gi|548219166|ref|WP_022438346.1|/12011325
+* Block 268 <=== 272	USER>>seq411	  119   [+0+] gi|551032610|ref|WP_022776567.1|/15971715
+* Block 269 <=== 273	USER>>seq401	  119   [+0+] gi|545478375|ref|WP_021714484.1|/12461364
+* Block 270 <=== 274	USER>>seq413	  150   [+0+] gi|357117236|ref|XP_003560378.1|/9291078
+* Block 271 <=== 275	USER>>seq379	  124   [+0+] gi|503876132|ref|WP_014110126.1|/12411364
+* Block 272 <=== 283	USER>>seq391	  123   [+0+] gi|503694881|ref|WP_013928957.1|/12031325
+* Block 273 <=== 335	USER>>seq462	  118   [+0+] gi|517972428|ref|WP_019142636.1|/9221039
+* Block 274 <=== 336	USER>>seq471	  120   [+0+] gi|504310153|ref|WP_014497255.1|/19552074
+* Block 275 <=== 259	USER>>seq386	  120   [+0+] gi|651850116|ref|WP_026635597.1|/11061225
+* Block 276 <=== 260	USER>>seq431	  119   [+0+] gi|663201957|ref|WP_030239792.1|/12461364
+* Block 277 <=== 258	USER>>seq374	  118   [+0+] gi|636742027|ref|WP_024309447.1|/11081225
+* Block 278 <=== 261	USER>>seq375	  120   [+0+] gi|502799259|ref|WP_013034235.1|/16351754
+* Block 279 <=== 262	USER>>seq396	  119   [+0+] gi|496217126|ref|WP_008931368.1|/16751793
+* Block 280 <=== 324	USER>>seq467	  120   [+1+] gi|490465163|ref|WP_004335711.1|/17351854
+* Block 281 <=== 325	USER>>seq500	  116   [+0+] gi|504243290|ref|WP_014430392.1|/19202035=KEEP
+* Block 282 <=== 263	USER>>seq416	  120   [+1+] gi|501380632|ref|WP_012412198.1|/17351854
+* Block 283 <=== 306	USER>>seq476	  120   [+0+] gi|493502481|ref|WP_006456974.1|/9591078
+* Block 284 <=== 305	USER>>seq438	  120   [+0+] gi|515363956|ref|WP_016868864.1|/9591078
+* Block 285 <=== 282	USER>>seq390	  123   [+0+] gi|518338720|ref|WP_019508927.1|/12421364
+* Block 286 <--- 264	USER>>seq376	  102   [+0+] gi|241957139|ref|XP_002421289.1|/17141815
+* Block 287 <=== 270	USER>>seq398	  119   [+0+] gi|671552673|ref|WP_031535313.1|/11071225
+* Block 288 <=== 266	USER>>seq408	  119   [+2+] gi|496051194|ref|WP_008775701.1|/12071325
+* Block 289 <=== 265	USER>>seq404	  123   [+9+] gi|495131215|ref|WP_007856026.1|/12031325
+* Block 290 <=== 267	USER>>seq377	  122   [+0+] gi|647527754|ref|WP_025819168.1|/11041225
+* Block 291 <=== 268	USER>>seq381	  122   [+0+] gi|653275845|ref|WP_027473779.1|/11041225
+* Block 292 <--- 269	USER>>seq397	  117   [+0+] gi|670495647|ref|WP_031443608.1|/11091225
+* Block 293 <--- 277	USER>>seq380	  122   [+0+] gi|664102462|ref|WP_030639974.1|/14941615
+* Block 294 <=== 278	USER>>seq383	  118   [+0+] gi|655077113|ref|WP_028525246.1|/11081225
+* Block 295 <=== 279	USER>>seq384	  117   [+0+] gi|655078859|ref|WP_028526984.1|/11091225
+* Block 296 <=== 280	USER>>seq382	  123   [+0+] gi|657045620|ref|WP_029288515.1|/11031225
+* Block 297 <--- 281	USER>>seq385	  122   [+0+] gi|652509899|ref|WP_026904186.1|/11041225
+* Block 298 <--- 284	USER>>seq392	  143   [+0+] gi|302811550|ref|XP_002987464.1|/8971039
+* Block 299 <--- 285	USER>>seq393	  131   [+0+] gi|241951126|ref|XP_002418285.1|/23342464
+* Block 300 <--- 286	USER>>seq399	  127   [+0+] gi|121705968|ref|XP_001271247.1|/17891915
+* Block 301 <--- 287	USER>>seq400	  131   [+0+] gi|685410031|ref|XP_009223873.1|/11341264
+* Block 302 <=== 288	USER>>seq403	  118   [+0+] gi|557304382|ref|WP_023381006.1|/12471364
+* Block 303 <=== 304	USER>>seq437	  119   [+0+] gi|500263699|ref|WP_011914583.1|/13071425
+* Block 304 <--- 289	USER>>seq412	  124   [+0+] gi|496700070|ref|WP_009341613.1|/12021325
+* Block 305 <--- 290	USER>>seq414	  112   [+0+] gi|653046258|ref|WP_027297858.1|/16821793
+* Block 306 <--- 291	USER>>seq415	  118   [+0+] gi|9954994|pdb|1QKK|A/4121
+* Block 307 <--- 292	USER>>seq417	  135   [+1+] gi|449505124|ref|XP_004162383.1|/9441078
+* Block 308 <--- 293	USER>>seq421	  118   [+0+] gi|503033644|ref|WP_013268620.1|/9611078
+* Block 309 <=== 302	USER>>seq472	  115   [+0+] gi|488043008|ref|WP_002114405.1|/9251039
+* Block 310 <=== 295	USER>>seq422	  115   [+2+] gi|446293704|ref|WP_000371559.1|/9251039
+* Block 311 <=== 294	USER>>seq434	  115   [+0+] gi|504409163|ref|WP_014596265.1|/9251039
+* Block 312 <=== 303	USER>>seq436	  115   [+1+] gi|504632743|ref|WP_014819845.1|/9251039
+* Block 313 <--- 296	USER>>seq424	  121   [+0+] gi|501378355|ref|WP_012409921.1|/13441464
+* Block 314 <=== 297	USER>>seq425	  124   [+0+] gi|505184670|ref|WP_015371772.1|/9551078
+* Block 315 <=== 321	USER>>seq465	  124   [+0+] gi|489325481|ref|WP_003232785.1|/9551078
+* Block 316 <=== 322	USER>>seq468	  123   [+0+] gi|489285805|ref|WP_003193392.1|/9561078
+* Block 317 <=== 323	USER>>seq469	  122   [+0+] gi|489546878|ref|WP_003451521.1|/9571078
+* Block 318 <=== 320	USER>>seq492	  120   [+0+] gi|491096915|ref|WP_004958517.1|/9591078
+* Block 319 <=== 319	USER>>seq443	  126   [+1+] gi|516376433|ref|WP_017766466.1|/9531078
+* Block 320 <=== 318	USER>>seq446	  116   [+0+] gi|511291218|ref|WP_016351485.1|/9631078
+* Block 321 <=== 317	USER>>seq445	  122   [+0+] gi|519046687|ref|WP_020202562.1|/9571078
+* Block 322 <=== 316	USER>>seq440	  126   [+0+] gi|516411122|ref|WP_017800520.1|/9531078
+* Block 323 <=== 315	USER>>seq466	  120   [+0+] gi|489281867|ref|WP_003189492.1|/9591078
+* Block 324 <--- 298	USER>>seq426	  122   [+0+] gi|501377106|ref|WP_012408672.1|/9571078
+* Block 325 <--- 299	USER>>seq430	  130   [+0+] gi|667648607|ref|XP_008596135.1|/12351364
+* Block 326 <--- 300	USER>>seq433	  115   [+0+] gi|503416509|ref|WP_013651170.1|/9251039
+* Block 327 <--- 301	USER>>seq435	  120   [+0+] gi|518335138|ref|WP_019505345.1|/9591078
+* Block 328 <--- 327	USER>>seq449	  120   [+0+] gi|504924850|ref|WP_015111952.1|/9201039
+* Block 329 <--- 328	USER>>seq450	  119   [+0+] gi|504995771|ref|WP_015182873.1|/9211039
+* Block 330 <--- 329	USER>>seq451	  124   [+0+] gi|506286732|ref|WP_015806507.1|/9161039
+* Block 331 <--- 330	USER>>seq454	  127   [+0+] gi|503402006|ref|WP_013636667.1|/9131039
+* Block 332 <--- 331	USER>>seq456	  126   [+0+] gi|503868462|ref|WP_014102456.1|/9141039
+* Block 333 <--- 332	USER>>seq457	  120   [+0+] gi|504014708|ref|WP_014248702.1|/9201039
+* Block 334 <--- 333	USER>>seq458	  119   [+0+] gi|519049033|ref|WP_020204908.1|/9211039
+* Block 335 <--- 334	USER>>seq461	  113   [+1+] gi|518395533|ref|WP_019565740.1|/9271039
+* Block 336 <--- 337	USER>>seq463	  128   [+0+] gi|118394460|ref|XP_001029600.1|/11471274
+* Block 337 <--- 338	USER>>seq464	  121   [+0+] gi|490139436|ref|WP_004039790.1|/17341854
+* Block 338 <--- 339	USER>>seq473	  122   [+0+] gi|495372912|ref|WP_008097624.1|/13431464
+* Block 339 <--- 340	USER>>seq475	  121   [+15+] gi|487854445|ref|WP_001927911.1|/9191039
+* Block 340 <--- 341	USER>>seq490	  114   [+0+] gi|493527432|ref|WP_006481467.1|/13511464
+* Block 341 <--- 342	USER>>seq494	  120   [+0+] gi|488760599|ref|WP_002683812.1|/9201039
+* Block 342 <--- 343	USER>>seq498	  105   [+0+] gi|489070200|ref|WP_002980172.1|/9351039
+
+('*' = keyed block)
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 5
+ gap_pen = 20 span = 6 window = 8
+ minscore = 880 pepscore = 0 list_limit = 8
+ circles = 0 output = 999 outline = 80
+score_pairs 
+
+average score over cutoff = 988
+
+(25 pairs) cluster_pairs total list_alloc = 40
+pack_lists 
+update_blocks
+      USER>>seq67
+894
+      USER>>seq57
+892
+      USER>>seq31
+1130
+      USER>>seq71
+
+
+      USER>>seq425
+1124
+      USER>>seq465
+
+
+      USER>>seq86
+1123
+      USER>>seq148
+
+
+      USER>>seq151
+1114
+      USER>>seq191
+
+
+      USER>>seq207
+1089
+      USER>>seq183
+897
+      USER>>seq204
+
+
+      USER>>seq238
+1087
+      USER>>seq264
+
+
+      USER>>seq312
+1077
+      USER>>seq310
+
+
+      USER>>seq180
+1076
+      USER>>seq186
+
+
+      USER>>seq434
+1052
+      USER>>seq436
+
+
+      USER>>seq138
+1025
+      USER>>seq187
+
+
+      USER>>seq52
+1023
+      USER>>seq63
+
+
+      USER>>seq35
+995
+      USER>>seq153
+
+
+      USER>>seq309
+986
+      USER>>seq327
+
+
+      USER>>seq472
+958
+      USER>>seq422
+
+
+      USER>>seq250
+923
+      USER>>seq253
+
+
+      USER>>seq98
+905
+      USER>>seq110
+
+
+      USER>>seq375
+892
+      USER>>seq396
+
+
+      USER>>seq256
+892
+      USER>>seq254
+
+
+      USER>>seq467
+890
+      USER>>seq500
+
+
+      USER>>seq139
+885
+      USER>>seq233
+
+
+320 groups ( 20 aligned )
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 5
+ gap_pen = 20 span = 8 window = 12
+ minscore = 840 pepscore = 0 list_limit = 4
+ circles = 0 output = 999 outline = 80
+score_pairs 
+
+average score over cutoff = 862
+
+(8 pairs) cluster_pairs total list_alloc = 20
+pack_lists 
+update_blocks
+     -- USER>>seq77
+873
+     p- USER>>seq35
+     b- USER>>seq153
+
+
+     -- USER>>seq272
+870
+     -- USER>>seq317
+
+
+     -- USER>>seq296
+869
+     -- USER>>seq297
+
+
+     -- USER>>seq199
+867
+     -- USER>>seq212
+
+
+     -- USER>>seq280
+859
+     -- USER>>seq281
+
+
+     -- USER>>seq270
+857
+     -- USER>>seq267
+
+
+     -- USER>>seq357
+853
+     -- USER>>seq355
+
+
+     p- USER>>seq86
+     b- USER>>seq148
+849
+     -- USER>>seq144
+
+
+312 groups ( 26 aligned )
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 5
+ gap_pen = 20 span = 10 window = 16
+ minscore = 800 pepscore = 0 list_limit = 2
+ circles = 0 output = 999 outline = 80
+score_pairs 
+
+average score over cutoff = 816
+
+(20 pairs) cluster_pairs total list_alloc = 20
+pack_lists 
+update_blocks
+     ---- USER>>seq7
+836
+     ---- USER>>seq59
+
+
+     ---- USER>>seq8
+835
+     ---- USER>>seq12
+
+
+     ---- USER>>seq294
+831
+     ---- USER>>seq295
+
+
+     ---- USER>>seq200
+828
+     ..p- USER>>seq207
+     ..b- USER>>seq183
+     ..b- USER>>seq204
+
+
+     ---- USER>>seq48
+827
+     p--- USER>>seq77
+     b-p- USER>>seq35
+     ..b- USER>>seq153
+
+
+     ---- USER>>seq471
+827
+     ---- USER>>seq386
+
+
+     ---- USER>>seq227
+819
+     ---- USER>>seq168
+
+
+     ---- USER>>seq222
+817
+     ---- USER>>seq241
+
+
+     ---- USER>>seq329
+812
+     ---- USER>>seq320
+
+
+     ---- USER>>seq152
+811
+     ---- USER>>seq240
+
+
+     ---- USER>>seq166
+810
+     ---- USER>>seq211
+
+
+     ---- USER>>seq107
+800
+     ---- USER>>seq69
+
+
+     ---- USER>>seq43
+800
+     ---- USER>>seq56
+
+
+299 groups ( 37 aligned )
+
+ nblocks = 343 seedblk = 0 seedseq = 4228762
+picked USER>>seq54 (-4.882802)
+picked USER>>seq49 (-4.844187)
+picked USER>>seq11 (-4.770685)
+picked USER>>seq36 (-4.770685)
+picked USER>>seq43 (-2.806490)
+picked USER>>seq85 (-4.836282)
+picked USER>>seq105 (-4.753590)
+picked USER>>seq103 (-4.762174)
+picked USER>>seq81 (-4.804021)
+picked USER>>seq86 (-4.411401)
+picked USER>>seq145 (-4.804021)
+picked USER>>seq104 (-4.812184)
+picked USER>>seq89 (-4.753590)
+picked USER>>seq13 (-104.836281)
+picked USER>>seq8 (-4.762174)
+picked USER>>seq140 (-4.779123)
+picked USER>>seq127 (-4.804021)
+picked USER>>seq62 (-4.744932)
+picked USER>>seq51 (-4.882802)
+picked USER>>seq64 (-4.795791)
+picked USER>>seq7 (-104.034241)
+picked USER>>seq131 (-4.787492)
+picked USER>>seq128 (-4.828314)
+picked USER>>seq3 (-4.727388)
+picked USER>>seq15 (-4.753590)
+picked USER>>seq88 (-4.744932)
+picked USER>>seq117 (-4.744932)
+picked USER>>seq118 (-4.770685)
+picked USER>>seq79 (-4.770685)
+picked USER>>seq82 (-4.770685)
+picked USER>>seq5 (-4.787492)
+picked USER>>seq108 (-4.787492)
+picked USER>>seq47 (-4.736198)
+picked USER>>seq31 (-4.701550)
+picked USER>>seq6 (-4.795791)
+picked USER>>seq16 (-4.836282)
+picked USER>>seq17 (-4.804021)
+picked USER>>seq34 (-4.820282)
+picked USER>>seq18 (-4.691348)
+picked USER>>seq63 (-4.539031)
+picked USER>>seq116 (-4.770685)
+picked USER>>seq77 (-4.069027)
+picked USER>>seq33 (-4.762174)
+picked USER>>seq44 (-4.718499)
+picked USER>>seq46 (-4.744932)
+picked USER>>seq55 (-4.787492)
+picked USER>>seq58 (-4.852030)
+picked USER>>seq60 (-4.682131)
+picked USER>>seq61 (-4.718499)
+picked USER>>seq68 (-4.762174)
+picked USER>>seq69 (-1.267511)
+picked USER>>seq109 (-4.770685)
+picked USER>>seq72 (-4.736198)
+picked USER>>seq73 (-4.753590)
+picked USER>>seq74 (-4.736198)
+picked USER>>seq75 (-4.744932)
+picked USER>>seq119 (-4.762174)
+picked USER>>seq83 (-4.795791)
+picked USER>>seq84 (-4.795791)
+picked USER>>seq90 (-4.795791)
+picked USER>>seq91 (-4.700480)
+picked USER>>seq93 (-4.779123)
+picked USER>>seq97 (-4.770685)
+picked USER>>seq98 (-4.663439)
+picked USER>>seq99 (-4.744932)
+picked USER>>seq100 (-4.779123)
+picked USER>>seq106 (-4.787492)
+picked USER>>seq112 (-4.736198)
+picked USER>>seq113 (-4.736198)
+picked USER>>seq114 (-4.770685)
+picked USER>>seq126 (-4.727388)
+picked USER>>seq129 (-4.744932)
+picked USER>>seq302 (-4.787492)
+picked USER>>seq273 (-4.753590)
+picked USER>>seq237 (-4.779123)
+picked USER>>seq146 (-4.787492)
+picked USER>>seq165 (-4.770685)
+picked USER>>seq150 (-4.779123)
+picked USER>>seq163 (-4.812184)
+picked USER>>seq238 (-4.753590)
+picked USER>>seq275 (-4.795791)
+picked USER>>seq249 (-4.882802)
+picked USER>>seq210 (-4.727388)
+picked USER>>seq162 (-4.770685)
+picked USER>>seq141 (-4.753590)
+picked USER>>seq132 (-4.727388)
+picked USER>>seq147 (-4.736198)
+picked USER>>seq198 (-4.787492)
+picked USER>>seq236 (-4.859812)
+picked USER>>seq130 (-4.762174)
+picked USER>>seq209 (-4.787492)
+picked USER>>seq226 (-4.762174)
+picked USER>>seq168 (-4.094345)
+picked USER>>seq204 (-4.547541)
+picked USER>>seq197 (-4.897840)
+picked USER>>seq133 (-4.770685)
+picked USER>>seq180 (-4.787492)
+picked USER>>seq190 (-4.787492)
+picked USER>>seq134 (-4.787492)
+picked USER>>seq157 (-4.753590)
+picked USER>>seq138 (-4.770685)
+picked USER>>seq223 (-4.779123)
+picked USER>>seq241 (-4.762174)
+picked USER>>seq233 (-4.077538)
+picked USER>>seq143 (-4.709530)
+picked USER>>seq201 (-4.663439)
+picked USER>>seq167 (-4.691348)
+picked USER>>seq240 (-4.486387)
+picked USER>>seq151 (-4.770685)
+picked USER>>seq212 (-4.572647)
+picked USER>>seq202 (-4.770685)
+picked USER>>seq154 (-4.762174)
+picked USER>>seq185 (-4.663439)
+picked USER>>seq195 (-4.682131)
+picked USER>>seq155 (-4.744932)
+picked USER>>seq156 (-4.744932)
+picked USER>>seq158 (-4.762174)
+picked USER>>seq159 (-4.762174)
+picked USER>>seq161 (-4.770685)
+picked USER>>seq166 (-4.644391)
+picked USER>>seq169 (-4.736198)
+picked USER>>seq170 (-4.820282)
+picked USER>>seq171 (-4.753590)
+picked USER>>seq184 (-4.804021)
+picked USER>>seq192 (-4.744932)
+picked USER>>seq193 (-4.691348)
+picked USER>>seq196 (-4.744932)
+picked USER>>seq203 (-4.709530)
+picked USER>>seq213 (-4.753590)
+picked USER>>seq215 (-4.736198)
+picked USER>>seq216 (-4.718499)
+picked USER>>seq217 (-4.736198)
+picked USER>>seq218 (-4.753590)
+picked USER>>seq219 (-4.762174)
+picked USER>>seq220 (-4.727388)
+picked USER>>seq221 (-4.787492)
+picked USER>>seq224 (-4.762174)
+picked USER>>seq225 (-4.624973)
+picked USER>>seq229 (-4.787492)
+picked USER>>seq230 (-4.718499)
+picked USER>>seq232 (-4.779123)
+picked USER>>seq247 (-4.753590)
+picked USER>>seq248 (-4.718499)
+picked USER>>seq292 (-4.709530)
+picked USER>>seq250 (-2.772589)
+picked USER>>seq251 (-4.762174)
+picked USER>>seq252 (-4.762174)
+picked USER>>seq317 (-4.069027)
+picked USER>>seq314 (-4.770685)
+picked USER>>seq321 (-4.787492)
+picked USER>>seq256 (-2.798122)
+picked USER>>seq294 (-4.043051)
+picked USER>>seq258 (-4.770685)
+picked USER>>seq259 (-4.727388)
+picked USER>>seq324 (-4.744932)
+picked USER>>seq307 (-4.787492)
+picked USER>>seq367 (-4.727388)
+picked USER>>seq325 (-4.762174)
+picked USER>>seq365 (-4.744932)
+picked USER>>seq300 (-4.779123)
+picked USER>>seq308 (-4.753590)
+picked USER>>seq260 (-4.753590)
+picked USER>>seq345 (-4.762174)
+picked USER>>seq338 (-4.762174)
+picked USER>>seq360 (-4.779123)
+picked USER>>seq350 (-4.762174)
+picked USER>>seq351 (-4.770685)
+picked USER>>seq357 (-4.547541)
+picked USER>>seq354 (-4.779123)
+picked USER>>seq330 (-4.770685)
+picked USER>>seq331 (-4.770685)
+picked USER>>seq297 (-4.770685)
+picked USER>>seq270 (-4.102643)
+picked USER>>seq320 (-4.077538)
+picked USER>>seq369 (-4.779123)
+picked USER>>seq312 (-4.736198)
+picked USER>>seq332 (-4.753590)
+picked USER>>seq306 (-4.779123)
+picked USER>>seq348 (-4.787492)
+picked USER>>seq316 (-4.795791)
+picked USER>>seq298 (-4.804021)
+picked USER>>seq303 (-4.770685)
+picked USER>>seq261 (-4.762174)
+picked USER>>seq262 (-4.770685)
+picked USER>>seq263 (-4.812184)
+picked USER>>seq271 (-4.736198)
+picked USER>>seq328 (-4.812184)
+picked USER>>seq363 (-4.762174)
+picked USER>>seq356 (-4.753590)
+picked USER>>seq274 (-4.753590)
+picked USER>>seq276 (-4.795791)
+picked USER>>seq277 (-4.890349)
+picked USER>>seq326 (-4.762174)
+picked USER>>seq279 (-4.795791)
+picked USER>>seq366 (-4.804021)
+picked USER>>seq280 (-4.495355)
+picked USER>>seq286 (-4.762174)
+picked USER>>seq283 (-4.700480)
+picked USER>>seq285 (-4.779123)
+picked USER>>seq287 (-4.762174)
+picked USER>>seq288 (-4.762174)
+picked USER>>seq289 (-4.672829)
+picked USER>>seq290 (-4.779123)
+picked USER>>seq293 (-4.736198)
+picked USER>>seq299 (-4.718499)
+picked USER>>seq304 (-4.709530)
+picked USER>>seq305 (-4.718499)
+picked USER>>seq359 (-4.779123)
+picked USER>>seq309 (-4.718499)
+picked USER>>seq311 (-4.779123)
+picked USER>>seq313 (-4.718499)
+picked USER>>seq315 (-4.779123)
+picked USER>>seq322 (-4.727388)
+picked USER>>seq358 (-4.762174)
+picked USER>>seq361 (-4.753590)
+picked USER>>seq362 (-4.762174)
+picked USER>>seq364 (-4.744932)
+picked USER>>seq368 (-4.897840)
+picked USER>>seq370 (-4.812184)
+picked USER>>seq402 (-4.927254)
+picked USER>>seq455 (-4.744932)
+picked USER>>seq447 (-4.795791)
+picked USER>>seq439 (-4.795791)
+picked USER>>seq444 (-4.753590)
+picked USER>>seq452 (-4.736198)
+picked USER>>seq460 (-4.718499)
+picked USER>>seq495 (-4.779123)
+picked USER>>seq496 (-4.770685)
+picked USER>>seq448 (-4.744932)
+picked USER>>seq410 (-4.804021)
+picked USER>>seq411 (-4.753590)
+picked USER>>seq401 (-4.753590)
+picked USER>>seq413 (-4.990433)
+picked USER>>seq379 (-4.795791)
+picked USER>>seq391 (-4.787492)
+picked USER>>seq462 (-4.744932)
+picked USER>>seq471 (-4.762174)
+picked USER>>seq431 (-4.753590)
+picked USER>>seq374 (-4.736198)
+picked USER>>seq375 (-4.539031)
+picked USER>>seq500 (-103.117950)
+picked USER>>seq416 (-4.753590)
+picked USER>>seq476 (-4.753590)
+picked USER>>seq438 (-4.762174)
+picked USER>>seq390 (-4.787492)
+picked USER>>seq376 (-4.595120)
+picked USER>>seq398 (-4.753590)
+picked USER>>seq408 (-4.753590)
+picked USER>>seq404 (-4.787492)
+picked USER>>seq377 (-4.779123)
+picked USER>>seq381 (-4.779123)
+picked USER>>seq397 (-4.736198)
+picked USER>>seq380 (-4.779123)
+picked USER>>seq383 (-4.736198)
+picked USER>>seq384 (-4.736198)
+picked USER>>seq382 (-4.787492)
+picked USER>>seq385 (-4.779123)
+picked USER>>seq392 (-4.941642)
+picked USER>>seq393 (-4.852030)
+picked USER>>seq399 (-4.820282)
+picked USER>>seq400 (-4.852030)
+picked USER>>seq403 (-4.744932)
+picked USER>>seq437 (-4.753590)
+picked USER>>seq412 (-4.795791)
+picked USER>>seq414 (-4.691348)
+picked USER>>seq415 (-4.744932)
+picked USER>>seq417 (-4.882802)
+picked USER>>seq421 (-4.744932)
+picked USER>>seq472 (-4.718499)
+picked USER>>seq434 (-4.718499)
+picked USER>>seq424 (-4.770685)
+picked USER>>seq425 (-4.795791)
+picked USER>>seq468 (-4.787492)
+picked USER>>seq469 (-4.779123)
+picked USER>>seq492 (-4.762174)
+picked USER>>seq443 (-4.812184)
+picked USER>>seq446 (-4.727388)
+picked USER>>seq445 (-4.770685)
+picked USER>>seq440 (-4.812184)
+picked USER>>seq466 (-4.762174)
+picked USER>>seq426 (-4.779123)
+picked USER>>seq430 (-4.844187)
+picked USER>>seq433 (-4.718499)
+picked USER>>seq435 (-4.762174)
+picked USER>>seq449 (-4.762174)
+picked USER>>seq450 (-4.753590)
+picked USER>>seq451 (-4.795791)
+picked USER>>seq454 (-4.820282)
+picked USER>>seq456 (-4.812184)
+picked USER>>seq457 (-4.762174)
+picked USER>>seq458 (-4.744932)
+picked USER>>seq461 (-4.700480)
+picked USER>>seq463 (-4.828314)
+picked USER>>seq464 (-4.770685)
+picked USER>>seq473 (-4.779123)
+picked USER>>seq475 (-4.770685)
+picked USER>>seq490 (-4.709530)
+picked USER>>seq494 (-4.762174)
+picked USER>>seq498 (-4.624973)
+ kept = 299

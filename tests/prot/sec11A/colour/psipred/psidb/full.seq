@@ -1,0 +1,36 @@
+>>P1;USER>>SEED:seq0 =  (N=OUT) sequence = >SEED:seq0 = [+39+] sp|P67812|1179
+mlsldflddvrrmnkrqLYYQVLNFGMIVSSALMIWkglmvitgsespivvvlsgsmepafhrgdllfltnrvedpirvgeivvfriegreipivhrvlkihenghikfltkgdnnavddrglykqgqhwlekkdvvgrargfvpyigivtilmndypkfkyavlfllglfvlvhre
+>>P1;USER>>seq1233 =  (N=OUT) sequence = >seq1233 = [+0+] gi|384493939|gb|EIE84430.1|/3174
+gelrrmnmrqVALQILNILTIGATTLMVWkglsvitnnespivvvlsgsmepgfhrgdlllltlprnepvaindicvfklpgrsipivhrvlkihesgkefiltkgdnnhrddrvlydrgqmwinkehivgkvkgflpyVGMVTILMNDYAWMKYAILAVLGLFvlihre
+>>P1;USER>>seq2184 =  (N=IN) sequence = >seq2184 = [+1+] gi|118396019|ref|XP_001030353.1|/6180
+vkdtikeiasmkfrkILIQGASLAMIVGSALMIWktlmvltmsdspvvvvltgsmeplyyrgdilflynreekittgdvvvyqngeqeipivhrviavqedneyyiltkgdnnfsddrglysppklwihkkdvlgkvkgylpYLGMVTIILNDYPTVKYVVLGLMGLfvliak
+>>P1;USER>>seq2210 =  (N=IN) sequence = >seq2210 = [+0+] gi|145478617|ref|XP_001425331.1|/7180
+yvdefrhmkfrkIILQIVSLAIVVGSALSIWkslqvvsfsespvvvvlsgsmepayyrgdilfltyfnkpfevgdvivykikdqdipivhrvlqiqqedpmdqliltkgdnnqvddralyprkqmwlersdimgkiegvlpYVGYITILLNDYPSLKFVMIGLMSLfvltak
+>>P1;USER>>seq1165 =  (N=OUT) sequence = >seq1165 = [+0+] gi|330795655|ref|XP_003285887.1|/5178
+knlnpfnnipkyqiaqqIINFGLIVATALMIWKGLMIFsgsespIVVVLSGSMIPAFYRGDLLYLnmedgpfrvgeivvfkidgkeipivhrilqihengdyeirtkgdnnsvddlglyaqgqkwltrdhiigrakgflpsvgmvtivmhdypqlkyalvcvlalfvlstre
+>>P1;USER>>seq2295 =  (N=OUT) sequence = >seq2295 = [+1+] gi|145346507|ref|XP_001417728.1|/26202
+vdaivslshgtgrqtaLQWLSLALIVASALMVWkslmlftqsespvvvvlsgsmepglrrgdlllldnsrgpseigdvvvfnirgrdvpivhrilhvhapadvgsrlmltkgdnnfaddgalyapgqrwlrqddvvgravvflphvgrltilmndypwfkyglisilgffvvtgk
+>>P1;USER>>seq1159 =  (N=IN) sequence = >seq1159 = [+0+] gi|303274482|ref|XP_003056560.1|/2174
+iselcslnrrqLVLQILGLGLVITSALVIWrslvyltnsespmvvvlsgsmepaffrgdilflnhskrsisvgevivfniegrkipivhrvissystlnntnyltkgdnnfgddtvlyaagqptlstdnIVGGVAAFIPCIGRITIIMndfpilkysvigilcflvvlsrd
+>>P1;USER>>seq3187 =  (N=IN) sequence = >seq3187 = [+95+] gi|670398094|ref|XP_008679115.1|/7180
+vlesiqamqirpVVAQIITLGMILTSALILWkglvvvtgsespvvvvlsgsmepgfrkgdvlflhmnkdpvrtgdivvfnvegrdipivhrvikvhedtvdsdiltkgdnnpgddrvlyahgqlwlqrqhIIGRAVGYLPYAGWLTIVMtekpvlkylligalgllvvaske
+>>P1;USER>>seq1402 =  (N=OUT) sequence = >seq1402 = [+0+] gi|528237590|gb|EPY29143.1|/5178
+eelsslrsmrfrdLIHQITSFAIVLSLAAAlyttqsFLTNCPHAMVVVMSGSMepgyyrgdvlflharpeypvevgdiivyrlpardvpivhrvhrvhvresdskrlfltkgdnnmyddrviydegtewveedfiigksygyiprlgyitlmfnesrickiltlfllgffaita
+>>P1;USER>>seq1315 =  (N=OUT) sequence = >seq1315 = [+11+] gi|453083497|gb|EMF11543.1|/3174
+navaglqprqLAAQILNFALVLSTAFMLWkglsvvtdssspivvvlsgsmepafqrgdllflwnrgmetqvgevvvysvkgkdipivhrvvrrfgggakplqlltkgdnnaaddtelyargqsylerskdVIGSVVAYVPFVGYVTILLseypwlktamlvfmaltvvlqre
+>>P1;USER>>seq3047 =  (N=IN) sequence = >seq3047 = [+1+] gi|67474817|ref|XP_653142.1|/16188
+iqslksmgprliiqnvtqFGLIVASAVILWKALCIFFFteapivvilsgsmepgfkrgdlmfltnkggvdniqigdivvynlpskgipiihrvieihkdtkgdvrfltkgdnnpvddrglyggplwlkpdqiigksyahipYVGMITIALTDYPILKWTVIGLLLIsvllnkd
+>>P1;USER>>seq1175 =  (N=IN) sequence = >seq1175 = [+0+] gi|401888833|gb|EJT52781.1|/4178
+eeiakirkLGVHGVLFQLLNFLNVVASGLVMWkalclvtnsespivvvlsgsmepafyrgdilllmnpqdarydigditvykvpgdplgtpivhrvieshtsnttqllltkcdnnptddfflykgpqwldsrqIVGKVVGFLPYLGYVTIAMndfpqlkyallgtvgaflllnrd
+>>P1;USER>>seq2511 =  (N=OUT) sequence = >seq2511 = [+0+] gi|465792787|emb|CCU98029.1|/6184
+aqalqphmwrrqVAQFVQVLHVIAMALAVWkglsvvtntespvvvvlsgsmepafhrgdllfltmtskpiepgeitvyrvpntdipivhrvieardrsgrrgqllltkgdnnedddimlyqgprwirddqivgrvqgflpyagyitillndypalkyvvlsllglslffere
+>>P1;USER>>seq2206 =  (N=OUT) sequence = >seq2206 = [+7+] gi|170095185|ref|XP_001878813.1|/3188
+teeikafrrlgfrhVLLQALNFATVIASGLMiwkglgIITNSESPIVVVLSGSMepafyrgdllfltnpvseqyktgditvykipgadipivhrvlethdvagepasqlmltkgdnnyvddlelyqglqwlerkhivgkvrgflpyvgyvtiamndfpqlkyallgvlgllallqre
+>>P1;USER>>seq2229 =  (N=OUT) sequence = >seq2229 = [+7+] gi|261201103|ref|XP_002626952.1|/3188
+nprqtftqVLNFALVLSTAFMLWKGLSVYtnsaspivvvlsgsmepafqrgdllflwnrsprvdvgeivvynvrgkdipivhrvmrtfpdspsslesqklltkgdnnlsddtelyargqdyldrkedIVGSVRGYIPAVGYVTIMLsehpwlksvllgfmglmvilqre
+>>P1;USER>>seq2251 =  (N=IN) sequence = >seq2251 = [+0+] gi|291001895|ref|XP_002683514.1|/6188
+seqfkgfnareFLSQIVSLAFVLCSALIIWkslsiytncqspivvvltgsmepafyrgdilflslssdpvhigdivvyklegkeipiegkedenvkiltkgdhnphddrygiynpglqwlnrghivgrvksilpyVGMVTIIMNDYPSVKYVVVGVLILLvltnke
+>>P1;USER>>seq4253 =  (N=IN) sequence = >seq4253 = [+0+] gi|648157177|gb|KDR70943.1|/6194
+pkrqvllqsLTLASAIASMLMLYSGLGIVtntespivvvlsgsmepafqrgdiiflsnpthrpytngdivvykipgaeipivhrilethdixrsentpqqllltkgdnnpvddvalyngvdwlrgeqVIGKVWGFLPYVGYVSIAMndmprlkyaafaamglaaliqre
+
+

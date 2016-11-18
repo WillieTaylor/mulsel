@@ -1,0 +1,65 @@
+ seedlen = 0 lowscore = 0
+Mutation Data Matrix (120 PAMs)
+ARNDCQEGHILKMFPSTWYVBZX
+matrix constant = 8
+Residue identity scores 10
+ARNDCQEGHILKMFPSTWYVBZX
+matrix constant = 0
+
+92680 sequences to be read in length range 100 -> 150
+
+Calculating peptide table based on length 4
+Reading user file of seq.s: final.seq
+ user_in = 1
+End of user sequences
+4 sequences read into 4 blocks, (4 are keyed)
+
+
+ ****** CYCLE 0 ******
+Minimum score held = 9
+Top 3 scores held per sequence
+Sequences in the range 1<Dij<5 scored
+Adjacent sequences scored with bonus of 10
+2 pairs found this pass, 0 previously collected
+pre_order  malloc OK
+reorder  malloc OK done
+ new block malloc OK
+cluster_pairs total list_alloc = 2
+pack_lists 0/4 blocks moved
+
+New sequence order is:
+* Block 0 <--- 1	USER>>SEQ1863	  114   [+2712+] I3TLW5_TISMK/621-734       
+* Block 1 <--- 2	USER>>SEQ3250	  114   [+542+] R6VLF3_9FIRM/7-120         
+* Block 2 <--- 3	USER>>REV41	  114   [+502+] B1ZVL9_OPITP/7-120         
+* Block 3 <--- 4	USER>>REV1027	  114   [+2714+] A6TVF0_ALKMQ/4-117         
+
+('*' = keyed block)
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 5
+ gap_pen = 20 span = 32 window = 40
+ minscore = 380 pepscore = 0 list_limit = 8
+ circles = 0 output = 999 outline = 80
+score_pairs 
+
+average score over cutoff = 405
+
+(3 pairs) cluster_pairs total list_alloc = 2
+pack_lists 
+update_blocks
+      USER>>REV1027
+385
+      USER>>REV41
+400
+      USER>>SEQ1863
+430
+      USER>>SEQ3250
+
+
+1 groups ( 1 aligned )
+
+ nblocks = 4 seedblk = 0 seedseq = 13
+picked USER>>REV1027 (-4.709530)
+ kept = 1

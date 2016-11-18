@@ -1,0 +1,125 @@
+BLASTP 2.2.26 [Sep-21-2011]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for compositional score matrix adjustment: Altschul, Stephen F., 
+John C. Wootton, E. Michael Gertz, Richa Agarwala, Aleksandr Morgulis,
+Alejandro A. Schaffer, and Yi-Kuo Yu (2005) "Protein database searches
+using compositionally adjusted substitution matrices", FEBS J. 272:5101-5109.
+
+
+Reference for composition-based statistics starting in round 2:
+Schaffer, Alejandro A., L. Aravind, Thomas L. Madden,
+Sergei Shavirin, John L. Spouge, Yuri I. Wolf,  
+Eugene V. Koonin, and Stephen F. Altschul (2001), 
+"Improving the accuracy of PSI-BLAST protein database searches with 
+composition-based statistics and other refinements",  Nucleic Acids Res. 29:2994-3005.
+
+Query= >P1;USER>>seq4253 =  (N=IN) sequence = >seq4253 = [+0+]
+gi|648157177|gb|KDR70943.1|/6194
+         (169 letters)
+
+Database: full.seq 
+           17 sequences; 2929 total letters
+
+Searching.................done
+
+
+Results from round 1
+
+
+                                                                 Score    E
+Sequences producing significant alignments:                      (bits) Value
+
+>P1;USER>>seq4253 =  (N=IN) sequence = >seq4253 = [+0+] gi|64815...   343   1e-98
+>P1;USER>>seq2206 =  (N=OUT) sequence = >seq2206 = [+7+] gi|1700...   216   2e-60
+>P1;USER>>seq1175 =  (N=IN) sequence = >seq1175 = [+0+] gi|40188...   182   3e-50
+>P1;USER>>seq1233 =  (N=OUT) sequence = >seq1233 = [+0+] gi|3844...   173   2e-47
+>P1;USER>>seq2511 =  (N=OUT) sequence = >seq2511 = [+0+] gi|4657...   166   2e-45
+>P1;USER>>SEED:seq0 =  (N=OUT) sequence = >SEED:seq0 = [+39+] sp...   163   2e-44
+>P1;USER>>seq2210 =  (N=IN) sequence = >seq2210 = [+0+] gi|14547...   155   4e-42
+>P1;USER>>seq1165 =  (N=OUT) sequence = >seq1165 = [+0+] gi|3307...   153   2e-41
+>P1;USER>>seq3187 =  (N=IN) sequence = >seq3187 = [+95+] gi|6703...   152   3e-41
+>P1;USER>>seq2229 =  (N=OUT) sequence = >seq2229 = [+7+] gi|2612...   150   1e-40
+>P1;USER>>seq1315 =  (N=OUT) sequence = >seq1315 = [+11+] gi|453...   142   5e-38
+>P1;USER>>seq3047 =  (N=IN) sequence = >seq3047 = [+1+] gi|67474...   141   6e-38
+>P1;USER>>seq2184 =  (N=IN) sequence = >seq2184 = [+1+] gi|11839...   139   3e-37
+>P1;USER>>seq1159 =  (N=IN) sequence = >seq1159 = [+0+] gi|30327...   137   1e-36
+>P1;USER>>seq2251 =  (N=IN) sequence = >seq2251 = [+0+] gi|29100...   130   2e-34
+>P1;USER>>seq2295 =  (N=OUT) sequence = >seq2295 = [+1+] gi|1453...   129   3e-34
+>P1;USER>>seq1402 =  (N=OUT) sequence = >seq1402 = [+0+] gi|5282...   108   7e-28
+
+Searching.................done
+
+
+Results from round 2
+
+
+                                                                 Score    E
+Sequences producing significant alignments:                      (bits) Value
+Sequences used in model and found again:
+
+>P1;USER>>seq4253 =  (N=IN) sequence = >seq4253 = [+0+] gi|64815...   242   4e-68
+>P1;USER>>seq2206 =  (N=OUT) sequence = >seq2206 = [+7+] gi|1700...   230   2e-64
+>P1;USER>>seq1233 =  (N=OUT) sequence = >seq1233 = [+0+] gi|3844...   226   2e-63
+>P1;USER>>seq1165 =  (N=OUT) sequence = >seq1165 = [+0+] gi|3307...   222   3e-62
+>P1;USER>>SEED:seq0 =  (N=OUT) sequence = >SEED:seq0 = [+39+] sp...   220   9e-62
+>P1;USER>>seq1175 =  (N=IN) sequence = >seq1175 = [+0+] gi|40188...   219   3e-61
+>P1;USER>>seq2229 =  (N=OUT) sequence = >seq2229 = [+7+] gi|2612...   216   2e-60
+>P1;USER>>seq3187 =  (N=IN) sequence = >seq3187 = [+95+] gi|6703...   209   3e-58
+>P1;USER>>seq2210 =  (N=IN) sequence = >seq2210 = [+0+] gi|14547...   209   3e-58
+>P1;USER>>seq2184 =  (N=IN) sequence = >seq2184 = [+1+] gi|11839...   205   5e-57
+>P1;USER>>seq1159 =  (N=IN) sequence = >seq1159 = [+0+] gi|30327...   205   6e-57
+>P1;USER>>seq3047 =  (N=IN) sequence = >seq3047 = [+1+] gi|67474...   204   8e-57
+>P1;USER>>seq1315 =  (N=OUT) sequence = >seq1315 = [+11+] gi|453...   204   1e-56
+>P1;USER>>seq2511 =  (N=OUT) sequence = >seq2511 = [+0+] gi|4657...   204   1e-56
+>P1;USER>>seq2295 =  (N=OUT) sequence = >seq2295 = [+1+] gi|1453...   191   8e-53
+>P1;USER>>seq1402 =  (N=OUT) sequence = >seq1402 = [+0+] gi|5282...   188   6e-52
+>P1;USER>>seq2251 =  (N=IN) sequence = >seq2251 = [+0+] gi|29100...   184   1e-50
+
+Sequences not found previously or not previously below threshold:
+
+
+CONVERGED!
+  Database: full.seq
+    Posted date:  Dec 4, 2015  9:14 AM
+  Number of letters in database: 2929
+  Number of sequences in database:  17
+  
+Lambda     K      H
+   0.319    0.143    0.425 
+
+Lambda     K      H
+   0.267   0.0437    0.140 
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Number of Hits to DB: 4917
+Number of Sequences: 17
+Number of extensions: 212
+Number of successful extensions: 126
+Number of sequences better than 10.0: 17
+Number of HSP's better than 10.0 without gapping: 34
+Number of HSP's successfully gapped in prelim test: 0
+Number of HSP's that attempted gapping in prelim test: 0
+Number of HSP's gapped (non-prelim): 34
+length of query: 169
+length of database: 2929
+effective HSP length: 37
+effective length of query: 132
+effective length of database: 2300
+effective search space:   303600
+effective search space used:   303600
+T: 11
+A: 40
+X1: 16 ( 7.4 bits)
+X2: 38 (14.6 bits)
+X3: 64 (24.7 bits)
+S1: 27 (15.2 bits)
+S2: 27 (14.9 bits)

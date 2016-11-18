@@ -1,0 +1,106 @@
+BLASTP 2.2.26 [Sep-21-2011]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for compositional score matrix adjustment: Altschul, Stephen F., 
+John C. Wootton, E. Michael Gertz, Richa Agarwala, Aleksandr Morgulis,
+Alejandro A. Schaffer, and Yi-Kuo Yu (2005) "Protein database searches
+using compositionally adjusted substitution matrices", FEBS J. 272:5101-5109.
+
+
+Reference for composition-based statistics starting in round 2:
+Schaffer, Alejandro A., L. Aravind, Thomas L. Madden,
+Sergei Shavirin, John L. Spouge, Yuri I. Wolf,  
+Eugene V. Koonin, and Stephen F. Altschul (2001), 
+"Improving the accuracy of PSI-BLAST protein database searches with 
+composition-based statistics and other refinements",  Nucleic Acids Res. 29:2994-3005.
+
+Query= >tr|H3IP68|H3IP68_STRPU =  (N=IN) [+1847+] Seq =
+Uncharacterized protein OX=7668 OS=Strongylocentrotus purpuratus
+(Purple sea
+         (278 letters)
+
+Database: full.seq 
+           14 sequences; 3766 total letters
+
+Searching..............done
+
+
+Results from round 1
+
+
+                                                                 Score    E
+Sequences producing significant alignments:                      (bits) Value
+
+>tr|H3IP68|H3IP68_STRPU =  (N=IN) [+1847+] Seq = Uncharacterized...   566   e-165
+>SEED:seq_1gzmA =  (N=IN) [+3499+] Seq = rhodopsin QUERY sequence      26   0.010
+>tr|A8PGJ9|A8PGJ9_BRUMA =  (N=IN) [+170+] Seq = Gprotein coupled...    19   1.1  
+>tr|G1MNG2|G1MNG2_AILME =  (N=IN) [+555+] Seq = Uncharacterized ...    17   7.9  
+
+[blastpgp] WARNING:  [000.000]  posPurgeMatches: Due to purging near identical sequences, only the query is used to construct the position-specific score matrix
+
+Searching..............done
+
+
+Results from round 2
+
+
+                                                                 Score    E
+Sequences producing significant alignments:                      (bits) Value
+Sequences used in model and found again:
+
+>tr|H3IP68|H3IP68_STRPU =  (N=IN) [+1847+] Seq = Uncharacterized...   506   e-147
+
+Sequences not found previously or not previously below threshold:
+
+>SEED:seq_1gzmA =  (N=IN) [+3499+] Seq = rhodopsin QUERY sequence      22   0.16 
+>tr|Q1ZXT2|Q1ZXT2_CAEEL =  (N=IN) [+15044+] Seq = Protein ADOR1,...    18   2.3  
+>tr|A8PGJ9|A8PGJ9_BRUMA =  (N=IN) [+170+] Seq = Gprotein coupled...    18   3.6  
+>tr|Q2AB52|Q2AB52_XENTR =  (N=IN) [+554+] Seq = Taste receptor t...    16   8.0  
+>tr|G1MNG2|G1MNG2_AILME =  (N=IN) [+555+] Seq = Uncharacterized ...    16   8.1  
+>tr|H3III0|H3III0_STRPU =  (N=IN) [+1042+] Seq = Uncharacterized...    16   9.9  
+
+
+CONVERGED!
+  Database: full.seq
+    Posted date:  Dec 4, 2015 12:49 PM
+  Number of letters in database: 3766
+  Number of sequences in database:  14
+  
+Lambda     K      H
+   0.333    0.144    0.470 
+
+Lambda     K      H
+   0.267   0.0464    0.140 
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Number of Hits to DB: 9093
+Number of Sequences: 14
+Number of extensions: 646
+Number of successful extensions: 50
+Number of sequences better than 10.0: 14
+Number of HSP's better than 10.0 without gapping: 25
+Number of HSP's successfully gapped in prelim test: 0
+Number of HSP's that attempted gapping in prelim test: 0
+Number of HSP's gapped (non-prelim): 44
+length of query: 278
+length of database: 3766
+effective HSP length: 43
+effective length of query: 235
+effective length of database: 3164
+effective search space:   743540
+effective search space used:   743540
+T: 11
+A: 40
+X1: 16 ( 7.7 bits)
+X2: 38 (14.6 bits)
+X3: 64 (24.7 bits)
+S1: 31 (17.7 bits)
+S2: 31 (16.4 bits)

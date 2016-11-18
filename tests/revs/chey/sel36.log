@@ -1,0 +1,135 @@
+ seedlen = 0 lowscore = 0
+Mutation Data Matrix (120 PAMs)
+ARNDCQEGHILKMFPSTWYVBZX
+matrix constant = 8
+Residue identity scores 10
+ARNDCQEGHILKMFPSTWYVBZX
+matrix constant = 0
+
+92680 sequences to be read in length range 100 -> 150
+
+Calculating peptide table based on length 4
+Reading user file of seq.s: final.seq
+ user_in = 1
+End of user sequences
+12 sequences read into 12 blocks, (12 are keyed)
+
+
+ ****** CYCLE 0 ******
+Minimum score held = 9
+Top 3 scores held per sequence
+Sequences in the range 1<Dij<13 scored
+Adjacent sequences scored with bonus of 10
+10 pairs found this pass, 0 previously collected
+pre_order  malloc OK
+reorder  malloc OK done
+ new block malloc OK
+cluster_pairs total list_alloc = 6
+pack_lists 0/12 blocks moved
+
+New sequence order is:
+* Block 0 <--- 1	USER>>REV332	  119   [+3077+] Q7NWN4_CHRVO/8-126         
+* Block 1 <--- 2	USER>>SEQ3309	  114   [+1202+] C6Y0P8_PEDHD/893-1006      
+* Block 2 <--- 3	USER>>SEQ5858	  114   [+544+] C4ZGY3_EUBR3/9-122         
+* Block 3 <--- 4	USER>>SEQ2252	  114   [+2927+] A9KJM4_CLOPH/3-116         
+* Block 4 <--- 5	USER>>SEQ5874	  114   [+1995+] A0LBU4_MAGSM/811-924       
+* Block 5 <--- 6	USER>>SEQ5559	  114   [+7148+] D5EJQ4_CORAD/4-117         
+* Block 6 <--- 7	USER>>REV4745	  114   [+3901+] Q8EJB8_SHEON/11-124        
+* Block 7 <--- 8	USER>>REV9594	  114   [+2674+] D2RJG8_ACIFV/4-117         
+* Block 8 <--- 9	USER>>REV2858	  116   [+1301+] F4PP31_DICFS/980-1095      
+* Block 9 <--- 10	USER>>REV1396	  114   [+2399+] D5EKM4_CORAD/3-116         
+* Block 10 <--- 11	USER>>REV11036	  114   [+598+] D5STV2_PLAL2/3-116         
+* Block 11 <--- 12	USER>>REV11252	  117   [+26+] Q01FG2_OSTTA/14-130        
+
+('*' = keyed block)
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 5
+ gap_pen = 20 span = 32 window = 40
+ minscore = 380 pepscore = 0 list_limit = 8
+ circles = 0 output = 999 outline = 80
+score_pairs 
+
+average score over cutoff = 411
+
+(36 pairs) cluster_pairs total list_alloc = 6
+pack_lists 
+update_blocks
+      USER>>REV11252
+349
+      USER>>REV2858
+387
+      USER>>REV9594
+449
+      USER>>REV332
+479
+      USER>>REV1396
+438
+      USER>>REV4745
+397
+      USER>>REV11036
+
+
+      USER>>SEQ2252
+465
+      USER>>SEQ5559
+434
+      USER>>SEQ5858
+436
+      USER>>SEQ3309
+460
+      USER>>SEQ5874
+
+
+2 groups ( 2 aligned )
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 5
+ gap_pen = 20 span = 34 window = 42
+ minscore = 360 pepscore = 0 list_limit = 6
+ circles = 0 output = 999 outline = 80
+score_pairs 
+
+No pairs over cutoff
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 5
+ gap_pen = 20 span = 36 window = 44
+ minscore = 360 pepscore = 0 list_limit = 4
+ circles = 0 output = 999 outline = 80
+score_pairs 
+
+No pairs over cutoff
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 5
+ gap_pen = 20 span = 38 window = 46
+ minscore = 360 pepscore = 0 list_limit = 2
+ circles = 0 output = 999 outline = 80
+score_pairs 
+
+No pairs over cutoff
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 5
+ gap_pen = 20 span = 40 window = 48
+ minscore = 360 pepscore = 0 list_limit = 2
+ circles = 0 output = 999 outline = 80
+score_pairs 
+
+No pairs over cutoff
+
+ nblocks = 12 seedblk = 0 seedseq = 0
+picked USER>>SEQ2252 (-4.709530)
+picked USER>>REV2858 (-4.444823)
+ kept = 2

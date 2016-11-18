@@ -1,0 +1,334 @@
+Block 0
+ 30 seqs
+USER>>SEED:seq_1gzmA =  (N=IN) [+3471+] Seq = rhodopsin QUERY sequence
+USER>>tr|H3IEL0|H3IEL0_STRPU =  (N=IN) [+491+] Seq = Uncharacterized protein OX=7668 OS=Strongylocentrotus purpuratus (Purple sea 
+USER>>tr|H3I5A7|H3I5A7_STRPU =  (N=IN) [+262+] Seq = Uncharacterized protein OX=7668 OS=Strongylocentrotus purpuratus (Purple sea 
+USER>>tr|H3III0|H3III0_STRPU =  (N=IN) [+221+] Seq = Uncharacterized protein OX=7668 OS=Strongylocentrotus purpuratus (Purple sea 
+USER>>tr|C3YLV5|C3YLV5_BRAFL =  (N=IN) [+620+] Seq = Putative uncharacterized protein OX=7739 OS=Branchiostoma floridae (Florida l
+USER>>tr|Q1ZXT2|Q1ZXT2_CAEEL =  (N=IN) [+791+] Seq = Protein ADOR1, isoform a OX=6239 OS=Caenorhabditis elegans. GN= PE=2 SV=1
+USER>>tr|H2KVV1|H2KVV1_CLOSI =  (N=IN) [+22+] Seq = Amine GPCR OX=79923 OS=Clonorchis sinensis (Chinese liver fluke). GN=CLF_11330
+USER>>tr|B3RW58|B3RW58_TRIAD =  (N=IN) [+149+] Seq = Putative uncharacterized protein OX=10228 OS=Trichoplax adhaerens (Trichoplax
+USER>>tr|Q2AB52|Q2AB52_XENTR =  (N=IN) [+511+] Seq = Taste receptor type 2 OX=8364 OS=Xenopus tropicalis (Western clawed frog) (Si
+USER>>tr|H3HHU6|H3HHU6_STRPU =  (N=IN) [+310+] Seq = Uncharacterized protein OX=7668 OS=Strongylocentrotus purpuratus (Purple sea 
+USER>>tr|H2KRY6|H2KRY6_CLOSI =  (N=IN) [+84+] Seq = Rhodopsinlike orphan GPCR OX=79923 OS=Clonorchis sinensis (Chinese liver fluke
+USER>>tr|Q9XVQ0|Q9XVQ0_CAEEL =  (N=IN) [+62+] Seq = Protein F16C3.1 OX=6239 OS=Caenorhabditis elegans. GN=F16C3.1 PE=4 SV=1
+USER>>tr|B3RL46|B3RL46_TRIAD =  (N=IN) [+102+] Seq = Putative uncharacterized protein OX=10228 OS=Trichoplax adhaerens (Trichoplax
+USER>>tr|I3KGS9|I3KGS9_ORENI =  (N=IN) [+13528+] Seq = Uncharacterized protein OX=8128 OS=Oreochromis niloticus (Nile tilapia) (Ti
+USER>>tr|A7SWN7|A7SWN7_NEMVE =  (N=IN) [+42+] Seq = Predicted protein OX=45351 OS=Nematostella vectensis (Starlet sea anemone). GN
+USER>>tr|G1MNG2|G1MNG2_AILME =  (N=IN) [+555+] Seq = Uncharacterized protein OX=9646 OS=Ailuropoda melanoleuca (Giant panda). GN= 
+USER>>tr|H3IMZ0|H3IMZ0_STRPU =  (N=IN) [+71+] Seq = Uncharacterized protein OX=7668 OS=Strongylocentrotus purpuratus (Purple sea u
+USER>>tr|A8XUY4|A8XUY4_CAEBR =  (N=IN) [+25+] Seq = Protein CBG19154 OX=6238 OS=Caenorhabditis briggsae. GN=CBG19154, CBG_19154 PE
+USER>>tr|O45170|O45170_CAEEL =  (N=IN) [+224+] Seq = Protein SRW4 OX=6239 OS=Caenorhabditis elegans. GN= PE=4 SV=1
+USER>>tr|A8PGJ9|A8PGJ9_BRUMA =  (N=IN) [+20+] Seq = Gprotein coupled receptor, putative OX=6279 OS=Brugia malayi (Filarial nematod
+USER>>tr|F1L7M2|F1L7M2_ASCSU =  (N=IN) [+574+] Seq = Gonadotropinreleasing hormone II receptor OX=6253 OS=Ascaris suum (Pig roundw
+USER>>tr|B3S958|B3S958_TRIAD =  (N=IN) [+917+] Seq = Putative uncharacterized protein OX=10228 OS=Trichoplax adhaerens (Trichoplax
+USER>>tr|H3IP68|H3IP68_STRPU =  (N=IN) [+87+] Seq = Uncharacterized protein OX=7668 OS=Strongylocentrotus purpuratus (Purple sea u
+USER>>tr|I3JJA4|I3JJA4_ORENI =  (N=IN) [+1759+] Seq = Uncharacterized protein OX=8128 OS=Oreochromis niloticus (Nile tilapia) (Til
+USER>>tr|Q9WRM0|Q9WRM0_9GAMA =  (N=IN) [+30+] Seq = G protein coupled receptor OX=83534 OS=Macaca mulatta rhadinovirus 17577. GN= 
+USER>>tr|B0S6Q0|B0S6Q0_DANRE =  (N=OUT) [+1756+] Seq = Uncharacterized protein OX=7955 OS=Danio rerio (Zebrafish) (Brachydanio rer
+USER>>tr|H3FWW1|H3FWW1_PRIPA =  (N=IN) [+76+] Seq = Uncharacterized protein OX=54126 OS=Pristionchus pacificus. GN= PE=4 SV=1
+USER>>tr|F1Q4L9|F1Q4L9_DANRE =  (N=IN) [+142+] Seq = Uncharacterized protein OX=7955 OS=Danio rerio (Zebrafish) (Brachydanio rerio
+USER>>tr|K1R8G3|K1R8G3_CRAGI =  (N=OUT) [+65+] Seq = Cholecystokinin receptor OX=29159 OS=Crassostrea gigas (Pacific oyster) (Cras
+USER>>sp|P23820|REIS_TODPA =  (N=OUT) [+27+] Seq = Retinal photoisomerase OX=6637 OS=Todarodes pacificus (Japanese flying squid)
+l-----------------------------
+a-----------------------------
+e-----------------------------
+p-----------------------------
+w----------------------------t
+q---------------------l------m
+Fy--------------------r--al--w
+Siit----vy------vs----i-tay--e
+Miaf----yi------pl----f-vip--h
+Lsla----sh------fk-l--a-yli-ly
+Asaam---fsg----gtv-w--gtapt-vf
+Altvv---ffy----vvf-ai-Viiwy-it
+YLiiw---ayil---fll-iy-LliLF-vg
+MYFFl--wpMll---iFGnyq-MfcYFsns
+FFAIa-ssILpp-f-vVFflitIaFLGvvI
+LVITa-niLIfi-t-sLCvIilFlFSTtcY
+LILIc-llASvftliqCFlTflItILImFL
+IGAGt-gfVCcclygIGGaMFaTAFAFlVV
+MFAVV-fiTVtFfilGMIiKVfAVCLVvVL
+LVLVL-vIAFFIllfIILlIFlFLILVnGG
+GAGGGigIGSGGtiaGTSqGGgAGTGGpLC
+FLITVstLAVFIfilFIGfITlLILLVvVF
+PISICfiVFVLLLcvIFTfIPtITFPVlSS
+IGGGGslPTGAGFtlGSSiGLiGGGATsSL
+NNNNNnnNNNNNNnnNNLnNNnNNNNNlSC
+FITAMliAAVVSSsiTVIlLAtLSAGAcTG
+LFFLAliLYFWMItfLILvWViGVLLAvVM
+TVLVLvqLINTACitLNNhVSlVVVVVlIC
+LIICLllVTIALLllLLIfILiIILLAcVI
+YVTIIwyGFLVIFyyVIFsCViTWYVFfVI
+VkAVTvvVVVLLIltLAAiSQlGVINApFF
+tvVIVylIILFIIiaLLLlVSmLAFLSsVL
+vyFASvcCLLLRWwcInFsITsrGFWY-AA
+qqFSCrqFLkLTNikNhTrrLyhFkrh-rr
+hesTVscKdlGNIhkTaVknFr--f-d-lq
+krrLqkkKytFFNklLqF-irkkkk-s-rs
+krkAehisknrWGnlhqrhrrhc-asr-hp
+lllwlvglmirlFlvtcllpstfflell-k
+rhrkrrswmsqrKhqknarqrkhkarrrsp
+tkngttrtsetlneskdlnrdtrkntnqrr
+ppvtpvlhssrtkplpnrspgaavspsedr
+ltttgttssrqsnMpitkvsaaltvtctdk
+nYnnnntsnkLnhYhnrnydddyndVnrri
+YYaLAtvVkIVIlImLlhrsrGtVVIIYYh
+ILFLLYlLILYYyFyIcVLhlLyWLFLLFv
+LIVILIlVLFLLvIILfYMIvVlLMTILIl
+LAVLCFrGLLACrAAIq-IFqInVALAAPi
+NSINASgSAFFTAASHAVGVqHnNGNFNYt
+LLLQLLqLLLLLLLYLVIILLLLLLIAVLa
+AASAAAsCSSASLLCIAACAIAAACISLSm
+VVIFCLvLLLIVVLIFIFSFIIIICFIFAa
+AASIATiASSASCNAAVFCVACTANSAAVv
+DDDDDDdNNDNSDSDNDNDDHDIDSDDDDn
+LLISIFAIGLACVVLVFIIFLLMLLLCMLg
+FLIMFLYLYMAFGLLMFLIILLCIFLLLFg
+MTNTQATFFSIFAYFTVSSVVTDFLMHFGd
+VGSSLGCCSGHLASLIGDHVLTCCCCLLLp
+FTSIVALFFLVLLTSVLVTCCILFACSTVa
+GVTLTLVLLSLTFTLFFMLSIPFTSSGVMh
+GALIKGVYLLWVMVVGCQTLYTNRFFHNNa
+FLILVIFIFIGICYMICMFACLAVLFILMs
+TpVSPPLLVPWIPpPpTTLLVIPFFFVSLs
+TsQYMLSPCSLSSkFeFMARW-FTSr--Gs
+TgVAATR-SIWWMlSvHSFIR-ILWtLIIi
+LaILVVL-IPLAYlLmSTSVT-ItLvIVWv
+YyApVVVVIAFd-tInLPPYYYGeLyYsgg
+tgLgFSGKSSpt-dAarSFIWCAkYhAcsr
+srApLVIIFFfyLfLffIVWFAMlVrFnyw
+lvVihMTMVlmmIlIgsIrdMFLfakAsil
+hvrpytTVwntgdsLvgtkennsqpntvhy
+gqtggrGsprapcesrlnktvgdhqtggsg
+ynqgekVihwrlskenssnlvgmf-en-v-
+frawppPhipfyfqwfiiqtwwws-wlls-
+vt---rFpafssvvdlsseftplfmllha-
+fc----Lftrqekttdktceqidglsmln-
+gsfs-tdtnissstp-trFigmaltgkpk-
+pgme-fanneqeqysdrkLwdss-stsads
+tevflyviyIelgsvitkTnlrFfaptpmv
+gtmvaglyiCagLatgFSVcllLvtvtlag
+chcccccckFccCcccSPIrccCccccccc
+nLkrdLyqgFrkSlekIWVgkkPkknVekq
+lWIMGFvlcClFAfiaITLliGVlvaWFgL
+eFVWVVwsIShFIqqvGLDyyVTnevIMLM
+GFGVFHrnLYrSGFGlVAIfsISaieEMWG
+FMPTFLgVAMFFFFFyIFTivFFffLIVYF
+FMVLIIMILLALIMAiGGQeaCIffCLSIW
+AAALILFQLLYATFVhCSRqsLGkFFPMCG
+TFTWDCWFITSHSYIrSASlaTNyYYIVSF
+LYTMTILAFSFFVTTvTFSslTLtLIIMAF
+GLVLMLGFGLGSFLLtLMSkpFInYNGTFG
+GHLFACIVIGSDNGGrFFWMfYHMTLQYGG
+ECGVQTACSITFGCAGNLLLhSTFYYNSCM
+IVAVFILCSSLIMSLLQWASlVQCFCSAFS
+ASSSSSSMTNSCTETSSYVMwNISGNGSSH
+LVSTITVNAAAVAFALIFLFsVIVVMTVAI
+WMFYNFQFWLNWLLLCMeMCnGMFYCALFW
+SHINIHNHIILMILLIItAIMTSLIFFTLM
+LLMLIMLITFLIVLMTLiLAVLLLVLTVLL
+VITCALTCTFLSAATSAtYCATMAVLVTIF
+-----------------q------------
+-----------------m------------
+VALMPACSCLLLLALFCirIALLVCWALGA
+LIIMIIIILAAIMMTLVmtSIMLIITIMIF
+AAASSASSCVASCAASSalIGSVSSSGVAA
+IILLIIFLVdsCIYIIIfsGIIlLLIIVIM
+edCedddeFcdddddVddv-DedDInddqe
+rrrrrkrkYyrrrrrQrrkRMrrRRrrtrr
+yyfyyyffFlfmyyfAyyyYLymVCyvyyy
+vivfwvciVamilvfIlvpICrlLLtfvlm
+vclaytaakvcvaaaIaimTCasCLtaaka
+viiviiviiktliimIvisIIilVVvcvvv
+cttaccctiyyyictttctrTikWVvfrcc
+krkyscfsnpwrkksprlhkShyqFksw-h
+ppqpprppffpppppsprkpPpspsppprr
+mlpvfdrfsktrflgnlkvfLmevrsvlpe
+skhikrqwsykilqisrhsnSkslrhkrcf
+nyfsyiyngpmryqyrynpnSpytps--gy
+fiktsfkqaslkrtaahLkqY-ikwq--qq
+rsrrtsviwvrwrirwtFWirrrrvv--qq
+fvffmsrsftfcvmfhvTArtikrkfyymm
+gtsktrqvkkqttrkktFLrsstthh-ktp
+epkksrtylrrkykapkTWhsgglGt-els
+nkpqakLkkrrkntktqSTrtpvwAq-lkV
+hrntrrLsIthfktVYrTIGrkraFs-pfY
+AIMsIaIVViasIVVIMLIFVMaaL--prY
+IAALAIIMPtYrCSMFIVGPTAnrCCgsrS
+MGVLLFGIWqYnIIVPLMVAWVLVVWrrLI
+GTMMLLCILCAMIFLTLFLVLLIVCIkaWI
+VIIIILYLILVTLLLFISVPIVSAVLnrLV
+AASLGTLLLLIICIVCFLVLTIGVSCpkLG
+FFVFLTYIVVAGAILSSLNCIFYCLFIIIL
+TNSCSSECSAVFVAVFGITFSLSIISIIAM
+WWFWFWVWEFTVWWWWVPAPWWWWVTYMFY
+VVLTLIGIVMVLLLLIAIWIFLIIAWISIT
+MMFILLILVYLSSVMVISTIASHALLCMVF
+ASPAAGVPSLSSLPANGFLPAVSAAVCWSG
+LCLPMLLTLVIVHAGMTVVILIMMLIHVMT
+ASSLVLFFGTVVMCALLIVIFIALSFLIAF
+CFLLTVLVCTMLAHVINMFFC-FFAIVAIW
+AGVHMAFASVMY--P-SYGTS-TSnVGASA
+ALLYVIIFFELSIILYShrMLVIIaVIVIT
+PVLYhLPLLFPLPAPIAshkPPAPsGSCPM
+PPFypPSPTYLFLVYHSqktMAIYlTLPFP
+LLVplLFLLVGLWQFVFyiiAIVFyCYVVL
+VYLilFLILVIAgALItmddIGVIrMLSLL
+GsdagNAWPsCGsIeIhngvFVThtGALFG
+WrlyeVtWVcILgAgSkprtrsShaLYLYW
+snaanFrrndEqkSkAicnsgnVqrkFMda
+rdtgnGffilWifAlFvcidateshlYFfs
+y-agyFtcqsVyieraaadrveslpsneey
+i-gv-aspeytktcfygfywiddgellvtg
+p-lcffnypridynhnflddplyktqfvkl
+e-nkhikysgggpapssfccgrfksiamse
+g---peccsv-tivgtdddrttqtenngvv
+m---pnllsgeegyyy----erdcwglkth
+q---yglmsmknrtas----fyrcisydgg
+c---iee-mcvtylfl----e---ccpqyt
+s---imf-flwfcqct----q---yftsis
+c---cca---ccscky----c---eddrcc
+g----------g--------y---dqlpkt
+i---------wl--------p---------
+d---------is--------vlylavivqi
+y---------dq------------------
+y---------sdf-aclq--iclhggccdn
+tqekkhi---vgd-dvke--dvcpenmlqy
+ptdryfpsymyfi-vgfy--rlskdsvvts
+hiig-tgesdtqf-nkalgiyhvetypls-
+esc--mvilfgveeidssnssgvkviaiv-
+ehl-lvtknevdkrkpveeddaygnrnatv
+tcf-gvlasrdqksnddgvnehkywyylgs
+nsy-pdfntrvhprYyivhavqnnkqlepd
+naddayfrssyYyLLiaphwlhnslngeAe
+eisprrrriMhFdITqtnlnffltrkkkAs
+saprkyaaaVAMrTVshyhrllakifalYy
+FyeVsLqwdTLFVILApssLfnyvrqkkSq
+VnfVrVAhFYFTLFQVidITnfnattgvIs
+IInAqYFvIVSLSGLFLrIGlsVfthegAY
+YItTAVLFKVNMYVALVfTLFYII-c-vIV
+MMMIMILWVFADLVLGIdSLHYYHSL-pAF
+FFCGIFLATVCTVAVSY-IVVVSFAGwLSF
+VYGVNFIFFYVAFLVTFlYGIVLLIVwYLL
+VTCLVSFLISILGVLFApGATVLCCSnFVA
+HSFECTNMAIQCEDPLLlICTGCGGTVIFI
+FALFIIYFVMPTGLLRInIFFYNFFFSIVF
+IILFLLILCMLLISLDLAKIYIIILFLANS
+ILVIVALLVFCLIIVLASALVIAFVFGVIF
+PPLPPPPPPPTPIPVCSSLLPPPPPICSII
+LLLFMTATLTGASMMVASPVLAWFFLCLLF
+ILIIIAFILLVIFLIFGISMTCVIGCICLP
+VVTITIIVILLLLFCLVILLIITVLLLTVM
+ILVMMIMTMVNIVILMTSIIVMVIMMAAIV
+FSAAVVIIILIIIVCVTADsVSMLVLVLLS
+FLIVFLGIVGCIFFkWFIPaLYCVLVIIYG
+CIIVCLSFTMFVCTtTCCInCCCCFSVLCW
+YYYYYYHYTqLnSYkSNYLyYYYYYYYYFY
+g-AtYSVVFaVsItlVVITaTkIIGsACIA
+qWKrkSYRPskfRkrYTLVeLmYLLrIYgI
+lIIiiIVITvitIimILILiIiIATlVIrs
+vIFvwYIFIaryIfiVIFLvGiVAWiGHak
+fFLfgshLrhqrrirkTWIrLkAVCfVLia
+trFlervVttlysvrfLTihSkLGMhrYcw
+vvLlliiAlalllstlaVevLlaIVliIqs
+karrkrrkyrrrrhrfrhlhrksqkqkIqg
+errrrthdliaakrqtknrrrqerskmttl
+arhqrephhqqpqsqhhskkqttttvsrds
+aqfhqeaasaltrcprrsafmsnrkrntra
+avrrkkpsrrstkkgkrassalallvmsri
+qmqrrqgrrrsqsetrrtkrqarsagrgrk
+qrlvhqqemfsqiifvifrrrndgrsgime
+qrrins--kgsqkreqasrqkknkklhwrk
+eksqkeqnndsqtklyatkstnesggerdd
+spsvsrsqsrgsmkclaqnelnaraamsnk
+aiepsenssqrqkagsvkishspp-grrsd
+tqreprqsskrkqenpgvgsdkil-flyki
+tinterhslr-ltTerhrenmrg--gfs--
+qhlvfmitaq-rsClpqrdscet--p----
+kterragspa-sr-esprgkafa--g----
+aplragnthn-sa-tprrkstqt--g----
+eqenrrtgqeedk-tegdserke--g----
+kmsVmrilslvla-rtnidpinl--l----
+ekkTrkkkAkaqr-mkkrnrrls--kkrrl
+vaiVslraVGallLFadftmfah-vvsaFs
+tttTAiLvFVssiPAtlattvva-rrLrTe
+rkkLTrAkMYereHGhriksrkkrGrLMCe
+MtnLMILtMVttmMIttqLsaIpIVkITMq
+VtMAVLTVACLLtLIIIsVisLVLIIILFL
+ILVVLLTAWLLIAVLLFsLvVIGAVLLLLT
+ILLFLIAILVVIWLGAALFrAAVCTAAATA
+MVVIILMVLVIVIIILVLVVIVLLVSTHIL
+VLLMVVMVFSTTAGLVTLTAISIVVVVTTA
+ICCYAVAGLILSVYVSGVIVAIFIVIILAG
+AVVVASGVYCVTCSCCAFSFTVLALMCLVA
+FFFVYYLYTFTFFICFFYFHFFWFFFGLAF
+LAACVGLVVFLVIFLVYIFMLICFLVYIMI
+IVLWVILFFACLSFPFIFIILLVLILVMVL
+CCCMSCVLFGTLCVMFTVLCTTLCFCTYSI
+WW-pWWLQVWANYYFYWWEWWGIWCFFFYS
+LL-nAYHTVLLVLdIWGVVLMIGALLAVIL
+PP-hPPPPLpPPPvCSALPPPPPPPPTPpI
+Y--lYLYYFtQSFsDNQFNFYLFYYYAAkS
+AI-tFYENTaSYViLSVRGCQVHHhHNLaW
+GSFfAIIVGgAALdVFSVFFVIIClVIVsS
+VIIlAIVYFfAMFfVLVLAILGLLc-LFiG
+AKPqVnYqIqYrRpATnPhAALGLn-VAlF
+FFLfItIvqiNiLkFIfIvVLIMLf-AViG
+YLSgriLisyAlLpLYtLtILIIVf-neaY
+ILLlsdAnfsAqCtgVsLaprHYkd--leV
+FeTgnytvtrFsMrrSaagtvILmt--ksA
+tiLglfsdpkViIIfYadaelyYvl--rlI
+hhIpgwnkptLiNItk--ftcmsdl-kenY
+qlVldpvtsgssIMl---hcadgsrqidts
+gkSneeil--rseTp---gegtvktrddsa
+stelvfhs--ralLrr--nhsrtsciflyl
+dtsstser--ppqQsn--patnmayikget
+f---iikr--lld-averiwcIilllMVqh
+g---dndl--aft-YkihsveIplriGWtg
+ppaggssn--fn----pvYLqNgkstIIda
+Islap-v-fnnFf-MgieMWVSVivsLLtq
+FtlWwLt-aniVg---aWIIVCLwaqMVfl
+MMgYqTr-yisYh---rFQLSTWymhDNss
+TLtYrLqkwydYy---nIVINITpheLMeh
+IYYIFWIympIVi-FlVLFLWLIvinICil
+PLCTATGrtFMTt-SeLVAALF-accIVir
+ARFLVVSFyAWLe-SnLPENQW-esqGLyg
+FTAILIMYnWCLn-FIIIIWAI-GleIMrh
+FIILFMFLLLVIIICSFFLLVLFVlrPLlv
+AAFASSVAISMYLMVIVYPTILTAqiVLhp
+KYNYLHISYTLYYLAIITVYIQCCskNPip
+TSLLLMLWVATLLYSLSIFLAFFFMmI-li
+SNSNSSGNAQQHNHISNNNNSARNYgSRhm
+AASMTCAPTCTHPPAHSCSSTPFSStLChs
+VACSFAVVLWAALLWGFTSACLICAiACtk
+YLLISLLAVNCVLFVYWSSLIYFVFfTTst
+NNNNNNNSQNNLNNRPNNHNNnDNViNPng
+PPPPPPPPSTIFPPPAAAIWppFPPaYYsc
+VFIFILFIVLIYFLLILIFIfmFLVaLLfa
+IVLIIIVIVAVMLIVCIIIFiiVLVlVYil
+YFFYYYLYQYYYCYVPYYCYyhAYYsYVyf
+IVGAAAIGIMLIVGILLILVklVFScYLap
+mFWLYYAFLIVFTLLVLFAVfaVCGcaryl
+mrkkrgLFGIrWYkCLMFMLgkIMLltyfl
+ndhynmSnNkmsNmdInnsnskLGGhsrdi
+krpkppYkpkspkkensssr-kVLSpsesf
+qnvlqgTnknaqredhteqd-nAkLldirl
+fffflfVllyfmyiynfvyl-fWvFlyyf-
+rrrrrkrrkrrkrskkrqrr-wpsrqrkr-
+ngqenkrdeqkktkhlksee-heer-rtt-
+cvvggaqgatmqkhefihtl-tsgr-vve-
+mlffflvvilflflifvlsi-lwfv-fqi-
+vkrkfrvmtkrkhkqlftcr-yrrr-kqk-
+thcrrarsisrpika-rpes--eqd-gan-
+thmllf-lclr-mll-m-in--cst-qst-
+lrffvf-fclv-lll-f-f---klw-ivv-
+c-rc---wc-i---p---e---h---a-r-
+c-rn----------c---k---f---f-a-
+g--r----------c---s---i---v---
+k-----------------k---t---t---
+n---------------------c-------
+----------------------r-------
+----------------------r-------
+
+

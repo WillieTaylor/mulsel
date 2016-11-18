@@ -1,0 +1,5 @@
+wtaylor@wt:~/mulsel/blast$ tcsh bclust.csh shuffle10
+Running BlastClust on 10021 sequences
+715.800u 1.072s 11:58.00 99.8%	0+0k 0+3728io 0pf+0w
+  979   979 11000 clust.out
+
